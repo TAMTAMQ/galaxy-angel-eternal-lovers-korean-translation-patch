@@ -400,6 +400,14 @@ def validate(source_dir: Path, asset_dir: Path) -> list[tuple[dict, dict]]:
                         f"{len(visible_lines)} > 3"
                     )
                 for line_number, line in enumerate(visible_lines, 1):
+                    if not line:
+                        # The Japanese never leaves a display line empty: where a line is
+                        # "blank" it still holds a full-width space, and the renderer needs
+                        # that character.  A line with nothing in it stops the text advancing.
+                        raise SystemExit(
+                            f"translation has an empty display line: {unit['id']} "
+                            f"line {line_number}"
+                        )
                     if line_number > 1 and line and line[0] in FORBIDDEN_LINE_START:
                         raise SystemExit(
                             f"translation line starts with punctuation: {unit['id']} "

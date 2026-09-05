@@ -146,6 +146,9 @@ def parse_named_nodes(
     string_base = header["string_base"]
     if not 0 <= string_base < len(container):
         raise ValueError(f"invalid PIDX string base {string_base:#x}")
+    string_size = header["string_size"]
+    string_end = min(len(container), string_base + string_size)
+    string_table = bytes(container[string_base:string_end])
 
     nodes = [
         struct.unpack_from("<6I", container, PIDX_NODE_OFFSET + index * PIDX_NODE_SIZE)
@@ -157,10 +160,11 @@ def parse_named_nodes(
         start = string_base + name_offset
         if not string_base <= start < len(container):
             raise ValueError(f"invalid PIDX name offset at node {index}: {name_offset:#x}")
-        end = bytes(container).find(b"\0", start)
-        if end < 0:
+        relative_start = start - string_base
+        relative_end = string_table.find(b"\0", relative_start)
+        if relative_end < 0:
             raise ValueError(f"unterminated PIDX name at node {index}")
-        raw_name = bytes(container[start:end])
+        raw_name = string_table[relative_start:relative_end]
         try:
             name = raw_name.decode("cp932")
         except UnicodeDecodeError:

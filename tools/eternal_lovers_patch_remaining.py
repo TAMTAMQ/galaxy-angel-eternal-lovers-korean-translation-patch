@@ -443,10 +443,24 @@ def patch_container(image: mmap.mmap, files: dict[str, builder.IsoFile], stem: s
             # copy, and point only the records that no longer fit the original
             # allocation at it.  ISO9660 tolerates overlapping extents, so
             # extending the logical size makes those seeks valid.
-            tail = bytes(rebuilt_container[item.size:])
+            reparsed = merged_resources(bytes(rebuilt_container), stem)
+            redirected_resources = [
+                resource
+                for resource in reparsed.values()
+                if resource.offset + resource.compressed_size > item.size
+            ]
+            # A resource may begin inside the original allocation but end past
+            # it. Copy the complete first crossing resource as well; mapping
+            # only rebuilt_container[item.size:] would make its redirected
+            # record point before the reserved region.
+            overflow_start = min(
+                resource.offset for resource in redirected_resources
+            )
+            tail = bytes(rebuilt_container[overflow_start:])
             if region is None:
                 raise ValueError(
-                    f"{stem} outgrew its allocation by {len(tail)} bytes and no "
+                    f"{stem} outgrew its allocation by "
+                    f"{len(rebuilt_container) - item.size} bytes and no "
                     "backing region was supplied; the container must keep its "
                     "original extent, so reserve one with "
                     "eternal_lovers_reserve_backing_region.py"
@@ -456,7 +470,6 @@ def patch_container(image: mmap.mmap, files: dict[str, builder.IsoFile], stem: s
                 image.resize(tail_begin + len(tail))
             image[tail_begin:tail_begin + len(tail)] = tail
 
-            reparsed = merged_resources(bytes(rebuilt_container), stem)
             legacy = bytearray(rebuilt_container[: item.size])
             logical_size = item.size
             redirected = 0
@@ -470,7 +483,7 @@ def patch_container(image: mmap.mmap, files: dict[str, builder.IsoFile], stem: s
                         f"{resource.offset:#x} lies past the original "
                         "allocation; it cannot be redirected"
                     )
-                backing_offset = tail_begin + (resource.offset - item.size) - begin
+                backing_offset = tail_begin + (resource.offset - overflow_start) - begin
                 if backing_offset + resource.compressed_size > 0xFFFFFFFF:
                     raise ValueError(
                         f"{stem}: backing offset {backing_offset:#x} does not fit "
