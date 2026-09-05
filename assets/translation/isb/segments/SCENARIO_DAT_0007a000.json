@@ -1,0 +1,3346 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_0007a000.txt",
+    "encoding": "cp932",
+    "sha256": "0105ae67ae3ec105b99247d2a83e78dae06dddf5b59779eeab0c9f1b2fe8d2c6",
+    "tagged_records": 338,
+    "decoded_records": 338,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 3809358084,
+        "source": "header",
+        "end": 14472
+      },
+      {
+        "start": 14472,
+        "key_offset": 14456,
+        "key": 2930492604,
+        "source": "integer_literal",
+        "end": 27876
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "タクトとランファ",
+      "translation": "택트와 란파\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16,
+          "length": 16,
+          "key": 3809358084,
+          "original": "タクトとランファ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "ふあ……ふわあぁぁぁぁぁ……。",
+      "translation": "후아…… 후아아아아아아…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 220,
+          "length": 30,
+          "key": 3809358084,
+          "original": "ふあ……ふわあぁぁぁぁぁ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0003",
+      "context": {
+        "voice": "GC210000.ogg"
+      },
+      "original": "くすっ、大きなあくびね。",
+      "translation": "훗, 크게 하품하네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 364,
+          "length": 24,
+          "key": 3809358084,
+          "original": "くすっ、大きなあくびね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0004",
+      "context": {
+        "voice": "GC210000.ogg"
+      },
+      "original": "んぐっ……！　げほっ、ごほっ……！",
+      "translation": "윽……！ 컥, 콜록, 콜록……！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 460,
+          "length": 34,
+          "key": 3809358084,
+          "original": "んぐっ……！　げほっ、ごほっ……！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0005",
+      "context": {
+        "voice": "GC210001.ogg"
+      },
+      "original": "ちょ、ちょっと、大丈夫？",
+      "translation": "잠깐, 잠깐만, 괜찮아？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 744,
+          "length": 24,
+          "key": 3809358084,
+          "original": "ちょ、ちょっと、大丈夫？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0006",
+      "context": {
+        "voice": "GC210001.ogg"
+      },
+      "original": "う、うん……全然平気、平気さ。",
+      "translation": "으 응… 전혀 괜찮아 괜찮다니까",
+      "state": "compacted",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 840,
+          "length": 30,
+          "key": 3809358084,
+          "original": "う、うん……全然平気、平気さ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0007",
+      "context": {
+        "voice": "GC210002.ogg"
+      },
+      "original": "ねえタクト、疲れてるんじゃない？　さっきから、ずっと眠たそうよ。",
+      "translation": "있지 택트, 피곤한 거 아냐？ 아까부터 계속 졸려 보여.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1020,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ねえタクト、疲れてるんじゃない？　さっき"
+        },
+        {
+          "offset": 1068,
+          "length": 24,
+          "key": 3809358084,
+          "original": "から、ずっと眠たそうよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0008",
+      "context": {
+        "voice": "GC210002.ogg"
+      },
+      "original": "まあ、疲れてないと言えばウソになるかな。まったく……軍人と警官は暇な方がいいっていうのにね。",
+      "translation": "뭐, 피곤하지 않다면 거짓말이겠지. 정말이지…… 군인과 경찰은 한가한 게 최고인데 말이야.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1164,
+          "length": 40,
+          "key": 3809358084,
+          "original": "まあ、疲れてないと言えばウソになるかな。"
+        },
+        {
+          "offset": 1212,
+          "length": 40,
+          "key": 3809358084,
+          "original": "まったく……軍人と警官は暇な方がいいって"
+        },
+        {
+          "offset": 1260,
+          "length": 12,
+          "key": 3809358084,
+          "original": "いうのにね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0009",
+      "context": {
+        "voice": "GC210002.ogg"
+      },
+      "original": "ごめんね、ランファ。久しぶりに、ふたりっきりの時間が取れたっていうのに。",
+      "translation": "미안해, 란파. 오랜만에 둘만의 시간을 가졌는데 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1344,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ごめんね、ランファ。久しぶりに、ふたりっ"
+        },
+        {
+          "offset": 1392,
+          "length": 32,
+          "key": 3809358084,
+          "original": "きりの時間が取れたっていうのに。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0010",
+      "context": {
+        "voice": "GC210003.ogg"
+      },
+      "original": "謝らなくてもいいわよ。ダーリンが、アタシのためにお仕事一生懸命頑張ってくれたってことだけで、すっごく嬉しいんだから。",
+      "translation": "사과 안 해도 돼. 달링이 나를 위해서 열심히 일해줬다는 것만으로도 정말 기쁘니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1572,
+          "length": 40,
+          "key": 3809358084,
+          "original": "謝らなくてもいいわよ。ダーリンが、アタシ"
+        },
+        {
+          "offset": 1620,
+          "length": 40,
+          "key": 3809358084,
+          "original": "のためにお仕事一生懸命頑張ってくれたって"
+        },
+        {
+          "offset": 1668,
+          "length": 36,
+          "key": 3809358084,
+          "original": "ことだけで、すっごく嬉しいんだから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0011",
+      "context": {
+        "voice": "GC210004.ogg"
+      },
+      "original": "それに、ほら、そういうことを隠すより、ちゃんと見せてくれたほうが、恋人らしいじゃない？",
+      "translation": "게다가, 봐봐, 그런 걸 숨기기보다 제대로 보여주는 게 연인답잖아？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1852,
+          "length": 42,
+          "key": 3809358084,
+          "original": "それに、ほら、そういうことを隠すより、ちゃ"
+        },
+        {
+          "offset": 1904,
+          "length": 40,
+          "key": 3809358084,
+          "original": "んと見せてくれたほうが、恋人らしいじゃな"
+        },
+        {
+          "offset": 1952,
+          "length": 4,
+          "key": 3809358084,
+          "original": "い？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0012",
+      "context": {
+        "voice": "GC210005.ogg"
+      },
+      "original": "ねっ、ダーリン★",
+      "translation": "그치, 달링★\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2104,
+          "length": 16,
+          "key": 3809358084,
+          "original": "ねっ、ダーリン★"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0013",
+      "context": {
+        "voice": "GC210005.ogg"
+      },
+      "original": "……ああ。そう言ってもらえると、オレも嬉しいよ、ハニー★",
+      "translation": "...아아. 그렇게 말해주니 나도 기뻐, 허니★\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2192,
+          "length": 40,
+          "key": 3809358084,
+          "original": "……ああ。そう言ってもらえると、オレも嬉"
+        },
+        {
+          "offset": 2240,
+          "length": 16,
+          "key": 3809358084,
+          "original": "しいよ、ハニー★"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0014",
+      "context": {
+        "voice": "GC210006.ogg"
+      },
+      "original": "……あはっ。",
+      "translation": "……아핫.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2404,
+          "length": 12,
+          "key": 3809358084,
+          "original": "……あはっ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0015",
+      "context": {
+        "voice": "GC210006.ogg"
+      },
+      "original": "まあ、仕事は大変だけど、その分、こうしてふたりっきりになれた時の喜びもひとしおってやつだよ、ランファ。",
+      "translation": "뭐, 일은 힘들지만, 그만큼 이렇게 둘만의 시간이 생겼을 때의 기쁨도 남다른 법이지, 란파.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2488,
+          "length": 40,
+          "key": 3809358084,
+          "original": "まあ、仕事は大変だけど、その分、こうして"
+        },
+        {
+          "offset": 2536,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ふたりっきりになれた時の喜びもひとしおっ"
+        },
+        {
+          "offset": 2584,
+          "length": 22,
+          "key": 3809358084,
+          "original": "てやつだよ、ランファ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0016",
+      "context": {
+        "voice": "GC210007.ogg"
+      },
+      "original": "そうね、タクト。きっと、離れている時間がふたりの愛をよりいっそう高めるんだわ！",
+      "translation": "맞아,택트. 분명 떨어져 있는 시간이 두 사람의 사랑을 더욱 깊게 만들어줄 거야！",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2756,
+          "length": 40,
+          "key": 3809358084,
+          "original": "そうね、タクト。きっと、離れている時間が"
+        },
+        {
+          "offset": 2804,
+          "length": 38,
+          "key": 3809358084,
+          "original": "ふたりの愛をよりいっそう高めるんだわ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0017",
+      "context": {
+        "voice": "GC210007.ogg"
+      },
+      "original": "ああ、ランファ、愛しい恋人よ！　今オレは君への愛をうたいながら、この艦内を走り回りたい気分だよ！",
+      "translation": "아아,란파, 사랑스러운 나의 연인이여！ 지금 나는 너를 향한사랑을노래하며이함내를뛰어다니고싶어！",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2916,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ああ、ランファ、愛しい恋人よ！　今オレは"
+        },
+        {
+          "offset": 2964,
+          "length": 40,
+          "key": 3809358084,
+          "original": "君への愛をうたいながら、この艦内を走り回"
+        },
+        {
+          "offset": 3012,
+          "length": 16,
+          "key": 3809358084,
+          "original": "りたい気分だよ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0018",
+      "context": {
+        "voice": "GC210008.ogg"
+      },
+      "original": "あん、タクト、アタシもよ！　情熱的なラテンのリズムで、愛を踊りたいわ！",
+      "translation": "앙, 택트, 나도 그래！ 정열적인 라틴 리듬에 맞춰 사랑을 춤추고 싶어！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3140,
+          "length": 40,
+          "key": 3809358084,
+          "original": "あん、タクト、アタシもよ！　情熱的なラテ"
+        },
+        {
+          "offset": 3188,
+          "length": 30,
+          "key": 3809358084,
+          "original": "ンのリズムで、愛を踊りたいわ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0019",
+      "context": {
+        "voice": "GC210008.ogg"
+      },
+      "original": "……でもさあ、最近なんかクルーのオレを見る目が空虚なんだよね。オレ、なんか悪いことでもやったかな？",
+      "translation": "...근데 말이야, 요즘 크루들이 나를 보는 눈빛이 공허하단 말이지. 내가 뭐 잘못이라도 했나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3292,
+          "length": 40,
+          "key": 3809358084,
+          "original": "……でもさあ、最近なんかクルーのオレを見"
+        },
+        {
+          "offset": 3340,
+          "length": 40,
+          "key": 3809358084,
+          "original": "る目が空虚なんだよね。オレ、なんか悪いこ"
+        },
+        {
+          "offset": 3388,
+          "length": 18,
+          "key": 3809358084,
+          "original": "とでもやったかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0020",
+      "context": {
+        "voice": "GC210009.ogg"
+      },
+      "original": "タクトも？　アタシもそうなのよ。どうも最近、みんな、アタシと微妙に距離を取ってるんだけど……。",
+      "translation": "택트도？ 나도 그래. 아무래도 요즘 다들 나와 미묘하게 거리를 두는 것 같은데...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3556,
+          "length": 40,
+          "key": 3809358084,
+          "original": "タクトも？　アタシもそうなのよ。どうも最"
+        },
+        {
+          "offset": 3604,
+          "length": 40,
+          "key": 3809358084,
+          "original": "近、みんな、アタシと微妙に距離を取ってる"
+        },
+        {
+          "offset": 3652,
+          "length": 14,
+          "key": 3809358084,
+          "original": "んだけど……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0021",
+      "context": {
+        "voice": "GC210009.ogg"
+      },
+      "original": "……！　ま、まさか……それが意味するところは……！？",
+      "translation": "...！ 설, 설마... 그게 의미하는 바가...！？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3740,
+          "length": 40,
+          "key": 3809358084,
+          "original": "……！　ま、まさか……それが意味するとこ"
+        },
+        {
+          "offset": 3788,
+          "length": 12,
+          "key": 3809358084,
+          "original": "ろは……！？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0022",
+      "context": {
+        "voice": "GC210009.ogg"
+      },
+      "original": "みんな、オレたちをふたりきっりにしようと応援してくれてるんだよ！",
+      "translation": "모두 우리 둘만 있게 하려고 응원해 주는 거야！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3872,
+          "length": 40,
+          "key": 3809358084,
+          "original": "みんな、オレたちをふたりきっりにしようと"
+        },
+        {
+          "offset": 3920,
+          "length": 24,
+          "key": 3809358084,
+          "original": "応援してくれてるんだよ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0023",
+      "context": {
+        "voice": "GC210010.ogg"
+      },
+      "original": "やっぱり！？　んもう、みんなそんなに気を遣わなくてもいいのにい★",
+      "translation": "역시！？ 정말, 다들 그렇게까지 신경 안 써줘도 되는데 말이야★",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4092,
+          "length": 40,
+          "key": 3809358084,
+          "original": "やっぱり！？　んもう、みんなそんなに気を"
+        },
+        {
+          "offset": 4140,
+          "length": 24,
+          "key": 3809358084,
+          "original": "遣わなくてもいいのにい★"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0024",
+      "context": {
+        "voice": "GC210010.ogg"
+      },
+      "original": "ああ、人の情けがありがたいなあ。",
+      "translation": "아아, 타인의 친절이 고맙네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4236,
+          "length": 32,
+          "key": 3809358084,
+          "original": "ああ、人の情けがありがたいなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0025",
+      "context": {
+        "voice": "GC210011.ogg"
+      },
+      "original": "でも、タクト。やっぱり最近、少し働き過ぎじゃない？",
+      "translation": "하지만 택트. 역시 요즘 좀 너무 무리하는 거 아냐？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4416,
+          "length": 40,
+          "key": 3809358084,
+          "original": "でも、タクト。やっぱり最近、少し働き過ぎ"
+        },
+        {
+          "offset": 4464,
+          "length": 10,
+          "key": 3809358084,
+          "original": "じゃない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0026",
+      "context": {
+        "voice": "GC210012.ogg"
+      },
+      "original": "真面目に働くタクトなんて、あんまりタクトらしくないと思うな、アタシ。",
+      "translation": "성실하게만 일하는 택트는 별로 택트답지 않은 것 같아, 난.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4624,
+          "length": 40,
+          "key": 3809358084,
+          "original": "真面目に働くタクトなんて、あんまりタクト"
+        },
+        {
+          "offset": 4672,
+          "length": 28,
+          "key": 3809358084,
+          "original": "らしくないと思うな、アタシ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0027",
+      "context": {
+        "voice": "GC210012.ogg"
+      },
+      "original": "ほ、褒められてるのか、けなされてるのか、どっちだろう……？",
+      "translation": "칭찬을 하는 건지, 깎아내리는 건지, 어느 쪽일까……？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4772,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ほ、褒められてるのか、けなされてるのか、"
+        },
+        {
+          "offset": 4820,
+          "length": 18,
+          "key": 3809358084,
+          "original": "どっちだろう……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0028",
+      "context": {
+        "voice": "GC210012.ogg"
+      },
+      "original": "ま……まあ、それはともかく。特別休暇とはいえ、３０日ものんきに休んでたんだから仕方ないさ。仕事もたまるってもんだよ。",
+      "translation": "뭐…… 뭐, 그건 그렇다 치고. 특별 휴가라고는 해도 ３０일이나 느긋하게 쉬었으니까 어쩔 수 없어. 일도 쌓여있을 테니까.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4912,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ま……まあ、それはともかく。特別休暇とは"
+        },
+        {
+          "offset": 4960,
+          "length": 40,
+          "key": 3809358084,
+          "original": "いえ、３０日ものんきに休んでたんだから仕"
+        },
+        {
+          "offset": 5008,
+          "length": 36,
+          "key": 3809358084,
+          "original": "方ないさ。仕事もたまるってもんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0029",
+      "context": {
+        "voice": "GC210012.ogg"
+      },
+      "original": "それに、頭に叩き込んでおかなきゃいけない資料も山ほどあってね。あまりレスターに負担をかけるのも悪いしね。",
+      "translation": "게다가 머릿속에 넣어둬야 할 자료도 산더미처럼 있어서 말이야. 레스터에게 너무 부담을 주는 것도 미안하고.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5116,
+          "length": 40,
+          "key": 3809358084,
+          "original": "それに、頭に叩き込んでおかなきゃいけない"
+        },
+        {
+          "offset": 5164,
+          "length": 40,
+          "key": 3809358084,
+          "original": "資料も山ほどあってね。あまりレスターに負"
+        },
+        {
+          "offset": 5212,
+          "length": 24,
+          "key": 3809358084,
+          "original": "担をかけるのも悪いしね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0030",
+      "context": {
+        "voice": "GC210013.ogg"
+      },
+      "original": "それって、今回の任務のこと？",
+      "translation": "그건 이번 임무를말하는거야？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5384,
+          "length": 28,
+          "key": 3809358084,
+          "original": "それって、今回の任務のこと？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0031",
+      "context": {
+        "voice": "GC210013.ogg"
+      },
+      "original": "そう。ガイエン星系で起こった、調査艦隊の失踪事件。",
+      "translation": "그래. 가이엔 성계의 조사 함대 실종 사건.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5484,
+          "length": 40,
+          "key": 3809358084,
+          "original": "そう。ガイエン星系で起こった、調査艦隊の"
+        },
+        {
+          "offset": 5532,
+          "length": 10,
+          "key": 3809358084,
+          "original": "失踪事件。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0032",
+      "context": {
+        "voice": "GC210014.ogg"
+      },
+      "original": "アタシたちが休暇中にそんな事件が起きていたなんてね。最初に聞いた時は、ビックリしちゃったわ。",
+      "translation": "우리가 휴가 중에 그런 사건이 일어나고 있었다니. 처음 들었을 땐 깜짝 놀랐어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5692,
+          "length": 40,
+          "key": 3809358084,
+          "original": "アタシたちが休暇中にそんな事件が起きてい"
+        },
+        {
+          "offset": 5740,
+          "length": 40,
+          "key": 3809358084,
+          "original": "たなんてね。最初に聞いた時は、ビックリし"
+        },
+        {
+          "offset": 5788,
+          "length": 12,
+          "key": 3809358084,
+          "original": "ちゃったわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0033",
+      "context": {
+        "voice": "GC210014.ogg"
+      },
+      "original": "オレもさ。しかも、オレたちがその原因究明に駆り出されることになって、驚きも２倍ってところだよ。",
+      "translation": "나도 말이야. 게다가 우리가 그 원인 규명에 투입되게 되다니, 놀라움이 두 배라고.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5872,
+          "length": 40,
+          "key": 3809358084,
+          "original": "オレもさ。しかも、オレたちがその原因究明"
+        },
+        {
+          "offset": 5920,
+          "length": 40,
+          "key": 3809358084,
+          "original": "に駆り出されることになって、驚きも２倍っ"
+        },
+        {
+          "offset": 5968,
+          "length": 14,
+          "key": 3809358084,
+          "original": "てところだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0034",
+      "context": {
+        "voice": "GC210014.ogg"
+      },
+      "original": "任務に復帰して早々、皇国の真ん中から端っこまでを長旅するハメになるとは思わなかったね。",
+      "translation": "임무에 복귀하자마자 황국의 중심에서 변두리까지 긴 여정을 하게 될 줄은 몰랐네.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6056,
+          "length": 40,
+          "key": 3809358084,
+          "original": "任務に復帰して早々、皇国の真ん中から端っ"
+        },
+        {
+          "offset": 6104,
+          "length": 40,
+          "key": 3809358084,
+          "original": "こまでを長旅するハメになるとは思わなかっ"
+        },
+        {
+          "offset": 6152,
+          "length": 6,
+          "key": 3809358084,
+          "original": "たね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0035",
+      "context": {
+        "voice": "GC210014.ogg"
+      },
+      "original": "ほら、見てみなよ、ランファ。トランスバール本星からガイエン星系まで、こーんなに離れてるんだよ？",
+      "translation": "자, 봐봐, 란파. 트랜스벌 본성에서 가이엔 성계까지 이렇게나 멀리 떨어져 있다고？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6348,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ほら、見てみなよ、ランファ。トランスバー"
+        },
+        {
+          "offset": 6396,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ル本星からガイエン星系まで、こーんなに離"
+        },
+        {
+          "offset": 6444,
+          "length": 14,
+          "key": 3809358084,
+          "original": "れてるんだよ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0036",
+      "context": {
+        "voice": "GC210015.ogg"
+      },
+      "original": "こうして見ると、ほんとに遠いわよねー。",
+      "translation": "이렇게 보니 정말 멀긴 하네ー.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6572,
+          "length": 38,
+          "key": 3809358084,
+          "original": "こうして見ると、ほんとに遠いわよねー。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0037",
+      "context": {
+        "voice": "GC210015.ogg"
+      },
+      "original": "オレたちって、つくづく辺境に縁があるみたいだな。",
+      "translation": "우리 참, 변방이랑 인연이 깊네.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6684,
+          "length": 40,
+          "key": 3809358084,
+          "original": "オレたちって、つくづく辺境に縁があるみた"
+        },
+        {
+          "offset": 6732,
+          "length": 8,
+          "key": 3809358084,
+          "original": "いだな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0038",
+      "context": {
+        "voice": "GC210016.ogg"
+      },
+      "original": "言われてみれば、そうね。前に辺境調査に行ってから、まだそんなに経っていないのに。",
+      "translation": "듣고 보니 그렇네. 지난번 변방 조사 이후로 얼마 지나지도 않았는데.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6852,
+          "length": 42,
+          "key": 3809358084,
+          "original": "言われてみれば、そうね。前に辺境調査に行っ"
+        },
+        {
+          "offset": 6904,
+          "length": 38,
+          "key": 3809358084,
+          "original": "てから、まだそんなに経っていないのに。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0039",
+      "context": {
+        "voice": "GC210016.ogg"
+      },
+      "original": "まあ、おかげで資料に目を通す時間だけは、たっぷりあったけどね。",
+      "translation": "뭐, 덕분에 자료를 훑어볼 시간만큼은 넉넉했지만 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7044,
+          "length": 40,
+          "key": 3809358084,
+          "original": "まあ、おかげで資料に目を通す時間だけは、"
+        },
+        {
+          "offset": 7092,
+          "length": 22,
+          "key": 3809358084,
+          "original": "たっぷりあったけどね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0040",
+      "context": {
+        "voice": "GC210016.ogg"
+      },
+      "original": "それに、前の辺境調査とは違って、今回はエンジェル隊が全員いるから、退屈だけはしなかったよ。",
+      "translation": "게다가 지난번 변방 조사와는 다르게 이번에는 엔젤대가 전원 있으니까, 지루할 일은 없었어.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7188,
+          "length": 40,
+          "key": 3809358084,
+          "original": "それに、前の辺境調査とは違って、今回はエ"
+        },
+        {
+          "offset": 7236,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ンジェル隊が全員いるから、退屈だけはしな"
+        },
+        {
+          "offset": 7284,
+          "length": 10,
+          "key": 3809358084,
+          "original": "かったよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0041",
+      "context": {
+        "voice": "GC210017.ogg"
+      },
+      "original": "あはは、そうよね。毎日にぎやかで、なんか全然、長旅って感じがしないわよね。",
+      "translation": "아하하, 그렇지. 매일이 북적거려서 전혀 긴 여행이라는 느낌이 안 들어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7444,
+          "length": 40,
+          "key": 3809358084,
+          "original": "あはは、そうよね。毎日にぎやかで、なんか"
+        },
+        {
+          "offset": 7492,
+          "length": 34,
+          "key": 3809358084,
+          "original": "全然、長旅って感じがしないわよね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0042",
+      "context": {
+        "voice": "GC210018.ogg"
+      },
+      "original": "もう少しで到着するんでしょう？　そこでいったい何があったのかしら？",
+      "translation": "이제 곧 도착이지？ 거기서 도대체 무슨 일이 있었던 걸까？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7676,
+          "length": 42,
+          "key": 3809358084,
+          "original": "もう少しで到着するんでしょう？　そこでいっ"
+        },
+        {
+          "offset": 7728,
+          "length": 24,
+          "key": 3809358084,
+          "original": "たい何があったのかしら？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0043",
+      "context": {
+        "voice": "GC210018.ogg"
+      },
+      "original": "……そいつは、現地で調べてみないことにはわからないな。",
+      "translation": "...그건 현지에서 조사해 보지 않고서는 알 수 없겠군.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7824,
+          "length": 40,
+          "key": 3809358084,
+          "original": "……そいつは、現地で調べてみないことには"
+        },
+        {
+          "offset": 7872,
+          "length": 14,
+          "key": 3809358084,
+          "original": "わからないな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0044",
+      "context": {
+        "voice": "GC210018.ogg"
+      },
+      "original": "ただひとつ、調査艦隊が残した手がかりといえば……。",
+      "translation": "단 하나, 조사 함대가 남긴 단이라고 하면……",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7960,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ただひとつ、調査艦隊が残した手がかりとい"
+        },
+        {
+          "offset": 8008,
+          "length": 10,
+          "key": 3809358084,
+          "original": "えば……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0045",
+      "context": {
+        "voice": "GC210018.ogg"
+      },
+      "original": "消息を絶つ寸前に、第３方面軍司令部に送ってきた、この映像だけさ。",
+      "translation": "소식이 끊기기 직전에 제３방면군 사령부에 보내온 이 영상뿐이야.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8236,
+          "length": 40,
+          "key": 3809358084,
+          "original": "消息を絶つ寸前に、第３方面軍司令部に送っ"
+        },
+        {
+          "offset": 8284,
+          "length": 24,
+          "key": 3809358084,
+          "original": "てきた、この映像だけさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0046",
+      "context": {
+        "voice": "GC210019.ogg"
+      },
+      "original": "やっぱり、ぼやけててちょっとよくわからないわね。",
+      "translation": "역시 흐릿해서 좀 잘 모르겠네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8420,
+          "length": 40,
+          "key": 3809358084,
+          "original": "やっぱり、ぼやけててちょっとよくわからな"
+        },
+        {
+          "offset": 8468,
+          "length": 8,
+          "key": 3809358084,
+          "original": "いわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0047",
+      "context": {
+        "voice": "GC210019.ogg"
+      },
+      "original": "きっと、これを送るだけで必死だったんだろうな……他にはなんの映像もメッセージもなかった。",
+      "translation": "분명 이걸 보내는 것만으로도 필사적이었겠지…… 그 외에는 아무 영상도 메시지도 없었어.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8548,
+          "length": 40,
+          "key": 3809358084,
+          "original": "きっと、これを送るだけで必死だったんだろ"
+        },
+        {
+          "offset": 8596,
+          "length": 40,
+          "key": 3809358084,
+          "original": "うな……他にはなんの映像もメッセージもな"
+        },
+        {
+          "offset": 8644,
+          "length": 8,
+          "key": 3809358084,
+          "original": "かった。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0048",
+      "context": {
+        "voice": "GC210020.ogg"
+      },
+      "original": "それじゃあ、調査艦隊は……。",
+      "translation": "그럼, 조사 함대는...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8764,
+          "length": 28,
+          "key": 3809358084,
+          "original": "それじゃあ、調査艦隊は……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0049",
+      "context": {
+        "voice": "GC210020.ogg"
+      },
+      "original": "多分……いや、間違いなく……。",
+      "translation": "아마…… 아니, 틀림없이…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8864,
+          "length": 30,
+          "key": 3809358084,
+          "original": "多分……いや、間違いなく……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0050",
+      "context": {
+        "voice": "GC210022.ogg"
+      },
+      "original": "ああ、もう、辛気くさい話はなし！",
+      "translation": "아아, 정말, 우울한 얘기는 그만！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9352,
+          "length": 32,
+          "key": 3809358084,
+          "original": "ああ、もう、辛気くさい話はなし！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0051",
+      "context": {
+        "voice": "GC210022.ogg"
+      },
+      "original": "ランファ……。",
+      "translation": "란파…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9456,
+          "length": 14,
+          "key": 3809358084,
+          "original": "ランファ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0052",
+      "context": {
+        "voice": "GC210023.ogg"
+      },
+      "original": "そのへんをなんとかするために、アタシたちがガイエン星系くんだりにまで派遣されたんでしょ？",
+      "translation": "그걸 어떻게든 하려고 우리가 가이엔 성계 근처까지 파견된 거잖아？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9620,
+          "length": 40,
+          "key": 3809358084,
+          "original": "そのへんをなんとかするために、アタシたち"
+        },
+        {
+          "offset": 9668,
+          "length": 40,
+          "key": 3809358084,
+          "original": "がガイエン星系くんだりにまで派遣されたん"
+        },
+        {
+          "offset": 9716,
+          "length": 8,
+          "key": 3809358084,
+          "original": "でしょ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0053",
+      "context": {
+        "voice": "GC210024.ogg"
+      },
+      "original": "それは今ここでゴチャゴチャ考えても、まったくの無意味よ。結局は、この目で見なきゃわからないんだから。",
+      "translation": "그건 지금 여기서 떠들어봤자 아무런 의미도 없어. 결국은 직접 눈으로 확인해야 아는 거니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9872,
+          "length": 40,
+          "key": 3809358084,
+          "original": "それは今ここでゴチャゴチャ考えても、まっ"
+        },
+        {
+          "offset": 9920,
+          "length": 40,
+          "key": 3809358084,
+          "original": "たくの無意味よ。結局は、この目で見なきゃ"
+        },
+        {
+          "offset": 9968,
+          "length": 20,
+          "key": 3809358084,
+          "original": "わからないんだから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0054",
+      "context": {
+        "voice": "GC210025.ogg"
+      },
+      "original": "だからこそ今は、今できることをやればいいの！　ほら、タクトが今できることは？",
+      "translation": "그러니까 지금은 지금 할 수 있는 걸 하면 돼！ 자, 택트가 지금 할 수 있는 건？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10136,
+          "length": 40,
+          "key": 3809358084,
+          "original": "だからこそ今は、今できることをやればいい"
+        },
+        {
+          "offset": 10184,
+          "length": 36,
+          "key": 3809358084,
+          "original": "の！　ほら、タクトが今できることは？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0055",
+      "context": {
+        "voice": "GC210025.ogg"
+      },
+      "original": "……そうだね。",
+      "translation": "……그렇네.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10292,
+          "length": 14,
+          "key": 3809358084,
+          "original": "……そうだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0056",
+      "context": {
+        "voice": "GC210025.ogg"
+      },
+      "original": "オレが今できること……いや、したいことは……こうやってランファとの時間を楽しむことかな。",
+      "translation": "내가 지금 할 수 있는 것... 아니, 하고 싶은 것은... 이렇게 란파와 시간을 즐기는 거랄까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10380,
+          "length": 40,
+          "key": 3809358084,
+          "original": "オレが今できること……いや、したいことは"
+        },
+        {
+          "offset": 10428,
+          "length": 40,
+          "key": 3809358084,
+          "original": "……こうやってランファとの時間を楽しむこ"
+        },
+        {
+          "offset": 10476,
+          "length": 8,
+          "key": 3809358084,
+          "original": "とかな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0057",
+      "context": {
+        "voice": "GC210026.ogg"
+      },
+      "original": "わかってるじゃない。それでいいのよ。",
+      "translation": "알고 있네. 그걸로 됐어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10632,
+          "length": 36,
+          "key": 3809358084,
+          "original": "わかってるじゃない。それでいいのよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0058",
+      "context": {
+        "voice": "GC210026.ogg"
+      },
+      "original": "ランファにはかなわないな。",
+      "translation": "란파한테는 못 당하겠네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10740,
+          "length": 26,
+          "key": 3809358084,
+          "original": "ランファにはかなわないな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0059",
+      "context": {
+        "voice": "GC210026.ogg"
+      },
+      "original": "でも、そういう前向きなランファは、やっぱりオレ、大好きだよ。",
+      "translation": "하지만 그런 긍정적인 란파가, 역시 난 정말 좋아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10840,
+          "length": 40,
+          "key": 3809358084,
+          "original": "でも、そういう前向きなランファは、やっぱ"
+        },
+        {
+          "offset": 10888,
+          "length": 20,
+          "key": 3809358084,
+          "original": "りオレ、大好きだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0060",
+      "context": {
+        "voice": "GC210027.ogg"
+      },
+      "original": "な、なな……なによ、もう、改まって。",
+      "translation": "뭐, 뭐... 뭐야, 갑자기 진지하게...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11056,
+          "length": 36,
+          "key": 3809358084,
+          "original": "な、なな……なによ、もう、改まって。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0061",
+      "context": {
+        "voice": "GC210027.ogg"
+      },
+      "original": "いや、ちょっと真面目に言ってみたくなったんだ。オレがどれだけ、ランファを好きかってこと。",
+      "translation": "아니, 좀 진지하게 말해보고 싶어졌어. 내가 얼마나 란파를 좋아하는지에 대해서.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11164,
+          "length": 40,
+          "key": 3809358084,
+          "original": "いや、ちょっと真面目に言ってみたくなった"
+        },
+        {
+          "offset": 11212,
+          "length": 40,
+          "key": 3809358084,
+          "original": "んだ。オレがどれだけ、ランファを好きかっ"
+        },
+        {
+          "offset": 11260,
+          "length": 8,
+          "key": 3809358084,
+          "original": "てこと。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0062",
+      "context": {
+        "voice": "GC210028.ogg"
+      },
+      "original": "そんなこと言わなくていいの！　……だいたい、言われなくったってもうわかってるんだから。",
+      "translation": "그런 말 안 해도 돼！ ...애초에 말하지 않아도 이미 알고 있으니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11416,
+          "length": 40,
+          "key": 3809358084,
+          "original": "そんなこと言わなくていいの！　……だいた"
+        },
+        {
+          "offset": 11464,
+          "length": 40,
+          "key": 3809358084,
+          "original": "い、言われなくったってもうわかってるんだ"
+        },
+        {
+          "offset": 11512,
+          "length": 6,
+          "key": 3809358084,
+          "original": "から。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0063",
+      "context": {
+        "voice": "GC210028.ogg"
+      },
+      "original": "うん、知ってる。こう言えば、ランファの照れた顔も見られるってことも。",
+      "translation": "응, 알아. 이렇게 하면 란파의 부끄러워하는 얼굴도 볼 수 있다는 거.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11592,
+          "length": 40,
+          "key": 3809358084,
+          "original": "うん、知ってる。こう言えば、ランファの照"
+        },
+        {
+          "offset": 11640,
+          "length": 28,
+          "key": 3809358084,
+          "original": "れた顔も見られるってことも。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0064",
+      "context": {
+        "voice": "GC210029.ogg"
+      },
+      "original": "はあ……タクトって、時々すっごく意地悪になるのよね……。",
+      "translation": "하아... 택트는 가끔 정말 심술궂다니까...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11816,
+          "length": 40,
+          "key": 3809358084,
+          "original": "はあ……タクトって、時々すっごく意地悪に"
+        },
+        {
+          "offset": 11864,
+          "length": 16,
+          "key": 3809358084,
+          "original": "なるのよね……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0065",
+      "context": {
+        "voice": "GC210029.ogg"
+      },
+      "original": "幻滅した？",
+      "translation": "실망했어？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11952,
+          "length": 10,
+          "key": 3809358084,
+          "original": "幻滅した？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0066",
+      "context": {
+        "voice": "GC210030.ogg"
+      },
+      "original": "してないけど……ちょっと怒ったかな。",
+      "translation": "그렇진 않은데... 조금 화났을지도.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12112,
+          "length": 36,
+          "key": 3809358084,
+          "original": "してないけど……ちょっと怒ったかな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0067",
+      "context": {
+        "voice": "GC210030.ogg"
+      },
+      "original": "で、どうすれば、機嫌を直してくれるの？",
+      "translation": "그래서, 어떻게 해야 기분이 풀릴 거야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12220,
+          "length": 38,
+          "key": 3809358084,
+          "original": "で、どうすれば、機嫌を直してくれるの？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0068",
+      "context": {
+        "voice": "GC210031.ogg"
+      },
+      "original": "……ギュッて……抱っこ……。",
+      "translation": "...꽉... 안아줘...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12408,
+          "length": 28,
+          "key": 3809358084,
+          "original": "……ギュッて……抱っこ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0069",
+      "context": {
+        "voice": "GC210031.ogg"
+      },
+      "original": "よく聞こえないんだけど？",
+      "translation": "잘 안 들리는데？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12508,
+          "length": 24,
+          "key": 3809358084,
+          "original": "よく聞こえないんだけど？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0070",
+      "context": {
+        "voice": "GC210032.ogg"
+      },
+      "original": "もう！　ギュッて抱っこしてくれたら許してあげるって言ってるの！",
+      "translation": "정말！ 꽉 안아주면 용서해 주겠다고 말하는 거야！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12680,
+          "length": 40,
+          "key": 3809358084,
+          "original": "もう！　ギュッて抱っこしてくれたら許して"
+        },
+        {
+          "offset": 12728,
+          "length": 22,
+          "key": 3809358084,
+          "original": "あげるって言ってるの！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0071",
+      "context": {
+        "voice": "GC210032.ogg"
+      },
+      "original": "ごめんごめん。……ランファ。",
+      "translation": "미안 미안. ...란파.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12824,
+          "length": 28,
+          "key": 3809358084,
+          "original": "ごめんごめん。……ランファ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0072",
+      "context": {
+        "voice": "GC210033.ogg"
+      },
+      "original": "おいで。",
+      "translation": "이리 와.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13116,
+          "length": 8,
+          "key": 3809358084,
+          "original": "おいで。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0073",
+      "context": {
+        "voice": "GC210034.ogg"
+      },
+      "original": "うん★",
+      "translation": "응★\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13272,
+          "length": 6,
+          "key": 3809358084,
+          "original": "うん★"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0074",
+      "context": {
+        "voice": "GC210034.ogg"
+      },
+      "original": "こんなもんでどうだい、ハニー？",
+      "translation": "이 정도면 어때, 허니？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13464,
+          "length": 30,
+          "key": 3809358084,
+          "original": "こんなもんでどうだい、ハニー？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0075",
+      "context": {
+        "voice": "GC210035.ogg"
+      },
+      "original": "うん……。アタシね、こうやってタクトの意外に大きな手で抱っこされるのって、すごい好き……。",
+      "translation": "응... 나 말이야, 이렇게 택트의 의외로 큰 손에 안기는 거, 정말 좋아...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13608,
+          "length": 40,
+          "key": 3809358084,
+          "original": "うん……。アタシね、こうやってタクトの意"
+        },
+        {
+          "offset": 13656,
+          "length": 40,
+          "key": 3809358084,
+          "original": "外に大きな手で抱っこされるのって、すごい"
+        },
+        {
+          "offset": 13704,
+          "length": 10,
+          "key": 3809358084,
+          "original": "好き……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0076",
+      "context": {
+        "voice": "GC210035.ogg"
+      },
+      "original": "オレもだよ。ランファを抱っこして、ランファの髪に顔をうずめるの、すっごく好きなんだ。",
+      "translation": "나도 그래. 란파를 안고 란파의 머리카락에 얼굴을 파묻는 거, 정말 좋아해.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13788,
+          "length": 12,
+          "key": 3809358084,
+          "original": "オレもだよ。"
+        },
+        {
+          "offset": 13808,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ランファを抱っこして、ランファの髪に顔を"
+        },
+        {
+          "offset": 13856,
+          "length": 32,
+          "key": 3809358084,
+          "original": "うずめるの、すっごく好きなんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0077",
+      "context": {
+        "voice": "GC210035.ogg"
+      },
+      "original": "ランファの髪はお日様の匂いがする。綺麗な金色の髪と同じ、お日様の……匂いが……。",
+      "translation": "란파의 머리카락에선 햇살 냄새가 나. 아름다운 금빛머릿결과같은,햇살의...냄새가...",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13960,
+          "length": 40,
+          "key": 3809358084,
+          "original": "ランファの髪はお日様の匂いがする。綺麗な"
+        },
+        {
+          "offset": 14008,
+          "length": 40,
+          "key": 3809358084,
+          "original": "金色の髪と同じ、お日様の……匂いが……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0078",
+      "context": {
+        "voice": "GC210035.ogg"
+      },
+      "original": "あっ、ダメだ……また……眠気が……。",
+      "translation": "앗, 안 돼... 또... 졸음이...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14120,
+          "length": 36,
+          "key": 3809358084,
+          "original": "あっ、ダメだ……また……眠気が……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0079",
+      "context": {
+        "voice": "GC210036.ogg"
+      },
+      "original": "タクト？　ねえ……タク……。",
+      "translation": "택트？ 저기... 택...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14268,
+          "length": 28,
+          "key": 3809358084,
+          "original": "タクト？　ねえ……タク……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0080",
+      "context": {
+        "voice": "GC210036.ogg"
+      },
+      "original": "悪夢からの目覚め",
+      "translation": "악몽에서의깨어남",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14472,
+          "length": 16,
+          "key": 2930492604,
+          "original": "悪夢からの目覚め"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0081",
+      "context": {
+        "voice": "GC210036.ogg"
+      },
+      "original": "うわあっ！！",
+      "translation": "우와앗！！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14660,
+          "length": 12,
+          "key": 2930492604,
+          "original": "うわあっ！！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0082",
+      "context": {
+        "voice": "GC210036.ogg"
+      },
+      "original": "はあ……はあ……。",
+      "translation": "하아…… 하아…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14808,
+          "length": 18,
+          "key": 2930492604,
+          "original": "はあ……はあ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0083",
+      "context": {
+        "voice": "GC210036.ogg"
+      },
+      "original": "……こ……ここは……。",
+      "translation": "……여…… 여기는…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14900,
+          "length": 22,
+          "key": 2930492604,
+          "original": "……こ……ここは……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0084",
+      "context": {
+        "voice": "GC210100.ogg"
+      },
+      "original": "……大丈夫、タクト？",
+      "translation": "...괜찮아, 택트？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15072,
+          "length": 20,
+          "key": 2930492604,
+          "original": "……大丈夫、タクト？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0085",
+      "context": {
+        "voice": "GC210100.ogg"
+      },
+      "original": "ラン……ファ……。",
+      "translation": "란...파...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15164,
+          "length": 18,
+          "key": 2930492604,
+          "original": "ラン……ファ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0086",
+      "context": {
+        "voice": "GC210101.ogg"
+      },
+      "original": "顔中、汗びっしょりよ？　気持ちよさそうに寝てたからそのままにしといたんだけど、急にうなされて、びっくりしちゃった。",
+      "translation": "얼굴이 땀으로 범벅이야. 기분 좋게 자고 있길래 그대로 뒀는데, 갑자기 신음 소리를 내며 괴로워해서 깜짝 놀랐잖아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15296,
+          "length": 40,
+          "key": 2930492604,
+          "original": "顔中、汗びっしょりよ？　気持ちよさそうに"
+        },
+        {
+          "offset": 15344,
+          "length": 40,
+          "key": 2930492604,
+          "original": "寝てたからそのままにしといたんだけど、急"
+        },
+        {
+          "offset": 15392,
+          "length": 34,
+          "key": 2930492604,
+          "original": "にうなされて、びっくりしちゃった。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0087",
+      "context": {
+        "voice": "GC210102.ogg"
+      },
+      "original": "アタシの膝枕って、そんなに眠りづらいかなあ？　故郷の弟や妹たちは、よく安眠してたんだけど。",
+      "translation": "내 무릎베개가 그렇게 잠들기 힘든가？ 고향의 동생들은 잘만 잤는데 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15576,
+          "length": 40,
+          "key": 2930492604,
+          "original": "アタシの膝枕って、そんなに眠りづらいかな"
+        },
+        {
+          "offset": 15624,
+          "length": 40,
+          "key": 2930492604,
+          "original": "あ？　故郷の弟や妹たちは、よく安眠してた"
+        },
+        {
+          "offset": 15672,
+          "length": 10,
+          "key": 2930492604,
+          "original": "んだけど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0088",
+      "context": {
+        "voice": "GC210102.ogg"
+      },
+      "original": "ランファの……部屋……。",
+      "translation": "란파의... 방...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15756,
+          "length": 24,
+          "key": 2930492604,
+          "original": "ランファの……部屋……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0089",
+      "context": {
+        "voice": "GC210103.ogg"
+      },
+      "original": "で、いったいどうしたの、タクト？　はは～ん、さては怖い夢でも見たんでしょ。",
+      "translation": "그래서, 대체 왜 그래, 택트？ 흐음～ 혹시 무서운 꿈이라도 꾼 거야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15928,
+          "length": 40,
+          "key": 2930492604,
+          "original": "で、いったいどうしたの、タクト？　はは～"
+        },
+        {
+          "offset": 15976,
+          "length": 34,
+          "key": 2930492604,
+          "original": "ん、さては怖い夢でも見たんでしょ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0090",
+      "context": {
+        "voice": "GC210103.ogg"
+      },
+      "original": "ランファ……。",
+      "translation": "란파…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16084,
+          "length": 14,
+          "key": 2930492604,
+          "original": "ランファ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0091",
+      "context": {
+        "voice": "GC210104.ogg"
+      },
+      "original": "……どうしたの？　なんか、本当に変よ？",
+      "translation": "...왜 그래？ 뭔가 정말 이상해.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16248,
+          "length": 38,
+          "key": 2930492604,
+          "original": "……どうしたの？　なんか、本当に変よ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0092",
+      "context": {
+        "voice": "GC210105.ogg"
+      },
+      "original": "タクト……。",
+      "translation": "택트…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16492,
+          "length": 12,
+          "key": 2930492604,
+          "original": "タクト……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0093",
+      "context": {
+        "voice": "GC210105.ogg"
+      },
+      "original": "わっ……ラ、ランファ？",
+      "translation": "왓... 란, 란파？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16688,
+          "length": 22,
+          "key": 2930492604,
+          "original": "わっ……ラ、ランファ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0094",
+      "context": {
+        "voice": "GC210107.ogg"
+      },
+      "original": "よくわからないけど……大丈夫。アタシがほら、こうしてここにいるから。",
+      "translation": "잘은 모르겠지만... 괜찮아. 내가 이렇게 여기 있을 테니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17032,
+          "length": 40,
+          "key": 2930492604,
+          "original": "よくわからないけど……大丈夫。アタシがほ"
+        },
+        {
+          "offset": 17080,
+          "length": 28,
+          "key": 2930492604,
+          "original": "ら、こうしてここにいるから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0095",
+      "context": {
+        "voice": "GC210107.ogg"
+      },
+      "original": "…………………………ランファ。",
+      "translation": "…………………………란파.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17276,
+          "length": 30,
+          "key": 2930492604,
+          "original": "…………………………ランファ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0096",
+      "context": {
+        "voice": "GC210108.ogg"
+      },
+      "original": "……少しは落ち着いた？",
+      "translation": "...좀 진정됐어？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17420,
+          "length": 22,
+          "key": 2930492604,
+          "original": "……少しは落ち着いた？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0097",
+      "context": {
+        "voice": "GC210108.ogg"
+      },
+      "original": "選択肢・少しは落ち着いた？",
+      "translation": "선택지・조금은 진정됐어？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17464,
+          "length": 26,
+          "key": 2930492604,
+          "original": "選択肢・少しは落ち着いた？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0098",
+      "context": {
+        "voice": "GC210108.ogg"
+      },
+      "original": "あ、それは……。",
+      "translation": "아, 그건...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17564,
+          "length": 16,
+          "key": 2930492604,
+          "original": "あ、それは……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0099",
+      "context": {
+        "voice": "GC210108.ogg"
+      },
+      "original": "うん、落ち着いたよ。ありがとう、ランファ。",
+      "translation": "응, 진정됐어. 고마워, 란파.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17732,
+          "length": 42,
+          "key": 2930492604,
+          "original": "うん、落ち着いたよ。ありがとう、ランファ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0100",
+      "context": {
+        "voice": "GC210200.ogg"
+      },
+      "original": "そう？　よかった。",
+      "translation": "그래？ 다행이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17932,
+          "length": 18,
+          "key": 2930492604,
+          "original": "そう？　よかった。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0101",
+      "context": {
+        "voice": "GC210200.ogg"
+      },
+      "original": "……そうだよな。ランファは、ここにいるもんな。",
+      "translation": "...그렇겠지. 란파는 여기 있으니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18024,
+          "length": 40,
+          "key": 2930492604,
+          "original": "……そうだよな。ランファは、ここにいるも"
+        },
+        {
+          "offset": 18072,
+          "length": 6,
+          "key": 2930492604,
+          "original": "んな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0102",
+      "context": {
+        "voice": "GC210201.ogg"
+      },
+      "original": "あたりまえじゃない。もう怖くないでしょ？ほら、よしよし。",
+      "translation": "당연하잖아. 이제 무섭지 않지？ 자, 착하다 착해.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18192,
+          "length": 40,
+          "key": 2930492604,
+          "original": "あたりまえじゃない。もう怖くないでしょ？"
+        },
+        {
+          "offset": 18240,
+          "length": 16,
+          "key": 2930492604,
+          "original": "ほら、よしよし。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0103",
+      "context": {
+        "voice": "GC210201.ogg"
+      },
+      "original": "……頭、くすぐったいよ。",
+      "translation": "...머리, 간지러워.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18328,
+          "length": 24,
+          "key": 2930492604,
+          "original": "……頭、くすぐったいよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0104",
+      "context": {
+        "voice": "GC210202.ogg"
+      },
+      "original": "あら、タクトちゃんはナデナデされるのが嫌いでちゅか～？",
+      "translation": "어라, 택트 쨩은 쓰다듬 받는 거 싫어하는 거야～？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18464,
+          "length": 40,
+          "key": 2930492604,
+          "original": "あら、タクトちゃんはナデナデされるのが嫌"
+        },
+        {
+          "offset": 18512,
+          "length": 14,
+          "key": 2930492604,
+          "original": "いでちゅか～？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0105",
+      "context": {
+        "voice": "GC210202.ogg"
+      },
+      "original": "……いや……ありがとう……その……もう平気だから……。",
+      "translation": "...아니... 고마워... 그게... 이제 괜찮으니까...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18600,
+          "length": 40,
+          "key": 2930492604,
+          "original": "……いや……ありがとう……その……もう平"
+        },
+        {
+          "offset": 18648,
+          "length": 14,
+          "key": 2930492604,
+          "original": "気だから……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0106",
+      "context": {
+        "voice": "GC210203.ogg"
+      },
+      "original": "もういいの？　甘えん坊なダーリンも新鮮だったんだけどなあ。",
+      "translation": "이제 된 거야？ 응석받이 달링도 신선했을 텐데 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18868,
+          "length": 42,
+          "key": 2930492604,
+          "original": "もういいの？　甘えん坊なダーリンも新鮮だっ"
+        },
+        {
+          "offset": 18920,
+          "length": 16,
+          "key": 2930492604,
+          "original": "たんだけどなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0107",
+      "context": {
+        "voice": "GC210203.ogg"
+      },
+      "original": "本当にもう平気だから。うん、落ち着いた。",
+      "translation": "정말 이제 괜찮다니까. 응, 진정됐어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19008,
+          "length": 40,
+          "key": 2930492604,
+          "original": "本当にもう平気だから。うん、落ち着いた。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0108",
+      "context": {
+        "voice": "GC210203.ogg"
+      },
+      "original": "あ～、その……悪かったね、ランファ。心配……かけちゃったみたいで。",
+      "translation": "아～ 그게... 미안해, 란파. 걱정... 끼친 것 같아서.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19120,
+          "length": 40,
+          "key": 2930492604,
+          "original": "あ～、その……悪かったね、ランファ。心配"
+        },
+        {
+          "offset": 19168,
+          "length": 26,
+          "key": 2930492604,
+          "original": "……かけちゃったみたいで。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0109",
+      "context": {
+        "voice": "GC210204.ogg"
+      },
+      "original": "もう、何言ってるのよ。アタシたちラブラブカップルなんだから、これぐらい全然問題ないわよ。",
+      "translation": "정말, 무슨 소리를 하는 거야. 우린 러브러브 커플이니까 이 정도는 전혀 문제없어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19344,
+          "length": 40,
+          "key": 2930492604,
+          "original": "もう、何言ってるのよ。アタシたちラブラブ"
+        },
+        {
+          "offset": 19392,
+          "length": 40,
+          "key": 2930492604,
+          "original": "カップルなんだから、これぐらい全然問題な"
+        },
+        {
+          "offset": 19440,
+          "length": 8,
+          "key": 2930492604,
+          "original": "いわよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0110",
+      "context": {
+        "voice": "GC210205.ogg"
+      },
+      "original": "てゆーか、足んない。もっともっと、タクトといちゃいちゃしたいの～。",
+      "translation": "그보다 부족해. 좀 더 좀 더 택트랑 꽁냥거리고 싶단 말이야～\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19596,
+          "length": 40,
+          "key": 2930492604,
+          "original": "てゆーか、足んない。もっともっと、タクト"
+        },
+        {
+          "offset": 19644,
+          "length": 26,
+          "key": 2930492604,
+          "original": "といちゃいちゃしたいの～。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0111",
+      "context": {
+        "voice": "GC210205.ogg"
+      },
+      "original": "ははははは。",
+      "translation": "하하하하하.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19744,
+          "length": 12,
+          "key": 2930492604,
+          "original": "ははははは。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0112",
+      "context": {
+        "voice": "GC210206.ogg"
+      },
+      "original": "むう～。なに笑ってるのよう。",
+      "translation": "으음～ 뭘 웃고 있는 거야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19904,
+          "length": 28,
+          "key": 2930492604,
+          "original": "むう～。なに笑ってるのよう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0113",
+      "context": {
+        "voice": "GC210206.ogg"
+      },
+      "original": "いや、やっぱりランファは可愛いな……って思ってね。ホント、宇宙一可愛い、オレの恋人だよ。",
+      "translation": "아니, 역시 란파는 귀엽구나... 싶어서 말이야. 정말 우주 제일 귀여운 내 연인이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20004,
+          "length": 40,
+          "key": 2930492604,
+          "original": "いや、やっぱりランファは可愛いな……って"
+        },
+        {
+          "offset": 20052,
+          "length": 40,
+          "key": 2930492604,
+          "original": "思ってね。ホント、宇宙一可愛い、オレの恋"
+        },
+        {
+          "offset": 20100,
+          "length": 8,
+          "key": 2930492604,
+          "original": "人だよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0114",
+      "context": {
+        "voice": "GC210207.ogg"
+      },
+      "original": "も、もう、いや～ん、そんな本当のことばっかり言わないでえ～。ダーリンのい・ぢ・わ・る～★",
+      "translation": "저, 정말 싫어～ 그런 사실만 말하지 마아～. 달링은 심・술・쟁・이～★",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20256,
+          "length": 40,
+          "key": 2930492604,
+          "original": "も、もう、いや～ん、そんな本当のことばっ"
+        },
+        {
+          "offset": 20304,
+          "length": 42,
+          "key": 2930492604,
+          "original": "かり言わないでえ～。ダーリンのい・ぢ・わ・"
+        },
+        {
+          "offset": 20356,
+          "length": 6,
+          "key": 2930492604,
+          "original": "る～★"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0115",
+      "context": {
+        "voice": "GC210207.ogg"
+      },
+      "original": "ごめん、情けないとこ見せちゃって。もう大丈夫だから。",
+      "translation": "미안, 못난 모습을 보여줬네. 이제 괜찮으니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20444,
+          "length": 40,
+          "key": 2930492604,
+          "original": "ごめん、情けないとこ見せちゃって。もう大"
+        },
+        {
+          "offset": 20492,
+          "length": 12,
+          "key": 2930492604,
+          "original": "丈夫だから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0116",
+      "context": {
+        "voice": "GC210208.ogg"
+      },
+      "original": "……ランファ？",
+      "translation": "……란파？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20708,
+          "length": 14,
+          "key": 2930492604,
+          "original": "……ランファ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0117",
+      "context": {
+        "voice": "GC210209.ogg"
+      },
+      "original": "……いいのよ……。",
+      "translation": "...괜찮아...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20836,
+          "length": 18,
+          "key": 2930492604,
+          "original": "……いいのよ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0118",
+      "context": {
+        "voice": "GC210209.ogg"
+      },
+      "original": "え……？",
+      "translation": "에……？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20928,
+          "length": 8,
+          "key": 2930492604,
+          "original": "え……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0119",
+      "context": {
+        "voice": "GC210210.ogg"
+      },
+      "original": "いいのよ、情けなくたって。弱音をはいたっていいじゃない。",
+      "translation": "괜찮아, 못나도. 약한 소리 좀 하면 어때.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21048,
+          "length": 40,
+          "key": 2930492604,
+          "original": "いいのよ、情けなくたって。弱音をはいたっ"
+        },
+        {
+          "offset": 21096,
+          "length": 16,
+          "key": 2930492604,
+          "original": "ていいじゃない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0120",
+      "context": {
+        "voice": "GC210211.ogg"
+      },
+      "original": "タクトのお仕事は大変で、誰よりも苦労してる。落ち込みたい時があっても、まわりには平気そうに見せてなきゃいけない……。",
+      "translation": "택트의 일은 힘들고 누구보다 고생하고 있어. 낙담하고 싶을 때가 있어도 주변에는 아무렇지 않은 척 보여줘야 하고...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21224,
+          "length": 40,
+          "key": 2930492604,
+          "original": "タクトのお仕事は大変で、誰よりも苦労して"
+        },
+        {
+          "offset": 21272,
+          "length": 40,
+          "key": 2930492604,
+          "original": "る。落ち込みたい時があっても、まわりには"
+        },
+        {
+          "offset": 21320,
+          "length": 36,
+          "key": 2930492604,
+          "original": "平気そうに見せてなきゃいけない……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0121",
+      "context": {
+        "voice": "GC210212.ogg"
+      },
+      "original": "でも、いいの。ふたりっきりの時には……アタシの前では、司令官であり続けなくてもいいの。",
+      "translation": "하지만 괜찮아. 둘만의 시간일 때는... 내 앞에서는 사령관으로 계속 있지 않아도 돼.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21468,
+          "length": 40,
+          "key": 2930492604,
+          "original": "でも、いいの。ふたりっきりの時には……ア"
+        },
+        {
+          "offset": 21516,
+          "length": 40,
+          "key": 2930492604,
+          "original": "タシの前では、司令官であり続けなくてもい"
+        },
+        {
+          "offset": 21564,
+          "length": 6,
+          "key": 2930492604,
+          "original": "いの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0122",
+      "context": {
+        "voice": "GC210213.ogg"
+      },
+      "original": "タクトがそんなところを見せるのは、アタシだけ。……それが、嬉しいのよ。",
+      "translation": "택트가 그런 모습을 보이는 건 나뿐이야. ...그게, 기쁜걸.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21684,
+          "length": 40,
+          "key": 2930492604,
+          "original": "タクトがそんなところを見せるのは、アタシ"
+        },
+        {
+          "offset": 21732,
+          "length": 30,
+          "key": 2930492604,
+          "original": "だけ。……それが、嬉しいのよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0123",
+      "context": {
+        "voice": "GC210213.ogg"
+      },
+      "original": "ランファ……。",
+      "translation": "란파…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21836,
+          "length": 14,
+          "key": 2930492604,
+          "original": "ランファ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0124",
+      "context": {
+        "voice": "GC210213.ogg"
+      },
+      "original": "……ありがとう。君はやっぱり最高の恋人だよ、ハニー。",
+      "translation": "...고마워. 너는 역시 최고의 연인이야, 허니.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21924,
+          "length": 40,
+          "key": 2930492604,
+          "original": "……ありがとう。君はやっぱり最高の恋人だ"
+        },
+        {
+          "offset": 21972,
+          "length": 12,
+          "key": 2930492604,
+          "original": "よ、ハニー。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0125",
+      "context": {
+        "voice": "GC210214.ogg"
+      },
+      "original": "うふっ、と～ぜんでしょ！　アタシたちは、銀河最高・最強のカップルなんだから！",
+      "translation": "우훗, 당연하지！ 우리는 은하 최고・최강의 커플이니까！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22096,
+          "length": 40,
+          "key": 2930492604,
+          "original": "うふっ、と～ぜんでしょ！　アタシたちは、"
+        },
+        {
+          "offset": 22144,
+          "length": 36,
+          "key": 2930492604,
+          "original": "銀河最高・最強のカップルなんだから！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0126",
+      "context": {
+        "voice": "GC210214.ogg"
+      },
+      "original": "ああ、怖い気持ちはなくなった。だけど……。",
+      "translation": "아아, 무서운 마음은 사라졌어. 하지만...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22316,
+          "length": 42,
+          "key": 2930492604,
+          "original": "ああ、怖い気持ちはなくなった。だけど……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0127",
+      "context": {
+        "voice": "GC210215.ogg"
+      },
+      "original": "だけど……？",
+      "translation": "하지만...？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22472,
+          "length": 12,
+          "key": 2930492604,
+          "original": "だけど……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0128",
+      "context": {
+        "voice": "GC210215.ogg"
+      },
+      "original": "いや、その、ランファの身体はやわらかくて、いい匂いだなー、とか思って。",
+      "translation": "아니, 그게, 란파의 몸은 부드럽고 좋은 냄새가 나네～ 라고 생각해서.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22556,
+          "length": 42,
+          "key": 2930492604,
+          "original": "いや、その、ランファの身体はやわらかくて、"
+        },
+        {
+          "offset": 22608,
+          "length": 28,
+          "key": 2930492604,
+          "original": "いい匂いだなー、とか思って。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0129",
+      "context": {
+        "voice": "GC210216.ogg"
+      },
+      "original": "もう、タクトったら！　ひとがせっかく心配してあげてるのに！",
+      "translation": "정말, 택트도 참！ 사람이 겨우 걱정해 주고 있는데！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22884,
+          "length": 40,
+          "key": 2930492604,
+          "original": "もう、タクトったら！　ひとがせっかく心配"
+        },
+        {
+          "offset": 22932,
+          "length": 18,
+          "key": 2930492604,
+          "original": "してあげてるのに！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0130",
+      "context": {
+        "voice": "GC210217.ogg"
+      },
+      "original": "それだけ元気だったら、もうやさしくしてあげなくても大丈夫よね。",
+      "translation": "그 정도로 기운이 넘치면 이제 다정하게 안 해줘도 되겠네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23064,
+          "length": 40,
+          "key": 2930492604,
+          "original": "それだけ元気だったら、もうやさしくしてあ"
+        },
+        {
+          "offset": 23112,
+          "length": 22,
+          "key": 2930492604,
+          "original": "げなくても大丈夫よね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0131",
+      "context": {
+        "voice": "GC210217.ogg"
+      },
+      "original": "ええっ、そんな～！",
+      "translation": "에엣, 말도안돼～！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23208,
+          "length": 18,
+          "key": 2930492604,
+          "original": "ええっ、そんな～！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0132",
+      "context": {
+        "voice": "GC210217.ogg"
+      },
+      "original": "休息の終わり",
+      "translation": "휴식의 끝",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23248,
+          "length": 12,
+          "key": 2930492604,
+          "original": "休息の終わり"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0133",
+      "context": {
+        "voice": "GC110213.ogg"
+      },
+      "original": "いつまでそこにいるつもりだ、タクト。もうとっくに休憩時間は終わりだ。さっさとブリッジに戻れ。",
+      "translation": "언제까지 거기 있을 셈이냐, 택트. 벌써 한참 전에 휴식 시간은 끝났다. 얼른 함교로 돌아가라.",
+      "state": "reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23480,
+          "length": 36,
+          "key": 2930492604,
+          "original": "いつまでそこにいるつもりだ、タクト。"
+        },
+        {
+          "offset": 23524,
+          "length": 40,
+          "key": 2930492604,
+          "original": "もうとっくに休憩時間は終わりだ。さっさと"
+        },
+        {
+          "offset": 23572,
+          "length": 16,
+          "key": 2930492604,
+          "original": "ブリッジに戻れ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0134",
+      "context": {
+        "voice": "GC210219.ogg"
+      },
+      "original": "……あーあ、クールダラス副司令も野暮なんだから。",
+      "translation": "…아아,쿨다라스부사령관님도참눈치없으시다니까.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23764,
+          "length": 40,
+          "key": 2930492604,
+          "original": "……あーあ、クールダラス副司令も野暮なん"
+        },
+        {
+          "offset": 23812,
+          "length": 8,
+          "key": 2930492604,
+          "original": "だから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0135",
+      "context": {
+        "voice": "GC210219.ogg"
+      },
+      "original": "仕方がないさ、今は任務中だからね。",
+      "translation": "어쩔 수 없지, 지금은 임무중이니까.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23892,
+          "length": 34,
+          "key": 2930492604,
+          "original": "仕方がないさ、今は任務中だからね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0136",
+      "context": {
+        "voice": "GC210219.ogg"
+      },
+      "original": "とはいえ、ごめんねランファ。せっかく時間を作ったってのに、途中で眠っちゃって。",
+      "translation": "그렇지만 미안해 란파. 어렵게 시간을 냈는데 도중에 잠들어 버려서.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24000,
+          "length": 40,
+          "key": 2930492604,
+          "original": "とはいえ、ごめんねランファ。せっかく時間"
+        },
+        {
+          "offset": 24048,
+          "length": 38,
+          "key": 2930492604,
+          "original": "を作ったってのに、途中で眠っちゃって。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0137",
+      "context": {
+        "voice": "GC210220.ogg"
+      },
+      "original": "気にしなくていいわよ。タクトが忙しいのはわかってるから。",
+      "translation": "신경 쓰지 않아도 돼. 택트가 바쁘다는 건 알고 있으니까.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24236,
+          "length": 40,
+          "key": 2930492604,
+          "original": "気にしなくていいわよ。タクトが忙しいのは"
+        },
+        {
+          "offset": 24284,
+          "length": 16,
+          "key": 2930492604,
+          "original": "わかってるから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0138",
+      "context": {
+        "voice": "GC210221.ogg"
+      },
+      "original": "タクトは司令官だもん。アタシだけのものじゃないんだから。",
+      "translation": "택트는 사령관인걸. 나만의 것이 아니니까 말이야.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24448,
+          "length": 42,
+          "key": 2930492604,
+          "original": "タクトは司令官だもん。アタシだけのものじゃ"
+        },
+        {
+          "offset": 24500,
+          "length": 14,
+          "key": 2930492604,
+          "original": "ないんだから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0139",
+      "context": {
+        "voice": "GC210221.ogg"
+      },
+      "original": "ランファ……。",
+      "translation": "란파…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24588,
+          "length": 14,
+          "key": 2930492604,
+          "original": "ランファ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0140",
+      "context": {
+        "voice": "GC210222.ogg"
+      },
+      "original": "そのかわり、この埋め合わせはしてもらうからね。",
+      "translation": "그 대신, 이 보상은 꼭 받아낼 테니까 말이지.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24716,
+          "length": 40,
+          "key": 2930492604,
+          "original": "そのかわり、この埋め合わせはしてもらうか"
+        },
+        {
+          "offset": 24764,
+          "length": 6,
+          "key": 2930492604,
+          "original": "らね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0141",
+      "context": {
+        "voice": "GC210222.ogg"
+      },
+      "original": "ああ、きっと今度……。",
+      "translation": "아아, 분명 다음에…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24844,
+          "length": 22,
+          "key": 2930492604,
+          "original": "ああ、きっと今度……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0142",
+      "context": {
+        "voice": "GC210223.ogg"
+      },
+      "original": "ダーメ。今度なんて許さない。今ここで、埋め合わせをしていくの。",
+      "translation": "안 돼. 다음 같은 건 용서 못 해. 지금 여기서 보상해 줘.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25016,
+          "length": 40,
+          "key": 2930492604,
+          "original": "ダーメ。今度なんて許さない。今ここで、埋"
+        },
+        {
+          "offset": 25064,
+          "length": 22,
+          "key": 2930492604,
+          "original": "め合わせをしていくの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0143",
+      "context": {
+        "voice": "GC210223.ogg"
+      },
+      "original": "ええと……。",
+      "translation": "어라…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25160,
+          "length": 12,
+          "key": 2930492604,
+          "original": "ええと……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0144",
+      "context": {
+        "voice": "GC210223.ogg"
+      },
+      "original": "チュッ★",
+      "translation": "쪽★",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25336,
+          "length": 8,
+          "key": 2930492604,
+          "original": "チュッ★"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0145",
+      "context": {
+        "voice": "GC210223.ogg"
+      },
+      "original": "これでいいかな、マイハニー？",
+      "translation": "이러면 됐을까, 마이 허니？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25484,
+          "length": 28,
+          "key": 2930492604,
+          "original": "これでいいかな、マイハニー？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0146",
+      "context": {
+        "voice": "GC210224.ogg"
+      },
+      "original": "ええ、マイダーリン！　じゃあ、お仕事頑張ってね★",
+      "translation": "응, 마이 달링！ 그럼, 일 힘내 줘★",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25660,
+          "length": 42,
+          "key": 2930492604,
+          "original": "ええ、マイダーリン！　じゃあ、お仕事頑張っ"
+        },
+        {
+          "offset": 25712,
+          "length": 6,
+          "key": 2930492604,
+          "original": "てね★"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0007a000:isb:0147",
+      "context": {
+        "voice": "GC210224.ogg"
+      },
+      "original": "うん。じゃあ、また。あと……いろいろありがとう、ランファ。",
+      "translation": "응. 그럼, 또 봐. 그리고…… 여러 가지로 고마워, 란파.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25792,
+          "length": 20,
+          "key": 2930492604,
+          "original": "うん。じゃあ、また。"
+        },
+        {
+          "offset": 25820,
+          "length": 38,
+          "key": 2930492604,
+          "original": "あと……いろいろありがとう、ランファ。"
+        }
+      ]
+    }
+  ]
+}

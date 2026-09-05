@@ -1,0 +1,309 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_000e6000.txt",
+    "encoding": "cp932",
+    "sha256": "e864aefabbf8baf91869fcecd4b5e712fd05681527029bab8da2d0317199729e",
+    "tagged_records": 28,
+    "decoded_records": 28,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 3616939953,
+        "source": "header",
+        "end": 2616
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "いや、その必要はない。……始めよう。",
+      "translation": "아니, 그럴 필요 없다. ……시작하지.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 76,
+          "length": 36,
+          "key": 3616939953,
+          "original": "いや、その必要はない。……始めよう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "ああ、ところでランファ……。",
+      "translation": "아아, 그런데 란파…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 240,
+          "length": 28,
+          "key": 3616939953,
+          "original": "ああ、ところでランファ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0003",
+      "context": {
+        "voice": "GC278009.ogg"
+      },
+      "original": "なに？",
+      "translation": "뭐？",
+      "state": "shortened-reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 460,
+          "length": 6,
+          "key": 3616939953,
+          "original": "なに？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0004",
+      "context": {
+        "voice": "GC278009.ogg"
+      },
+      "original": "言うまでもないと思うけど……もちろん、わかってるよね？",
+      "translation": "말할 필요도 없겠지만…… 물론, 알고 있겠지？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 540,
+          "length": 40,
+          "key": 3616939953,
+          "original": "言うまでもないと思うけど……もちろん、わ"
+        },
+        {
+          "offset": 588,
+          "length": 14,
+          "key": 3616939953,
+          "original": "かってるよね？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0005",
+      "context": {
+        "voice": "GC278010.ogg"
+      },
+      "original": "ふふっ、あったりまえでしょ？",
+      "translation": "후훗, 당연하잖아？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 716,
+          "length": 28,
+          "key": 3616939953,
+          "original": "ふふっ、あったりまえでしょ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0006",
+      "context": {
+        "voice": "GC278011.ogg"
+      },
+      "original": "いいないいな～。タクトさんもランファも、ふたりですっかり通じ合っちゃって。",
+      "translation": "좋네 좋아～. 택트 씨도 란파도, 둘이서 완전히 통해버렸네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 892,
+          "length": 40,
+          "key": 3616939953,
+          "original": "いいないいな～。タクトさんもランファも、"
+        },
+        {
+          "offset": 940,
+          "length": 34,
+          "key": 3616939953,
+          "original": "ふたりですっかり通じ合っちゃって。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0007",
+      "context": {
+        "voice": "GC178012.ogg"
+      },
+      "original": "いちゃつくんだったら、帰りにいくらでもできるだろう？",
+      "translation": "꽁냥거릴 거라면, 돌아가는 길에 얼마든지 할수있잖아？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1124,
+          "length": 40,
+          "key": 3616939953,
+          "original": "いちゃつくんだったら、帰りにいくらでもで"
+        },
+        {
+          "offset": 1172,
+          "length": 12,
+          "key": 3616939953,
+          "original": "きるだろう？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0008",
+      "context": {
+        "voice": "GC278013.ogg"
+      },
+      "original": "その時はいくらでも好きにしてさしあげますので、今ぐらいはご遠慮くださいな。",
+      "translation": "그때는 마음껏 해드릴 테니까, 지금만큼은 사양해 주세요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1332,
+          "length": 40,
+          "key": 3616939953,
+          "original": "その時はいくらでも好きにしてさしあげます"
+        },
+        {
+          "offset": 1380,
+          "length": 34,
+          "key": 3616939953,
+          "original": "ので、今ぐらいはご遠慮くださいな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0009",
+      "context": {
+        "voice": "GC278014.ogg"
+      },
+      "original": "そんなこと言っちゃっていいの？　前以上にイチャイチャしちゃうわよ？",
+      "translation": "그런 말을 하다니 괜찮아？ 전보다 더 꽁냥거릴 거야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1564,
+          "length": 40,
+          "key": 3616939953,
+          "original": "そんなこと言っちゃっていいの？　前以上に"
+        },
+        {
+          "offset": 1612,
+          "length": 26,
+          "key": 3616939953,
+          "original": "イチャイチャしちゃうわよ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0010",
+      "context": {
+        "voice": "GC278014.ogg"
+      },
+      "original": "もう、みんなが再起不能になるぐらいにね。",
+      "translation": "정말, 모두가 재기불능이 될 정도로말이야.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1712,
+          "length": 40,
+          "key": 3616939953,
+          "original": "もう、みんなが再起不能になるぐらいにね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0011",
+      "context": {
+        "voice": "GC278015.ogg"
+      },
+      "original": "お、お手柔らかにお願いします……。",
+      "translation": "부, 부디 살살 부탁드립니다…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1900,
+          "length": 34,
+          "key": 3616939953,
+          "original": "お、お手柔らかにお願いします……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0012",
+      "context": {
+        "voice": "GC278015.ogg"
+      },
+      "original": "まあ、冗談はともかく、司令官として、やるべきことは全てやったつもりだ。",
+      "translation": "뭐, 농담은 제쳐두고, 사령관으로서 할 일은 모두 했다고 생각한다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2064,
+          "length": 40,
+          "key": 3616939953,
+          "original": "まあ、冗談はともかく、司令官として、やる"
+        },
+        {
+          "offset": 2112,
+          "length": 30,
+          "key": 3616939953,
+          "original": "べきことは全てやったつもりだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0013",
+      "context": {
+        "voice": "GC278015.ogg"
+      },
+      "original": "あとは任せたよ、みんな！",
+      "translation": "남은 건 맡길게, 모두！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2216,
+          "length": 24,
+          "key": 3616939953,
+          "original": "あとは任せたよ、みんな！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000e6000:isb:0014",
+      "context": {
+        "voice": "GC938006.ogg"
+      },
+      "original": "了解！",
+      "translation": "네！",
+      "state": "shortened-reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2352,
+          "length": 6,
+          "key": 3616939953,
+          "original": "了解！"
+        }
+      ]
+    }
+  ]
+}

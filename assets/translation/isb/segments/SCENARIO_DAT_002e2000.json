@@ -1,0 +1,520 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_002e2000.txt",
+    "encoding": "cp932",
+    "sha256": "3f3c7ca7ecbfdd27630f2820d5518c6703f07cac547611cb2e3d61c7ecec9d52",
+    "tagged_records": 70,
+    "decoded_records": 9,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 674074370,
+        "source": "header",
+        "end": 5252
+      },
+      {
+        "start": 5252,
+        "key_offset": 5196,
+        "key": 263170,
+        "source": "integer_literal",
+        "end": 7736
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "誰を選ぶのか、君は！",
+      "translation": "넌 누구를 고르지！",
+      "state": "shortened-reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 40,
+          "length": 20,
+          "key": 674074370,
+          "original": "誰を選ぶのか、君は！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "ミルフィーユ",
+      "translation": "밀피유",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 96,
+          "length": 12,
+          "key": 674074370,
+          "original": "ミルフィーユ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0003",
+      "context": {
+        "voice": null
+      },
+      "original": "ランファ",
+      "translation": "란파",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 116,
+          "length": 8,
+          "key": 674074370,
+          "original": "ランファ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0004",
+      "context": {
+        "voice": null
+      },
+      "original": "ミント",
+      "translation": "민트",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 132,
+          "length": 6,
+          "key": 674074370,
+          "original": "ミント"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0005",
+      "context": {
+        "voice": null
+      },
+      "original": "フォルテ",
+      "translation": "포르테",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 148,
+          "length": 8,
+          "key": 674074370,
+          "original": "フォルテ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0006",
+      "context": {
+        "voice": null
+      },
+      "original": "違う！",
+      "translation": "아냐！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 164,
+          "length": 6,
+          "key": 674074370,
+          "original": "違う！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0007",
+      "context": {
+        "voice": null
+      },
+      "original": "ヴァニラ",
+      "translation": "바닐라",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 304,
+          "length": 8,
+          "key": 674074370,
+          "original": "ヴァニラ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0008",
+      "context": {
+        "voice": null
+      },
+      "original": "ちとせ",
+      "translation": "치토세",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 320,
+          "length": 6,
+          "key": 674074370,
+          "original": "ちとせ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0009",
+      "context": {
+        "voice": null
+      },
+      "original": "違う！",
+      "translation": "아냐！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 336,
+          "length": 6,
+          "key": 674074370,
+          "original": "違う！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0010",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾍ]抻ﾍ]抻ﾌi懃ﾍ*果ﾜp掵ﾘ+戡",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 1180,
+          "length": 24,
+          "key": 674074370,
+          "original": "ﾍ]抻ﾍ]抻ﾌi懃ﾍ*果ﾜp掵ﾘ+戡"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0011",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾍH拿ﾍ+掟ﾍ+掟ﾍ+掟ﾍ+掟ﾍ+橦",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 1608,
+          "length": 24,
+          "key": 674074370,
+          "original": "ﾍH拿ﾍ+掟ﾍ+掟ﾍ+掟ﾍ+掟ﾍ+橦"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0012",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾍ]抻ﾍ]抻ﾌi懃ﾍ*果ﾜp掵ﾘ+戡",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 1684,
+          "length": 24,
+          "key": 674074370,
+          "original": "ﾍ]抻ﾍ]抻ﾌi懃ﾍ*果ﾜp掵ﾘ+戡"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0013",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾍH拿ﾍ+掟ﾍ+掟ﾍ+掟ﾍ+掟ﾍ+橦",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 2136,
+          "length": 24,
+          "key": 674074370,
+          "original": "ﾍH拿ﾍ+掟ﾍ+掟ﾍ+掟ﾍ+掟ﾍ+橦"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0014",
+      "context": {
+        "voice": null
+      },
+      "original": "Qﾔ\u0016AQｭ\u0015､F､\u0016TQｵ\u00169Qｱ\u0015ｬ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 2632,
+          "length": 20,
+          "key": 674074370,
+          "original": "Qﾔ\u0016AQｭ\u0015､F､\u0016TQｵ\u00169Qｱ\u0015ｬ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0015",
+      "context": {
+        "voice": null
+      },
+      "original": "Qﾕ\u0015､_ｺ\u0016\\Qｺ\u0016JQﾗ\u0015ｬRz\u0006hRU\u0018LQｪ\u0016LQｼ\u0016!Qﾛ\u0016GRy",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 2920,
+          "length": 16,
+          "key": 674074370,
+          "original": "Qﾕ\u0015､_ｺ\u0016\\Qｺ\u0016JQﾗ\u0015ｬ"
+        },
+        {
+          "offset": 2944,
+          "length": 22,
+          "key": 674074370,
+          "original": "Rz\u0006hRU\u0018LQｪ\u0016LQｼ\u0016!Qﾛ\u0016GRy"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0016",
+      "context": {
+        "voice": null
+      },
+      "original": "Qｱ\u0016NQﾛ\u0016\rP~\u0015ｾPn\u0017nRZ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 3308,
+          "length": 18,
+          "key": 674074370,
+          "original": "Qｱ\u0016NQﾛ\u0016\rP~\u0015ｾPn\u0017nRZ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0017",
+      "context": {
+        "voice": null
+      },
+      "original": "Ps\u0017｣PU\u0017｣P\u0017ｲRR\u0017娜\u0017３R\u0017ｽPP\u0017⑰s\u0015PZ\u0017vRZ\u0015ｬ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 3416,
+          "length": 40,
+          "key": 674074370,
+          "original": "Ps\u0017｣PU\u0017｣P\u0017ｲRR\u0017娜\u0017３R\u0017ｽPP\u0017⑰s\u0015PZ\u0017vRZ\u0015ｬ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0018",
+      "context": {
+        "voice": null
+      },
+      "original": "Q｢\u0016\u000fQﾖ\u001bｬQ\u0016\rQｭ\u0015ｬ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 3540,
+          "length": 16,
+          "key": 674074370,
+          "original": "Q｢\u0016\u000fQﾖ\u001bｬQ\u0016\rQｭ\u0015ｬ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0019",
+      "context": {
+        "voice": null
+      },
+      "original": "PZ\u0017ｽRZ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 3704,
+          "length": 6,
+          "key": 674074370,
+          "original": "PZ\u0017ｽRZ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0020",
+      "context": {
+        "voice": null
+      },
+      "original": "ｪｦg6",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 3892,
+          "length": 4,
+          "key": 674074370,
+          "original": "ｪｦg6"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0021",
+      "context": {
+        "voice": null
+      },
+      "original": "ｪｦg,ｹ'g@",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 3904,
+          "length": 8,
+          "key": 674074370,
+          "original": "ｪｦg,ｹ'g@"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0022",
+      "context": {
+        "voice": null
+      },
+      "original": "ｨｱ4ﾙ\u0011愴ﾒeЯﾇ甥\u0012bｱk",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 4876,
+          "length": 18,
+          "key": 674074370,
+          "original": "ｨｱ4ﾙ\u0011愴ﾒeЯﾇ甥\u0012bｱk"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0023",
+      "context": {
+        "voice": null
+      },
+      "original": "ｬ趺'ｬ\u001b襁ｮ&",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 5172,
+          "length": 10,
+          "key": 674074370,
+          "original": "ｬ趺'ｬ\u001b襁ｮ&"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0024",
+      "context": {
+        "voice": null
+      },
+      "original": "ｬ堽\u000fｬπﾕ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 5252,
+          "length": 8,
+          "key": 263170,
+          "original": "ｬ堽\u000fｬπﾕ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0025",
+      "context": {
+        "voice": null
+      },
+      "original": "ｬ昔ﾔｬoﾌｭ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 5328,
+          "length": 10,
+          "key": 263170,
+          "original": "ｬ昔ﾔｬoﾌｭ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0026",
+      "context": {
+        "voice": null
+      },
+      "original": "ｬpﾌﾜｬ捨\u0015ｮｭ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 5408,
+          "length": 10,
+          "key": 263170,
+          "original": "ｬpﾌﾜｬ捨\u0015ｮｭ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e2000:isb:0027",
+      "context": {
+        "voice": null
+      },
+      "original": "ｭ[ﾍZｭ]ﾎﾕ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 5488,
+          "length": 8,
+          "key": 263170,
+          "original": "ｭ[ﾍZｭ]ﾎﾕ"
+        }
+      ]
+    }
+  ]
+}

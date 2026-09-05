@@ -1,0 +1,2338 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_001a5000.txt",
+    "encoding": "cp932",
+    "sha256": "edf4039676faf447074d6b4800a83c0fb255d4ad9f6fbcb69bba694973e5dd3c",
+    "tagged_records": 228,
+    "decoded_records": 228,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 4167330692,
+        "source": "header",
+        "end": 8160
+      },
+      {
+        "start": 8160,
+        "key_offset": 8144,
+        "key": 2723357974,
+        "source": "integer_literal",
+        "end": 18668
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "フォルテの部屋・愚痴を聞く",
+      "translation": "포르테의 방・푸념 듣기\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16,
+          "length": 26,
+          "key": 4167330692,
+          "original": "フォルテの部屋・愚痴を聞く"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "フォルテ、起きてるかい？",
+      "translation": "포르테, 깨어 있나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 184,
+          "length": 24,
+          "key": 4167330692,
+          "original": "フォルテ、起きてるかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0003",
+      "context": {
+        "voice": "GC475000.ogg"
+      },
+      "original": "ん？　ああ、タクトかい？",
+      "translation": "응？ 아아, 택트인가？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 400,
+          "length": 24,
+          "key": 4167330692,
+          "original": "ん？　ああ、タクトかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0004",
+      "context": {
+        "voice": "GC475000.ogg"
+      },
+      "original": "ご機嫌伺いに来てみたんだけど。",
+      "translation": "안부 좀 물으러 와 봤어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 496,
+          "length": 30,
+          "key": 4167330692,
+          "original": "ご機嫌伺いに来てみたんだけど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0005",
+      "context": {
+        "voice": "GC475001.ogg"
+      },
+      "original": "ああ、そうかいそうかい。それじゃあそこらへん適当に座ってくつろいでおくれ。",
+      "translation": "아아, 그렇군 그래. 그럼 거기 적당히 앉아서 쉬게나.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 676,
+          "length": 40,
+          "key": 4167330692,
+          "original": "ああ、そうかいそうかい。それじゃあそこら"
+        },
+        {
+          "offset": 724,
+          "length": 34,
+          "key": 4167330692,
+          "original": "へん適当に座ってくつろいでおくれ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0006",
+      "context": {
+        "voice": "GC475001.ogg"
+      },
+      "original": "うん、邪魔するよ。",
+      "translation": "응, 실례할게.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 832,
+          "length": 18,
+          "key": 4167330692,
+          "original": "うん、邪魔するよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0007",
+      "context": {
+        "voice": "GC475002.ogg"
+      },
+      "original": "飲むもんは煮つめたコーヒーしかないけど、それでいいかい？",
+      "translation": "마실 거라곤 진하게 내린 커피뿐인데, 괜찮겠나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1000,
+          "length": 40,
+          "key": 4167330692,
+          "original": "飲むもんは煮つめたコーヒーしかないけど、"
+        },
+        {
+          "offset": 1048,
+          "length": 16,
+          "key": 4167330692,
+          "original": "それでいいかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0008",
+      "context": {
+        "voice": "GC475002.ogg"
+      },
+      "original": "うん、ありがとう。いただくよ。",
+      "translation": "응, 고마워. 잘 마실게.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1136,
+          "length": 30,
+          "key": 4167330692,
+          "original": "うん、ありがとう。いただくよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0009",
+      "context": {
+        "voice": "GC475003.ogg"
+      },
+      "original": "……はい、お上がり。",
+      "translation": "...자, 들어오게.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1316,
+          "length": 20,
+          "key": 4167330692,
+          "original": "……はい、お上がり。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0010",
+      "context": {
+        "voice": "GC475003.ogg"
+      },
+      "original": "さんきゅー、フォルテ。",
+      "translation": "땡큐, 포르테.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1408,
+          "length": 22,
+          "key": 4167330692,
+          "original": "さんきゅー、フォルテ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0011",
+      "context": {
+        "voice": "GC475004.ogg"
+      },
+      "original": "……うー、まずーい。",
+      "translation": "...으, 맛없어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1580,
+          "length": 20,
+          "key": 4167330692,
+          "original": "……うー、まずーい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0012",
+      "context": {
+        "voice": "GC475004.ogg"
+      },
+      "original": "あのさ、フォルテ。あからさまに疲れてるみたいだから、この際、まずいコーヒーなんて飲んでないで、寝ちゃったら？",
+      "translation": "있잖아, 포르테. 딱 봐도 피곤해 보이는데, 이 참에 맛없는 커피 마시지 말고 자버리는 건 어때？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1672,
+          "length": 40,
+          "key": 4167330692,
+          "original": "あのさ、フォルテ。あからさまに疲れてるみ"
+        },
+        {
+          "offset": 1720,
+          "length": 40,
+          "key": 4167330692,
+          "original": "たいだから、この際、まずいコーヒーなんて"
+        },
+        {
+          "offset": 1768,
+          "length": 28,
+          "key": 4167330692,
+          "original": "飲んでないで、寝ちゃったら？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0013",
+      "context": {
+        "voice": "GC475005.ogg"
+      },
+      "original": "それができりゃあ苦労はないんだけどね。妙に目が冴えちまってねえ。",
+      "translation": "그게 되면 고생은 없겠지만 말이야. 묘하게 잠이 안 와서.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1944,
+          "length": 40,
+          "key": 4167330692,
+          "original": "それができりゃあ苦労はないんだけどね。妙"
+        },
+        {
+          "offset": 1992,
+          "length": 24,
+          "key": 4167330692,
+          "original": "に目が冴えちまってねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0014",
+      "context": {
+        "voice": "GC475005.ogg"
+      },
+      "original": "疲れてるんだよ。今回もまたスケールが大きいから。",
+      "translation": "피곤해. 이번에도 또 스케일이 크니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2088,
+          "length": 40,
+          "key": 4167330692,
+          "original": "疲れてるんだよ。今回もまたスケールが大き"
+        },
+        {
+          "offset": 2136,
+          "length": 8,
+          "key": 4167330692,
+          "original": "いから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0015",
+      "context": {
+        "voice": "GC475006.ogg"
+      },
+      "original": "……そうだねえ、なんでクロノ・クェイク爆弾かねえ。以前はクロノ・ブレイク・キャノンだって相当なものだと思ったけど。",
+      "translation": "...그렇네, 왜 크로노・퀘이크 폭탄인가 싶었어. 이전의 크로노・브레이크・캐논도 상당하다고 생각했지만.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2292,
+          "length": 40,
+          "key": 4167330692,
+          "original": "……そうだねえ、なんでクロノ・クェイク爆"
+        },
+        {
+          "offset": 2340,
+          "length": 40,
+          "key": 4167330692,
+          "original": "弾かねえ。以前はクロノ・ブレイク・キャノ"
+        },
+        {
+          "offset": 2388,
+          "length": 34,
+          "key": 4167330692,
+          "original": "ンだって相当なものだと思ったけど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0016",
+      "context": {
+        "voice": "GC475007.ogg"
+      },
+      "original": "上には上がいるもんだねえ。",
+      "translation": "위에는 위가 있나 보네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2572,
+          "length": 26,
+          "key": 4167330692,
+          "original": "上には上がいるもんだねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0017",
+      "context": {
+        "voice": "GC475007.ogg"
+      },
+      "original": "まあ、そこまでとんでもないシロモノだとはオレも予想してなかったけど、気にしたところで始まらないよ。",
+      "translation": "뭐, 그렇게 엄청난 물건일 줄은 나도 예상 못 했지만, 신경 써봤자 시작될 일은 없으니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2672,
+          "length": 40,
+          "key": 4167330692,
+          "original": "まあ、そこまでとんでもないシロモノだとは"
+        },
+        {
+          "offset": 2720,
+          "length": 40,
+          "key": 4167330692,
+          "original": "オレも予想してなかったけど、気にしたとこ"
+        },
+        {
+          "offset": 2768,
+          "length": 18,
+          "key": 4167330692,
+          "original": "ろで始まらないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0018",
+      "context": {
+        "voice": "GC475008.ogg"
+      },
+      "original": "自分でも、それほど気にしてるつもりはなかったんだけどねえ。体は正直なもんだよ。",
+      "translation": "나 스스로도 그렇게 신경 쓰고 있지는 않았는데 말이야. 몸은 정직하네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2936,
+          "length": 42,
+          "key": 4167330692,
+          "original": "自分でも、それほど気にしてるつもりはなかっ"
+        },
+        {
+          "offset": 2988,
+          "length": 36,
+          "key": 4167330692,
+          "original": "たんだけどねえ。体は正直なもんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0019",
+      "context": {
+        "voice": "GC475008.ogg"
+      },
+      "original": "なにか……あったのかい？",
+      "translation": "무슨... 일이라도있었나？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3096,
+          "length": 24,
+          "key": 4167330692,
+          "original": "なにか……あったのかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0020",
+      "context": {
+        "voice": "GC475009.ogg"
+      },
+      "original": "武者震いってやつかねえ。ときどき背中がざわざわして、たまらなくなるんだ。",
+      "translation": "무사 떨림이라는 건가. 가끔 등이 술렁거려서 견딜 수가 없어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3268,
+          "length": 40,
+          "key": 4167330692,
+          "original": "武者震いってやつかねえ。ときどき背中がざ"
+        },
+        {
+          "offset": 3316,
+          "length": 32,
+          "key": 4167330692,
+          "original": "わざわして、たまらなくなるんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0021",
+      "context": {
+        "voice": "GC475009.ogg"
+      },
+      "original": "ははっ。興奮して眠れないだなんて、子供みたいだね、フォルテ。",
+      "translation": "하핫. 흥분해서 잠을 못 자다니, 어린애 같네, 포르테.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3420,
+          "length": 40,
+          "key": 4167330692,
+          "original": "ははっ。興奮して眠れないだなんて、子供み"
+        },
+        {
+          "offset": 3468,
+          "length": 20,
+          "key": 4167330692,
+          "original": "たいだね、フォルテ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0022",
+      "context": {
+        "voice": "GC475010.ogg"
+      },
+      "original": "タクト、笑うんじゃないよ。",
+      "translation": "택트, 웃지 마.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3636,
+          "length": 26,
+          "key": 4167330692,
+          "original": "タクト、笑うんじゃないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0023",
+      "context": {
+        "voice": "GC475010.ogg"
+      },
+      "original": "神経が高ぶって、消耗しちゃうんじゃないか？やっぱりフォルテは疲れてるんだよ。",
+      "translation": "신경이 곤두서서 소모되어 버리는 거 아냐？ 역시 포르테는 피곤한 거야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3736,
+          "length": 42,
+          "key": 4167330692,
+          "original": "神経が高ぶって、消耗しちゃうんじゃないか？"
+        },
+        {
+          "offset": 3788,
+          "length": 34,
+          "key": 4167330692,
+          "original": "やっぱりフォルテは疲れてるんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0024",
+      "context": {
+        "voice": "GC475011.ogg"
+      },
+      "original": "そう見えるかい？",
+      "translation": "그렇게 보여？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3972,
+          "length": 16,
+          "key": 4167330692,
+          "original": "そう見えるかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0025",
+      "context": {
+        "voice": "GC475011.ogg"
+      },
+      "original": "うん、相当。",
+      "translation": "응, 상당히.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4060,
+          "length": 12,
+          "key": 4167330692,
+          "original": "うん、相当。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0026",
+      "context": {
+        "voice": "GC475012.ogg"
+      },
+      "original": "じゃあ、いまのあたしのあれは、ひょっとして愚痴だったかねえ？",
+      "translation": "그럼, 방금 내 말은 혹시 푸념이었던 걸까？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4220,
+          "length": 40,
+          "key": 4167330692,
+          "original": "じゃあ、いまのあたしのあれは、ひょっとし"
+        },
+        {
+          "offset": 4268,
+          "length": 20,
+          "key": 4167330692,
+          "original": "て愚痴だったかねえ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0027",
+      "context": {
+        "voice": "GC475012.ogg"
+      },
+      "original": "かなりふてぶてしい感じがしたけれど、たぶんそう。",
+      "translation": "꽤 뻔뻔한 느낌이 들었지만, 아마 그럴 거야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4360,
+          "length": 40,
+          "key": 4167330692,
+          "original": "かなりふてぶてしい感じがしたけれど、たぶ"
+        },
+        {
+          "offset": 4408,
+          "length": 8,
+          "key": 4167330692,
+          "original": "んそう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0028",
+      "context": {
+        "voice": "GC475013.ogg"
+      },
+      "original": "あたしともあろうものがタクトの前で……情けないねえ。",
+      "translation": "나 같은 사람이 택트 앞에서... 한심하네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4564,
+          "length": 40,
+          "key": 4167330692,
+          "original": "あたしともあろうものがタクトの前で……情"
+        },
+        {
+          "offset": 4612,
+          "length": 12,
+          "key": 4167330692,
+          "original": "けないねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0029",
+      "context": {
+        "voice": "GC475013.ogg"
+      },
+      "original": "まぁ、仕方ないさ。",
+      "translation": "뭐, 어쩔 수 없지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4696,
+          "length": 18,
+          "key": 4167330692,
+          "original": "まぁ、仕方ないさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0030",
+      "context": {
+        "voice": "GC475014.ogg"
+      },
+      "original": "タクト……命は惜しくないのかい？",
+      "translation": "택트... 목숨은 아깝지 않은건가？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4864,
+          "length": 32,
+          "key": 4167330692,
+          "original": "タクト……命は惜しくないのかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0031",
+      "context": {
+        "voice": "GC475014.ogg"
+      },
+      "original": "あー、命は大切だよ。もちろん。でも、まあ安心した。",
+      "translation": "아―, 목숨은 소중해. 물론. 하지만, 뭐 안심했어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4968,
+          "length": 40,
+          "key": 4167330692,
+          "original": "あー、命は大切だよ。もちろん。でも、まあ"
+        },
+        {
+          "offset": 5016,
+          "length": 10,
+          "key": 4167330692,
+          "original": "安心した。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0032",
+      "context": {
+        "voice": "GC475015.ogg"
+      },
+      "original": "なにをだい？",
+      "translation": "무엇을？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5176,
+          "length": 12,
+          "key": 4167330692,
+          "original": "なにをだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0033",
+      "context": {
+        "voice": "GC475015.ogg"
+      },
+      "original": "フォルテがやる気十分だってことがわかったから。",
+      "translation": "포르테가 의욕 충만하다는 걸 알았으니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5260,
+          "length": 40,
+          "key": 4167330692,
+          "original": "フォルテがやる気十分だってことがわかった"
+        },
+        {
+          "offset": 5308,
+          "length": 6,
+          "key": 4167330692,
+          "original": "から。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0034",
+      "context": {
+        "voice": "GC475016.ogg"
+      },
+      "original": "怖じ気づいてるとでも思ってたのかい？",
+      "translation": "겁이라도 먹었을 거라 생각했나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5464,
+          "length": 36,
+          "key": 4167330692,
+          "original": "怖じ気づいてるとでも思ってたのかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0035",
+      "context": {
+        "voice": "GC475016.ogg"
+      },
+      "original": "フォルテに限ってそんなこと、あるはずないじゃないか。あのフォルテ・シュトーレンがだよ？　怖じ気づく？　あり得なーい！",
+      "translation": "포르테가 그럴 리 없잖아. 그 포르테・슈토렌이 말이야！ 겁을 먹어？ 있을 수 없어！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5572,
+          "length": 40,
+          "key": 4167330692,
+          "original": "フォルテに限ってそんなこと、あるはずない"
+        },
+        {
+          "offset": 5620,
+          "length": 40,
+          "key": 4167330692,
+          "original": "じゃないか。あのフォルテ・シュトーレンが"
+        },
+        {
+          "offset": 5668,
+          "length": 36,
+          "key": 4167330692,
+          "original": "だよ？　怖じ気づく？　あり得なーい！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0036",
+      "context": {
+        "voice": "GC475017.ogg"
+      },
+      "original": "おやおや、今度は何がはじまるんだい？",
+      "translation": "어라라, 이번엔 뭐가 시작되는 거지？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5852,
+          "length": 36,
+          "key": 4167330692,
+          "original": "おやおや、今度は何がはじまるんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0037",
+      "context": {
+        "voice": "GC475017.ogg"
+      },
+      "original": "エンジェル隊のリーダーは？",
+      "translation": "엔젤대의 리더는？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5960,
+          "length": 26,
+          "key": 4167330692,
+          "original": "エンジェル隊のリーダーは？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0038",
+      "context": {
+        "voice": "GC475018.ogg"
+      },
+      "original": "それはあたしだね。",
+      "translation": "그건 나지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6136,
+          "length": 18,
+          "key": 4167330692,
+          "original": "それはあたしだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0039",
+      "context": {
+        "voice": "GC475018.ogg"
+      },
+      "original": "エンジェル隊一の銃の名手は？",
+      "translation": "엔젤대 최고의 총의 명수는？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6228,
+          "length": 28,
+          "key": 4167330692,
+          "original": "エンジェル隊一の銃の名手は？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0040",
+      "context": {
+        "voice": "GC475019.ogg"
+      },
+      "original": "それもあたしだね。",
+      "translation": "그것도 나지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6404,
+          "length": 18,
+          "key": 4167330692,
+          "original": "それもあたしだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0041",
+      "context": {
+        "voice": "GC475019.ogg"
+      },
+      "original": "エンジェル隊最強の紋章機乗りは？",
+      "translation": "엔젤대 최강의 문장기 파일럿은？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6496,
+          "length": 32,
+          "key": 4167330692,
+          "original": "エンジェル隊最強の紋章機乗りは？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0042",
+      "context": {
+        "voice": "GC475020.ogg"
+      },
+      "original": "あたしだね。",
+      "translation": "나지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6676,
+          "length": 12,
+          "key": 4167330692,
+          "original": "あたしだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0043",
+      "context": {
+        "voice": "GC475020.ogg"
+      },
+      "original": "そしてオレが最も信頼するパートナーは？",
+      "translation": "그리고 내가 가장 신뢰하는 파트너는？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6760,
+          "length": 38,
+          "key": 4167330692,
+          "original": "そしてオレが最も信頼するパートナーは？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0044",
+      "context": {
+        "voice": "GC475021.ogg"
+      },
+      "original": "あたしだ。このフォルテ・シュトーレンだよ。",
+      "translation": "나야. 이 포르테・슈토렌이라고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6948,
+          "length": 42,
+          "key": 4167330692,
+          "original": "あたしだ。このフォルテ・シュトーレンだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0045",
+      "context": {
+        "voice": "GC475021.ogg"
+      },
+      "original": "なにかオレが疑問を差し挟むような隙があるかい？",
+      "translation": "내가 의문을 제기할 틈이라도 있나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7064,
+          "length": 40,
+          "key": 4167330692,
+          "original": "なにかオレが疑問を差し挟むような隙がある"
+        },
+        {
+          "offset": 7112,
+          "length": 6,
+          "key": 4167330692,
+          "original": "かい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0046",
+      "context": {
+        "voice": "GC475022.ogg"
+      },
+      "original": "ないねえ。一分の隙もないよ。",
+      "translation": "없지. 빈틈 하나 없어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7268,
+          "length": 28,
+          "key": 4167330692,
+          "original": "ないねえ。一分の隙もないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0047",
+      "context": {
+        "voice": "GC475022.ogg"
+      },
+      "original": "なら『ヴァル・ファスク』なんてひとひねり。そういうことでしょ？",
+      "translation": "그럼 『발・파스크』 같은 한 방이 필요하다는 거지？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7368,
+          "length": 42,
+          "key": 4167330692,
+          "original": "なら『ヴァル・ファスク』なんてひとひねり。"
+        },
+        {
+          "offset": 7420,
+          "length": 20,
+          "key": 4167330692,
+          "original": "そういうことでしょ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0048",
+      "context": {
+        "voice": "GC475023.ogg"
+      },
+      "original": "ああ。いっちょはでにぶちかましてやるかねえ。",
+      "translation": "아아. 시원하게 날려버려 주지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7588,
+          "length": 40,
+          "key": 4167330692,
+          "original": "ああ。いっちょはでにぶちかましてやるかね"
+        },
+        {
+          "offset": 7636,
+          "length": 4,
+          "key": 4167330692,
+          "original": "え。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0049",
+      "context": {
+        "voice": "GC475023.ogg"
+      },
+      "original": "その前に、ひと休みひと休み……。休息も、任務のひとつさ。",
+      "translation": "그 전에, 잠시 휴식... 휴식도 임무 중 하나야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7712,
+          "length": 40,
+          "key": 4167330692,
+          "original": "その前に、ひと休みひと休み……。休息も、"
+        },
+        {
+          "offset": 7760,
+          "length": 16,
+          "key": 4167330692,
+          "original": "任務のひとつさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0050",
+      "context": {
+        "voice": "GC475024.ogg"
+      },
+      "original": "しょうがないねえ。まあ、少しぐらいは寝る努力でもしてみようかねえ。",
+      "translation": "어쩔 수 없네. 뭐, 조금 정도는 자려고 노력해 볼까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7924,
+          "length": 40,
+          "key": 4167330692,
+          "original": "しょうがないねえ。まあ、少しぐらいは寝る"
+        },
+        {
+          "offset": 7972,
+          "length": 26,
+          "key": 4167330692,
+          "original": "努力でもしてみようかねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0051",
+      "context": {
+        "voice": "GC475024.ogg"
+      },
+      "original": "うん。そうしてみてくれるかな。フォルテ、お休み。",
+      "translation": "응. 그렇게 해줄래? 포르테, 잘 자.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8072,
+          "length": 40,
+          "key": 4167330692,
+          "original": "うん。そうしてみてくれるかな。フォルテ、"
+        },
+        {
+          "offset": 8120,
+          "length": 8,
+          "key": 4167330692,
+          "original": "お休み。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0052",
+      "context": {
+        "voice": "GC475024.ogg"
+      },
+      "original": "ティーラウンジ・フォルテとアイスのたべっこ",
+      "translation": "티 라운지・포르테와 아이스크림 먹기\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8160,
+          "length": 42,
+          "key": 2723357974,
+          "original": "ティーラウンジ・フォルテとアイスのたべっこ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0053",
+      "context": {
+        "voice": "GC475100.ogg"
+      },
+      "original": "おーい、タクト。ここにきて座らないかい？",
+      "translation": "어이, 택트. 여기 와서 앉지 않을래？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8384,
+          "length": 40,
+          "key": 2723357974,
+          "original": "おーい、タクト。ここにきて座らないかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0054",
+      "context": {
+        "voice": "GC475100.ogg"
+      },
+      "original": "やあ、フォルテ。ひとりかい？",
+      "translation": "안녕, 포르테. 혼자야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8540,
+          "length": 28,
+          "key": 2723357974,
+          "original": "やあ、フォルテ。ひとりかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0055",
+      "context": {
+        "voice": "GC475101.ogg"
+      },
+      "original": "ん？　ひとりじゃあ、いけないかい？",
+      "translation": "응？ 혼자 있으면 안 되는 거야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8716,
+          "length": 34,
+          "key": 2723357974,
+          "original": "ん？　ひとりじゃあ、いけないかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0056",
+      "context": {
+        "voice": "GC475101.ogg"
+      },
+      "original": "そんなことはないけど、フォルテがひとりでティーラウンジにいるってのは、ちょっと珍しいかなって思ってさ。",
+      "translation": "그런 건 아니지만, 포르테가 혼자 티 라운지에 있는 건 좀 드문 일 같아서 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8824,
+          "length": 40,
+          "key": 2723357974,
+          "original": "そんなことはないけど、フォルテがひとりで"
+        },
+        {
+          "offset": 8872,
+          "length": 40,
+          "key": 2723357974,
+          "original": "ティーラウンジにいるってのは、ちょっと珍"
+        },
+        {
+          "offset": 8920,
+          "length": 22,
+          "key": 2723357974,
+          "original": "しいかなって思ってさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0057",
+      "context": {
+        "voice": "GC475102.ogg"
+      },
+      "original": "あたしだってひとりで来ることもあるさ。",
+      "translation": "나도 혼자 올 때가 있어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9092,
+          "length": 38,
+          "key": 2723357974,
+          "original": "あたしだってひとりで来ることもあるさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0058",
+      "context": {
+        "voice": "GC475102.ogg"
+      },
+      "original": "しかも、いま食べてるのって……。",
+      "translation": "게다가, 지금 먹고 있는 건...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9204,
+          "length": 32,
+          "key": 2723357974,
+          "original": "しかも、いま食べてるのって……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0059",
+      "context": {
+        "voice": "GC475103.ogg"
+      },
+      "original": "なんの変哲もないコーンのアイスさ。それとも、タクトはイチゴのアイスクリームを初めて見るのかい？",
+      "translation": "아무것도 아닌 콘 아이스크림이야. 아니면 택트는 딸기 아이스크림을 처음 봐？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9384,
+          "length": 40,
+          "key": 2723357974,
+          "original": "なんの変哲もないコーンのアイスさ。それと"
+        },
+        {
+          "offset": 9432,
+          "length": 40,
+          "key": 2723357974,
+          "original": "も、タクトはイチゴのアイスクリームを初め"
+        },
+        {
+          "offset": 9480,
+          "length": 14,
+          "key": 2723357974,
+          "original": "て見るのかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0060",
+      "context": {
+        "voice": "GC475103.ogg"
+      },
+      "original": "イチゴのアイスクリームを食べてるフォルテは、初めて見るね。",
+      "translation": "딸기 아이스크림을 먹는 포르테는 처음 보네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9568,
+          "length": 40,
+          "key": 2723357974,
+          "original": "イチゴのアイスクリームを食べてるフォルテ"
+        },
+        {
+          "offset": 9616,
+          "length": 18,
+          "key": 2723357974,
+          "original": "は、初めて見るね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0061",
+      "context": {
+        "voice": "GC475105.ogg"
+      },
+      "original": "まったく、あたしが珍獣かなにかみたいな言い方だねえ。アイス食べてるのを見たくらいで、目を白黒させなさんな。",
+      "translation": "정말이지, 나를 희귀 동물 취급하듯 말하네. 아이스크림 먹는 걸 본 것만으로 눈을 동그랗게 뜨지 마.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9784,
+          "length": 40,
+          "key": 2723357974,
+          "original": "まったく、あたしが珍獣かなにかみたいな言"
+        },
+        {
+          "offset": 9832,
+          "length": 40,
+          "key": 2723357974,
+          "original": "い方だねえ。アイス食べてるのを見たくらい"
+        },
+        {
+          "offset": 9880,
+          "length": 26,
+          "key": 2723357974,
+          "original": "で、目を白黒させなさんな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0062",
+      "context": {
+        "voice": "GC475105.ogg"
+      },
+      "original": "むしろこれはラッキーってこと？　記念に拝んでおこうかな。",
+      "translation": "오히려 이건 럭키라는 건가？ 기념으로 구경해 둘까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9980,
+          "length": 40,
+          "key": 2723357974,
+          "original": "むしろこれはラッキーってこと？　記念に拝"
+        },
+        {
+          "offset": 10028,
+          "length": 16,
+          "key": 2723357974,
+          "original": "んでおこうかな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0063",
+      "context": {
+        "voice": "GC475106.ogg"
+      },
+      "original": "馬鹿言ってないで、タクトもなにか注文してきたらどうだい。",
+      "translation": "헛소리하지 말고, 택트도 뭐 좀 주문하는 게 어때.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10192,
+          "length": 40,
+          "key": 2723357974,
+          "original": "馬鹿言ってないで、タクトもなにか注文して"
+        },
+        {
+          "offset": 10240,
+          "length": 16,
+          "key": 2723357974,
+          "original": "きたらどうだい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0064",
+      "context": {
+        "voice": "GC475106.ogg"
+      },
+      "original": "うん。じゃあ、チョコレートのアイスクリームでもいただくよ。……それで、フォルテはよくひとりでアイスを食べてるわけ？",
+      "translation": "응. 그럼 초콜릿 아이스크림이라도 먹을게. ...그런데 포르테는 평소에도 혼자 아이스크림을 먹어？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10328,
+          "length": 40,
+          "key": 2723357974,
+          "original": "うん。じゃあ、チョコレートのアイスクリー"
+        },
+        {
+          "offset": 10376,
+          "length": 40,
+          "key": 2723357974,
+          "original": "ムでもいただくよ。……それで、フォルテは"
+        },
+        {
+          "offset": 10424,
+          "length": 34,
+          "key": 2723357974,
+          "original": "よくひとりでアイスを食べてるわけ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0065",
+      "context": {
+        "voice": "GC475107.ogg"
+      },
+      "original": "ごくたまに、ね。無性に甘いものが食べたくなるときがあるんだよ。",
+      "translation": "아주 가끔 말이야. 문득 단 게 먹고 싶어질 때가 있거든.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10608,
+          "length": 40,
+          "key": 2723357974,
+          "original": "ごくたまに、ね。無性に甘いものが食べたく"
+        },
+        {
+          "offset": 10656,
+          "length": 22,
+          "key": 2723357974,
+          "original": "なるときがあるんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0066",
+      "context": {
+        "voice": "GC475107.ogg"
+      },
+      "original": "フォルテでもそういう時ってあるんだ。ノンシュガー派だと思ってたよ。",
+      "translation": "포르테도 그럴 때가 있구나. 논슈거파인 줄 알았어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10752,
+          "length": 40,
+          "key": 2723357974,
+          "original": "フォルテでもそういう時ってあるんだ。ノン"
+        },
+        {
+          "offset": 10800,
+          "length": 26,
+          "key": 2723357974,
+          "original": "シュガー派だと思ってたよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0067",
+      "context": {
+        "voice": "GC475108.ogg"
+      },
+      "original": "コーヒーはブラック、ドリンクはダイエットってか？　そんなこだわりは持ってないよ。",
+      "translation": "커피는 블랙, 음료는 다이어트？ 그런 고집은 없어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10976,
+          "length": 42,
+          "key": 2723357974,
+          "original": "コーヒーはブラック、ドリンクはダイエットっ"
+        },
+        {
+          "offset": 11028,
+          "length": 38,
+          "key": 2723357974,
+          "original": "てか？　そんなこだわりは持ってないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0068",
+      "context": {
+        "voice": "GC475108.ogg"
+      },
+      "original": "まあ、人並みに甘い物は好きだ、と。",
+      "translation": "뭐, 남들만큼 단 건 좋아한다는거지.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11140,
+          "length": 34,
+          "key": 2723357974,
+          "original": "まあ、人並みに甘い物は好きだ、と。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0069",
+      "context": {
+        "voice": "GC475109.ogg"
+      },
+      "original": "特にアイスクリームは好きな物のひとつだねえ。甘くて冷たくて、少しずつしか食べられないところとかね。",
+      "translation": "특히 아이스크림은 좋아하는 것 중 하나야. 달콤하고 차갑고, 조금씩밖에 못 먹는 점이라든가 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11324,
+          "length": 40,
+          "key": 2723357974,
+          "original": "特にアイスクリームは好きな物のひとつだね"
+        },
+        {
+          "offset": 11372,
+          "length": 40,
+          "key": 2723357974,
+          "original": "え。甘くて冷たくて、少しずつしか食べられ"
+        },
+        {
+          "offset": 11420,
+          "length": 18,
+          "key": 2723357974,
+          "original": "ないところとかね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0070",
+      "context": {
+        "voice": "GC475109.ogg"
+      },
+      "original": "あー、昔アイスクリームをかきこんで、頭キーンとかやったやった。",
+      "translation": "아―, 옛날에 아이스크림 급하게 먹다 머리 띵～ 했던 적이 있어.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11512,
+          "length": 42,
+          "key": 2723357974,
+          "original": "あー、昔アイスクリームをかきこんで、頭キー"
+        },
+        {
+          "offset": 11564,
+          "length": 20,
+          "key": 2723357974,
+          "original": "ンとかやったやった。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0071",
+      "context": {
+        "voice": "GC475110.ogg"
+      },
+      "original": "そうかい？　あたしはそんなにがっついたことはないけどねえ？",
+      "translation": "그래？ 난 그렇게 허겁지겁 먹은 적은 없는데 말이야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11732,
+          "length": 40,
+          "key": 2723357974,
+          "original": "そうかい？　あたしはそんなにがっついたこ"
+        },
+        {
+          "offset": 11780,
+          "length": 18,
+          "key": 2723357974,
+          "original": "とはないけどねえ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0072",
+      "context": {
+        "voice": "GC475110.ogg"
+      },
+      "original": "えー、やぱり頭キーンは避けて通れないところだと思うけど。",
+      "translation": "에이, 역시 머리가 띵한 건 피할 수 없는 것 같은데.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11872,
+          "length": 40,
+          "key": 2723357974,
+          "original": "えー、やぱり頭キーンは避けて通れないとこ"
+        },
+        {
+          "offset": 11920,
+          "length": 16,
+          "key": 2723357974,
+          "original": "ろだと思うけど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0073",
+      "context": {
+        "voice": "GC475111.ogg"
+      },
+      "original": "食べ方もいろいろさ。全部食べられるコーンも好きだけど、木のスプーンでカップのアイスをすくうのも趣があっていいよねえ。",
+      "translation": "먹는 방법도 다양해. 전부 먹을 수 있는 콘도 좋지만, 나무 스푼으로 컵 아이스크림을 떠먹는 것도 운치 있고 좋지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12084,
+          "length": 40,
+          "key": 2723357974,
+          "original": "食べ方もいろいろさ。全部食べられるコーン"
+        },
+        {
+          "offset": 12132,
+          "length": 40,
+          "key": 2723357974,
+          "original": "も好きだけど、木のスプーンでカップのアイ"
+        },
+        {
+          "offset": 12180,
+          "length": 36,
+          "key": 2723357974,
+          "original": "スをすくうのも趣があっていいよねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0074",
+      "context": {
+        "voice": "GC475111.ogg"
+      },
+      "original": "オレはモナカとかも好きだよ。わけるの簡単だしね。",
+      "translation": "난 모나카 같은 것도 좋아해. 나눠 먹기도 쉽고.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12288,
+          "length": 40,
+          "key": 2723357974,
+          "original": "オレはモナカとかも好きだよ。わけるの簡単"
+        },
+        {
+          "offset": 12336,
+          "length": 8,
+          "key": 2723357974,
+          "original": "だしね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0075",
+      "context": {
+        "voice": "GC475112.ogg"
+      },
+      "original": "でもまあ、基本はやっぱりコーンだねえ。",
+      "translation": "그래도 뭐, 기본은 역시 콘이지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12492,
+          "length": 38,
+          "key": 2723357974,
+          "original": "でもまあ、基本はやっぱりコーンだねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0076",
+      "context": {
+        "voice": "GC475112.ogg"
+      },
+      "original": "最後にコーンだけ残ると悲しいから、一生懸命アイスを奥に押し込んだりしてたよ。",
+      "translation": "마지막에 콘만 남으면 슬프니까, 열심히 아이스크림을 안쪽으로 밀어 넣곤 했어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12604,
+          "length": 40,
+          "key": 2723357974,
+          "original": "最後にコーンだけ残ると悲しいから、一生懸"
+        },
+        {
+          "offset": 12652,
+          "length": 36,
+          "key": 2723357974,
+          "original": "命アイスを奥に押し込んだりしてたよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0077",
+      "context": {
+        "voice": "GC475113.ogg"
+      },
+      "original": "あたしは溶けだすアイスをなめとるのに、必死だったけどねえ。",
+      "translation": "난 녹아내리는 아이스크림을 핥느라 필사적이었지만 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12836,
+          "length": 40,
+          "key": 2723357974,
+          "original": "あたしは溶けだすアイスをなめとるのに、必"
+        },
+        {
+          "offset": 12884,
+          "length": 18,
+          "key": 2723357974,
+          "original": "死だったけどねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0078",
+      "context": {
+        "voice": "GC475113.ogg"
+      },
+      "original": "聞いてる感じだと、時間かけて食べそうだもんね。",
+      "translation": "듣고 보니 시간을 들여서 먹는 것 같네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12976,
+          "length": 40,
+          "key": 2723357974,
+          "original": "聞いてる感じだと、時間かけて食べそうだも"
+        },
+        {
+          "offset": 13024,
+          "length": 6,
+          "key": 2723357974,
+          "original": "んね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0079",
+      "context": {
+        "voice": "GC475114.ogg"
+      },
+      "original": "こう舌を出して、手に垂れないようになめとるってのが、ちょっと好きだねえ。なんだか猫にでもなったみたいでさ。",
+      "translation": "이렇게 혀를 내밀고, 손에 흐르지 않게 핥아먹는 게 좀 좋거든. 왠지 고양이라도 된 것 같아서 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13180,
+          "length": 40,
+          "key": 2723357974,
+          "original": "こう舌を出して、手に垂れないようになめと"
+        },
+        {
+          "offset": 13228,
+          "length": 40,
+          "key": 2723357974,
+          "original": "るってのが、ちょっと好きだねえ。なんだか"
+        },
+        {
+          "offset": 13276,
+          "length": 26,
+          "key": 2723357974,
+          "original": "猫にでもなったみたいでさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0080",
+      "context": {
+        "voice": "GC475114.ogg"
+      },
+      "original": "ひょっとしてフォルテ、ちょっと行儀悪いのが好き？",
+      "translation": "혹시 포르테, 약간 예의 없는 걸 좋아하는 거야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13376,
+          "length": 40,
+          "key": 2723357974,
+          "original": "ひょっとしてフォルテ、ちょっと行儀悪いの"
+        },
+        {
+          "offset": 13424,
+          "length": 8,
+          "key": 2723357974,
+          "original": "が好き？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0081",
+      "context": {
+        "voice": "GC475115.ogg"
+      },
+      "original": "かもしれないねえ。ところでタクト、ひとつ頼みがあるんだが。",
+      "translation": "그럴지도 모르겠네. 그런데 택트, 부탁이 하나 있는데.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13580,
+          "length": 40,
+          "key": 2723357974,
+          "original": "かもしれないねえ。ところでタクト、ひとつ"
+        },
+        {
+          "offset": 13628,
+          "length": 18,
+          "key": 2723357974,
+          "original": "頼みがあるんだが。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0082",
+      "context": {
+        "voice": "GC475115.ogg"
+      },
+      "original": "なんだい、フォルテ。",
+      "translation": "뭔데, 포르테.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13720,
+          "length": 20,
+          "key": 2723357974,
+          "original": "なんだい、フォルテ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0083",
+      "context": {
+        "voice": "GC475116.ogg"
+      },
+      "original": "タクトのそのチョコアイス、ひと口わけてもらえないかねえ。あたしのもひと口やるからさあ。",
+      "translation": "택트의 그 초코 아이스크림, 한 입만 나눠줄 수 없을까? 내 것도 한 입 줄 테니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13888,
+          "length": 40,
+          "key": 2723357974,
+          "original": "タクトのそのチョコアイス、ひと口わけても"
+        },
+        {
+          "offset": 13936,
+          "length": 40,
+          "key": 2723357974,
+          "original": "らえないかねえ。あたしのもひと口やるから"
+        },
+        {
+          "offset": 13984,
+          "length": 6,
+          "key": 2723357974,
+          "original": "さあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0084",
+      "context": {
+        "voice": "GC475116.ogg"
+      },
+      "original": "別にかまわないよ。",
+      "translation": "상관없어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14064,
+          "length": 18,
+          "key": 2723357974,
+          "original": "別にかまわないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0085",
+      "context": {
+        "voice": "GC475117.ogg"
+      },
+      "original": "じゃあ、タクト。そのチョコアイス、食べさせておくれよ。",
+      "translation": "그럼, 택트. 그 초코 아이스크림, 먹게 해줘.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14232,
+          "length": 40,
+          "key": 2723357974,
+          "original": "じゃあ、タクト。そのチョコアイス、食べさ"
+        },
+        {
+          "offset": 14280,
+          "length": 14,
+          "key": 2723357974,
+          "original": "せておくれよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0086",
+      "context": {
+        "voice": "GC475117.ogg"
+      },
+      "original": "え？　食べさせるの？",
+      "translation": "에？ 먹여주는 거야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14368,
+          "length": 20,
+          "key": 2723357974,
+          "original": "え？　食べさせるの？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0087",
+      "context": {
+        "voice": "GC475118.ogg"
+      },
+      "original": "……ほら、アイスをもっと前に出してくれないと、食べづらいだろ？",
+      "translation": "...봐, 아이스크림을 좀 더 앞으로 내밀어 줘야 먹기 편하잖아？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14536,
+          "length": 40,
+          "key": 2723357974,
+          "original": "……ほら、アイスをもっと前に出してくれな"
+        },
+        {
+          "offset": 14584,
+          "length": 22,
+          "key": 2723357974,
+          "original": "いと、食べづらいだろ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0088",
+      "context": {
+        "voice": "GC475118.ogg"
+      },
+      "original": "あ、うん。",
+      "translation": "아, 응.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14680,
+          "length": 10,
+          "key": 2723357974,
+          "original": "あ、うん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0089",
+      "context": {
+        "voice": "GC475119.ogg"
+      },
+      "original": "うん、チョコも悪くないじゃないか。舌にざらっとくる苦みがおいしいよ。タクトもイチゴアイス、食べるだろ？",
+      "translation": "응, 초코도 나쁘지 않네. 혀에 서걱서걱 느껴지는 쓴맛이 맛있어. 택트도 딸기 아이스크림 먹을 거지？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14836,
+          "length": 40,
+          "key": 2723357974,
+          "original": "うん、チョコも悪くないじゃないか。舌にざ"
+        },
+        {
+          "offset": 14884,
+          "length": 40,
+          "key": 2723357974,
+          "original": "らっとくる苦みがおいしいよ。タクトもイチ"
+        },
+        {
+          "offset": 14932,
+          "length": 22,
+          "key": 2723357974,
+          "original": "ゴアイス、食べるだろ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0090",
+      "context": {
+        "voice": "GC475119.ogg"
+      },
+      "original": "うん、じゃあひと口。あーん。",
+      "translation": "응, 그럼 한 입. 아―.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15028,
+          "length": 28,
+          "key": 2723357974,
+          "original": "うん、じゃあひと口。あーん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0091",
+      "context": {
+        "voice": "GC475120.ogg"
+      },
+      "original": "……どうだい？　なかなかうまいだろ？",
+      "translation": "...어때？ 꽤 맛있지？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15168,
+          "length": 36,
+          "key": 2723357974,
+          "original": "……どうだい？　なかなかうまいだろ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0092",
+      "context": {
+        "voice": "GC475120.ogg"
+      },
+      "original": "思ったよりも甘さは控えめだね。酸味があってヨーグルトっぽい？",
+      "translation": "생각보다 단맛이 절제되어 있네. 산미가 있어서 요거트 같아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15276,
+          "length": 40,
+          "key": 2723357974,
+          "original": "思ったよりも甘さは控えめだね。酸味があっ"
+        },
+        {
+          "offset": 15324,
+          "length": 20,
+          "key": 2723357974,
+          "original": "てヨーグルトっぽい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0093",
+      "context": {
+        "voice": "GC475121.ogg"
+      },
+      "original": "おや、意外といい舌をしてるじゃないか。",
+      "translation": "어라, 의외로 미각이 예리한데?\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15456,
+          "length": 38,
+          "key": 2723357974,
+          "original": "おや、意外といい舌をしてるじゃないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0094",
+      "context": {
+        "voice": "GC475121.ogg"
+      },
+      "original": "いやー、最近甘いものづいてるから、少しなら味の見分けもつくようになってたりして。",
+      "translation": "아니―, 요즘 단 게 당겨서 조금은 맛을 구별할 수 있게 됐달까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15568,
+          "length": 40,
+          "key": 2723357974,
+          "original": "いやー、最近甘いものづいてるから、少しな"
+        },
+        {
+          "offset": 15616,
+          "length": 40,
+          "key": 2723357974,
+          "original": "ら味の見分けもつくようになってたりして。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0095",
+      "context": {
+        "voice": "GC475122.ogg"
+      },
+      "original": "女の子にはモテそうな要素だな。よかったじゃないか、タクト。",
+      "translation": "여자애들한테 인기 있을 만한 요소네. 잘됐잖아, 택트.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15768,
+          "length": 42,
+          "key": 2723357974,
+          "original": "女の子にはモテそうな要素だな。よかったじゃ"
+        },
+        {
+          "offset": 15820,
+          "length": 16,
+          "key": 2723357974,
+          "original": "ないか、タクト。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0096",
+      "context": {
+        "voice": "GC475122.ogg"
+      },
+      "original": "うん、これで料理ができれば完璧なんだけど",
+      "translation": "응, 이걸로 요리까지 하면 완벽할 텐데.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15908,
+          "length": 40,
+          "key": 2723357974,
+          "original": "うん、これで料理ができれば完璧なんだけど"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0097",
+      "context": {
+        "voice": "GC475123.ogg"
+      },
+      "original": "ミルフィーあたりなら、タクトをいいパティシエに育て上げてくれるんじゃないか？",
+      "translation": "밀피 정도라면 택트를 멋진 파티시에로 키워주지 않을까？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16076,
+          "length": 40,
+          "key": 2723357974,
+          "original": "ミルフィーあたりなら、タクトをいいパティ"
+        },
+        {
+          "offset": 16124,
+          "length": 36,
+          "key": 2723357974,
+          "original": "シエに育て上げてくれるんじゃないか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0098",
+      "context": {
+        "voice": "GC475123.ogg"
+      },
+      "original": "でも、オレどちらかっていうと食べる専門家になりたいし。",
+      "translation": "하지만 난 어느 쪽인가 하면 먹는 전문가가 되고 싶고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16232,
+          "length": 40,
+          "key": 2723357974,
+          "original": "でも、オレどちらかっていうと食べる専門家"
+        },
+        {
+          "offset": 16280,
+          "length": 14,
+          "key": 2723357974,
+          "original": "になりたいし。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0099",
+      "context": {
+        "voice": "GC475124.ogg"
+      },
+      "original": "しゃべるのに忙しい口で、食べる専門家になるのは難しいだろうねえ。",
+      "translation": "말하는 데 바쁜 입으로 먹는 전문가가 되기는 어렵겠네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16408,
+          "length": 40,
+          "key": 2723357974,
+          "original": "しゃべるのに忙しい口で、食べる専門家にな"
+        },
+        {
+          "offset": 16456,
+          "length": 24,
+          "key": 2723357974,
+          "original": "るのは難しいだろうねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0100",
+      "context": {
+        "voice": "GC475124.ogg"
+      },
+      "original": "でも、フォルテと甘いもの談議はちょっと新鮮だったかな。女の子らしくって。",
+      "translation": "그래도 포르테와 단 거 이야기를 하는 건 좀 신선했어. 여자애 같아서.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16552,
+          "length": 40,
+          "key": 2723357974,
+          "original": "でも、フォルテと甘いもの談議はちょっと新"
+        },
+        {
+          "offset": 16600,
+          "length": 32,
+          "key": 2723357974,
+          "original": "鮮だったかな。女の子らしくって。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0101",
+      "context": {
+        "voice": "GC475125.ogg"
+      },
+      "original": "あははは！　そう来るかい。いや、タクト、あんたは本当にあたしを飽きさせないよ。",
+      "translation": "아하하하！ 그렇게 나와? 아니, 택트, 당신은 정말 나를 지루하게 하지 않아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16744,
+          "length": 40,
+          "key": 2723357974,
+          "original": "あははは！　そう来るかい。いや、タクト、"
+        },
+        {
+          "offset": 16792,
+          "length": 38,
+          "key": 2723357974,
+          "original": "あんたは本当にあたしを飽きさせないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0102",
+      "context": {
+        "voice": "GC475126.ogg"
+      },
+      "original": "……ねぇ、タクト。",
+      "translation": "...있잖아, 택트.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17016,
+          "length": 18,
+          "key": 2723357974,
+          "original": "……ねぇ、タクト。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0103",
+      "context": {
+        "voice": "GC475126.ogg"
+      },
+      "original": "なんだい？",
+      "translation": "뭔데？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17108,
+          "length": 10,
+          "key": 2723357974,
+          "original": "なんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0104",
+      "context": {
+        "voice": "GC475127.ogg"
+      },
+      "original": "また……アイス食べよう。",
+      "translation": "또…… 아이스크림 먹자.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17268,
+          "length": 24,
+          "key": 2723357974,
+          "original": "また……アイス食べよう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a5000:isb:0105",
+      "context": {
+        "voice": "GC475127.ogg"
+      },
+      "original": "ああ。もちろん。",
+      "translation": "아아. 물론이지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17364,
+          "length": 16,
+          "key": 2723357974,
+          "original": "ああ。もちろん。"
+        }
+      ]
+    }
+  ]
+}

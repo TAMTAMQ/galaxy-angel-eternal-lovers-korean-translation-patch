@@ -1,0 +1,777 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00033800.txt",
+    "encoding": "cp932",
+    "sha256": "841fc9d9b6418db67af3d52eb0ef8506fbde175c8c2bcb9d8c1f80aee782c68c",
+    "tagged_records": 64,
+    "decoded_records": 64,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 726499587,
+        "source": "header",
+        "end": 5592
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "「紋章機奪還」ブリーフィング",
+      "translation": "「문장기 탈환」 브리핑\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16,
+          "length": 28,
+          "key": 726499587,
+          "original": "「紋章機奪還」ブリーフィング"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "アルモ、現在の状況をモニターへ。急いでくれ。",
+      "translation": "아르모, 현재 상황을 모니터로. 서둘러라.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 160,
+          "length": 40,
+          "key": 726499587,
+          "original": "アルモ、現在の状況をモニターへ。急いでく"
+        },
+        {
+          "offset": 208,
+          "length": 4,
+          "key": 726499587,
+          "original": "れ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0003",
+      "context": {
+        "voice": "GC938000.ogg"
+      },
+      "original": "了解。",
+      "translation": "알았다",
+      "state": "compacted",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 324,
+          "length": 6,
+          "key": 726499587,
+          "original": "了解。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0004",
+      "context": {
+        "voice": "GC138001.ogg"
+      },
+      "original": "敵の増援はここか。",
+      "translation": "적 증원은여기인가.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 700,
+          "length": 18,
+          "key": 726499587,
+          "original": "敵の増援はここか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0005",
+      "context": {
+        "voice": "GC138001.ogg"
+      },
+      "original": "オレたちの不意をついて、こんな近くに現れるなんて。",
+      "translation": "우리의 허를 찔러 이렇게 가까이 나타나다니.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 812,
+          "length": 40,
+          "key": 726499587,
+          "original": "オレたちの不意をついて、こんな近くに現れ"
+        },
+        {
+          "offset": 860,
+          "length": 10,
+          "key": 726499587,
+          "original": "るなんて。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0006",
+      "context": {
+        "voice": "GC138001.ogg"
+      },
+      "original": "それから……。",
+      "translation": "그리고…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 972,
+          "length": 14,
+          "key": 726499587,
+          "original": "それから……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0007",
+      "context": {
+        "voice": "GC138002.ogg"
+      },
+      "original": "あ、はい。暴走した紋章機は、現在このような進路を取っています。",
+      "translation": "아, 네. 폭주한 문장기는 현재 이런 경로를 취하고 있습니다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1232,
+          "length": 40,
+          "key": 726499587,
+          "original": "あ、はい。暴走した紋章機は、現在このよう"
+        },
+        {
+          "offset": 1280,
+          "length": 22,
+          "key": 726499587,
+          "original": "な進路を取っています。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0008",
+      "context": {
+        "voice": "GC138003.ogg"
+      },
+      "original": "速度は比較的ゆっくりですが、このままですと敵の旗艦に……。",
+      "translation": "속도는 비교적 느리지만, 이대로라면 적의 기함에…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1472,
+          "length": 40,
+          "key": 726499587,
+          "original": "速度は比較的ゆっくりですが、このままです"
+        },
+        {
+          "offset": 1520,
+          "length": 18,
+          "key": 726499587,
+          "original": "と敵の旗艦に……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0009",
+      "context": {
+        "voice": "GC138003.ogg"
+      },
+      "original": "……敵の動きは？",
+      "translation": "…적의움직임은？",
+      "state": "compacted",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1776,
+          "length": 16,
+          "key": 726499587,
+          "original": "……敵の動きは？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0010",
+      "context": {
+        "voice": "GC138004.ogg"
+      },
+      "original": "増援の艦隊はまっすぐ本艦に接近しています。",
+      "translation": "증원 함대가 본함으로 직행하고 있습니다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1904,
+          "length": 42,
+          "key": 726499587,
+          "original": "増援の艦隊はまっすぐ本艦に接近しています。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0011",
+      "context": {
+        "voice": "GC138005.ogg"
+      },
+      "original": "残りの艦も、紋章機が暴走した直後は進路を一時的に変更しましたが、今は元通り本艦を目標としているようです。",
+      "translation": "남은 함선들도 문장기가 폭주한 직후에는 진로를 잠시 바꿨지만, 지금은 다시 본함을 목표로 하는 듯합니다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2060,
+          "length": 40,
+          "key": 726499587,
+          "original": "残りの艦も、紋章機が暴走した直後は進路を"
+        },
+        {
+          "offset": 2108,
+          "length": 40,
+          "key": 726499587,
+          "original": "一時的に変更しましたが、今は元通り本艦を"
+        },
+        {
+          "offset": 2156,
+          "length": 24,
+          "key": 726499587,
+          "original": "目標としているようです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0012",
+      "context": {
+        "voice": "GC138006.ogg"
+      },
+      "original": "暴走した紋章機の様子を見て、脅威ではないと判断した……ということか。",
+      "translation": "폭주한 문장기의 상태를 보고 위협이 아니라고 판단했다……는 건가.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2292,
+          "length": 40,
+          "key": 726499587,
+          "original": "暴走した紋章機の様子を見て、脅威ではない"
+        },
+        {
+          "offset": 2340,
+          "length": 28,
+          "key": 726499587,
+          "original": "と判断した……ということか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0013",
+      "context": {
+        "voice": "GC138007.ogg"
+      },
+      "original": "かといって、放っておけば、いずれ撃ち落とされるか生け捕りにされるか……。タクト、どうする？",
+      "translation": "그렇다고 방치하면 조만간 격추되거나 생포될 수도 있어……. 택트, 어떻게 할 거지？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2480,
+          "length": 40,
+          "key": 726499587,
+          "original": "かといって、放っておけば、いずれ撃ち落と"
+        },
+        {
+          "offset": 2528,
+          "length": 40,
+          "key": 726499587,
+          "original": "されるか生け捕りにされるか……。タクト、"
+        },
+        {
+          "offset": 2576,
+          "length": 10,
+          "key": 726499587,
+          "original": "どうする？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0014",
+      "context": {
+        "voice": "GC138007.ogg"
+      },
+      "original": "…………………………仕方ない。",
+      "translation": "……………………어쩔 수 없군.",
+      "state": "compacted",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2660,
+          "length": 30,
+          "key": 726499587,
+          "original": "…………………………仕方ない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0015",
+      "context": {
+        "voice": "GC138007.ogg"
+      },
+      "original": "エンジェル隊は、まず後方の増援艦隊を排除してくれ。エルシオールの安全を確保するのが先だ。",
+      "translation": "엔젤대는 우선 후방의 증원 함대를 배제해 줘. 에르시올의 안전 확보가 먼저다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2800,
+          "length": 40,
+          "key": 726499587,
+          "original": "エンジェル隊は、まず後方の増援艦隊を排除"
+        },
+        {
+          "offset": 2848,
+          "length": 40,
+          "key": 726499587,
+          "original": "してくれ。エルシオールの安全を確保するの"
+        },
+        {
+          "offset": 2896,
+          "length": 8,
+          "key": 726499587,
+          "original": "が先だ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0016",
+      "context": {
+        "voice": "GC138008.ogg"
+      },
+      "original": "……やむを得ないか。",
+      "translation": "……어쩔 수 없나.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3064,
+          "length": 20,
+          "key": 726499587,
+          "original": "……やむを得ないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0017",
+      "context": {
+        "voice": "GC138008.ogg"
+      },
+      "original": "その後、暴走した紋章機の進路上の敵を排除しつつ、旗艦を破壊。",
+      "translation": "그 후, 폭주한 문장기의 경로상 적을 제거하며 기함을 파괴.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3288,
+          "length": 40,
+          "key": 726499587,
+          "original": "その後、暴走した紋章機の進路上の敵を排除"
+        },
+        {
+          "offset": 3336,
+          "length": 20,
+          "key": 726499587,
+          "original": "しつつ、旗艦を破壊。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0018",
+      "context": {
+        "voice": "GC138008.ogg"
+      },
+      "original": "あまり時間をかけていると、暴走した紋章機が敵の手に落ちてしまう可能性がある。注意してくれ。",
+      "translation": "너무 시간을 끌면 폭주한 문장기가 적의 손에 넘어갈 가능성이 있다. 주의해라.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3448,
+          "length": 40,
+          "key": 726499587,
+          "original": "あまり時間をかけていると、暴走した紋章機"
+        },
+        {
+          "offset": 3496,
+          "length": 40,
+          "key": 726499587,
+          "original": "が敵の手に落ちてしまう可能性がある。注意"
+        },
+        {
+          "offset": 3544,
+          "length": 10,
+          "key": 726499587,
+          "original": "してくれ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0019",
+      "context": {
+        "voice": "GC138008.ogg"
+      },
+      "original": "以上だ。頼んだぞ。",
+      "translation": "이상이다.부탁하마.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3684,
+          "length": 18,
+          "key": 726499587,
+          "original": "以上だ。頼んだぞ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0020",
+      "context": {
+        "voice": null
+      },
+      "original": "～敵部隊の編成～",
+      "translation": "～적 부대 편성～",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3948,
+          "length": 16,
+          "key": 726499587,
+          "original": "～敵部隊の編成～"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0021",
+      "context": {
+        "voice": null
+      },
+      "original": "　戦闘母艦×１　　　　戦艦×１",
+      "translation": "　전투 모함×１　　전함×１",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3972,
+          "length": 30,
+          "key": 726499587,
+          "original": "　戦闘母艦×１　　　　戦艦×１"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0022",
+      "context": {
+        "voice": null
+      },
+      "original": "　巡洋艦×４　　　　　戦闘機×５",
+      "translation": "　순양함×４　　　전투기×５",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4012,
+          "length": 32,
+          "key": 726499587,
+          "original": "　巡洋艦×４　　　　　戦闘機×５"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0023",
+      "context": {
+        "voice": null
+      },
+      "original": "　攻撃機×５",
+      "translation": "　공격기×５",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4052,
+          "length": 12,
+          "key": 726499587,
+          "original": "　攻撃機×５"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0024",
+      "context": {
+        "voice": null
+      },
+      "original": "～勝利条件～",
+      "translation": "～승리조건～",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4080,
+          "length": 12,
+          "key": 726499587,
+          "original": "～勝利条件～"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0025",
+      "context": {
+        "voice": null
+      },
+      "original": "　敵旗艦の破壊",
+      "translation": "　적 기함 파괴",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4100,
+          "length": 14,
+          "key": 726499587,
+          "original": "　敵旗艦の破壊"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0026",
+      "context": {
+        "voice": null
+      },
+      "original": "～敗北条件～",
+      "translation": "～패배조건～",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4124,
+          "length": 12,
+          "key": 726499587,
+          "original": "～敗北条件～"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0027",
+      "context": {
+        "voice": null
+      },
+      "original": "　ラッキースターの目標地点到達",
+      "translation": "　럭키 스타 목표 지점 도달",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4144,
+          "length": 30,
+          "key": 726499587,
+          "original": "　ラッキースターの目標地点到達"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0028",
+      "context": {
+        "voice": null
+      },
+      "original": "　エルシオールの破壊",
+      "translation": "　에르시올 파괴",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4184,
+          "length": 20,
+          "key": 726499587,
+          "original": "　エルシオールの破壊"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0029",
+      "context": {
+        "voice": null
+      },
+      "original": "　タイムオーバー",
+      "translation": "　타임 오버",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4212,
+          "length": 16,
+          "key": 726499587,
+          "original": "　タイムオーバー"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0030",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "もう一度、作戦内容を確認するか？",
+      "translation": "다시 작전 내용을 확인할까？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4376,
+          "length": 32,
+          "key": 726499587,
+          "original": "もう一度、作戦内容を確認するか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0031",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "そうだなあ……。",
+      "translation": "글쎄...",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4480,
+          "length": 16,
+          "key": 726499587,
+          "original": "そうだなあ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0032",
+      "context": {
+        "voice": null
+      },
+      "original": "もう一度確認する",
+      "translation": "다시 확인한다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4532,
+          "length": 16,
+          "key": 726499587,
+          "original": "もう一度確認する"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0033",
+      "context": {
+        "voice": null
+      },
+      "original": "その必要はない",
+      "translation": "그럴 필요 없다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4556,
+          "length": 14,
+          "key": 726499587,
+          "original": "その必要はない"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0034",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "うん。念のため、もう一度確認しておこう。",
+      "translation": "응. 만약을 위해, 다시 한번 확인해 두자.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4692,
+          "length": 40,
+          "key": 726499587,
+          "original": "うん。念のため、もう一度確認しておこう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0035",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "いや、その必要はない。みんな、準備はいいな？",
+      "translation": "아니, 그럴 필요는 없다. 모두, 준비는 됐나？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4848,
+          "length": 40,
+          "key": 726499587,
+          "original": "いや、その必要はない。みんな、準備はいい"
+        },
+        {
+          "offset": 4896,
+          "length": 4,
+          "key": 726499587,
+          "original": "な？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0036",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "エンジェル隊、出撃！",
+      "translation": "엔젤대, 출격！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4972,
+          "length": 20,
+          "key": 726499587,
+          "original": "エンジェル隊、出撃！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00033800:isb:0037",
+      "context": {
+        "voice": "GC138010.ogg"
+      },
+      "original": "了解！",
+      "translation": "네！",
+      "state": "shortened-reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5104,
+          "length": 6,
+          "key": 726499587,
+          "original": "了解！"
+        }
+      ]
+    }
+  ]
+}

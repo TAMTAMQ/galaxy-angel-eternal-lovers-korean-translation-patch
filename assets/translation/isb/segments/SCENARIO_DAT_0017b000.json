@@ -1,0 +1,2692 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_0017b000.txt",
+    "encoding": "cp932",
+    "sha256": "0b6e73b948826eeb71752730e4a2a27944f597209e7b9a6c4c7764a4104b302b",
+    "tagged_records": 284,
+    "decoded_records": 284,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 2195231794,
+        "source": "header",
+        "end": 10584
+      },
+      {
+        "start": 10584,
+        "key_offset": 10568,
+        "key": 2819893814,
+        "source": "integer_literal",
+        "end": 24060
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "医務室・お見舞いにお香を",
+      "translation": "의무실・위문용 향을",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16,
+          "length": 24,
+          "key": 2195231794,
+          "original": "医務室・お見舞いにお香を"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0002",
+      "context": {
+        "voice": "GC445000.ogg"
+      },
+      "original": "……大丈夫そうですわね。",
+      "translation": "……괜찮은 것 같네요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 300,
+          "length": 24,
+          "key": 2195231794,
+          "original": "……大丈夫そうですわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0003",
+      "context": {
+        "voice": "GC445001.ogg"
+      },
+      "original": "はい、問題ありません……。",
+      "translation": "네, 문제없습니다…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 472,
+          "length": 26,
+          "key": 2195231794,
+          "original": "はい、問題ありません……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0004",
+      "context": {
+        "voice": "GC445001.ogg"
+      },
+      "original": "やあ、ミントにヴァニラ。",
+      "translation": "야아, 민트, 바닐라.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 572,
+          "length": 24,
+          "key": 2195231794,
+          "original": "やあ、ミントにヴァニラ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0005",
+      "context": {
+        "voice": "GC445002.ogg"
+      },
+      "original": "あ、タクトさん……。",
+      "translation": "아, 택트 씨…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 744,
+          "length": 20,
+          "key": 2195231794,
+          "original": "あ、タクトさん……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0006",
+      "context": {
+        "voice": "GC445002.ogg"
+      },
+      "original": "ふたりとも、そんな細い棒なんか持って、何をしてるんだい？",
+      "translation": "둘 다, 그런 가느다란 막대기는 들고 뭘 하고 있는 거야？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 836,
+          "length": 40,
+          "key": 2195231794,
+          "original": "ふたりとも、そんな細い棒なんか持って、何"
+        },
+        {
+          "offset": 884,
+          "length": 16,
+          "key": 2195231794,
+          "original": "をしてるんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0007",
+      "context": {
+        "voice": "GC445003.ogg"
+      },
+      "original": "これは、とても良い香りのするお香ですわ。火をつけると、お部屋いっぱいに香りが広がりますの。",
+      "translation": "이건 아주 좋은 향기가 나는 향입니다. 불을 붙이면 방 안에 향기가 가득 퍼진답니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1048,
+          "length": 40,
+          "key": 2195231794,
+          "original": "これは、とても良い香りのするお香ですわ。"
+        },
+        {
+          "offset": 1096,
+          "length": 40,
+          "key": 2195231794,
+          "original": "火をつけると、お部屋いっぱいに香りが広が"
+        },
+        {
+          "offset": 1144,
+          "length": 10,
+          "key": 2195231794,
+          "original": "りますの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0008",
+      "context": {
+        "voice": "GC445003.ogg"
+      },
+      "original": "お香？　というとお線香？",
+      "translation": "향？ 말하자면 선향？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1228,
+          "length": 24,
+          "key": 2195231794,
+          "original": "お香？　というとお線香？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0009",
+      "context": {
+        "voice": "GC445004.ogg"
+      },
+      "original": "お香を線状に固めたものを線香といいます。これは木の棒にお香をぬりつけたものですから少し違います……。",
+      "translation": "향을 선형으로 굳힌 것을 선향이라고 합니다. 이건 나무 막대에 향을 바른 것이라 조금 다릅니다…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1400,
+          "length": 40,
+          "key": 2195231794,
+          "original": "お香を線状に固めたものを線香といいます。"
+        },
+        {
+          "offset": 1448,
+          "length": 40,
+          "key": 2195231794,
+          "original": "これは木の棒にお香をぬりつけたものですか"
+        },
+        {
+          "offset": 1496,
+          "length": 20,
+          "key": 2195231794,
+          "original": "ら少し違います……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0010",
+      "context": {
+        "voice": "GC445005.ogg"
+      },
+      "original": "もっとファッショナブルなお香というわけですわ。",
+      "translation": "좀 더 패셔너블한 향이라는 거죠.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1664,
+          "length": 40,
+          "key": 2195231794,
+          "original": "もっとファッショナブルなお香というわけで"
+        },
+        {
+          "offset": 1712,
+          "length": 6,
+          "key": 2195231794,
+          "original": "すわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0011",
+      "context": {
+        "voice": "GC445005.ogg"
+      },
+      "original": "拝むのに使うのとはまた別のお香があるんだね。",
+      "translation": "기도할 때 쓰는 것과는 또 다른 향이 있구나.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1792,
+          "length": 40,
+          "key": 2195231794,
+          "original": "拝むのに使うのとはまた別のお香があるんだ"
+        },
+        {
+          "offset": 1840,
+          "length": 4,
+          "key": 2195231794,
+          "original": "ね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0012",
+      "context": {
+        "voice": "GC445006.ogg"
+      },
+      "original": "フォルテさんのお見舞いに、なにかいいものはないかと探してましたの。",
+      "translation": "포르테 씨의 위문 선물로 좋은 게 없을까 해서 찾아보고 있었어요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1992,
+          "length": 40,
+          "key": 2195231794,
+          "original": "フォルテさんのお見舞いに、なにかいいもの"
+        },
+        {
+          "offset": 2040,
+          "length": 26,
+          "key": 2195231794,
+          "original": "はないかと探してましたの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0013",
+      "context": {
+        "voice": "GC445007.ogg"
+      },
+      "original": "そうしたら、昔いただいてそのままになっていたお香のことを思い出したのですわ。",
+      "translation": "그러다 예전에 받았던 향이 생각났답니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2216,
+          "length": 40,
+          "key": 2195231794,
+          "original": "そうしたら、昔いただいてそのままになって"
+        },
+        {
+          "offset": 2264,
+          "length": 36,
+          "key": 2195231794,
+          "original": "いたお香のことを思い出したのですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0014",
+      "context": {
+        "voice": "GC445008.ogg"
+      },
+      "original": "お香には気持ちをリラックスさせる効果があります……。",
+      "translation": "향에는 마음을 편안하게 해주는 효과가 있어요…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2448,
+          "length": 40,
+          "key": 2195231794,
+          "original": "お香には気持ちをリラックスさせる効果があ"
+        },
+        {
+          "offset": 2496,
+          "length": 12,
+          "key": 2195231794,
+          "original": "ります……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0015",
+      "context": {
+        "voice": "GC445008.ogg"
+      },
+      "original": "アロマテラピーってやつだよね。そういえばお香以外にもいろんなのがあるんだよね。",
+      "translation": "아로마 테라피라는 거네. 그러고 보니 향 말고도 여러 가지가 있지.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2580,
+          "length": 40,
+          "key": 2195231794,
+          "original": "アロマテラピーってやつだよね。そういえば"
+        },
+        {
+          "offset": 2628,
+          "length": 38,
+          "key": 2195231794,
+          "original": "お香以外にもいろんなのがあるんだよね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0016",
+      "context": {
+        "voice": "GC445009.ogg"
+      },
+      "original": "そうですわね。アロマキャンドルなんてものもありますわね。部屋を暗くしてたくさん並べると、とても幻想的なんですわよ。",
+      "translation": "그렇죠. 아로마 캔들 같은 것도 있고요. 방을 어둡게 하고 잔뜩 늘어놓으면 아주 환상적이랍니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2816,
+          "length": 40,
+          "key": 2195231794,
+          "original": "そうですわね。アロマキャンドルなんてもの"
+        },
+        {
+          "offset": 2864,
+          "length": 40,
+          "key": 2195231794,
+          "original": "もありますわね。部屋を暗くしてたくさん並"
+        },
+        {
+          "offset": 2912,
+          "length": 34,
+          "key": 2195231794,
+          "original": "べると、とても幻想的なんですわよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0017",
+      "context": {
+        "voice": "GC445010.ogg"
+      },
+      "original": "アロマオイルもあります。お風呂に入れるとよい香りがします……。",
+      "translation": "아로마 오일도 있어요. 목욕물에 넣으면 좋은 향이 나요…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3096,
+          "length": 40,
+          "key": 2195231794,
+          "original": "アロマオイルもあります。お風呂に入れると"
+        },
+        {
+          "offset": 3144,
+          "length": 22,
+          "key": 2195231794,
+          "original": "よい香りがします……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0018",
+      "context": {
+        "voice": "GC445011.ogg"
+      },
+      "original": "いいですわね、いっしょに花びらを浮かべたりするとまたその香りもいいんですのよ。",
+      "translation": "좋겠네요, 같이 꽃잎을 띄우면 그 향기도 아주 좋답니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3316,
+          "length": 40,
+          "key": 2195231794,
+          "original": "いいですわね、いっしょに花びらを浮かべた"
+        },
+        {
+          "offset": 3364,
+          "length": 38,
+          "key": 2195231794,
+          "original": "りするとまたその香りもいいんですのよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0019",
+      "context": {
+        "voice": "GC445011.ogg"
+      },
+      "original": "ふーん、香りにもいろんな楽しみ方があるんだね。",
+      "translation": "흐음, 향기도 즐기는 방법이 다양하네.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3476,
+          "length": 40,
+          "key": 2195231794,
+          "original": "ふーん、香りにもいろんな楽しみ方があるん"
+        },
+        {
+          "offset": 3524,
+          "length": 6,
+          "key": 2195231794,
+          "original": "だね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0020",
+      "context": {
+        "voice": "GC445012.ogg"
+      },
+      "original": "でも今回はオーソドックスにいきますわ。やはり歴史と種類でお香にかなうものはありませんもの。",
+      "translation": "하지만 이번에는 정석대로 갈게요. 역시 역사와 종류 면에서 향을 따라올 건 없으니까요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3680,
+          "length": 40,
+          "key": 2195231794,
+          "original": "でも今回はオーソドックスにいきますわ。や"
+        },
+        {
+          "offset": 3728,
+          "length": 40,
+          "key": 2195231794,
+          "original": "はり歴史と種類でお香にかなうものはありま"
+        },
+        {
+          "offset": 3776,
+          "length": 10,
+          "key": 2195231794,
+          "original": "せんもの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0021",
+      "context": {
+        "voice": "GC445012.ogg"
+      },
+      "original": "ところでそのお香って、どんな香りがするんだい。",
+      "translation": "그런데 그 향은 어떤 향이 나니?",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3860,
+          "length": 40,
+          "key": 2195231794,
+          "original": "ところでそのお香って、どんな香りがするん"
+        },
+        {
+          "offset": 3908,
+          "length": 6,
+          "key": 2195231794,
+          "original": "だい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0022",
+      "context": {
+        "voice": "GC445013.ogg"
+      },
+      "original": "それがよくわかりませんの。せっかくですから、お渡しする前にみんなで試してみるというのはいかがでしょう？",
+      "translation": "그게 잘 모르겠어요. 이왕 이렇게 된 거, 드리기 전에 다 같이 시도해 보는 건 어떨까요？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4064,
+          "length": 40,
+          "key": 2195231794,
+          "original": "それがよくわかりませんの。せっかくですか"
+        },
+        {
+          "offset": 4112,
+          "length": 40,
+          "key": 2195231794,
+          "original": "ら、お渡しする前にみんなで試してみるとい"
+        },
+        {
+          "offset": 4160,
+          "length": 22,
+          "key": 2195231794,
+          "original": "うのはいかがでしょう？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0023",
+      "context": {
+        "voice": "GC445013.ogg"
+      },
+      "original": "いいねえ、ちょっとお香で癒されてみようかな。",
+      "translation": "좋네, 향기로 힐링 좀 해볼까.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4256,
+          "length": 40,
+          "key": 2195231794,
+          "original": "いいねえ、ちょっとお香で癒されてみようか"
+        },
+        {
+          "offset": 4304,
+          "length": 4,
+          "key": 2195231794,
+          "original": "な。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0024",
+      "context": {
+        "voice": "GC445014.ogg"
+      },
+      "original": "ではさっそく。",
+      "translation": "그럼 바로.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4456,
+          "length": 14,
+          "key": 2195231794,
+          "original": "ではさっそく。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0025",
+      "context": {
+        "voice": "GC445015.ogg"
+      },
+      "original": "なかなか火がつきません……。",
+      "translation": "좀처럼 불이 안 붙네요…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4620,
+          "length": 28,
+          "key": 2195231794,
+          "original": "なかなか火がつきません……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0026",
+      "context": {
+        "voice": "GC445016.ogg"
+      },
+      "original": "おかしいですわね。火がついてくれないとせっかくの香りも楽しめませんわ。",
+      "translation": "이상하네요. 불이 붙지 않으면 향기도 즐길 수 없는데 말이죠.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4796,
+          "length": 42,
+          "key": 2195231794,
+          "original": "おかしいですわね。火がついてくれないとせっ"
+        },
+        {
+          "offset": 4848,
+          "length": 28,
+          "key": 2195231794,
+          "original": "かくの香りも楽しめませんわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0027",
+      "context": {
+        "voice": "GC445016.ogg"
+      },
+      "original": "湿気のせいかな？",
+      "translation": "습기 때문인가？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4948,
+          "length": 16,
+          "key": 2195231794,
+          "original": "湿気のせいかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0028",
+      "context": {
+        "voice": "GC445017.ogg"
+      },
+      "original": "しばらくしまってましたから、あるいは……。あ、つきましたわ。",
+      "translation": "한동안 넣어뒀으니, 아니면……. 아, 붙었습니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5112,
+          "length": 42,
+          "key": 2195231794,
+          "original": "しばらくしまってましたから、あるいは……。"
+        },
+        {
+          "offset": 5164,
+          "length": 18,
+          "key": 2195231794,
+          "original": "あ、つきましたわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0029",
+      "context": {
+        "voice": "GC445017.ogg"
+      },
+      "original": "これがお香の香りか……これはなんとも……。",
+      "translation": "이게 향기인가…… 이건 뭐랄까…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5256,
+          "length": 42,
+          "key": 2195231794,
+          "original": "これがお香の香りか……これはなんとも……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0030",
+      "context": {
+        "voice": "GC445018.ogg"
+      },
+      "original": "焦げ臭いです……。",
+      "translation": "탄내가 나요…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5444,
+          "length": 18,
+          "key": 2195231794,
+          "original": "焦げ臭いです……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0031",
+      "context": {
+        "voice": "GC445018.ogg"
+      },
+      "original": "焦げ臭いねえ。あれ？　ミント、これおかしくない？",
+      "translation": "탄내가심하네. 어라？ 민트, 이거 이상하지 않아？",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5536,
+          "length": 40,
+          "key": 2195231794,
+          "original": "焦げ臭いねえ。あれ？　ミント、これおかし"
+        },
+        {
+          "offset": 5584,
+          "length": 8,
+          "key": 2195231794,
+          "original": "くない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0032",
+      "context": {
+        "voice": "GC445019.ogg"
+      },
+      "original": "そうですわね、なんだか煙の量も多いみたいですし。そういうタイプのお香なのでしょうか？",
+      "translation": "그러게요, 왠지 연기 양도 많은 것 같고. 이런 타입의 향인가요？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5704,
+          "length": 40,
+          "key": 2195231794,
+          "original": "そうですわね、なんだか煙の量も多いみたい"
+        },
+        {
+          "offset": 5752,
+          "length": 40,
+          "key": 2195231794,
+          "original": "ですし。そういうタイプのお香なのでしょう"
+        },
+        {
+          "offset": 5800,
+          "length": 4,
+          "key": 2195231794,
+          "original": "か？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0033",
+      "context": {
+        "voice": "GC445020.ogg"
+      },
+      "original": "煙が部屋に充満してきました……。",
+      "translation": "연기가 방에 가득 차고있어요…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5988,
+          "length": 32,
+          "key": 2195231794,
+          "original": "煙が部屋に充満してきました……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0034",
+      "context": {
+        "voice": "GC445020.ogg"
+      },
+      "original": "香りもするけど、煙もすごいよ！　ミント、本当にこれで大丈夫？",
+      "translation": "향도 나지만 연기도 엄청나！ 민트, 정말 이대로 괜찮아？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6092,
+          "length": 40,
+          "key": 2195231794,
+          "original": "香りもするけど、煙もすごいよ！　ミント、"
+        },
+        {
+          "offset": 6140,
+          "length": 20,
+          "key": 2195231794,
+          "original": "本当にこれで大丈夫？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0035",
+      "context": {
+        "voice": "GC445021.ogg"
+      },
+      "original": "説明書には確かに煙も出ると書いてあるのですが……。あ、これ少煙タイプですわね。",
+      "translation": "설명서에는 분명 연기도 난다고 적혀 있습니다만……. 아, 이건 소연형이군요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6308,
+          "length": 40,
+          "key": 2195231794,
+          "original": "説明書には確かに煙も出ると書いてあるので"
+        },
+        {
+          "offset": 6356,
+          "length": 38,
+          "key": 2195231794,
+          "original": "すが……。あ、これ少煙タイプですわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0036",
+      "context": {
+        "voice": "GC445021.ogg"
+      },
+      "original": "これで少煙なら、普通タイプはどんな煙がでるんだい？",
+      "translation": "이게 소연형이면 보통 타입은 어떤 연기가 나와？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6468,
+          "length": 40,
+          "key": 2195231794,
+          "original": "これで少煙なら、普通タイプはどんな煙がで"
+        },
+        {
+          "offset": 6516,
+          "length": 10,
+          "key": 2195231794,
+          "original": "るんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0037",
+      "context": {
+        "voice": "GC445022.ogg"
+      },
+      "original": "視界が霞んでまいりました……。",
+      "translation": "시야가 흐릿해집니다…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6764,
+          "length": 30,
+          "key": 2195231794,
+          "original": "視界が霞んでまいりました……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0038",
+      "context": {
+        "voice": "GC445022.ogg"
+      },
+      "original": "ミント、このままだと火災報知器がなっちゃうかも。ここはいったん消した方が。",
+      "translation": "민트, 이대로라면 화재경보기가 울릴지도 몰라. 일단 끄는 게 좋겠어.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6868,
+          "length": 40,
+          "key": 2195231794,
+          "original": "ミント、このままだと火災報知器がなっちゃ"
+        },
+        {
+          "offset": 6916,
+          "length": 34,
+          "key": 2195231794,
+          "original": "うかも。ここはいったん消した方が。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0039",
+      "context": {
+        "voice": "GC445023.ogg"
+      },
+      "original": "そうですわね、またスプリンクラーでずぶ濡れというのは避けたいですわね。",
+      "translation": "그렇네요, 또 스프링클러 때문에 물벼락을 맞는 건 피하고 싶으니까요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7064,
+          "length": 40,
+          "key": 2195231794,
+          "original": "そうですわね、またスプリンクラーでずぶ濡"
+        },
+        {
+          "offset": 7112,
+          "length": 30,
+          "key": 2195231794,
+          "original": "れというのは避けたいですわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0040",
+      "context": {
+        "voice": "GC445024.ogg"
+      },
+      "original": "消します……。",
+      "translation": "끕니다…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7256,
+          "length": 14,
+          "key": 2195231794,
+          "original": "消します……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0041",
+      "context": {
+        "voice": "GC445024.ogg"
+      },
+      "original": "換気だ！　換気！",
+      "translation": "환기다！ 환기！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7344,
+          "length": 16,
+          "key": 2195231794,
+          "original": "換気だ！　換気！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0042",
+      "context": {
+        "voice": "GC445025.ogg"
+      },
+      "original": "扉を開けます……。",
+      "translation": "문을 엽니다…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7472,
+          "length": 18,
+          "key": 2195231794,
+          "original": "扉を開けます……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0043",
+      "context": {
+        "voice": "GC445026.ogg"
+      },
+      "original": "……私、失敗してしまったようですわ。",
+      "translation": "……제가 실수를 한 것 같네요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7772,
+          "length": 36,
+          "key": 2195231794,
+          "original": "……私、失敗してしまったようですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0044",
+      "context": {
+        "voice": "GC445026.ogg"
+      },
+      "original": "そんなことはないさ……。",
+      "translation": "그렇지는 않아…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7880,
+          "length": 24,
+          "key": 2195231794,
+          "original": "そんなことはないさ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0045",
+      "context": {
+        "voice": "GC445026.ogg"
+      },
+      "original": "アロマで癒しって考えはいいんだから。",
+      "translation": "아로마로 힐링하려던 생각은 좋았어.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8056,
+          "length": 36,
+          "key": 2195231794,
+          "original": "アロマで癒しって考えはいいんだから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0046",
+      "context": {
+        "voice": "GC445100.ogg"
+      },
+      "original": "そうですわね。お香のほかにも、まだまだよい香りのものはいっぱいありますものね。",
+      "translation": "그렇죠. 향 말고도 좋은 향기가 나는 건 아주 많으니까요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8284,
+          "length": 40,
+          "key": 2195231794,
+          "original": "そうですわね。お香のほかにも、まだまだよ"
+        },
+        {
+          "offset": 8332,
+          "length": 38,
+          "key": 2195231794,
+          "original": "い香りのものはいっぱいありますものね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0047",
+      "context": {
+        "voice": "GC445101.ogg"
+      },
+      "original": "私はポプリがおすすめだと思います……。",
+      "translation": "저는 포푸리가 추천이라고 생각해요…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8564,
+          "length": 38,
+          "key": 2195231794,
+          "original": "私はポプリがおすすめだと思います……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0048",
+      "context": {
+        "voice": "GC445102.ogg"
+      },
+      "original": "そうですわね。火を使うものはやめたほうがよさそうですわ。",
+      "translation": "그러게요. 불을 쓰는 건 안 하는 게 좋겠어요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8752,
+          "length": 40,
+          "key": 2195231794,
+          "original": "そうですわね。火を使うものはやめたほうが"
+        },
+        {
+          "offset": 8800,
+          "length": 16,
+          "key": 2195231794,
+          "original": "よさそうですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0049",
+      "context": {
+        "voice": "GC445102.ogg"
+      },
+      "original": "渡す前にわかってよかったじゃないか。",
+      "translation": "전하기 전에 알아서 다행이야.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8896,
+          "length": 36,
+          "key": 2195231794,
+          "original": "渡す前にわかってよかったじゃないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0050",
+      "context": {
+        "voice": "GC445103.ogg"
+      },
+      "original": "そうですわね、あやうくフォルテさんをずぶ濡れにしてしまうところでしたわ。",
+      "translation": "그러게요, 하마터면 포르테 씨를 물바다로 만들 뻔했어요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9080,
+          "length": 40,
+          "key": 2195231794,
+          "original": "そうですわね、あやうくフォルテさんをずぶ"
+        },
+        {
+          "offset": 9128,
+          "length": 32,
+          "key": 2195231794,
+          "original": "濡れにしてしまうところでしたわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0051",
+      "context": {
+        "voice": "GC445104.ogg"
+      },
+      "original": "使用期限……去年で切れてました……。",
+      "translation": "유통기한…… 작년에 지났어요…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9308,
+          "length": 36,
+          "key": 2195231794,
+          "original": "使用期限……去年で切れてました……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0052",
+      "context": {
+        "voice": "GC445105.ogg"
+      },
+      "original": "お香も乾燥しているように見えて、意外に変質しやすいものなんですのね。",
+      "translation": "향도 건조해 보여서 의외로 변질되기 쉬운 거군요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9492,
+          "length": 40,
+          "key": 2195231794,
+          "original": "お香も乾燥しているように見えて、意外に変"
+        },
+        {
+          "offset": 9540,
+          "length": 28,
+          "key": 2195231794,
+          "original": "質しやすいものなんですのね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0053",
+      "context": {
+        "voice": "GC445105.ogg"
+      },
+      "original": "焦げた香りもまた格別。",
+      "translation": "탄내 나는 향도 별미지.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9648,
+          "length": 22,
+          "key": 2195231794,
+          "original": "焦げた香りもまた格別。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0054",
+      "context": {
+        "voice": "GC445106.ogg"
+      },
+      "original": "タクトさんはそう思われるかもしれませんが、フォルテさんは喜ばないと思いますわ。",
+      "translation": "택트 씨는 그렇게 생각하실지 모르겠지만, 포르테 씨는 기뻐하지 않을 거예요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9864,
+          "length": 42,
+          "key": 2195231794,
+          "original": "タクトさんはそう思われるかもしれませんが、"
+        },
+        {
+          "offset": 9916,
+          "length": 36,
+          "key": 2195231794,
+          "original": "フォルテさんは喜ばないと思いますわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0055",
+      "context": {
+        "voice": "GC445107.ogg"
+      },
+      "original": "私もそう思います……。",
+      "translation": "저도 그렇게생각해요….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10108,
+          "length": 22,
+          "key": 2195231794,
+          "original": "私もそう思います……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0056",
+      "context": {
+        "voice": "GC445107.ogg"
+      },
+      "original": "うん……そうだね。ごめん。",
+      "translation": "응…… 그렇네. 미안.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10204,
+          "length": 26,
+          "key": 2195231794,
+          "original": "うん……そうだね。ごめん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0057",
+      "context": {
+        "voice": "GC445107.ogg"
+      },
+      "original": "まあ、大事に至らなくて良かったよ。お見舞い選びは慎重にね。",
+      "translation": "뭐, 큰일이 아니라 다행이야. 선물은 신중히 골라줘.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10304,
+          "length": 40,
+          "key": 2195231794,
+          "original": "まあ、大事に至らなくて良かったよ。お見舞"
+        },
+        {
+          "offset": 10352,
+          "length": 18,
+          "key": 2195231794,
+          "original": "い選びは慎重にね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0058",
+      "context": {
+        "voice": "GC445108.ogg"
+      },
+      "original": "はい、わかってますわタクトさん。",
+      "translation": "네, 알고 있어요 택트 씨.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10520,
+          "length": 32,
+          "key": 2195231794,
+          "original": "はい、わかってますわタクトさん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0059",
+      "context": {
+        "voice": "GC445108.ogg"
+      },
+      "original": "銀河展望公園・フォルテの不在を補うために",
+      "translation": "은하전망공원・포르테의부재를보완하기위해",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10584,
+          "length": 40,
+          "key": 2819893814,
+          "original": "銀河展望公園・フォルテの不在を補うために"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0060",
+      "context": {
+        "voice": "GC445200.ogg"
+      },
+      "original": "だからまずあたしが……。",
+      "translation": "그러니까 우선 내가…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10884,
+          "length": 24,
+          "key": 2819893814,
+          "original": "だからまずあたしが……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0061",
+      "context": {
+        "voice": "GC445201.ogg"
+      },
+      "original": "それをいったらアタシの方が……。",
+      "translation": "그렇게 말하면 내가 더…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11056,
+          "length": 32,
+          "key": 2819893814,
+          "original": "それをいったらアタシの方が……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0062",
+      "context": {
+        "voice": "GC445202.ogg"
+      },
+      "original": "その前に私がですね……。",
+      "translation": "그전에 제가 말이죠…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11236,
+          "length": 24,
+          "key": 2819893814,
+          "original": "その前に私がですね……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0063",
+      "context": {
+        "voice": "GC445202.ogg"
+      },
+      "original": "おや、にぎやかだね。どうしたんだい？",
+      "translation": "어라, 북적북적하네. 무슨 일이야？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11332,
+          "length": 36,
+          "key": 2819893814,
+          "original": "おや、にぎやかだね。どうしたんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0064",
+      "context": {
+        "voice": "GC445203.ogg"
+      },
+      "original": "あ、タクトさん。グッドタイミングですよ！",
+      "translation": "아, 택트 씨. 타이밍이 좋네요！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11516,
+          "length": 40,
+          "key": 2819893814,
+          "original": "あ、タクトさん。グッドタイミングですよ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0065",
+      "context": {
+        "voice": "GC445204.ogg"
+      },
+      "original": "そうね……タクト、ちょっと客観的なところを聞かせて欲しいんだけど。",
+      "translation": "그러게…… 택트, 객관적인 의견을 좀 듣고 싶은데.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11704,
+          "length": 40,
+          "key": 2819893814,
+          "original": "そうね……タクト、ちょっと客観的なところ"
+        },
+        {
+          "offset": 11752,
+          "length": 26,
+          "key": 2819893814,
+          "original": "を聞かせて欲しいんだけど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0066",
+      "context": {
+        "voice": "GC445204.ogg"
+      },
+      "original": "おっ、いつになくまじめだねえ。じゃあオレも背筋をのばして聞かせてもらうよ。",
+      "translation": "오, 웬일로 진지하네. 그럼 나도 자세히 들어볼까.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11852,
+          "length": 40,
+          "key": 2819893814,
+          "original": "おっ、いつになくまじめだねえ。じゃあオレ"
+        },
+        {
+          "offset": 11900,
+          "length": 34,
+          "key": 2819893814,
+          "original": "も背筋をのばして聞かせてもらうよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0067",
+      "context": {
+        "voice": "GC445205.ogg"
+      },
+      "original": "今、フォルテさんがお休みしちゃってるので、あたしたちエンジェル隊の力は弱くなっちゃってるじゃないですか。",
+      "translation": "지금 포르테 씨가 쉬고 계셔서 우리 엔젤대의 힘이 약해져 있잖아요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12084,
+          "length": 42,
+          "key": 2819893814,
+          "original": "今、フォルテさんがお休みしちゃってるので、"
+        },
+        {
+          "offset": 12136,
+          "length": 42,
+          "key": 2819893814,
+          "original": "あたしたちエンジェル隊の力は弱くなっちゃっ"
+        },
+        {
+          "offset": 12188,
+          "length": 20,
+          "key": 2819893814,
+          "original": "てるじゃないですか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0068",
+      "context": {
+        "voice": "GC445205.ogg"
+      },
+      "original": "うん、残念ながらそういう状況だよねえ。",
+      "translation": "응, 아쉽게도 그런 상황이지.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12280,
+          "length": 38,
+          "key": 2819893814,
+          "original": "うん、残念ながらそういう状況だよねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0069",
+      "context": {
+        "voice": "GC445206.ogg"
+      },
+      "original": "それで、フォルテさんは攻撃力で圧倒的だったわけだから、アタシらもそれをなんとかして補わなきゃダメだと思うのよ。",
+      "translation": "그래서 포르테 씨는 공격력이 압도적이었으니까, 우리도 그걸 어떻게든 보완해야 한다고 생각해요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12468,
+          "length": 40,
+          "key": 2819893814,
+          "original": "それで、フォルテさんは攻撃力で圧倒的だっ"
+        },
+        {
+          "offset": 12516,
+          "length": 40,
+          "key": 2819893814,
+          "original": "たわけだから、アタシらもそれをなんとかし"
+        },
+        {
+          "offset": 12564,
+          "length": 30,
+          "key": 2819893814,
+          "original": "て補わなきゃダメだと思うのよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0070",
+      "context": {
+        "voice": "GC445207.ogg"
+      },
+      "original": "それで、戦うためのフォーメーションをみんなで考えようということになったんです。",
+      "translation": "그래서 전투를 위한 포메이션을 다 같이 생각해보자고 하게 된 거예요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12744,
+          "length": 40,
+          "key": 2819893814,
+          "original": "それで、戦うためのフォーメーションをみん"
+        },
+        {
+          "offset": 12792,
+          "length": 38,
+          "key": 2819893814,
+          "original": "なで考えようということになったんです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0071",
+      "context": {
+        "voice": "GC445207.ogg"
+      },
+      "original": "お、それはなんだかかっこいいね。",
+      "translation": "오, 그거 왠지 멋진데.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12904,
+          "length": 32,
+          "key": 2819893814,
+          "original": "お、それはなんだかかっこいいね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0072",
+      "context": {
+        "voice": "GC445208.ogg"
+      },
+      "original": "でしょ！　なんだかすごくやる気が出ちゃって。",
+      "translation": "그쵸！ 왠지 의욕이 막 생겨서요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13084,
+          "length": 40,
+          "key": 2819893814,
+          "original": "でしょ！　なんだかすごくやる気が出ちゃっ"
+        },
+        {
+          "offset": 13132,
+          "length": 4,
+          "key": 2819893814,
+          "original": "て。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0073",
+      "context": {
+        "voice": "GC445209.ogg"
+      },
+      "original": "それでひとりひとり案を考えてくるっていって、集まったんだけど……。",
+      "translation": "그래서 각자 안을 생각해오기로 하고 모였는데…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13284,
+          "length": 40,
+          "key": 2819893814,
+          "original": "それでひとりひとり案を考えてくるっていっ"
+        },
+        {
+          "offset": 13332,
+          "length": 26,
+          "key": 2819893814,
+          "original": "て、集まったんだけど……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0074",
+      "context": {
+        "voice": "GC445210.ogg"
+      },
+      "original": "それぞれの案に良い所と悪い所があって、なかなか決まらないんですよ。",
+      "translation": "각자의 안에 장단점이 있어서 좀처럼 결정이 안 나요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13508,
+          "length": 40,
+          "key": 2819893814,
+          "original": "それぞれの案に良い所と悪い所があって、な"
+        },
+        {
+          "offset": 13556,
+          "length": 26,
+          "key": 2819893814,
+          "original": "かなか決まらないんですよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0075",
+      "context": {
+        "voice": "GC445211.ogg"
+      },
+      "original": "だから、タクトさん！　ここはやっぱり恋人であるタクトさんに決めてもらうといいんじゃないかって思うんです！",
+      "translation": "그러니까 택트 씨！ 역시 연인인 택트 씨가 결정해 주는 게 좋지 않을까 싶어요！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13732,
+          "length": 40,
+          "key": 2819893814,
+          "original": "だから、タクトさん！　ここはやっぱり恋人"
+        },
+        {
+          "offset": 13780,
+          "length": 42,
+          "key": 2819893814,
+          "original": "であるタクトさんに決めてもらうといいんじゃ"
+        },
+        {
+          "offset": 13832,
+          "length": 22,
+          "key": 2819893814,
+          "original": "ないかって思うんです！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0076",
+      "context": {
+        "voice": "GC445212.ogg"
+      },
+      "original": "タクトが決めてくれるんなら、誰にも文句はないと思うのよね。",
+      "translation": "택트 네가 결정한다면 아무도 불만은 없을 거야.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14004,
+          "length": 40,
+          "key": 2819893814,
+          "original": "タクトが決めてくれるんなら、誰にも文句は"
+        },
+        {
+          "offset": 14052,
+          "length": 18,
+          "key": 2819893814,
+          "original": "ないと思うのよね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0077",
+      "context": {
+        "voice": "GC445213.ogg"
+      },
+      "original": "どうか厳しくチェックしてください。",
+      "translation": "부디 엄격하게 체크해 주세요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14220,
+          "length": 34,
+          "key": 2819893814,
+          "original": "どうか厳しくチェックしてください。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0078",
+      "context": {
+        "voice": "GC445213.ogg"
+      },
+      "original": "うん、わかったよ。それじゃあ、それぞれどんな案を考えたのか、教えてくれるかな？",
+      "translation": "응, 알았어. 그럼 각자 어떤 안을 생각했는지 말해줄래？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14328,
+          "length": 40,
+          "key": 2819893814,
+          "original": "うん、わかったよ。それじゃあ、それぞれど"
+        },
+        {
+          "offset": 14376,
+          "length": 38,
+          "key": 2819893814,
+          "original": "んな案を考えたのか、教えてくれるかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0079",
+      "context": {
+        "voice": "GC445214.ogg"
+      },
+      "original": "じゃあまず、あたしからいきますね。",
+      "translation": "그럼 우선 저부터 할게요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14564,
+          "length": 34,
+          "key": 2819893814,
+          "original": "じゃあまず、あたしからいきますね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0080",
+      "context": {
+        "voice": "GC445215.ogg"
+      },
+      "original": "あたしは……まずあたしがラッキースターで、相手が固まっている所にがーんって飛び込んで、バラバラにするのがいいと思うんですよ。",
+      "translation": "저는…… 우선 제가 럭키 스타로 적이 뭉쳐 있는 곳에 확 뛰어들어 흩뜨려 놓는 게 좋다고 생각해요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14748,
+          "length": 42,
+          "key": 2819893814,
+          "original": "あたしは……まずあたしがラッキースターで、"
+        },
+        {
+          "offset": 14800,
+          "length": 40,
+          "key": 2819893814,
+          "original": "相手が固まっている所にがーんって飛び込ん"
+        },
+        {
+          "offset": 14848,
+          "length": 42,
+          "key": 2819893814,
+          "original": "で、バラバラにするのがいいと思うんですよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0081",
+      "context": {
+        "voice": "GC445215.ogg"
+      },
+      "original": "ああ、なるほどね。相手に固まらせないというのは良い考えだと思うよ。",
+      "translation": "아, 그렇구나. 적을 뭉치지 못하게 하는 건 좋은 생각인 것 같아.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14964,
+          "length": 40,
+          "key": 2819893814,
+          "original": "ああ、なるほどね。相手に固まらせないとい"
+        },
+        {
+          "offset": 15012,
+          "length": 26,
+          "key": 2819893814,
+          "original": "うのは良い考えだと思うよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0082",
+      "context": {
+        "voice": "GC445216.ogg"
+      },
+      "original": "アタシも基本はミルフィーと同じなんだけど、でもどうせ飛び込むなら一番スピードのあるアタシのカンフーファイターの方がねえ？",
+      "translation": "나도 기본은 밀피랑 똑같지만, 어차피 뛰어들 거라면 스피드가 제일 빠른 내 쿵푸 파이터가 낫지 않아？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15188,
+          "length": 42,
+          "key": 2819893814,
+          "original": "アタシも基本はミルフィーと同じなんだけど、"
+        },
+        {
+          "offset": 15240,
+          "length": 40,
+          "key": 2819893814,
+          "original": "でもどうせ飛び込むなら一番スピードのある"
+        },
+        {
+          "offset": 15288,
+          "length": 38,
+          "key": 2819893814,
+          "original": "アタシのカンフーファイターの方がねえ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0083",
+      "context": {
+        "voice": "GC445217.ogg"
+      },
+      "original": "でも、ランファのカンフーファイターよりあたしのラッキースターの方が頑丈だし。最初はやっぱりあたしの方がいいんじゃない？",
+      "translation": "하지만 란파의 쿵푸 파이터보다 내 럭키 스타가 더 튼튼하잖아. 처음엔 역시 내가 낫지 않을까？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15476,
+          "length": 40,
+          "key": 2819893814,
+          "original": "でも、ランファのカンフーファイターよりあ"
+        },
+        {
+          "offset": 15524,
+          "length": 40,
+          "key": 2819893814,
+          "original": "たしのラッキースターの方が頑丈だし。最初"
+        },
+        {
+          "offset": 15572,
+          "length": 38,
+          "key": 2819893814,
+          "original": "はやっぱりあたしの方がいいんじゃない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0084",
+      "context": {
+        "voice": "GC445218.ogg"
+      },
+      "original": "大丈夫よ。だてに格闘戦最強の紋章機じゃないんだから。",
+      "translation": "괜찮아. 명색이 격투전 최강의 문장기는 아니니까.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15760,
+          "length": 40,
+          "key": 2819893814,
+          "original": "大丈夫よ。だてに格闘戦最強の紋章機じゃな"
+        },
+        {
+          "offset": 15808,
+          "length": 12,
+          "key": 2819893814,
+          "original": "いんだから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0085",
+      "context": {
+        "voice": "GC445218.ogg"
+      },
+      "original": "ふんふん、ふたりの考えてることはだいたいわかったよ。それでちとせの意見はどうなんだい。",
+      "translation": "흠흠, 둘이 생각하는 건 대충 알겠어. 그럼 치토세 의견은 어때?",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15892,
+          "length": 40,
+          "key": 2819893814,
+          "original": "ふんふん、ふたりの考えてることはだいたい"
+        },
+        {
+          "offset": 15940,
+          "length": 40,
+          "key": 2819893814,
+          "original": "わかったよ。それでちとせの意見はどうなん"
+        },
+        {
+          "offset": 15988,
+          "length": 6,
+          "key": 2819893814,
+          "original": "だい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0086",
+      "context": {
+        "voice": "GC445219.ogg"
+      },
+      "original": "私も固まっている所を崩すという考え方は、ミルフィー先輩、ランファ先輩と同意見なんです。",
+      "translation": "저도 뭉쳐 있는 곳을 무너뜨린다는 사고방식은 밀피 선배, 란파 선배와 같은 의견이에요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16144,
+          "length": 40,
+          "key": 2819893814,
+          "original": "私も固まっている所を崩すという考え方は、"
+        },
+        {
+          "offset": 16192,
+          "length": 40,
+          "key": 2819893814,
+          "original": "ミルフィー先輩、ランファ先輩と同意見なん"
+        },
+        {
+          "offset": 16240,
+          "length": 6,
+          "key": 2819893814,
+          "original": "です。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0087",
+      "context": {
+        "voice": "GC445219.ogg"
+      },
+      "original": "そのあたりは３人とも教科書通りって感じだね。",
+      "translation": "그 부분은 세 명 다 교과서적인 느낌이네.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16320,
+          "length": 40,
+          "key": 2819893814,
+          "original": "そのあたりは３人とも教科書通りって感じだ"
+        },
+        {
+          "offset": 16368,
+          "length": 4,
+          "key": 2819893814,
+          "original": "ね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0088",
+      "context": {
+        "voice": "GC445220.ogg"
+      },
+      "original": "ただ私の場合は……最初の攻撃は射程の長いシャープシューターが向いてるんじゃないかと思ったんです。",
+      "translation": "다만 제 경우에는…… 첫 공격은 사거리가 긴 샤프 슈터가 적합하지 않을까 생각했어요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16520,
+          "length": 40,
+          "key": 2819893814,
+          "original": "ただ私の場合は……最初の攻撃は射程の長い"
+        },
+        {
+          "offset": 16568,
+          "length": 40,
+          "key": 2819893814,
+          "original": "シャープシューターが向いてるんじゃないか"
+        },
+        {
+          "offset": 16616,
+          "length": 16,
+          "key": 2819893814,
+          "original": "と思ったんです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0089",
+      "context": {
+        "voice": "GC445220.ogg"
+      },
+      "original": "なるほど、アウトレンジ攻撃か。確かにそれなら最初に攻撃を受ける可能性が減るよね。",
+      "translation": "그렇구나, 아웃레인지 공격인가. 확실히 그러면 먼저 공격받을 가능성이 줄어들겠네.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16704,
+          "length": 40,
+          "key": 2819893814,
+          "original": "なるほど、アウトレンジ攻撃か。確かにそれ"
+        },
+        {
+          "offset": 16752,
+          "length": 40,
+          "key": 2819893814,
+          "original": "なら最初に攻撃を受ける可能性が減るよね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0090",
+      "context": {
+        "voice": "GC445221.ogg"
+      },
+      "original": "ただそれにはひとつ問題がありまして……。",
+      "translation": "다만 거기에는 한 가지 문제가 있어서…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16940,
+          "length": 40,
+          "key": 2819893814,
+          "original": "ただそれにはひとつ問題がありまして……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0091",
+      "context": {
+        "voice": "GC445221.ogg"
+      },
+      "original": "それぞれに短所があるって言ってたもんね。",
+      "translation": "각자 단점이 있다고 했었지.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17052,
+          "length": 40,
+          "key": 2819893814,
+          "original": "それぞれに短所があるって言ってたもんね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0092",
+      "context": {
+        "voice": "GC445222.ogg"
+      },
+      "original": "シャープシューターは他の紋章機に比べて、スピードが遅いんです……。",
+      "translation": "샤프 슈터는 다른 문장기에 비해 스피드가 느려요…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17240,
+          "length": 40,
+          "key": 2819893814,
+          "original": "シャープシューターは他の紋章機に比べて、"
+        },
+        {
+          "offset": 17288,
+          "length": 26,
+          "key": 2819893814,
+          "original": "スピードが遅いんです……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0093",
+      "context": {
+        "voice": "GC445222.ogg"
+      },
+      "original": "うーん、なるほどなあ。よし、だいたいわかった。",
+      "translation": "음, 그렇구나. 좋아, 대충 알겠어.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17388,
+          "length": 42,
+          "key": 2819893814,
+          "original": "うーん、なるほどなあ。よし、だいたいわかっ"
+        },
+        {
+          "offset": 17440,
+          "length": 4,
+          "key": 2819893814,
+          "original": "た。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0094",
+      "context": {
+        "voice": "GC445223.ogg"
+      },
+      "original": "それでタクトさん、どの案がいいと思います？",
+      "translation": "그래서 택트 씨, 어떤안이좋다고생각하세요？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17592,
+          "length": 42,
+          "key": 2819893814,
+          "original": "それでタクトさん、どの案がいいと思います？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0095",
+      "context": {
+        "voice": "GC445224.ogg"
+      },
+      "original": "当然、アタシの案に決まってるじゃない。ねえタクト。",
+      "translation": "당연히 내 안으로 정해져 있잖아. 그치, 택트?",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17784,
+          "length": 40,
+          "key": 2819893814,
+          "original": "当然、アタシの案に決まってるじゃない。ね"
+        },
+        {
+          "offset": 17832,
+          "length": 10,
+          "key": 2819893814,
+          "original": "えタクト。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0096",
+      "context": {
+        "voice": "GC445225.ogg"
+      },
+      "original": "被害を減らすことを考えれば、私の案も悪くないと思います。",
+      "translation": "피해를 줄인다면 제 안도 나쁘지 않아요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17992,
+          "length": 40,
+          "key": 2819893814,
+          "original": "被害を減らすことを考えれば、私の案も悪く"
+        },
+        {
+          "offset": 18040,
+          "length": 16,
+          "key": 2819893814,
+          "original": "ないと思います。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0097",
+      "context": {
+        "voice": "GC445225.ogg"
+      },
+      "original": "オレが思うにだなあ……。",
+      "translation": "내 생각에는 말이지…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18128,
+          "length": 24,
+          "key": 2819893814,
+          "original": "オレが思うにだなあ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0098",
+      "context": {
+        "voice": "GC445225.ogg"
+      },
+      "original": "ミルフィーの案が一番いいと思う。",
+      "translation": "밀피의 안이 제일 좋은 것 같아.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18304,
+          "length": 32,
+          "key": 2819893814,
+          "original": "ミルフィーの案が一番いいと思う。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0099",
+      "context": {
+        "voice": "GC445300.ogg"
+      },
+      "original": "はい、タクトさん。一生懸命考えましたから！",
+      "translation": "네, 택트 씨. 열심히 생각했으니까요！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18528,
+          "length": 42,
+          "key": 2819893814,
+          "original": "はい、タクトさん。一生懸命考えましたから！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0100",
+      "context": {
+        "voice": "GC445301.ogg"
+      },
+      "original": "えー、アタシのはダメなの？",
+      "translation": "에이, 내 건 안 돼？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18720,
+          "length": 26,
+          "key": 2819893814,
+          "original": "えー、アタシのはダメなの？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0101",
+      "context": {
+        "voice": "GC445302.ogg"
+      },
+      "original": "戦術的に見て、ミルフィー先輩の案はとても良くできていると思います。",
+      "translation": "전술적으로 볼 때 밀피 선배의 안은 매우 잘 짜여 있다고 생각합니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18896,
+          "length": 40,
+          "key": 2819893814,
+          "original": "戦術的に見て、ミルフィー先輩の案はとても"
+        },
+        {
+          "offset": 18944,
+          "length": 26,
+          "key": 2819893814,
+          "original": "良くできていると思います。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0102",
+      "context": {
+        "voice": "GC445302.ogg"
+      },
+      "original": "そうだね、最初に飛び込む紋章機が一番被害を受けるから、ある程度タフな所がないと、大変だと思うんだよね。",
+      "translation": "그렇네, 처음 투입되는 문장기가 피해를 많이 받으니 어느 정도 맷집이 있어야 할 거야.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19044,
+          "length": 40,
+          "key": 2819893814,
+          "original": "そうだね、最初に飛び込む紋章機が一番被害"
+        },
+        {
+          "offset": 19092,
+          "length": 40,
+          "key": 2819893814,
+          "original": "を受けるから、ある程度タフな所がないと、"
+        },
+        {
+          "offset": 19140,
+          "length": 22,
+          "key": 2819893814,
+          "original": "大変だと思うんだよね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0103",
+      "context": {
+        "voice": "GC445303.ogg"
+      },
+      "original": "うーん、まあタクトがそう言うんじゃしょうがないけど……。",
+      "translation": "으음, 뭐 택트 군이 그렇게 말한다면 어쩔 수 없지만…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19312,
+          "length": 40,
+          "key": 2819893814,
+          "original": "うーん、まあタクトがそう言うんじゃしょう"
+        },
+        {
+          "offset": 19360,
+          "length": 16,
+          "key": 2819893814,
+          "original": "がないけど……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0104",
+      "context": {
+        "voice": "GC445303.ogg"
+      },
+      "original": "ランファの案が一番いいと思う。",
+      "translation": "란파의 안이 제일 좋아.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19456,
+          "length": 30,
+          "key": 2819893814,
+          "original": "ランファの案が一番いいと思う。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0105",
+      "context": {
+        "voice": "GC445304.ogg"
+      },
+      "original": "当たり前じゃない、強さはスピードで決まるのよ！",
+      "translation": "당연하잖아, 강함은 스피드로 결정되는 법이야！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19680,
+          "length": 40,
+          "key": 2819893814,
+          "original": "当たり前じゃない、強さはスピードで決まる"
+        },
+        {
+          "offset": 19728,
+          "length": 6,
+          "key": 2819893814,
+          "original": "のよ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0106",
+      "context": {
+        "voice": "GC445305.ogg"
+      },
+      "original": "タクトさん、それで本当に大丈夫なんですか？",
+      "translation": "택트 씨, 그걸로 정말 괜찮은 건가요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19884,
+          "length": 42,
+          "key": 2819893814,
+          "original": "タクトさん、それで本当に大丈夫なんですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0107",
+      "context": {
+        "voice": "GC445305.ogg"
+      },
+      "original": "うん、大丈夫だと思うよ。カンフーファイターほどの速度があれば、多少の攻撃も回避できるだろうしね。",
+      "translation": "응, 괜찮을 거야. 쿵푸 파이터 정도의 속도라면 어느 정도 공격은 회피할 수 있을 테니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20000,
+          "length": 42,
+          "key": 2819893814,
+          "original": "うん、大丈夫だと思うよ。カンフーファイター"
+        },
+        {
+          "offset": 20052,
+          "length": 40,
+          "key": 2819893814,
+          "original": "ほどの速度があれば、多少の攻撃も回避でき"
+        },
+        {
+          "offset": 20100,
+          "length": 14,
+          "key": 2819893814,
+          "original": "るだろうしね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0108",
+      "context": {
+        "voice": "GC445306.ogg"
+      },
+      "original": "はい、とても賢明な判断だと思います。昔からスピードは戦いの重要な部分を占めてきましたから……。",
+      "translation": "네, 현명한 판단이에요. 스피드는 전투에서 매우 중요하니까…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20264,
+          "length": 40,
+          "key": 2819893814,
+          "original": "はい、とても賢明な判断だと思います。昔か"
+        },
+        {
+          "offset": 20312,
+          "length": 40,
+          "key": 2819893814,
+          "original": "らスピードは戦いの重要な部分を占めてきま"
+        },
+        {
+          "offset": 20360,
+          "length": 14,
+          "key": 2819893814,
+          "original": "したから……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0109",
+      "context": {
+        "voice": "GC445307.ogg"
+      },
+      "original": "となると、あたしは２番手ですね。あたしもがんばりますよ！",
+      "translation": "그렇다면 저는 ２번이네요. 저도 열심히 할게요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20524,
+          "length": 40,
+          "key": 2819893814,
+          "original": "となると、あたしは２番手ですね。あたしも"
+        },
+        {
+          "offset": 20572,
+          "length": 16,
+          "key": 2819893814,
+          "original": "がんばりますよ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0110",
+      "context": {
+        "voice": "GC445307.ogg"
+      },
+      "original": "ちとせの案が一番いいと思う。",
+      "translation": "치토세의 안이 제일 좋아.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20668,
+          "length": 28,
+          "key": 2819893814,
+          "original": "ちとせの案が一番いいと思う。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0111",
+      "context": {
+        "voice": "GC445308.ogg"
+      },
+      "original": "本当ですか？　私の案でよろしいんですか。",
+      "translation": "정말인가요？ 제 안으로 괜찮은 건가요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20888,
+          "length": 40,
+          "key": 2819893814,
+          "original": "本当ですか？　私の案でよろしいんですか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0112",
+      "context": {
+        "voice": "GC445308.ogg"
+      },
+      "original": "うん、現状を考えると、ちとせの案はとても魅力がある。",
+      "translation": "응, 현 상황에선 치토세의 안이 매력적이야.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21000,
+          "length": 40,
+          "key": 2819893814,
+          "original": "うん、現状を考えると、ちとせの案はとても"
+        },
+        {
+          "offset": 21048,
+          "length": 12,
+          "key": 2819893814,
+          "original": "魅力がある。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0113",
+      "context": {
+        "voice": "GC445309.ogg"
+      },
+      "original": "よかったね、ちとせ。ちとせの案が一番いいってことだよね！",
+      "translation": "잘됐네, 치토세. 치토세의 안이 제일 좋다는 뜻이지！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21208,
+          "length": 42,
+          "key": 2819893814,
+          "original": "よかったね、ちとせ。ちとせの案が一番いいっ"
+        },
+        {
+          "offset": 21260,
+          "length": 14,
+          "key": 2819893814,
+          "original": "てことだよね！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0114",
+      "context": {
+        "voice": "GC445310.ogg"
+      },
+      "original": "なるほど……ちとせが敵を切り崩したところをアタシたちが攻撃するわけね。うん、燃えてきたわ！",
+      "translation": "과연…… 치토세가 적을 무너뜨린 곳을 우리가 공격한다는 거네. 응, 의욕이 생기는데！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21424,
+          "length": 40,
+          "key": 2819893814,
+          "original": "なるほど……ちとせが敵を切り崩したところ"
+        },
+        {
+          "offset": 21472,
+          "length": 40,
+          "key": 2819893814,
+          "original": "をアタシたちが攻撃するわけね。うん、燃え"
+        },
+        {
+          "offset": 21520,
+          "length": 10,
+          "key": 2819893814,
+          "original": "てきたわ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0115",
+      "context": {
+        "voice": "GC445310.ogg"
+      },
+      "original": "とにかく、みんなの考えてくれたフォーメーション、さっそく次の戦いで活用するよ。くれぐれも無茶しないようにね。",
+      "translation": "어쨌든 모두가 생각해 준 포메이션, 바로 다음 전투에서 활용할게. 부디 무리하지 않도록 해.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21604,
+          "length": 40,
+          "key": 2819893814,
+          "original": "とにかく、みんなの考えてくれたフォーメー"
+        },
+        {
+          "offset": 21652,
+          "length": 40,
+          "key": 2819893814,
+          "original": "ション、さっそく次の戦いで活用するよ。く"
+        },
+        {
+          "offset": 21700,
+          "length": 28,
+          "key": 2819893814,
+          "original": "れぐれも無茶しないようにね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0116",
+      "context": {
+        "voice": "GC445311.ogg"
+      },
+      "original": "はい、タクトさん。それはもうばっちり任せてください。",
+      "translation": "네, 택트 씨. 그건 정말 확실히 맡겨 주세요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21876,
+          "length": 40,
+          "key": 2819893814,
+          "original": "はい、タクトさん。それはもうばっちり任せ"
+        },
+        {
+          "offset": 21924,
+          "length": 12,
+          "key": 2819893814,
+          "original": "てください。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0117",
+      "context": {
+        "voice": "GC445312.ogg"
+      },
+      "original": "相手がどんなにたくさん来たって、コテンパンにやっつけてやるんだから。",
+      "translation": "상대가 아무리 많이 온다 해도, 아주 박살을 내줄 테니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22084,
+          "length": 40,
+          "key": 2819893814,
+          "original": "相手がどんなにたくさん来たって、コテンパ"
+        },
+        {
+          "offset": 22132,
+          "length": 28,
+          "key": 2819893814,
+          "original": "ンにやっつけてやるんだから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0017b000:isb:0118",
+      "context": {
+        "voice": "GC445313.ogg"
+      },
+      "original": "先輩たちと力を合わせて全力で当たります！",
+      "translation": "선배님들과힘을합쳐전력으로맞서겠습니다！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22308,
+          "length": 40,
+          "key": 2819893814,
+          "original": "先輩たちと力を合わせて全力で当たります！"
+        }
+      ]
+    }
+  ]
+}

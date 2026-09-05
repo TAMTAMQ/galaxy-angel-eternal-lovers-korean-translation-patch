@@ -1,0 +1,333 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00296000.txt",
+    "encoding": "cp932",
+    "sha256": "28bf293ed392e44ea8835ef7ab1908a54febf051a3d7bb5588d04f185bea734d",
+    "tagged_records": 31,
+    "decoded_records": 31,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 1755976756,
+        "source": "header",
+        "end": 3128
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "「残存艦隊」ブリーフィング",
+      "translation": "「잔존 함대」 브리핑\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16,
+          "length": 26,
+          "key": 1755976756,
+          "original": "「残存艦隊」ブリーフィング"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "アルモ、作戦図をモニターへ。",
+      "translation": "아르모, 작전도를 모니터로.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 228,
+          "length": 28,
+          "key": 1755976756,
+          "original": "アルモ、作戦図をモニターへ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0003",
+      "context": {
+        "voice": "GC938000.ogg"
+      },
+      "original": "了解。",
+      "translation": "알았다",
+      "state": "compacted",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 368,
+          "length": 6,
+          "key": 1755976756,
+          "original": "了解。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0004",
+      "context": {
+        "voice": "GC938001.ogg"
+      },
+      "original": "これが現在の状況だ。",
+      "translation": "이것이 현재상황이다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 632,
+          "length": 20,
+          "key": 1755976756,
+          "original": "これが現在の状況だ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0005",
+      "context": {
+        "voice": "GC938002.ogg"
+      },
+      "original": "エルシオールの現在位置は、ここだ。",
+      "translation": "에르시올의 현재 위치는, 여기다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 820,
+          "length": 34,
+          "key": 1755976756,
+          "original": "エルシオールの現在位置は、ここだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0006",
+      "context": {
+        "voice": "GC938003.ogg"
+      },
+      "original": "敵艦隊の配置は、こうなっている。",
+      "translation": "적 함대의 배치는 이렇다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1092,
+          "length": 32,
+          "key": 1755976756,
+          "original": "敵艦隊の配置は、こうなっている。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0007",
+      "context": {
+        "voice": "GC938003.ogg"
+      },
+      "original": "……ん？　敵の中に見慣れない艦が混じっているな。",
+      "translation": "……응？ 적 중에 낯선 함선이 섞여 있군.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1320,
+          "length": 40,
+          "key": 1755976756,
+          "original": "……ん？　敵の中に見慣れない艦が混じって"
+        },
+        {
+          "offset": 1368,
+          "length": 8,
+          "key": 1755976756,
+          "original": "いるな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0008",
+      "context": {
+        "voice": "GC938104.ogg"
+      },
+      "original": "ああ、この大型艦か。戦闘母艦タイプといったところだな。",
+      "translation": "아아, 이 대형함인가. 전투 모함 타입이라 할 수 있겠군.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1544,
+          "length": 40,
+          "key": 1755976756,
+          "original": "ああ、この大型艦か。戦闘母艦タイプといっ"
+        },
+        {
+          "offset": 1592,
+          "length": 14,
+          "key": 1755976756,
+          "original": "たところだな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0009",
+      "context": {
+        "voice": "GC938105.ogg"
+      },
+      "original": "おそらくこの艦が旗艦で、他の艦隊を統制しているようだが、生命反応がないところを見ると、やはり無人のようだ。",
+      "translation": "아마 이 함선이 기함으로서 다른 함대를 통제하는 듯하나, 생명 반응이 없는 걸 보니 역시 무인 상태인 것 같다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1740,
+          "length": 40,
+          "key": 1755976756,
+          "original": "おそらくこの艦が旗艦で、他の艦隊を統制し"
+        },
+        {
+          "offset": 1788,
+          "length": 40,
+          "key": 1755976756,
+          "original": "ているようだが、生命反応がないところを見"
+        },
+        {
+          "offset": 1836,
+          "length": 26,
+          "key": 1755976756,
+          "original": "ると、やはり無人のようだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0010",
+      "context": {
+        "voice": "GC938105.ogg"
+      },
+      "original": "なるほど。あの旗艦が、他の艦を手足として操っているわけか。",
+      "translation": "그렇군. 저 기함이 다른 함선들을 수족처럼 부리고있다는건가.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1936,
+          "length": 40,
+          "key": 1755976756,
+          "original": "なるほど。あの旗艦が、他の艦を手足として"
+        },
+        {
+          "offset": 1984,
+          "length": 18,
+          "key": 1755976756,
+          "original": "操っているわけか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0011",
+      "context": {
+        "voice": "GC938105.ogg"
+      },
+      "original": "無人コントロールのせいかな？　やけに艦隊を分散させているみたいだけど。",
+      "translation": "무인 컨트롤 때문인가？ 꽤나 함대를 분산시키고 있는 것 같은데.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2076,
+          "length": 40,
+          "key": 1755976756,
+          "original": "無人コントロールのせいかな？　やけに艦隊"
+        },
+        {
+          "offset": 2124,
+          "length": 30,
+          "key": 1755976756,
+          "original": "を分散させているみたいだけど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0012",
+      "context": {
+        "voice": "GC938106.ogg"
+      },
+      "original": "確かにな。向こうの戦術プログラムのクセなのかもしれん。",
+      "translation": "확실히그렇군. 저쪽 전술 프로그램의특성일지도모르겠다.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2268,
+          "length": 40,
+          "key": 1755976756,
+          "original": "確かにな。向こうの戦術プログラムのクセな"
+        },
+        {
+          "offset": 2316,
+          "length": 14,
+          "key": 1755976756,
+          "original": "のかもしれん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0013",
+      "context": {
+        "voice": "GC938106.ogg"
+      },
+      "original": "なんにせよ、旗艦をやっつければ、他の艦は制御を失うわけだ。",
+      "translation": "어쨌든 기함을 격파하면 다른 함선들은 제어를 잃게 된다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2432,
+          "length": 40,
+          "key": 1755976756,
+          "original": "なんにせよ、旗艦をやっつければ、他の艦は"
+        },
+        {
+          "offset": 2480,
+          "length": 18,
+          "key": 1755976756,
+          "original": "制御を失うわけだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296000:isb:0014",
+      "context": {
+        "voice": "GC938106.ogg"
+      },
+      "original": "よし、エンジェル隊は、エルシオールに接近する敵に気をつけながら、この旗艦を攻撃してくれ。",
+      "translation": "좋아, 엔젤대는 에르시올에 접근하는 적을 주의하며 이 기함을 공격해라.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2592,
+          "length": 40,
+          "key": 1755976756,
+          "original": "よし、エンジェル隊は、エルシオールに接近"
+        },
+        {
+          "offset": 2640,
+          "length": 40,
+          "key": 1755976756,
+          "original": "する敵に気をつけながら、この旗艦を攻撃し"
+        },
+        {
+          "offset": 2688,
+          "length": 8,
+          "key": 1755976756,
+          "original": "てくれ。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,898 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_002e0000.txt",
+    "encoding": "cp932",
+    "sha256": "e90dff6e683930228633ca8d0bd9a6345b191603aa3ecb6fd84d15b1f0121dff",
+    "tagged_records": 87,
+    "decoded_records": 87,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 1974296460,
+        "source": "header",
+        "end": 5540
+      },
+      {
+        "start": 5540,
+        "key_offset": 5524,
+        "key": 3602721368,
+        "source": "integer_literal",
+        "end": 7300
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "クジラルーム",
+      "translation": "쿠지라 룸\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24,
+          "length": 12,
+          "key": 1974296460,
+          "original": "クジラルーム"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "さて、クロミエに会っていこうかな……？管理室にいるはずだ。",
+      "translation": "자, 크로미에를 만나러 가볼까……？ 관리실에 있을 거야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 304,
+          "length": 38,
+          "key": 1974296460,
+          "original": "さて、クロミエに会っていこうかな……？"
+        },
+        {
+          "offset": 352,
+          "length": 20,
+          "key": 1974296460,
+          "original": "管理室にいるはずだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0003",
+      "context": {
+        "voice": "GAX01001.ogg"
+      },
+      "original": "あ、タクトさん。いらっしゃいませ。",
+      "translation": "아, 택트 씨. 어서 오세요.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 836,
+          "length": 16,
+          "key": 1974296460,
+          "original": "あ、タクトさん。"
+        },
+        {
+          "offset": 860,
+          "length": 18,
+          "key": 1974296460,
+          "original": "いらっしゃいませ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0004",
+      "context": {
+        "voice": "GAX01002.ogg"
+      },
+      "original": "今日はどんなご用ですか？宇宙クジラに、エンジェル隊のみなさんの気持ちを聞いてみましょうか？",
+      "translation": "오늘은 어떤 용건인가요？ 우주 고래에게, 엔젤대 여러분의 마음을 물어볼까요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1028,
+          "length": 24,
+          "key": 1974296460,
+          "original": "今日はどんなご用ですか？"
+        },
+        {
+          "offset": 1060,
+          "length": 40,
+          "key": 1974296460,
+          "original": "宇宙クジラに、エンジェル隊のみなさんの気"
+        },
+        {
+          "offset": 1108,
+          "length": 26,
+          "key": 1974296460,
+          "original": "持ちを聞いてみましょうか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0005",
+      "context": {
+        "voice": "GAX01003.ogg"
+      },
+      "original": "ところで、タクトさん。宇宙クジラに、エンジェル隊のみなさんの気持ちを聞いてみますか？",
+      "translation": "그런데, 택트 씨. 우주 고래에게, 엔젤대 여러분의 마음을 물어보시겠어요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1292,
+          "length": 22,
+          "key": 1974296460,
+          "original": "ところで、タクトさん。"
+        },
+        {
+          "offset": 1324,
+          "length": 40,
+          "key": 1974296460,
+          "original": "宇宙クジラに、エンジェル隊のみなさんの気"
+        },
+        {
+          "offset": 1372,
+          "length": 22,
+          "key": 1974296460,
+          "original": "持ちを聞いてみますか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0006",
+      "context": {
+        "voice": "GAX01003.ogg"
+      },
+      "original": "そうだなぁ……。",
+      "translation": "글쎄…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1504,
+          "length": 16,
+          "key": 1974296460,
+          "original": "そうだなぁ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0007",
+      "context": {
+        "voice": null
+      },
+      "original": "お願いするよ",
+      "translation": "부탁할게",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1580,
+          "length": 12,
+          "key": 1974296460,
+          "original": "お願いするよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0008",
+      "context": {
+        "voice": null
+      },
+      "original": "いや、遠慮するよ",
+      "translation": "아니, 사양할게",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1600,
+          "length": 16,
+          "key": 1974296460,
+          "original": "いや、遠慮するよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0009",
+      "context": {
+        "voice": null
+      },
+      "original": "お願いするよ",
+      "translation": "부탁할게",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1724,
+          "length": 12,
+          "key": 1974296460,
+          "original": "お願いするよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0010",
+      "context": {
+        "voice": null
+      },
+      "original": "いや、遠慮するよ",
+      "translation": "아니, 사양할게",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1744,
+          "length": 16,
+          "key": 1974296460,
+          "original": "いや、遠慮するよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0011",
+      "context": {
+        "voice": null
+      },
+      "original": "みんなの気持ちを聞くって、なに？",
+      "translation": "모두의 마음을 듣는다는 게 뭐야？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1768,
+          "length": 32,
+          "key": 1974296460,
+          "original": "みんなの気持ちを聞くって、なに？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0012",
+      "context": {
+        "voice": "GAX01003.ogg"
+      },
+      "original": "ところで……宇宙クジラにみんなの気持ちを聞くって、なんのことだっけ？ひさしぶりだから、忘れちゃって。",
+      "translation": "그건 그렇고…… 우주 고래에게 모두의마음을 묻는다는 건, 무슨 말이었더라？오랜만이라 잊어버려서.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1920,
+          "length": 40,
+          "key": 1974296460,
+          "original": "ところで……宇宙クジラにみんなの気持ちを"
+        },
+        {
+          "offset": 1968,
+          "length": 28,
+          "key": 1974296460,
+          "original": "聞くって、なんのことだっけ？"
+        },
+        {
+          "offset": 2004,
+          "length": 32,
+          "key": 1974296460,
+          "original": "ひさしぶりだから、忘れちゃって。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0013",
+      "context": {
+        "voice": "GB990100.ogg"
+      },
+      "original": "今から、宇宙クジラの言うことを僕が翻訳して、エンジェル隊のみなさんがどのようなお気持ちでいるかをお見せします。",
+      "translation": "지금부터 우주 고래가 하는 말을 제가 번역해서, 엔젤대 여러분이 어떤 마음인지 보여드리겠습니다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2184,
+          "length": 40,
+          "key": 1974296460,
+          "original": "今から、宇宙クジラの言うことを僕が翻訳し"
+        },
+        {
+          "offset": 2232,
+          "length": 40,
+          "key": 1974296460,
+          "original": "て、エンジェル隊のみなさんがどのようなお"
+        },
+        {
+          "offset": 2280,
+          "length": 30,
+          "key": 1974296460,
+          "original": "気持ちでいるかをお見せします。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0014",
+      "context": {
+        "voice": "GB990101.ogg"
+      },
+      "original": "それぞれの表情は、タクトさんのことをどれだけ信頼しているかを表します……表情が明るいほど、信頼していることになります。",
+      "translation": "각자의 표정은 택트 씨를 얼마나 신뢰하고있는지를 나타냅니다…… 표정이 밝을수록,신뢰하고 있다는 뜻이 됩니다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2424,
+          "length": 40,
+          "key": 1974296460,
+          "original": "それぞれの表情は、タクトさんのことをどれ"
+        },
+        {
+          "offset": 2472,
+          "length": 40,
+          "key": 1974296460,
+          "original": "だけ信頼しているかを表します……表情が明"
+        },
+        {
+          "offset": 2520,
+          "length": 38,
+          "key": 1974296460,
+          "original": "るいほど、信頼していることになります。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0015",
+      "context": {
+        "voice": "GB990102.ogg"
+      },
+      "original": "タクトさんを信頼していれば、それだけ戦闘にも集中できて、紋章機の性能を引き出しやすくなります。",
+      "translation": "택트 씨를 신뢰하면 전투에 집중하기 쉬워지고, 문장기의 성능도 끌어내기 좋아집니다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2708,
+          "length": 40,
+          "key": 1974296460,
+          "original": "タクトさんを信頼していれば、それだけ戦闘"
+        },
+        {
+          "offset": 2756,
+          "length": 40,
+          "key": 1974296460,
+          "original": "にも集中できて、紋章機の性能を引き出しや"
+        },
+        {
+          "offset": 2804,
+          "length": 14,
+          "key": 1974296460,
+          "original": "すくなります。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0016",
+      "context": {
+        "voice": "GB990103.ogg"
+      },
+      "original": "紋章機の攻撃力や防御力などが上がるので、信頼されるに越したことはないですね。",
+      "translation": "문장기의 공격력이나 방어력 등이 올라가므로, 신뢰받는 것이 가장 좋겠네요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2932,
+          "length": 40,
+          "key": 1974296460,
+          "original": "紋章機の攻撃力や防御力などが上がるので、"
+        },
+        {
+          "offset": 2980,
+          "length": 36,
+          "key": 1974296460,
+          "original": "信頼されるに越したことはないですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0017",
+      "context": {
+        "voice": "GB990104.ogg"
+      },
+      "original": "また、棒グラフは、上官と部下としての信頼関係とは別に、個人としてどれだけ好意を寄せているかを表します。",
+      "translation": "또한 막대그래프는 상관과 부하의 관계와 별개로 개인적인 호감도를 나타냅니다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3164,
+          "length": 40,
+          "key": 1974296460,
+          "original": "また、棒グラフは、上官と部下としての信頼"
+        },
+        {
+          "offset": 3212,
+          "length": 40,
+          "key": 1974296460,
+          "original": "関係とは別に、個人としてどれだけ好意を寄"
+        },
+        {
+          "offset": 3260,
+          "length": 22,
+          "key": 1974296460,
+          "original": "せているかを表します。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0018",
+      "context": {
+        "voice": "GB990105.ogg"
+      },
+      "original": "グラフが右に行けば行くほど、タクトさんはその人から好かれているということになります。",
+      "translation": "그래프가 오른쪽으로 갈수록 택트 씨가 그 사람에게 호감을 사고 있다는 뜻입니다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3396,
+          "length": 40,
+          "key": 1974296460,
+          "original": "グラフが右に行けば行くほど、タクトさんは"
+        },
+        {
+          "offset": 3444,
+          "length": 40,
+          "key": 1974296460,
+          "original": "その人から好かれているということになりま"
+        },
+        {
+          "offset": 3492,
+          "length": 4,
+          "key": 1974296460,
+          "original": "す。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0019",
+      "context": {
+        "voice": "GB990106.ogg"
+      },
+      "original": "みなさんに対して、どう接するかによって、表情やグラフは変化していきます。ときどきチェックされることをお勧めします。",
+      "translation": "여러분에 대해 어떻게 대하느냐에 따라표정이나 그래프는 변화해 갑니다. 가끔확인해 보시는 것을 추천합니다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3608,
+          "length": 40,
+          "key": 1974296460,
+          "original": "みなさんに対して、どう接するかによって、"
+        },
+        {
+          "offset": 3656,
+          "length": 32,
+          "key": 1974296460,
+          "original": "表情やグラフは変化していきます。"
+        },
+        {
+          "offset": 3696,
+          "length": 42,
+          "key": 1974296460,
+          "original": "ときどきチェックされることをお勧めします。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0020",
+      "context": {
+        "voice": "GB990107.ogg"
+      },
+      "original": "……あ、宇宙クジラが答えてくれました。それでは、みなさんのお気持ちをお見せしますね。",
+      "translation": "……아, 우주 고래가 대답해 주었습니다. 그럼, 여러분의 마음을 보여드릴게요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3888,
+          "length": 38,
+          "key": 1974296460,
+          "original": "……あ、宇宙クジラが答えてくれました。"
+        },
+        {
+          "offset": 3936,
+          "length": 40,
+          "key": 1974296460,
+          "original": "それでは、みなさんのお気持ちをお見せしま"
+        },
+        {
+          "offset": 3984,
+          "length": 6,
+          "key": 1974296460,
+          "original": "すね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0021",
+      "context": {
+        "voice": "GB990107.ogg"
+      },
+      "original": "お願いするよ。宇宙クジラに聞いてみてくれないか？",
+      "translation": "부탁할게. 우주 고래에게 물어봐 주지 않을래？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4108,
+          "length": 14,
+          "key": 1974296460,
+          "original": "お願いするよ。"
+        },
+        {
+          "offset": 4132,
+          "length": 34,
+          "key": 1974296460,
+          "original": "宇宙クジラに聞いてみてくれないか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0022",
+      "context": {
+        "voice": "GAX01004.ogg"
+      },
+      "original": "わかりました。では、少々お待ちください。",
+      "translation": "알겠습니다. 그럼, 잠시만 기다려 주세요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4316,
+          "length": 14,
+          "key": 1974296460,
+          "original": "わかりました。"
+        },
+        {
+          "offset": 4340,
+          "length": 26,
+          "key": 1974296460,
+          "original": "では、少々お待ちください。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0023",
+      "context": {
+        "voice": "GAX01005.ogg"
+      },
+      "original": "……という感じみたいです。もう一度、ご覧になりますか？",
+      "translation": "……라는 느낌인 것 같습니다. 다시 한번 보시겠어요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4652,
+          "length": 26,
+          "key": 1974296460,
+          "original": "……という感じみたいです。"
+        },
+        {
+          "offset": 4688,
+          "length": 28,
+          "key": 1974296460,
+          "original": "もう一度、ご覧になりますか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0024",
+      "context": {
+        "voice": null
+      },
+      "original": "もう一度見せてくれないか",
+      "translation": "한 번 더 보여주지 않을래",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4752,
+          "length": 24,
+          "key": 1974296460,
+          "original": "もう一度見せてくれないか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0025",
+      "context": {
+        "voice": null
+      },
+      "original": "ありがとう、もう大丈夫だよ",
+      "translation": "고마워, 이제 괜찮아",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4784,
+          "length": 26,
+          "key": 1974296460,
+          "original": "ありがとう、もう大丈夫だよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0026",
+      "context": {
+        "voice": "GAX01005.ogg"
+      },
+      "original": "悪いけど、もう一度見せてくれないか。",
+      "translation": "미안하지만, 다시 한번 보여줄래?",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4936,
+          "length": 36,
+          "key": 1974296460,
+          "original": "悪いけど、もう一度見せてくれないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0027",
+      "context": {
+        "voice": "GAX01005.ogg"
+      },
+      "original": "ありがとう、もう大丈夫だよ。",
+      "translation": "고마워, 이제 괜찮아.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5104,
+          "length": 28,
+          "key": 1974296460,
+          "original": "ありがとう、もう大丈夫だよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0028",
+      "context": {
+        "voice": "GAX01005.ogg"
+      },
+      "original": "いや、今回は遠慮しておくよ。",
+      "translation": "아니, 이번에는 사양할게.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5248,
+          "length": 28,
+          "key": 1974296460,
+          "original": "いや、今回は遠慮しておくよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0029",
+      "context": {
+        "voice": "GAX01006.ogg"
+      },
+      "original": "そうですか。またご覧になりたくなったら、いつでもどうぞ。",
+      "translation": "그렇군요. 다시 보고 싶어지면 언제든 오세요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5424,
+          "length": 12,
+          "key": 1974296460,
+          "original": "そうですか。"
+        },
+        {
+          "offset": 5444,
+          "length": 40,
+          "key": 1974296460,
+          "original": "またご覧になりたくなったら、いつでもどう"
+        },
+        {
+          "offset": 5492,
+          "length": 4,
+          "key": 1974296460,
+          "original": "ぞ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0030",
+      "context": {
+        "voice": "GAX01006.ogg"
+      },
+      "original": "司令官室",
+      "translation": "사령관실\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5540,
+          "length": 8,
+          "key": 3602721368,
+          "original": "司令官室"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0031",
+      "context": {
+        "voice": "GAX01006.ogg"
+      },
+      "original": "ふぅ……なんだか疲れた。大した時間も取れないけど、少し休もうかな？",
+      "translation": "후우…… 왠지 피곤하네. 긴 시간을 낼수는 없지만, 조금 쉴까？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5732,
+          "length": 24,
+          "key": 3602721368,
+          "original": "ふぅ……なんだか疲れた。"
+        },
+        {
+          "offset": 5764,
+          "length": 42,
+          "key": 3602721368,
+          "original": "大した時間も取れないけど、少し休もうかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0032",
+      "context": {
+        "voice": null
+      },
+      "original": "まだ大丈夫",
+      "translation": "아직괜찮아",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5844,
+          "length": 10,
+          "key": 3602721368,
+          "original": "まだ大丈夫"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0033",
+      "context": {
+        "voice": null
+      },
+      "original": "休息を取る",
+      "translation": "휴식한다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5864,
+          "length": 10,
+          "key": 3602721368,
+          "original": "休息を取る"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0034",
+      "context": {
+        "voice": "GAX01006.ogg"
+      },
+      "original": "いや、まだ大丈夫だ。それに、ここじゃヒマつぶしもできないしな。また艦内を回ってみよう。",
+      "translation": "아니, 아직 괜찮아. 여긴 시간 때우기도 안 되니 다시 함내를 돌아다녀 보자.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5996,
+          "length": 20,
+          "key": 3602721368,
+          "original": "いや、まだ大丈夫だ。"
+        },
+        {
+          "offset": 6024,
+          "length": 42,
+          "key": 3602721368,
+          "original": "それに、ここじゃヒマつぶしもできないしな。"
+        },
+        {
+          "offset": 6076,
+          "length": 24,
+          "key": 3602721368,
+          "original": "また艦内を回ってみよう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0035",
+      "context": {
+        "voice": "GAX01006.ogg"
+      },
+      "original": "疲れを取るには、横になるのが一番だ。ちょっと休もう……。",
+      "translation": "피로를 풀려면 눕는 게 최고다. 좀 쉬자…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6176,
+          "length": 36,
+          "key": 3602721368,
+          "original": "疲れを取るには、横になるのが一番だ。"
+        },
+        {
+          "offset": 6220,
+          "length": 20,
+          "key": 3602721368,
+          "original": "ちょっと休もう……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0036",
+      "context": {
+        "voice": "GAX01006.ogg"
+      },
+      "original": "ふぁ～あ、よく寝た。……と思ったけど、まだこんな時間か。",
+      "translation": "후아～ 잘 잤다. ……라고 생각했는데, 아직 이런 시간인가.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6500,
+          "length": 20,
+          "key": 3602721368,
+          "original": "ふぁ～あ、よく寝た。"
+        },
+        {
+          "offset": 6528,
+          "length": 36,
+          "key": 3602721368,
+          "original": "……と思ったけど、まだこんな時間か。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e0000:isb:0037",
+      "context": {
+        "voice": "GAX01006.ogg"
+      },
+      "original": "疲れも取れたことだし、また艦の中を歩き回ってみるか。",
+      "translation": "피로도 풀렸으니, 다시 함내를 돌아다녀볼까.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6636,
+          "length": 42,
+          "key": 3602721368,
+          "original": "疲れも取れたことだし、また艦の中を歩き回っ"
+        },
+        {
+          "offset": 6688,
+          "length": 10,
+          "key": 3602721368,
+          "original": "てみるか。"
+        }
+      ]
+    }
+  ]
+}

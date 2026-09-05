@@ -1,0 +1,1885 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_002e4800.txt",
+    "encoding": "cp932",
+    "sha256": "b7b30be452a474a02a755f5da7b1f25bc6e4b86233a2bd9c475539b7d5c87500",
+    "tagged_records": 340,
+    "decoded_records": 168,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 3726356059,
+        "source": "header",
+        "end": 14900
+      },
+      {
+        "start": 14900,
+        "key_offset": 14868,
+        "key": 4199352970,
+        "source": "integer_literal",
+        "end": 16648
+      },
+      {
+        "start": 16648,
+        "key_offset": 16616,
+        "key": 2943945749,
+        "source": "integer_literal",
+        "end": 18168
+      },
+      {
+        "start": 18168,
+        "key_offset": 18136,
+        "key": 2946089104,
+        "source": "integer_literal",
+        "end": 19156
+      },
+      {
+        "start": 19156,
+        "key_offset": 19124,
+        "key": 2943945749,
+        "source": "integer_literal",
+        "end": 24560
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "痛いの痛いのとんでけ～、だろ？",
+      "translation": "아픈 거 날아가라～, 맞지？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 32,
+          "length": 30,
+          "key": 3726356059,
+          "original": "痛いの痛いのとんでけ～、だろ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "悪い子はいねえが～！　だろ？",
+      "translation": "나쁜 아이 없느냐～！ 맞지？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 72,
+          "length": 28,
+          "key": 3726356059,
+          "original": "悪い子はいねえが～！　だろ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0003",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾌ@皺ﾌm癨ﾍﾜ珞ﾍﾅ瞿ﾌj",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 1424,
+          "length": 18,
+          "key": 3726356059,
+          "original": "ﾌ@皺ﾌm癨ﾍﾜ珞ﾍﾅ瞿ﾌj"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0004",
+      "context": {
+        "voice": null
+      },
+      "original": "羸ｲｾﾞｲﾉｲｺｳ磔\u0007ｳ2ｲｺ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 1580,
+          "length": 24,
+          "key": 3726356059,
+          "original": "羸ｲｾﾞｲﾉｲｺｳ磔\u0007ｳ2ｲｺ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0005",
+      "context": {
+        "voice": null
+      },
+      "original": "諸ｲﾇｲﾖｳ踟3ｳ\u0018ｲﾛ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 1612,
+          "length": 22,
+          "key": 3726356059,
+          "original": "諸ｲﾇｲﾖｳ踟3ｳ\u0018ｲﾛ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0006",
+      "context": {
+        "voice": null
+      },
+      "original": "ｾｲｲﾖｲﾍｲﾋｲｺ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 1644,
+          "length": 20,
+          "key": 3726356059,
+          "original": "ｾｲｲﾖｲﾍｲﾋｲｺ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0007",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾙ,猥ﾜ'獗ﾌ\u001f燉ﾏ珥ﾑﾌJ珈ﾌd獨",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 2188,
+          "length": 24,
+          "key": 3726356059,
+          "original": "ﾙ,猥ﾜ'獗ﾌ\u001f燉ﾏ珥ﾑﾌJ珈ﾌd獨"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0008",
+      "context": {
+        "voice": null
+      },
+      "original": "オレたちの本気の証なんだ",
+      "translation": "우리 진심의 증표야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2632,
+          "length": 24,
+          "key": 3726356059,
+          "original": "オレたちの本気の証なんだ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0009",
+      "context": {
+        "voice": null
+      },
+      "original": "オレたちの普段着なんだ",
+      "translation": "우리 평상복이야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2664,
+          "length": 22,
+          "key": 3726356059,
+          "original": "オレたちの普段着なんだ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0010",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾄﾁgGﾄｿf`ﾅ蘿敘6g ﾏ冏KﾄｿgKﾄﾛg\u000f",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 2760,
+          "length": 28,
+          "key": 3726356059,
+          "original": "ﾄﾁgGﾄｿf`ﾅ蘿敘6g ﾏ冏KﾄｿgKﾄﾛg\u000f"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0011",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾑﾊk\u0001ﾄｿl=ﾄﾟg!ﾇ>",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 2796,
+          "length": 14,
+          "key": 3726356059,
+          "original": "ﾑﾊk\u0001ﾄｿl=ﾄﾟg!ﾇ>"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0012",
+      "context": {
+        "voice": null
+      },
+      "original": "ｼﾛ矮ｲﾐ｢壟ｧｲｿ邏ｲｯｲｾｲﾇｲﾖ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 3704,
+          "length": 32,
+          "key": 3726356059,
+          "original": "ｼﾛ矮ｲﾐ｢壟ｧｲｿ邏ｲｯｲｾｲﾇｲﾖ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0013",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾛ\u0015獗ﾌf燔ﾌ\u0013牴ﾌ\u001d珈ﾁd燬ﾌK犹ﾌ\u0002",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 4716,
+          "length": 26,
+          "key": 3726356059,
+          "original": "ﾛ\u0015獗ﾌf燔ﾌ\u0013牴ﾌ\u001d珈ﾁd燬ﾌK犹ﾌ\u0002"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0014",
+      "context": {
+        "voice": null
+      },
+      "original": "IA衄U悟益_螫Y5螳",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 5260,
+          "length": 18,
+          "key": 3726356059,
+          "original": "IA衄U悟益_螫Y5螳"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0015",
+      "context": {
+        "voice": null
+      },
+      "original": "舊Xn臺YC蝪YC裴",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 5288,
+          "length": 14,
+          "key": 3726356059,
+          "original": "舊Xn臺YC蝪YC裴"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0016",
+      "context": {
+        "voice": null
+      },
+      "original": "褌Y<蠱Y\u0015腆Xt舖Zｦ衄U悟ｰY\u001b衄",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 5312,
+          "length": 26,
+          "key": 3726356059,
+          "original": "褌Y<蠱Y\u0015腆Xt舖Zｦ衄U悟ｰY\u001b衄"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0017",
+      "context": {
+        "voice": null
+      },
+      "original": "E\u0007\u0015ｮAﾁ\fﾋ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 6592,
+          "length": 8,
+          "key": 3726356059,
+          "original": "E\u0007\u0015ｮAﾁ\fﾋ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0018",
+      "context": {
+        "voice": null
+      },
+      "original": "B(\u0010<\u0001礬\u001c\u0001\u001b",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 6608,
+          "length": 12,
+          "key": 3726356059,
+          "original": "B(\u0010<\u0001礬\u001c\u0001\u001b"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0019",
+      "context": {
+        "voice": null
+      },
+      "original": "Cﾊ\u0000ﾂJ'",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 6924,
+          "length": 6,
+          "key": 3726356059,
+          "original": "Cﾊ\u0000ﾂJ'"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0020",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾙ,猥ﾜ'獗ﾌ\u001f燉ﾏ聰ﾑﾌJ珈ﾌd獨",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 7252,
+          "length": 24,
+          "key": 3726356059,
+          "original": "ﾙ,猥ﾜ'獗ﾌ\u001f燉ﾏ聰ﾑﾌJ珈ﾌd獨"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0021",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾀﾓ鴃ﾆ\u0017獗ﾌ\u0017犹ﾌ\u0000犇ﾌ\u000f燬ﾌD",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 7316,
+          "length": 22,
+          "key": 3726356059,
+          "original": "ﾀﾓ鴃ﾆ\u0017獗ﾌ\u0017犹ﾌ\u0000犇ﾌ\u000f燬ﾌD"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0022",
+      "context": {
+        "voice": null
+      },
+      "original": "→仝v躙\u001d5",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 8116,
+          "length": 18,
+          "key": 3726356059,
+          "original": "→仝v躙\u001d5"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0023",
+      "context": {
+        "voice": null
+      },
+      "original": "ｵｼｵﾐｵﾟ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 9424,
+          "length": 14,
+          "key": 3726356059,
+          "original": "ｵｼｵﾐｵﾟ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0024",
+      "context": {
+        "voice": null
+      },
+      "original": "a堤\u0010a咲r",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 11180,
+          "length": 8,
+          "key": 3726356059,
+          "original": "a堤\u0010a咲r"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0025",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾍ?ﾍﾌ碾ﾌc犒ﾂ\u001c燧ﾌH燔ﾌ\u000b犢ﾀﾔ牴ﾌ\u001f",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 12088,
+          "length": 30,
+          "key": 3726356059,
+          "original": "ﾍ?ﾍﾌ碾ﾌc犒ﾂ\u001c燧ﾌH燔ﾌ\u000b犢ﾀﾔ牴ﾌ\u001f"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0026",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾌ\u0019獨ﾂ\u001c燧ﾌH犒ﾌ燬ﾌl猝ﾌ\u0006猾ﾌi",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 12532,
+          "length": 26,
+          "key": 3726356059,
+          "original": "ﾌ\u0019獨ﾂ\u001c燧ﾌH犒ﾌ燬ﾌl猝ﾌ\u0006猾ﾌi"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0027",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾘﾙﾌk齔ﾌ\u0006烙ﾌ\u001c",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 12660,
+          "length": 14,
+          "key": 3726356059,
+          "original": "ﾘﾙﾌk齔ﾌ\u0006烙ﾌ\u001c"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0028",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾌ\u001d犢ﾌ\u001b熨ﾌ\u000b燧ﾌ\u0000獗ﾌD",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 12684,
+          "length": 18,
+          "key": 3726356059,
+          "original": "ﾌ\u001d犢ﾌ\u001b熨ﾌ\u000b燧ﾌ\u0000獗ﾌD"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0029",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾁ\u000e眥ﾌ\u0000ﾌ\b瞠ﾌ\u0000瞿ﾌj",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 13344,
+          "length": 18,
+          "key": 3726356059,
+          "original": "ﾁ\u000e眥ﾌ\u0000ﾌ\b瞠ﾌ\u0000瞿ﾌj"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0030",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾟG瞽ﾌ\u0000ﾌ\b瞠ﾌ\u0000瞿ﾌj",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 13372,
+          "length": 18,
+          "key": 3726356059,
+          "original": "ﾟG瞽ﾌ\u0000ﾌ\b瞠ﾌ\u0000瞿ﾌj"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0031",
+      "context": {
+        "voice": null
+      },
+      "original": "ｳ磔\u0007ｳ2｢ｭｲｺ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 13560,
+          "length": 16,
+          "key": 3726356059,
+          "original": "ｳ磔\u0007ｳ2｢ｭｲｺ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0032",
+      "context": {
+        "voice": null
+      },
+      "original": "ｬ@q潺N脣~C@[k礦",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 14248,
+          "length": 18,
+          "key": 3726356059,
+          "original": "ｬ@q潺N脣~C@[k礦"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0033",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾘ｡Kﾙ\u0011豚ﾒ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 14456,
+          "length": 12,
+          "key": 3726356059,
+          "original": "ﾘ｡Kﾙ\u0011豚ﾒ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0034",
+      "context": {
+        "voice": null
+      },
+      "original": "ﾌ\n獵ﾌ\u001a珈ﾍ*ﾍ髙ｸﾌj牴ﾌ\u001f燎ﾌ\u0017犒",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 14772,
+          "length": 28,
+          "key": 3726356059,
+          "original": "ﾌ\n獵ﾌ\u001a珈ﾍ*ﾍ髙ｸﾌj牴ﾌ\u001f燎ﾌ\u0017犒"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0035",
+      "context": {
+        "voice": null
+      },
+      "original": "オレはやんちゃなほうが好きだな",
+      "translation": "난 개구쟁이 쪽이 좋더라",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14900,
+          "length": 30,
+          "key": 4199352970,
+          "original": "オレはやんちゃなほうが好きだな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0036",
+      "context": {
+        "voice": null
+      },
+      "original": "弟君たち次第じゃないかな？",
+      "translation": "동생들에게 달린 거 아냐？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14940,
+          "length": 26,
+          "key": 4199352970,
+          "original": "弟君たち次第じゃないかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0037",
+      "context": {
+        "voice": null
+      },
+      "original": "筋肉マッチョになるんじゃない？",
+      "translation": "근육질이 되지 않을까？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14976,
+          "length": 30,
+          "key": 4199352970,
+          "original": "筋肉マッチョになるんじゃない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0038",
+      "context": {
+        "voice": null
+      },
+      "original": "ドリルなんてどうかな",
+      "translation": "드릴은 어떨까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15128,
+          "length": 20,
+          "key": 4199352970,
+          "original": "ドリルなんてどうかな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0039",
+      "context": {
+        "voice": null
+      },
+      "original": "パンチなんてどうかな",
+      "translation": "펀치는 어떨까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15156,
+          "length": 20,
+          "key": 4199352970,
+          "original": "パンチなんてどうかな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0040",
+      "context": {
+        "voice": null
+      },
+      "original": "ミサイルなんてどうかな",
+      "translation": "미사일은 어떨까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15184,
+          "length": 22,
+          "key": 4199352970,
+          "original": "ミサイルなんてどうかな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0041",
+      "context": {
+        "voice": null
+      },
+      "original": "マイスィートハニー！",
+      "translation": "마이 스위트 허니！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15328,
+          "length": 20,
+          "key": 4199352970,
+          "original": "マイスィートハニー！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0042",
+      "context": {
+        "voice": null
+      },
+      "original": "いつまでもずっと……",
+      "translation": "언제까지나 계속…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15356,
+          "length": 20,
+          "key": 4199352970,
+          "original": "いつまでもずっと……"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0043",
+      "context": {
+        "voice": null
+      },
+      "original": "もう一度火と水につかってこようか？",
+      "translation": "다시 불과 물에 담그고 올까？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15384,
+          "length": 34,
+          "key": 4199352970,
+          "original": "もう一度火と水につかってこようか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0044",
+      "context": {
+        "voice": null
+      },
+      "original": "半分こにして半分ずつ食べるとか",
+      "translation": "반씩 나눠서 먹는다든가",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15540,
+          "length": 30,
+          "key": 4199352970,
+          "original": "半分こにして半分ずつ食べるとか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0045",
+      "context": {
+        "voice": null
+      },
+      "original": "どっちかひとつだけ食べるとか",
+      "translation": "둘 중 하나만 먹는다든가",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15580,
+          "length": 28,
+          "key": 4199352970,
+          "original": "どっちかひとつだけ食べるとか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0046",
+      "context": {
+        "voice": null
+      },
+      "original": "勢いで両方食べちゃうとか",
+      "translation": "기세로 둘 다 먹는다든가",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15616,
+          "length": 24,
+          "key": 4199352970,
+          "original": "勢いで両方食べちゃうとか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0047",
+      "context": {
+        "voice": null
+      },
+      "original": "まあ、全面的に信じてるから",
+      "translation": "뭐, 전적으로 믿으니까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15760,
+          "length": 26,
+          "key": 4199352970,
+          "original": "まあ、全面的に信じてるから"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0048",
+      "context": {
+        "voice": null
+      },
+      "original": "仕事で頼んでるわけだし",
+      "translation": "일로 부탁한 거니까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15796,
+          "length": 22,
+          "key": 4199352970,
+          "original": "仕事で頼んでるわけだし"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0049",
+      "context": {
+        "voice": null
+      },
+      "original": "実はちょっと気になってるんだ",
+      "translation": "사실 좀 신경 쓰여",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15828,
+          "length": 28,
+          "key": 4199352970,
+          "original": "実はちょっと気になってるんだ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0050",
+      "context": {
+        "voice": null
+      },
+      "original": "甘い物欲しがってるって知ってた？",
+      "translation": "단 거 먹고 싶어하는 거 알았어？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15976,
+          "length": 32,
+          "key": 4199352970,
+          "original": "甘い物欲しがってるって知ってた？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0051",
+      "context": {
+        "voice": null
+      },
+      "original": "これ、ヴァニラのおやつかい？",
+      "translation": "이거, 바닐라 간식이야？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16016,
+          "length": 28,
+          "key": 4199352970,
+          "original": "これ、ヴァニラのおやつかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0052",
+      "context": {
+        "voice": null
+      },
+      "original": "苦いやつだったりするのかな",
+      "translation": "쓴 거이거나 하려나",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16052,
+          "length": 26,
+          "key": 4199352970,
+          "original": "苦いやつだったりするのかな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0053",
+      "context": {
+        "voice": null
+      },
+      "original": "天国みたいなところだといいかなあ",
+      "translation": "천국 같은 곳이면 좋겠는데",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16200,
+          "length": 32,
+          "key": 4199352970,
+          "original": "天国みたいなところだといいかなあ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0054",
+      "context": {
+        "voice": null
+      },
+      "original": "気候の安定しているところだといいね",
+      "translation": "기후가 안정된 곳이면 좋겠네",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16240,
+          "length": 34,
+          "key": 4199352970,
+          "original": "気候の安定しているところだといいね"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0055",
+      "context": {
+        "voice": null
+      },
+      "original": "オレはやっぱりボタンひとつで……",
+      "translation": "난 역시 버튼 하나로…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16284,
+          "length": 32,
+          "key": 4199352970,
+          "original": "オレはやっぱりボタンひとつで……"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0056",
+      "context": {
+        "voice": null
+      },
+      "original": "もちろんくやしいさ",
+      "translation": "당연히 분하지",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16648,
+          "length": 18,
+          "key": 2943945749,
+          "original": "もちろんくやしいさ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0057",
+      "context": {
+        "voice": null
+      },
+      "original": "もう乗り越えたよ",
+      "translation": "이미 극복했어",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16676,
+          "length": 16,
+          "key": 2943945749,
+          "original": "もう乗り越えたよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0058",
+      "context": {
+        "voice": null
+      },
+      "original": "いまはそれどころじゃないから",
+      "translation": "지금은 그럴 때가 아니니까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16700,
+          "length": 28,
+          "key": 2943945749,
+          "original": "いまはそれどころじゃないから"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0059",
+      "context": {
+        "voice": null
+      },
+      "original": "そのまま海に行くとか",
+      "translation": "바다로 간다든가",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16828,
+          "length": 20,
+          "key": 2943945749,
+          "original": "そのまま海に行くとか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0060",
+      "context": {
+        "voice": null
+      },
+      "original": "『ヴァル・ファスク』の決戦兵器",
+      "translation": "『발・파스크』의 결전 병기",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16856,
+          "length": 30,
+          "key": 2943945749,
+          "original": "『ヴァル・ファスク』の決戦兵器"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0061",
+      "context": {
+        "voice": null
+      },
+      "original": "トランスバールに攻め込むとか",
+      "translation": "트랜스벌에 쳐들어간다든가",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16896,
+          "length": 28,
+          "key": 2943945749,
+          "original": "トランスバールに攻め込むとか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0062",
+      "context": {
+        "voice": null
+      },
+      "original": "実力に裏打ちされたチームワークさ",
+      "translation": "실력이 뒷받침된 팀워크지",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17024,
+          "length": 32,
+          "key": 2943945749,
+          "original": "実力に裏打ちされたチームワークさ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0063",
+      "context": {
+        "voice": null
+      },
+      "original": "紋章機を使ってきた経験の差だよ",
+      "translation": "문장기를 써 온 경험의 차이야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17064,
+          "length": 30,
+          "key": 2943945749,
+          "original": "紋章機を使ってきた経験の差だよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0064",
+      "context": {
+        "voice": null
+      },
+      "original": "圧倒的な紋章機の数さ",
+      "translation": "압도적인 문장기 수지",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17104,
+          "length": 20,
+          "key": 2943945749,
+          "original": "圧倒的な紋章機の数さ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0065",
+      "context": {
+        "voice": null
+      },
+      "original": "人間は過ちを犯す物である",
+      "translation": "인간은 실수하는 존재다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17224,
+          "length": 24,
+          "key": 2943945749,
+          "original": "人間は過ちを犯す物である"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0066",
+      "context": {
+        "voice": null
+      },
+      "original": "人間は考える葦である",
+      "translation": "인간은 생각하는 갈대",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17256,
+          "length": 20,
+          "key": 2943945749,
+          "original": "人間は考える葦である"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0067",
+      "context": {
+        "voice": null
+      },
+      "original": "人間、あきらめが肝心",
+      "translation": "인간, 포기가 중요해",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17284,
+          "length": 20,
+          "key": 2943945749,
+          "original": "人間、あきらめが肝心"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0068",
+      "context": {
+        "voice": null
+      },
+      "original": "いつも通りやればいいんだ",
+      "translation": "평소대로 하면 돼",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17404,
+          "length": 24,
+          "key": 2943945749,
+          "original": "いつも通りやればいいんだ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0069",
+      "context": {
+        "voice": null
+      },
+      "original": "ひとりで抱え込むな",
+      "translation": "혼자 떠안지 마",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17436,
+          "length": 18,
+          "key": 2943945749,
+          "original": "ひとりで抱え込むな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0070",
+      "context": {
+        "voice": null
+      },
+      "original": "もっと気楽にやろう",
+      "translation": "좀 더 편하게 하자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17464,
+          "length": 18,
+          "key": 2943945749,
+          "original": "もっと気楽にやろう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0071",
+      "context": {
+        "voice": null
+      },
+      "original": "､>ｩNｰRｲ邁\u0015",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 17608,
+          "length": 10,
+          "key": 2943945749,
+          "original": "､>ｩNｰRｲ邁\u0015"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0072",
+      "context": {
+        "voice": null
+      },
+      "original": "｣?ｱ垈RｨLｰfｩﾏｰdｺｹｰ\u000b",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 17628,
+          "length": 18,
+          "key": 2943945749,
+          "original": "｣?ｱ垈RｨLｰfｩﾏｰdｺｹｰ\u000b"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0073",
+      "context": {
+        "voice": null
+      },
+      "original": "君の笑顔は一番の武器だ",
+      "translation": "네 미소가 최고 무기야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18168,
+          "length": 22,
+          "key": 2946089104,
+          "original": "君の笑顔は一番の武器だ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0074",
+      "context": {
+        "voice": null
+      },
+      "original": "強運に期待するよ",
+      "translation": "강운에 기대할게",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18200,
+          "length": 16,
+          "key": 2946089104,
+          "original": "強運に期待するよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0075",
+      "context": {
+        "voice": null
+      },
+      "original": "いつものポジティブさで頼む",
+      "translation": "평소의 긍정으로 부탁해",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18324,
+          "length": 26,
+          "key": 2946089104,
+          "original": "いつものポジティブさで頼む"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0076",
+      "context": {
+        "voice": null
+      },
+      "original": "色仕掛けで悩殺だ",
+      "translation": "미인계로 승부다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18360,
+          "length": 16,
+          "key": 2946089104,
+          "original": "色仕掛けで悩殺だ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0077",
+      "context": {
+        "voice": null
+      },
+      "original": "その冷静さに助けられた",
+      "translation": "그 냉정함에 도움받았어",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18484,
+          "length": 22,
+          "key": 2946089104,
+          "original": "その冷静さに助けられた"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0078",
+      "context": {
+        "voice": null
+      },
+      "original": "ガンガン心を読んでやれ",
+      "translation": "팍팍 마음을 읽어 줘",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18516,
+          "length": 22,
+          "key": 2946089104,
+          "original": "ガンガン心を読んでやれ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0079",
+      "context": {
+        "voice": null
+      },
+      "original": "君というリーダーがいてよかった",
+      "translation": "너란 리더가 있어서 다행이야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18648,
+          "length": 30,
+          "key": 2946089104,
+          "original": "君というリーダーがいてよかった"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0080",
+      "context": {
+        "voice": null
+      },
+      "original": "お願いします、姉御！",
+      "translation": "부탁합니다, 누님！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18688,
+          "length": 20,
+          "key": 2946089104,
+          "original": "お願いします、姉御！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0081",
+      "context": {
+        "voice": null
+      },
+      "original": "君の癒しに感謝する",
+      "translation": "네 치유에 감사해",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18816,
+          "length": 18,
+          "key": 2946089104,
+          "original": "君の癒しに感謝する"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0082",
+      "context": {
+        "voice": null
+      },
+      "original": "君がいれば紋章機が壊れても平気だ",
+      "translation": "네가 있으면 문장기가 망가져도 돼",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18844,
+          "length": 32,
+          "key": 2946089104,
+          "original": "君がいれば紋章機が壊れても平気だ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0083",
+      "context": {
+        "voice": null
+      },
+      "original": "飽くなき向上心が君を強くする",
+      "translation": "끝없는 향상심이 널 강하게 해",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18984,
+          "length": 28,
+          "key": 2946089104,
+          "original": "飽くなき向上心が君を強くする"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0084",
+      "context": {
+        "voice": null
+      },
+      "original": "下手な矢も数射りゃ当たる！",
+      "translation": "많이 쏘면 맞는 법！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19020,
+          "length": 26,
+          "key": 2946089104,
+          "original": "下手な矢も数射りゃ当たる！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0085",
+      "context": {
+        "voice": null
+      },
+      "original": "いつまでも聞いていたくなるよなあ",
+      "translation": "언제까지고 듣고 싶어지네",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19156,
+          "length": 32,
+          "key": 2943945749,
+          "original": "いつまでも聞いていたくなるよなあ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0086",
+      "context": {
+        "voice": null
+      },
+      "original": "みんなにおすすめしたいね",
+      "translation": "모두에게 추천하고 싶네",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19196,
+          "length": 24,
+          "key": 2943945749,
+          "original": "みんなにおすすめしたいね"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0087",
+      "context": {
+        "voice": null
+      },
+      "original": "催眠効果があるんじゃないのか",
+      "translation": "최면 효과가 있는 거 아냐",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19228,
+          "length": 28,
+          "key": 2943945749,
+          "original": "催眠効果があるんじゃないのか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0088",
+      "context": {
+        "voice": null
+      },
+      "original": "おいしいよ",
+      "translation": "맛있어",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19356,
+          "length": 10,
+          "key": 2943945749,
+          "original": "おいしいよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0089",
+      "context": {
+        "voice": null
+      },
+      "original": "まあまあかな",
+      "translation": "그럭저럭",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19376,
+          "length": 12,
+          "key": 2943945749,
+          "original": "まあまあかな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0090",
+      "context": {
+        "voice": null
+      },
+      "original": "辛い、というか痛い",
+      "translation": "맵다, 아니 아프다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19396,
+          "length": 18,
+          "key": 2943945749,
+          "original": "辛い、というか痛い"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0091",
+      "context": {
+        "voice": null
+      },
+      "original": "オレもわけてもらっていいかな",
+      "translation": "나도 좀 나눠 받아도 될까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19516,
+          "length": 28,
+          "key": 2943945749,
+          "original": "オレもわけてもらっていいかな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0092",
+      "context": {
+        "voice": null
+      },
+      "original": "待つってのも意外に新鮮だね",
+      "translation": "기다리는 것도 신선하네",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19552,
+          "length": 26,
+          "key": 2943945749,
+          "original": "待つってのも意外に新鮮だね"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0093",
+      "context": {
+        "voice": null
+      },
+      "original": "独り占めはダメだよ",
+      "translation": "독차지는 안 돼",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19588,
+          "length": 18,
+          "key": 2943945749,
+          "original": "独り占めはダメだよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0094",
+      "context": {
+        "voice": null
+      },
+      "original": "フォルテの案に賛成だ",
+      "translation": "포르테 안에 찬성이야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19708,
+          "length": 20,
+          "key": 2943945749,
+          "original": "フォルテの案に賛成だ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0095",
+      "context": {
+        "voice": null
+      },
+      "original": "レスターの案に賛成だ",
+      "translation": "레스터 안에 찬성이야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19736,
+          "length": 20,
+          "key": 2943945749,
+          "original": "レスターの案に賛成だ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0096",
+      "context": {
+        "voice": null
+      },
+      "original": "オレの案を聞いてみない？",
+      "translation": "내 안을 들어볼래？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19764,
+          "length": 24,
+          "key": 2943945749,
+          "original": "オレの案を聞いてみない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0097",
+      "context": {
+        "voice": null
+      },
+      "original": "オレがかわりにやるよ",
+      "translation": "내가 대신 할게",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19888,
+          "length": 20,
+          "key": 2943945749,
+          "original": "オレがかわりにやるよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0098",
+      "context": {
+        "voice": null
+      },
+      "original": "オレが椅子を支えてあげるよ",
+      "translation": "내가 의자를 잡아 줄게",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19916,
+          "length": 26,
+          "key": 2943945749,
+          "original": "オレが椅子を支えてあげるよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0099",
+      "context": {
+        "voice": null
+      },
+      "original": "無理にやらない方がいい",
+      "translation": "무리하지 않는 게 좋아",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19952,
+          "length": 22,
+          "key": 2943945749,
+          "original": "無理にやらない方がいい"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0100",
+      "context": {
+        "voice": null
+      },
+      "original": "緊張しすぎていてもケガはするんだよ",
+      "translation": "너무 긴장해도 다치는 거야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20076,
+          "length": 34,
+          "key": 2943945749,
+          "original": "緊張しすぎていてもケガはするんだよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0101",
+      "context": {
+        "voice": null
+      },
+      "original": "ちとせに比べたら、オレなんか……",
+      "translation": "치토세에 비하면, 나 같은 건…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20120,
+          "length": 32,
+          "key": 2943945749,
+          "original": "ちとせに比べたら、オレなんか……"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0102",
+      "context": {
+        "voice": null
+      },
+      "original": "シリアスに受け止めすぎだよ",
+      "translation": "너무 심각하게 받아들여",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20160,
+          "length": 26,
+          "key": 2943945749,
+          "original": "シリアスに受け止めすぎだよ"
+        }
+      ]
+    }
+  ]
+}

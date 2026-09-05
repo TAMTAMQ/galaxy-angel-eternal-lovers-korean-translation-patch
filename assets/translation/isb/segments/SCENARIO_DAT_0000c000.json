@@ -1,0 +1,3502 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_0000c000.txt",
+    "encoding": "cp932",
+    "sha256": "333fb013eb3c31d7f588487417df54a33f0c43788a32649e5cba23b88f099581",
+    "tagged_records": 357,
+    "decoded_records": 357,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 4052389992,
+        "source": "header",
+        "end": 16736
+      },
+      {
+        "start": 16736,
+        "key_offset": 16720,
+        "key": 1162054219,
+        "source": "integer_literal",
+        "end": 29956
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "タクトとミルフィーユ",
+      "translation": "택트와 밀피유\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16,
+          "length": 20,
+          "key": 4052389992,
+          "original": "タクトとミルフィーユ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "ふあ……ふわあぁぁぁぁぁ……。",
+      "translation": "후아…… 후아아아아아아…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 224,
+          "length": 30,
+          "key": 4052389992,
+          "original": "ふあ……ふわあぁぁぁぁぁ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0003",
+      "context": {
+        "voice": "GC110000.ogg"
+      },
+      "original": "うわ～、タクトさん、大きなあくびですね～。",
+      "translation": "우와～, 택트 씨, 큰 하품이네요～.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 368,
+          "length": 42,
+          "key": 4052389992,
+          "original": "うわ～、タクトさん、大きなあくびですね～。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0004",
+      "context": {
+        "voice": "GC110000.ogg"
+      },
+      "original": "んぐっ……！　げほっ、ごほっ……！",
+      "translation": "윽……！ 컥, 콜록, 콜록……！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 484,
+          "length": 34,
+          "key": 4052389992,
+          "original": "んぐっ……！　げほっ、ごほっ……！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0005",
+      "context": {
+        "voice": "GC110001.ogg"
+      },
+      "original": "あっ、だ、大丈夫ですか？",
+      "translation": "앗, 저, 괜찮으세요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 768,
+          "length": 24,
+          "key": 4052389992,
+          "original": "あっ、だ、大丈夫ですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0006",
+      "context": {
+        "voice": "GC110001.ogg"
+      },
+      "original": "う、うん……全然平気、平気さ。",
+      "translation": "으, 응…… 전혀 괜찮아,진짜로.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 864,
+          "length": 30,
+          "key": 4052389992,
+          "original": "う、うん……全然平気、平気さ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0007",
+      "context": {
+        "voice": "GC110002.ogg"
+      },
+      "original": "タクトさん、疲れてるんじゃないですか？さっきから、ずっと眠たそうです。",
+      "translation": "택트 씨, 피곤한 거 아니에요？ 아까부터 계속 졸려 보여요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1044,
+          "length": 38,
+          "key": 4052389992,
+          "original": "タクトさん、疲れてるんじゃないですか？"
+        },
+        {
+          "offset": 1092,
+          "length": 32,
+          "key": 4052389992,
+          "original": "さっきから、ずっと眠たそうです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0008",
+      "context": {
+        "voice": "GC110002.ogg"
+      },
+      "original": "まあ、疲れてないと言えばウソになるかな。まったく……軍人と警官は暇な方がいいっていうのにね。",
+      "translation": "뭐, 피곤하지 않다면 거짓말이겠지. 정말이지…… 군인과 경찰은 한가한 게 최고인데.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1196,
+          "length": 40,
+          "key": 4052389992,
+          "original": "まあ、疲れてないと言えばウソになるかな。"
+        },
+        {
+          "offset": 1244,
+          "length": 40,
+          "key": 4052389992,
+          "original": "まったく……軍人と警官は暇な方がいいって"
+        },
+        {
+          "offset": 1292,
+          "length": 12,
+          "key": 4052389992,
+          "original": "いうのにね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0009",
+      "context": {
+        "voice": "GC110002.ogg"
+      },
+      "original": "ごめんね、ミルフィー。久しぶりに、ふたりっきりの時間が取れたっていうのに。",
+      "translation": "미안해, 밀피. 오랜만에 둘만의 시간을 낼 수 있었는데.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1376,
+          "length": 42,
+          "key": 4052389992,
+          "original": "ごめんね、ミルフィー。久しぶりに、ふたりっ"
+        },
+        {
+          "offset": 1428,
+          "length": 32,
+          "key": 4052389992,
+          "original": "きりの時間が取れたっていうのに。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0010",
+      "context": {
+        "voice": "GC110003.ogg"
+      },
+      "original": "あ、謝らないでください。タクトさんが、あたしのためにお仕事一生懸命頑張ってくれたってことだけで、あたしは嬉しいです。",
+      "translation": "아, 사과하지 마세요. 택트 씨가 저를 위해서 열심히 일해주신 것만으로도 저는 기뻐요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1608,
+          "length": 40,
+          "key": 4052389992,
+          "original": "あ、謝らないでください。タクトさんが、あ"
+        },
+        {
+          "offset": 1656,
+          "length": 42,
+          "key": 4052389992,
+          "original": "たしのためにお仕事一生懸命頑張ってくれたっ"
+        },
+        {
+          "offset": 1708,
+          "length": 34,
+          "key": 4052389992,
+          "original": "てことだけで、あたしは嬉しいです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0011",
+      "context": {
+        "voice": "GC110004.ogg"
+      },
+      "original": "それに……その……そういうことを隠すより、ちゃんと見せてくれたほうが、こ、恋人らしいっていうか……。",
+      "translation": "게다가…… 그…… 그런 걸 숨기는 것보다, 제대로 보여주는 편이, 여, 연인다우달까…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1892,
+          "length": 42,
+          "key": 4052389992,
+          "original": "それに……その……そういうことを隠すより、"
+        },
+        {
+          "offset": 1944,
+          "length": 40,
+          "key": 4052389992,
+          "original": "ちゃんと見せてくれたほうが、こ、恋人らし"
+        },
+        {
+          "offset": 1992,
+          "length": 18,
+          "key": 4052389992,
+          "original": "いっていうか……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0012",
+      "context": {
+        "voice": "GC110005.ogg"
+      },
+      "original": "と、とにかく、そういうことなんです！",
+      "translation": "어, 어쨌든, 그렇다는 말이에요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2124,
+          "length": 36,
+          "key": 4052389992,
+          "original": "と、とにかく、そういうことなんです！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0013",
+      "context": {
+        "voice": "GC110005.ogg"
+      },
+      "original": "……ああ。そう言ってもらえると、オレも嬉しいな。",
+      "translation": "...아아. 그렇게 말해주니 나도 기쁘네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2232,
+          "length": 40,
+          "key": 4052389992,
+          "original": "……ああ。そう言ってもらえると、オレも嬉"
+        },
+        {
+          "offset": 2280,
+          "length": 8,
+          "key": 4052389992,
+          "original": "しいな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0014",
+      "context": {
+        "voice": "GC110006.ogg"
+      },
+      "original": "……えへへへへ。",
+      "translation": "...에헤헤헤헤.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2436,
+          "length": 16,
+          "key": 4052389992,
+          "original": "……えへへへへ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0015",
+      "context": {
+        "voice": "GC110006.ogg"
+      },
+      "original": "まあ、仕事は大変だけどちょっとしたお楽しみもあるからね。",
+      "translation": "뭐, 일은 힘들지만 소소한 즐거움도 있으니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2524,
+          "length": 40,
+          "key": 4052389992,
+          "original": "まあ、仕事は大変だけどちょっとしたお楽し"
+        },
+        {
+          "offset": 2572,
+          "length": 16,
+          "key": 4052389992,
+          "original": "みもあるからね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0016",
+      "context": {
+        "voice": "GC110007.ogg"
+      },
+      "original": "お楽しみ？",
+      "translation": "즐거움요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2736,
+          "length": 10,
+          "key": 4052389992,
+          "original": "お楽しみ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0017",
+      "context": {
+        "voice": "GC110007.ogg"
+      },
+      "original": "ミルフィーが毎朝可愛い声でモーニングコールをしてくれたり、手作りのお弁当を差し入れしてくれること。",
+      "translation": "밀피가 매일 아침 귀여운 목소리로 모닝콜을 해준다거나, 직접 만든 도시락을 가져다주는 것.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2820,
+          "length": 40,
+          "key": 4052389992,
+          "original": "ミルフィーが毎朝可愛い声でモーニングコー"
+        },
+        {
+          "offset": 2868,
+          "length": 40,
+          "key": 4052389992,
+          "original": "ルをしてくれたり、手作りのお弁当を差し入"
+        },
+        {
+          "offset": 2916,
+          "length": 18,
+          "key": 4052389992,
+          "original": "れしてくれること。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0018",
+      "context": {
+        "voice": "GC110007.ogg"
+      },
+      "original": "あとは、オレのいない間にミルフィーが部屋の掃除をしてくれた時のこととかもね。",
+      "translation": "그리고 내가 없는 사이에 밀피가 방 청소를 해줬을 때 같은 거 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3008,
+          "length": 40,
+          "key": 4052389992,
+          "original": "あとは、オレのいない間にミルフィーが部屋"
+        },
+        {
+          "offset": 3056,
+          "length": 36,
+          "key": 4052389992,
+          "original": "の掃除をしてくれた時のこととかもね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0019",
+      "context": {
+        "voice": "GC110008.ogg"
+      },
+      "original": "部屋に戻ったら、ミルフィーがオレのベッドで眠ってるんだもんな、びっくりしたよ。",
+      "translation": "방으로 돌아갔더니 밀피가 내 침대에서 잠들어 있어서 깜짝 놀랐다고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3336,
+          "length": 40,
+          "key": 4052389992,
+          "original": "部屋に戻ったら、ミルフィーがオレのベッド"
+        },
+        {
+          "offset": 3384,
+          "length": 38,
+          "key": 4052389992,
+          "original": "で眠ってるんだもんな、びっくりしたよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0020",
+      "context": {
+        "voice": "GC110008.ogg"
+      },
+      "original": "いやいや、あんな可愛い寝顔を見せられたら疲れも吹き飛ぶってもんだよ。",
+      "translation": "아니 아니, 그런 귀여운 자는 얼굴을 보여주면 피로도 날아가 버린다고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3496,
+          "length": 40,
+          "key": 4052389992,
+          "original": "いやいや、あんな可愛い寝顔を見せられたら"
+        },
+        {
+          "offset": 3544,
+          "length": 28,
+          "key": 4052389992,
+          "original": "疲れも吹き飛ぶってもんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0021",
+      "context": {
+        "voice": "GC110009.ogg"
+      },
+      "original": "ああん、もう、そのことは忘れてくださいってば～。",
+      "translation": "아앙, 정말이지, 그 일은 잊어달라니까요～.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3720,
+          "length": 40,
+          "key": 4052389992,
+          "original": "ああん、もう、そのことは忘れてくださいっ"
+        },
+        {
+          "offset": 3768,
+          "length": 8,
+          "key": 4052389992,
+          "original": "てば～。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0022",
+      "context": {
+        "voice": "GC110010.ogg"
+      },
+      "original": "あれは……ベッドメイキングしてたらタクトさんの匂いがして……つい。んもう、タクトさん、意地悪です～。",
+      "translation": "그건…… 침대 정리를 하는데 택트 씨 냄새가 나서…… 나도 모르게. 정말, 심술쟁이라니까요～.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3924,
+          "length": 40,
+          "key": 4052389992,
+          "original": "あれは……ベッドメイキングしてたらタクト"
+        },
+        {
+          "offset": 3972,
+          "length": 40,
+          "key": 4052389992,
+          "original": "さんの匂いがして……つい。んもう、タクト"
+        },
+        {
+          "offset": 4020,
+          "length": 20,
+          "key": 4052389992,
+          "original": "さん、意地悪です～。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0023",
+      "context": {
+        "voice": "GC110010.ogg"
+      },
+      "original": "ごめんごめん。でも、助かってるのは本当だよ。",
+      "translation": "미안 미안. 하지만 도움이 된 건 사실이야.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4112,
+          "length": 14,
+          "key": 4052389992,
+          "original": "ごめんごめん。"
+        },
+        {
+          "offset": 4136,
+          "length": 30,
+          "key": 4052389992,
+          "original": "でも、助かってるのは本当だよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0024",
+      "context": {
+        "voice": "GC110011.ogg"
+      },
+      "original": "……はい。",
+      "translation": "...네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4316,
+          "length": 10,
+          "key": 4052389992,
+          "original": "……はい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0025",
+      "context": {
+        "voice": "GC110012.ogg"
+      },
+      "original": "でもタクトさん、やっぱり少し働き過ぎじゃないですか？",
+      "translation": "하지만 택트 씨, 역시 좀 과하게 일하는 거 아니에요？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4476,
+          "length": 40,
+          "key": 4052389992,
+          "original": "でもタクトさん、やっぱり少し働き過ぎじゃ"
+        },
+        {
+          "offset": 4524,
+          "length": 12,
+          "key": 4052389992,
+          "original": "ないですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0026",
+      "context": {
+        "voice": "GC110013.ogg"
+      },
+      "original": "いっぱい働くタクトさんは、あんまりタクトさんらしくないですよ。",
+      "translation": "열심히만 하는 택트 씨는 별로 택트 씨답지 않아요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4648,
+          "length": 40,
+          "key": 4052389992,
+          "original": "いっぱい働くタクトさんは、あんまりタクト"
+        },
+        {
+          "offset": 4696,
+          "length": 22,
+          "key": 4052389992,
+          "original": "さんらしくないですよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0027",
+      "context": {
+        "voice": "GC110013.ogg"
+      },
+      "original": "ほ、褒められてるのか、けなされてるのか、どっちだろう……？",
+      "translation": "칭찬을 하는 건지, 깎아내리는 건지, 어느 쪽일까……？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4792,
+          "length": 40,
+          "key": 4052389992,
+          "original": "ほ、褒められてるのか、けなされてるのか、"
+        },
+        {
+          "offset": 4840,
+          "length": 18,
+          "key": 4052389992,
+          "original": "どっちだろう……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0028",
+      "context": {
+        "voice": "GC110013.ogg"
+      },
+      "original": "ま……まあ、それはともかく。特別休暇とはいえ、３０日ものんきに休んでたんだから仕方ないさ。仕事もたまるってもんだよ。",
+      "translation": "뭐…… 뭐, 그건 그렇다 치고. 특별 휴가라고는 해도 ３０일이나 느긋하게 쉬었으니까 어쩔 수 없어. 일도 쌓여있을 테니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4932,
+          "length": 40,
+          "key": 4052389992,
+          "original": "ま……まあ、それはともかく。特別休暇とは"
+        },
+        {
+          "offset": 4980,
+          "length": 40,
+          "key": 4052389992,
+          "original": "いえ、３０日ものんきに休んでたんだから仕"
+        },
+        {
+          "offset": 5028,
+          "length": 36,
+          "key": 4052389992,
+          "original": "方ないさ。仕事もたまるってもんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0029",
+      "context": {
+        "voice": "GC110013.ogg"
+      },
+      "original": "それに、頭に叩き込んでおかなきゃいけない資料も山ほどあってね。あまりレスターに負担をかけるのも悪いしね。",
+      "translation": "게다가 머릿속에 넣어둬야 할 자료도 산더미처럼 있어서 말이야. 레스터에게 너무 부담을 주는 것도 미안하고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5136,
+          "length": 40,
+          "key": 4052389992,
+          "original": "それに、頭に叩き込んでおかなきゃいけない"
+        },
+        {
+          "offset": 5184,
+          "length": 40,
+          "key": 4052389992,
+          "original": "資料も山ほどあってね。あまりレスターに負"
+        },
+        {
+          "offset": 5232,
+          "length": 24,
+          "key": 4052389992,
+          "original": "担をかけるのも悪いしね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0030",
+      "context": {
+        "voice": "GC110014.ogg"
+      },
+      "original": "今回の任務の件、ですね……？",
+      "translation": "이번 임무 건 말이죠……？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5368,
+          "length": 28,
+          "key": 4052389992,
+          "original": "今回の任務の件、ですね……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0031",
+      "context": {
+        "voice": "GC110014.ogg"
+      },
+      "original": "そう。ガイエン星系で起こった、調査艦隊の失踪事件。",
+      "translation": "그래. 가이엔 성계에서 일어난 조사 함대 실종 사건.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5468,
+          "length": 40,
+          "key": 4052389992,
+          "original": "そう。ガイエン星系で起こった、調査艦隊の"
+        },
+        {
+          "offset": 5516,
+          "length": 10,
+          "key": 4052389992,
+          "original": "失踪事件。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0032",
+      "context": {
+        "voice": "GC110015.ogg"
+      },
+      "original": "あたしたちがお休みしてた間に、そんな事件が起きてたって聞いた時は、ビックリしちゃいました。",
+      "translation": "우리가 쉬고 있는 사이에 그런 사건이 일어났다는 소식을 들었을 때는 정말 깜짝 놀랐어요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5676,
+          "length": 40,
+          "key": 4052389992,
+          "original": "あたしたちがお休みしてた間に、そんな事件"
+        },
+        {
+          "offset": 5724,
+          "length": 40,
+          "key": 4052389992,
+          "original": "が起きてたって聞いた時は、ビックリしちゃ"
+        },
+        {
+          "offset": 5772,
+          "length": 10,
+          "key": 4052389992,
+          "original": "いました。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0033",
+      "context": {
+        "voice": "GC110015.ogg"
+      },
+      "original": "オレもさ。しかも、オレたちがその原因究明に駆り出されることになって、驚きも２倍ってところだよ。",
+      "translation": "나도 말이야. 게다가 우리가 그 원인 규명에 투입되게 되다니, 놀라움이 두 배라고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5856,
+          "length": 40,
+          "key": 4052389992,
+          "original": "オレもさ。しかも、オレたちがその原因究明"
+        },
+        {
+          "offset": 5904,
+          "length": 40,
+          "key": 4052389992,
+          "original": "に駆り出されることになって、驚きも２倍っ"
+        },
+        {
+          "offset": 5952,
+          "length": 14,
+          "key": 4052389992,
+          "original": "てところだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0034",
+      "context": {
+        "voice": "GC110015.ogg"
+      },
+      "original": "任務に復帰して早々、皇国の真ん中から端っこまでを長旅するハメになるとは思わなかったね。",
+      "translation": "임무에 복귀하자마자 황국의 중심에서 변두리까지 긴 여정을 하게 될 줄은 몰랐네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6040,
+          "length": 40,
+          "key": 4052389992,
+          "original": "任務に復帰して早々、皇国の真ん中から端っ"
+        },
+        {
+          "offset": 6088,
+          "length": 40,
+          "key": 4052389992,
+          "original": "こまでを長旅するハメになるとは思わなかっ"
+        },
+        {
+          "offset": 6136,
+          "length": 6,
+          "key": 4052389992,
+          "original": "たね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0035",
+      "context": {
+        "voice": "GC110015.ogg"
+      },
+      "original": "ほら、見てみなよ、ミルフィー。トランスバール本星からガイエン星系まで、こーんなに離れてるんだよ？",
+      "translation": "봐봐, 밀피. 트랜스벌 본성에서 가이엔 성계까지 이렇게나 떨어져 있다고？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6332,
+          "length": 42,
+          "key": 4052389992,
+          "original": "ほら、見てみなよ、ミルフィー。トランスバー"
+        },
+        {
+          "offset": 6384,
+          "length": 40,
+          "key": 4052389992,
+          "original": "ル本星からガイエン星系まで、こーんなに離"
+        },
+        {
+          "offset": 6432,
+          "length": 14,
+          "key": 4052389992,
+          "original": "れてるんだよ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0036",
+      "context": {
+        "voice": "GC110016.ogg"
+      },
+      "original": "こうして見ると、ほんとに遠いですよねー。",
+      "translation": "이렇게 보니 정말 멀군요～.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6560,
+          "length": 40,
+          "key": 4052389992,
+          "original": "こうして見ると、ほんとに遠いですよねー。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0037",
+      "context": {
+        "voice": "GC110016.ogg"
+      },
+      "original": "オレたちって、つくづく辺境に縁があるみたいだな。",
+      "translation": "우리들은 참, 변방과 인연이 깊은 것 같네.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6672,
+          "length": 40,
+          "key": 4052389992,
+          "original": "オレたちって、つくづく辺境に縁があるみた"
+        },
+        {
+          "offset": 6720,
+          "length": 8,
+          "key": 4052389992,
+          "original": "いだな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0038",
+      "context": {
+        "voice": "GC110017.ogg"
+      },
+      "original": "言われてみれば、そうですね。前に辺境調査に行ってから、まだそんなに経っていないのに。",
+      "translation": "듣고 보니 그렇네요. 전에 변방 조사를 다녀온 지 얼마 되지도 않았는데 말이죠.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6840,
+          "length": 40,
+          "key": 4052389992,
+          "original": "言われてみれば、そうですね。前に辺境調査"
+        },
+        {
+          "offset": 6888,
+          "length": 40,
+          "key": 4052389992,
+          "original": "に行ってから、まだそんなに経っていないの"
+        },
+        {
+          "offset": 6936,
+          "length": 4,
+          "key": 4052389992,
+          "original": "に。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0039",
+      "context": {
+        "voice": "GC110017.ogg"
+      },
+      "original": "まあ、長い旅のおかげで資料に目を通す時間だけは、たっぷりあったけどね。",
+      "translation": "뭐, 긴 여행 덕분에 자료를 훑어볼 시간만큼은 듬뿍 있었지만 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7076,
+          "length": 40,
+          "key": 4052389992,
+          "original": "まあ、長い旅のおかげで資料に目を通す時間"
+        },
+        {
+          "offset": 7124,
+          "length": 30,
+          "key": 4052389992,
+          "original": "だけは、たっぷりあったけどね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0040",
+      "context": {
+        "voice": "GC110017.ogg"
+      },
+      "original": "それに、前の辺境調査とは違って、今回はエンジェル隊が全員いるから、退屈だけはしなかったよ。",
+      "translation": "게다가 지난번 변방 조사와는 다르게 이번에는 엔젤대가 전원 있으니까, 지루할 일은 없었어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7228,
+          "length": 40,
+          "key": 4052389992,
+          "original": "それに、前の辺境調査とは違って、今回はエ"
+        },
+        {
+          "offset": 7276,
+          "length": 40,
+          "key": 4052389992,
+          "original": "ンジェル隊が全員いるから、退屈だけはしな"
+        },
+        {
+          "offset": 7324,
+          "length": 10,
+          "key": 4052389992,
+          "original": "かったよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0041",
+      "context": {
+        "voice": "GC110018.ogg"
+      },
+      "original": "うふふ、そうですね。毎日とってもにぎやかで、なんか全然、長旅って感じがしないです。",
+      "translation": "우후후, 그렇네요. 매일 정말 북적거려서 왠지 전혀 긴 여행이라는 느낌이 안 들어요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7484,
+          "length": 40,
+          "key": 4052389992,
+          "original": "うふふ、そうですね。毎日とってもにぎやか"
+        },
+        {
+          "offset": 7532,
+          "length": 42,
+          "key": 4052389992,
+          "original": "で、なんか全然、長旅って感じがしないです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0042",
+      "context": {
+        "voice": "GC110019.ogg"
+      },
+      "original": "もう少しで到着ですよね。そこでいったい何があったんでしょうか？",
+      "translation": "이제 곧 도착겠네요. 거기서 도대체 무슨 일이 있었던 걸까요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7724,
+          "length": 40,
+          "key": 4052389992,
+          "original": "もう少しで到着ですよね。そこでいったい何"
+        },
+        {
+          "offset": 7772,
+          "length": 22,
+          "key": 4052389992,
+          "original": "があったんでしょうか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0043",
+      "context": {
+        "voice": "GC110019.ogg"
+      },
+      "original": "……そいつは、現地で調べてみないことにはわからないな。",
+      "translation": "...그건 현지에서 조사해 보지 않고서는 알 수 없겠군.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7868,
+          "length": 40,
+          "key": 4052389992,
+          "original": "……そいつは、現地で調べてみないことには"
+        },
+        {
+          "offset": 7916,
+          "length": 14,
+          "key": 4052389992,
+          "original": "わからないな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0044",
+      "context": {
+        "voice": "GC110019.ogg"
+      },
+      "original": "ただひとつ、調査艦隊が残した手がかりといえば……。",
+      "translation": "단 하나, 조사 함대가 남긴 단이라고 하면……\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8004,
+          "length": 40,
+          "key": 4052389992,
+          "original": "ただひとつ、調査艦隊が残した手がかりとい"
+        },
+        {
+          "offset": 8052,
+          "length": 10,
+          "key": 4052389992,
+          "original": "えば……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0045",
+      "context": {
+        "voice": "GC110019.ogg"
+      },
+      "original": "消息を絶つ寸前に、第３方面軍司令部に送ってきた、この映像だけさ。",
+      "translation": "소식이 끊기기 직전에 제３방면군 사령부에 보내온 이 영상뿐이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8280,
+          "length": 40,
+          "key": 4052389992,
+          "original": "消息を絶つ寸前に、第３方面軍司令部に送っ"
+        },
+        {
+          "offset": 8328,
+          "length": 24,
+          "key": 4052389992,
+          "original": "てきた、この映像だけさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0046",
+      "context": {
+        "voice": "GC110020.ogg"
+      },
+      "original": "やっぱり、ぼやけててよくわかりませんね。",
+      "translation": "역시 흐릿해서 잘 안 보이네요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8464,
+          "length": 40,
+          "key": 4052389992,
+          "original": "やっぱり、ぼやけててよくわかりませんね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0047",
+      "context": {
+        "voice": "GC110020.ogg"
+      },
+      "original": "きっと、これを送るだけで必死だったんだろうな……他にはなんの映像もメッセージもなかった。",
+      "translation": "분명 이걸 보내는 것만으로도 필사적이었겠지…… 그 외에는 아무 영상도 메시지도 없었어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8576,
+          "length": 40,
+          "key": 4052389992,
+          "original": "きっと、これを送るだけで必死だったんだろ"
+        },
+        {
+          "offset": 8624,
+          "length": 40,
+          "key": 4052389992,
+          "original": "うな……他にはなんの映像もメッセージもな"
+        },
+        {
+          "offset": 8672,
+          "length": 8,
+          "key": 4052389992,
+          "original": "かった。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0048",
+      "context": {
+        "voice": "GC110021.ogg"
+      },
+      "original": "それじゃあ、調査艦隊の人たちは……。",
+      "translation": "그렇다면, 조사 함대 사람들은……\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8792,
+          "length": 36,
+          "key": 4052389992,
+          "original": "それじゃあ、調査艦隊の人たちは……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0049",
+      "context": {
+        "voice": "GC110021.ogg"
+      },
+      "original": "多分……いや、間違いなく……。",
+      "translation": "아마…… 아니, 틀림없이…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8900,
+          "length": 30,
+          "key": 4052389992,
+          "original": "多分……いや、間違いなく……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0050",
+      "context": {
+        "voice": "GC110022.ogg"
+      },
+      "original": "あ……ごめん。暗い話にするつもりはなかったんだけど……。",
+      "translation": "아…… 미안. 어두운 이야기를 할 생각은 없었는데…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9168,
+          "length": 40,
+          "key": 4052389992,
+          "original": "あ……ごめん。暗い話にするつもりはなかっ"
+        },
+        {
+          "offset": 9216,
+          "length": 16,
+          "key": 4052389992,
+          "original": "たんだけど……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0051",
+      "context": {
+        "voice": "GC110023.ogg"
+      },
+      "original": "あっ、いえ……。",
+      "translation": "앗, 아뇨…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9344,
+          "length": 16,
+          "key": 4052389992,
+          "original": "あっ、いえ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0052",
+      "context": {
+        "voice": "GC110024.ogg"
+      },
+      "original": "そ、そうだ、映像で思い出しました。ちょっと待っててくださいね、タクトさん。",
+      "translation": "그, 맞다, 영상으로 생각났어요. 잠시만 기다려 주세요, 택트 씨.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9556,
+          "length": 40,
+          "key": 4052389992,
+          "original": "そ、そうだ、映像で思い出しました。ちょっ"
+        },
+        {
+          "offset": 9604,
+          "length": 34,
+          "key": 4052389992,
+          "original": "と待っててくださいね、タクトさん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0053",
+      "context": {
+        "voice": "GC110024.ogg"
+      },
+      "original": "……ん？",
+      "translation": "……응？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9712,
+          "length": 8,
+          "key": 4052389992,
+          "original": "……ん？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0054",
+      "context": {
+        "voice": "GC110025.ogg"
+      },
+      "original": "じゃーん！　これでーす！",
+      "translation": "짠！ 이거예요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9924,
+          "length": 24,
+          "key": 4052389992,
+          "original": "じゃーん！　これでーす！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0055",
+      "context": {
+        "voice": "GC110025.ogg"
+      },
+      "original": "これは……アルバムかい？",
+      "translation": "이건…… 앨범인가？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10092,
+          "length": 24,
+          "key": 4052389992,
+          "original": "これは……アルバムかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0056",
+      "context": {
+        "voice": "GC110026.ogg"
+      },
+      "original": "はい。この前の休暇、ふたりで行った旅行の写真ができあがったんです。",
+      "translation": "네. 지난번 휴가 때, 둘이서 갔던 여행 사진이 다 나왔거든요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10228,
+          "length": 40,
+          "key": 4052389992,
+          "original": "はい。この前の休暇、ふたりで行った旅行の"
+        },
+        {
+          "offset": 10276,
+          "length": 26,
+          "key": 4052389992,
+          "original": "写真ができあがったんです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0057",
+      "context": {
+        "voice": "GC110026.ogg"
+      },
+      "original": "ああ、あのリゾートの……じゃあ、一緒に見ようよ。",
+      "translation": "아아, 그 리조트의…… 그럼, 같이 보자.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10376,
+          "length": 40,
+          "key": 4052389992,
+          "original": "ああ、あのリゾートの……じゃあ、一緒に見"
+        },
+        {
+          "offset": 10424,
+          "length": 8,
+          "key": 4052389992,
+          "original": "ようよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0058",
+      "context": {
+        "voice": "GC110027.ogg"
+      },
+      "original": "はいっ！",
+      "translation": "네！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10544,
+          "length": 8,
+          "key": 4052389992,
+          "original": "はいっ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0059",
+      "context": {
+        "voice": "GC110027.ogg"
+      },
+      "original": "これは、ミルフィーがお気に入りだったコテージだね。",
+      "translation": "이건, 밀피가 마음에 들어 했던 코티지네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10704,
+          "length": 42,
+          "key": 4052389992,
+          "original": "これは、ミルフィーがお気に入りだったコテー"
+        },
+        {
+          "offset": 10756,
+          "length": 8,
+          "key": 4052389992,
+          "original": "ジだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0060",
+      "context": {
+        "voice": "GC110028.ogg"
+      },
+      "original": "一日中……朝も、昼も、夜も、タクトさんと一緒にいられました……。",
+      "translation": "하루 종일…… 아침도, 점심도, 밤도, 택트 씨와 함께 있었어요…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10876,
+          "length": 40,
+          "key": 4052389992,
+          "original": "一日中……朝も、昼も、夜も、タクトさんと"
+        },
+        {
+          "offset": 10924,
+          "length": 24,
+          "key": 4052389992,
+          "original": "一緒にいられました……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0061",
+      "context": {
+        "voice": "GC110028.ogg"
+      },
+      "original": "朝はふたりでおもいっきり寝坊して……。",
+      "translation": "아침엔 둘이서 푹 늦잠을 자고…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11020,
+          "length": 38,
+          "key": 4052389992,
+          "original": "朝はふたりでおもいっきり寝坊して……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0062",
+      "context": {
+        "voice": "GC110029.ogg"
+      },
+      "original": "リゾートに目覚まし時計なんか必要ない、ってタクトさん言ってましたっけ。",
+      "translation": "리조트에는 알람 시계 같은 건 필요 없다, 라고 택트 씨가 말했었죠.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11172,
+          "length": 40,
+          "key": 4052389992,
+          "original": "リゾートに目覚まし時計なんか必要ない、っ"
+        },
+        {
+          "offset": 11220,
+          "length": 30,
+          "key": 4052389992,
+          "original": "てタクトさん言ってましたっけ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0063",
+      "context": {
+        "voice": "GC110029.ogg"
+      },
+      "original": "昼はふたりで、色々歩き回って……。",
+      "translation": "낮에는 둘이서 이곳저곳을…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11324,
+          "length": 34,
+          "key": 4052389992,
+          "original": "昼はふたりで、色々歩き回って……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0064",
+      "context": {
+        "voice": "GC110030.ogg"
+      },
+      "original": "行く場所も決めずに、足の向くまま気の向くまま、どこまでも。",
+      "translation": "목적지도 없이, 발길 닿는 대로, 마음 가는 대로, 어디까지나.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11472,
+          "length": 40,
+          "key": 4052389992,
+          "original": "行く場所も決めずに、足の向くまま気の向く"
+        },
+        {
+          "offset": 11520,
+          "length": 18,
+          "key": 4052389992,
+          "original": "まま、どこまでも。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0065",
+      "context": {
+        "voice": "GC110030.ogg"
+      },
+      "original": "夜は、お待ちかねのミルフィーの豪華なディナータイムで。",
+      "translation": "밤에는 기다리던 밀피의 호화로운 디너 타임으로.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11612,
+          "length": 40,
+          "key": 4052389992,
+          "original": "夜は、お待ちかねのミルフィーの豪華なディ"
+        },
+        {
+          "offset": 11660,
+          "length": 14,
+          "key": 4052389992,
+          "original": "ナータイムで。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0066",
+      "context": {
+        "voice": "GC110031.ogg"
+      },
+      "original": "タクトさんが、こ～んな大きなお魚さんを釣ってきてくれましたから。",
+      "translation": "택트 씨가, 이～렇게 커다란 물고기를 낚아다 주셨으니까요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11788,
+          "length": 42,
+          "key": 4052389992,
+          "original": "タクトさんが、こ～んな大きなお魚さんを釣っ"
+        },
+        {
+          "offset": 11840,
+          "length": 22,
+          "key": 4052389992,
+          "original": "てきてくれましたから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0067",
+      "context": {
+        "voice": "GC110031.ogg"
+      },
+      "original": "一日中、何も考えず、ただふたりで思うままに過ごした休暇……。",
+      "translation": "하루 종일 아무 생각 없이, 그저 둘이서 보낸 휴가…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11936,
+          "length": 40,
+          "key": 4052389992,
+          "original": "一日中、何も考えず、ただふたりで思うまま"
+        },
+        {
+          "offset": 11984,
+          "length": 20,
+          "key": 4052389992,
+          "original": "に過ごした休暇……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0068",
+      "context": {
+        "voice": "GC110032.ogg"
+      },
+      "original": "とっても、幸せでした……。",
+      "translation": "정말, 행복했어요…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12116,
+          "length": 26,
+          "key": 4052389992,
+          "original": "とっても、幸せでした……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0069",
+      "context": {
+        "voice": "GC110032.ogg"
+      },
+      "original": "あっ、この教会覚えてるぞ。",
+      "translation": "앗, 이 교회 기억나.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12288,
+          "length": 26,
+          "key": 4052389992,
+          "original": "あっ、この教会覚えてるぞ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0070",
+      "context": {
+        "voice": "GC110033.ogg"
+      },
+      "original": "あ、あああっ。",
+      "translation": "아, 아아악.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12428,
+          "length": 14,
+          "key": 4052389992,
+          "original": "あ、あああっ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0071",
+      "context": {
+        "voice": "GC110033.ogg"
+      },
+      "original": "散歩の途中で見かけた小さく可愛い真っ白な教会……ミルフィーってば、そこの前を動こうとしなかったもんなあ。",
+      "translation": "산책 도중에 봤던 작고 귀여운 새하얀 교회…… 밀피 말이야, 거기 앞을 지나가려 하지 않았었지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12516,
+          "length": 40,
+          "key": 4052389992,
+          "original": "散歩の途中で見かけた小さく可愛い真っ白な"
+        },
+        {
+          "offset": 12564,
+          "length": 40,
+          "key": 4052389992,
+          "original": "教会……ミルフィーってば、そこの前を動こ"
+        },
+        {
+          "offset": 12612,
+          "length": 24,
+          "key": 4052389992,
+          "original": "うとしなかったもんなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0072",
+      "context": {
+        "voice": "GC110034.ogg"
+      },
+      "original": "だ、だって、結婚式を挙げてるお嫁さんがすっごく綺麗だったんですよ。",
+      "translation": "그, 그치만, 결혼식을 올리는 신부가 엄청나게 예뻤단 말이에요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12796,
+          "length": 42,
+          "key": 4052389992,
+          "original": "だ、だって、結婚式を挙げてるお嫁さんがすっ"
+        },
+        {
+          "offset": 12848,
+          "length": 24,
+          "key": 4052389992,
+          "original": "ごく綺麗だったんですよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0073",
+      "context": {
+        "voice": "GC110034.ogg"
+      },
+      "original": "そうそう、それで、花嫁さんが投げたブーケを取ることができず、本気で悔しがってたよね。目に涙まで浮かべてさ。",
+      "translation": "맞아 맞아, 그래서 신부가 던진 부케를 잡지 못해서 진심으로 분해했었지. 눈에 눈물까지 맺혀서 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12944,
+          "length": 40,
+          "key": 4052389992,
+          "original": "そうそう、それで、花嫁さんが投げたブーケ"
+        },
+        {
+          "offset": 12992,
+          "length": 40,
+          "key": 4052389992,
+          "original": "を取ることができず、本気で悔しがってたよ"
+        },
+        {
+          "offset": 13040,
+          "length": 26,
+          "key": 4052389992,
+          "original": "ね。目に涙まで浮かべてさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0074",
+      "context": {
+        "voice": "GC110035.ogg"
+      },
+      "original": "わー！　わーわー！　そういうこと言っちゃダメですよ～！",
+      "translation": "와～！ 와아～！ 그런 말 하면 안 돼요～！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13180,
+          "length": 40,
+          "key": 4052389992,
+          "original": "わー！　わーわー！　そういうこと言っちゃ"
+        },
+        {
+          "offset": 13228,
+          "length": 14,
+          "key": 4052389992,
+          "original": "ダメですよ～！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0075",
+      "context": {
+        "voice": "GC110036.ogg"
+      },
+      "original": "……仕方ないじゃないですか。本当に、欲しかったんですから……。",
+      "translation": "……어쩔 수 없잖아요. 정말로, 갖고 싶었단 말이에요…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13356,
+          "length": 40,
+          "key": 4052389992,
+          "original": "……仕方ないじゃないですか。本当に、欲し"
+        },
+        {
+          "offset": 13404,
+          "length": 22,
+          "key": 4052389992,
+          "original": "かったんですから……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0076",
+      "context": {
+        "voice": "GC110036.ogg"
+      },
+      "original": "ふ～ん、ブーケぐらいなら、オレがいくらでも贈るんだけどな。",
+      "translation": "흐음, 부케 정도라면 내가 얼마든지 줄 텐데 말이지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13500,
+          "length": 40,
+          "key": 4052389992,
+          "original": "ふ～ん、ブーケぐらいなら、オレがいくらで"
+        },
+        {
+          "offset": 13548,
+          "length": 18,
+          "key": 4052389992,
+          "original": "も贈るんだけどな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0077",
+      "context": {
+        "voice": "GC110037.ogg"
+      },
+      "original": "……え？",
+      "translation": "……에？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13680,
+          "length": 8,
+          "key": 4052389992,
+          "original": "……え？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0078",
+      "context": {
+        "voice": "GC110037.ogg"
+      },
+      "original": "……あっ。",
+      "translation": "……앗.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13760,
+          "length": 10,
+          "key": 4052389992,
+          "original": "……あっ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0079",
+      "context": {
+        "voice": "GC110040.ogg"
+      },
+      "original": "あ、あの、ミルフィー……。",
+      "translation": "저, 저기, 밀피…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14444,
+          "length": 26,
+          "key": 4052389992,
+          "original": "あ、あの、ミルフィー……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0080",
+      "context": {
+        "voice": "GC110041.ogg"
+      },
+      "original": "ああっ！",
+      "translation": "아앗！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14716,
+          "length": 8,
+          "key": 4052389992,
+          "original": "ああっ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0081",
+      "context": {
+        "voice": "GC110041.ogg"
+      },
+      "original": "うわっ！？　な、なに……？",
+      "translation": "우왓！？ 뭐, 뭐야……？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14796,
+          "length": 26,
+          "key": 4052389992,
+          "original": "うわっ！？　な、なに……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0082",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "タクトさん、コーヒーがもう冷めてます！あたし、淹れなおしてきますね！",
+      "translation": "택트 씨, 커피가 벌써 식었어요！ 저, 다시 타올게요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14972,
+          "length": 38,
+          "key": 4052389992,
+          "original": "タクトさん、コーヒーがもう冷めてます！"
+        },
+        {
+          "offset": 15020,
+          "length": 30,
+          "key": 4052389992,
+          "original": "あたし、淹れなおしてきますね！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0083",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "う、うん、ありがとう……。",
+      "translation": "으, 응, 고마워…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15124,
+          "length": 26,
+          "key": 4052389992,
+          "original": "う、うん、ありがとう……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0084",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "いけない……突然すぎたか……。",
+      "translation": "안 돼……너무갑작스러웠나…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15352,
+          "length": 30,
+          "key": 4052389992,
+          "original": "いけない……突然すぎたか……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0085",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "今回の任務のせいで、少し気が急いてるみたいだな……。よし、のんびりといこう。",
+      "translation": "이번 임무 때문에 조금 마음이 급해진 모양이군……. 좋아, 느긋하게 가자.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15456,
+          "length": 40,
+          "key": 4052389992,
+          "original": "今回の任務のせいで、少し気が急いてるみた"
+        },
+        {
+          "offset": 15504,
+          "length": 12,
+          "key": 4052389992,
+          "original": "いだな……。"
+        },
+        {
+          "offset": 15524,
+          "length": 24,
+          "key": 4052389992,
+          "original": "よし、のんびりといこう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0086",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "さて、ミルフィーが戻ってくるまでアルバムの続きでも……。",
+      "translation": "자, 밀피가 돌아올 때까지 앨범이나 계속 읽을까…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15620,
+          "length": 40,
+          "key": 4052389992,
+          "original": "さて、ミルフィーが戻ってくるまでアルバム"
+        },
+        {
+          "offset": 15668,
+          "length": 16,
+          "key": 4052389992,
+          "original": "の続きでも……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0087",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "うわっ。オレ、こんな写真撮られてたのか。恥ずかしいなあ。",
+      "translation": "우와. 나, 이런 사진 찍혀 있었나. 부끄럽네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15756,
+          "length": 40,
+          "key": 4052389992,
+          "original": "うわっ。オレ、こんな写真撮られてたのか。"
+        },
+        {
+          "offset": 15804,
+          "length": 16,
+          "key": 4052389992,
+          "original": "恥ずかしいなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0088",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "あっ、このミルフィー可愛い。オレの部屋にも飾っておきたいな。",
+      "translation": "앗, 이 밀피 귀엽다. 내 방에도 장식해 두고 싶어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15928,
+          "length": 40,
+          "key": 4052389992,
+          "original": "あっ、このミルフィー可愛い。オレの部屋に"
+        },
+        {
+          "offset": 15976,
+          "length": 20,
+          "key": 4052389992,
+          "original": "も飾っておきたいな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0089",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "ふわあああ……。",
+      "translation": "후아아아…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16400,
+          "length": 16,
+          "key": 4052389992,
+          "original": "ふわあああ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0090",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "しまった……。緊張がほぐれたら、またなんか眠気が……。",
+      "translation": "아차…… 긴장이 풀리니까 다시 졸음이…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16488,
+          "length": 40,
+          "key": 4052389992,
+          "original": "しまった……。緊張がほぐれたら、またなん"
+        },
+        {
+          "offset": 16536,
+          "length": 14,
+          "key": 4052389992,
+          "original": "か眠気が……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0091",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "ダメ……だってば……ふあ……。",
+      "translation": "안 된다니까…… 후아…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16624,
+          "length": 30,
+          "key": 4052389992,
+          "original": "ダメ……だってば……ふあ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0092",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "悪夢からの目覚め",
+      "translation": "악몽에서의깨어남",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16736,
+          "length": 16,
+          "key": 1162054219,
+          "original": "悪夢からの目覚め"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0093",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "うわあっ！！",
+      "translation": "우와앗！！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16924,
+          "length": 12,
+          "key": 1162054219,
+          "original": "うわあっ！！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0094",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "はあ……はあ……。",
+      "translation": "하아…… 하아…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17072,
+          "length": 18,
+          "key": 1162054219,
+          "original": "はあ……はあ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0095",
+      "context": {
+        "voice": "GC110042.ogg"
+      },
+      "original": "……こ……ここは……。",
+      "translation": "……여…… 여기는…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17164,
+          "length": 22,
+          "key": 1162054219,
+          "original": "……こ……ここは……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0096",
+      "context": {
+        "voice": "GC110100.ogg"
+      },
+      "original": "……大丈夫ですか、タクトさん？",
+      "translation": "……괜찮으세요, 택트 씨？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17336,
+          "length": 30,
+          "key": 1162054219,
+          "original": "……大丈夫ですか、タクトさん？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0097",
+      "context": {
+        "voice": "GC110100.ogg"
+      },
+      "original": "ミル……フィー……。",
+      "translation": "밀……피…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17440,
+          "length": 20,
+          "key": 1162054219,
+          "original": "ミル……フィー……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0098",
+      "context": {
+        "voice": "GC110101.ogg"
+      },
+      "original": "最初は気持ちよさそうに眠ってたのに、急にうなされるんですから……。びっくりしちゃいました。",
+      "translation": "처음에는 기분 좋게 잠들어 있었는데, 갑자기 괴로워하시니까…… 깜짝 놀랐어요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17608,
+          "length": 40,
+          "key": 1162054219,
+          "original": "最初は気持ちよさそうに眠ってたのに、急に"
+        },
+        {
+          "offset": 17656,
+          "length": 40,
+          "key": 1162054219,
+          "original": "うなされるんですから……。びっくりしちゃ"
+        },
+        {
+          "offset": 17704,
+          "length": 10,
+          "key": 1162054219,
+          "original": "いました。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0099",
+      "context": {
+        "voice": "GC110102.ogg"
+      },
+      "original": "あの……あたしの膝枕って、うなされるほど固かったりしました？",
+      "translation": "저기…… 제 무릎베개, 괴로워할 정도로 딱딱했나요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17864,
+          "length": 40,
+          "key": 1162054219,
+          "original": "あの……あたしの膝枕って、うなされるほど"
+        },
+        {
+          "offset": 17912,
+          "length": 20,
+          "key": 1162054219,
+          "original": "固かったりしました？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0100",
+      "context": {
+        "voice": "GC110102.ogg"
+      },
+      "original": "ミルフィーの……部屋……。",
+      "translation": "밀피의…… 방…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18004,
+          "length": 26,
+          "key": 1162054219,
+          "original": "ミルフィーの……部屋……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0101",
+      "context": {
+        "voice": "GC110103.ogg"
+      },
+      "original": "どうしたんですか、タクトさん？　怖い夢でも見ちゃったんですか？",
+      "translation": "왜 그러세요, 택트 씨？ 무서운 꿈이라도 꾸신 건가요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18180,
+          "length": 40,
+          "key": 1162054219,
+          "original": "どうしたんですか、タクトさん？　怖い夢で"
+        },
+        {
+          "offset": 18228,
+          "length": 22,
+          "key": 1162054219,
+          "original": "も見ちゃったんですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0102",
+      "context": {
+        "voice": "GC110103.ogg"
+      },
+      "original": "ミルフィー……。",
+      "translation": "밀피…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18324,
+          "length": 16,
+          "key": 1162054219,
+          "original": "ミルフィー……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0103",
+      "context": {
+        "voice": "GC110104a.ogg"
+      },
+      "original": "はい？",
+      "translation": "네？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18456,
+          "length": 6,
+          "key": 1162054219,
+          "original": "はい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0104",
+      "context": {
+        "voice": "GC110104b.ogg"
+      },
+      "original": "……きゃっ！",
+      "translation": "……꺄악！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18668,
+          "length": 12,
+          "key": 1162054219,
+          "original": "……きゃっ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0105",
+      "context": {
+        "voice": "GC110105.ogg"
+      },
+      "original": "きゅ、急に抱きつくなんて、どうしたんですかタクトさん！？　ちょっと苦しいですよ～。",
+      "translation": "갑, 갑자기 껴안으시다니, 왜 그러세요 택트 씨！？ 좀 답답해요～.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18836,
+          "length": 40,
+          "key": 1162054219,
+          "original": "きゅ、急に抱きつくなんて、どうしたんです"
+        },
+        {
+          "offset": 18884,
+          "length": 42,
+          "key": 1162054219,
+          "original": "かタクトさん！？　ちょっと苦しいですよ～。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0106",
+      "context": {
+        "voice": "GC110105.ogg"
+      },
+      "original": "よかった……。",
+      "translation": "다행이다…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19000,
+          "length": 14,
+          "key": 1162054219,
+          "original": "よかった……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0107",
+      "context": {
+        "voice": "GC110106.ogg"
+      },
+      "original": "タクト……さん……？",
+      "translation": "택트…… 씨……？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19128,
+          "length": 20,
+          "key": 1162054219,
+          "original": "タクト……さん……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0108",
+      "context": {
+        "voice": "GC110106.ogg"
+      },
+      "original": "よかった……ミルフィーは、ここにいる……ここにいるんだ……。",
+      "translation": "다행이다…… 밀피는, 여기 있어…… 여기에 있는 거야…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19220,
+          "length": 40,
+          "key": 1162054219,
+          "original": "よかった……ミルフィーは、ここにいる……"
+        },
+        {
+          "offset": 19268,
+          "length": 20,
+          "key": 1162054219,
+          "original": "ここにいるんだ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0109",
+      "context": {
+        "voice": "GC110108.ogg"
+      },
+      "original": "うふふふふ。もう、しょうがないなあ。タクトさん、意外に甘えんぼさんなんですから。",
+      "translation": "우후후후후. 정말이지, 어쩔 수 없다니까요. 택트 씨, 의외로 응석받이라니까요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19564,
+          "length": 40,
+          "key": 1162054219,
+          "original": "うふふふふ。もう、しょうがないなあ。タク"
+        },
+        {
+          "offset": 19612,
+          "length": 40,
+          "key": 1162054219,
+          "original": "トさん、意外に甘えんぼさんなんですから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0110",
+      "context": {
+        "voice": "GC110108.ogg"
+      },
+      "original": "……ねえ、ミルフィー。",
+      "translation": "……있지, 밀피.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19820,
+          "length": 22,
+          "key": 1162054219,
+          "original": "……ねえ、ミルフィー。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0111",
+      "context": {
+        "voice": "GC110109.ogg"
+      },
+      "original": "はい？　なんですか？",
+      "translation": "네？ 뭔데요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19956,
+          "length": 20,
+          "key": 1162054219,
+          "original": "はい？　なんですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0112",
+      "context": {
+        "voice": "GC110109.ogg"
+      },
+      "original": "何を……やってるのかな？",
+      "translation": "뭘…… 하고 있는 걸까？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20048,
+          "length": 24,
+          "key": 1162054219,
+          "original": "何を……やってるのかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0113",
+      "context": {
+        "voice": "GC110110.ogg"
+      },
+      "original": "タクトさんの頭を、ナデナデしてあげてるんです。",
+      "translation": "택트 씨의 머리를, 쓰담쓰담 해주고 있어요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20184,
+          "length": 40,
+          "key": 1162054219,
+          "original": "タクトさんの頭を、ナデナデしてあげてるん"
+        },
+        {
+          "offset": 20232,
+          "length": 6,
+          "key": 1162054219,
+          "original": "です。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0114",
+      "context": {
+        "voice": "GC110111.ogg"
+      },
+      "original": "小さい頃あたしも、お母さんにこうしてもらった覚えがあるんです。そして、こう言うんです。",
+      "translation": "어릴 적 저도 어머니가 이렇게 해주셨던 기억이 나요. 그리고, 이렇게 말하죠.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20352,
+          "length": 42,
+          "key": 1162054219,
+          "original": "小さい頃あたしも、お母さんにこうしてもらっ"
+        },
+        {
+          "offset": 20404,
+          "length": 40,
+          "key": 1162054219,
+          "original": "た覚えがあるんです。そして、こう言うんで"
+        },
+        {
+          "offset": 20452,
+          "length": 4,
+          "key": 1162054219,
+          "original": "す。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0115",
+      "context": {
+        "voice": "GC110112.ogg"
+      },
+      "original": "怖いの怖いの、とんでけ～。……どうですか？怖いの、どっかに行っちゃいました？",
+      "translation": "무서운 거 무서운 거, 날아가라～…… 어때요？ 무서움이 어디론가 가버렸나요？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20568,
+          "length": 42,
+          "key": 1162054219,
+          "original": "怖いの怖いの、とんでけ～。……どうですか？"
+        },
+        {
+          "offset": 20620,
+          "length": 34,
+          "key": 1162054219,
+          "original": "怖いの、どっかに行っちゃいました？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0116",
+      "context": {
+        "voice": "GC110113.ogg"
+      },
+      "original": "あれ？　どうしたんですか？",
+      "translation": "어라？ 왜 그러세요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20952,
+          "length": 26,
+          "key": 1162054219,
+          "original": "あれ？　どうしたんですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0117",
+      "context": {
+        "voice": "GC110113.ogg"
+      },
+      "original": "選択肢・怖いの怖いの、とんでけ～……？",
+      "translation": "선택지・무서운거무서운거날아가라～…？",
+      "state": "compacted",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21000,
+          "length": 38,
+          "key": 1162054219,
+          "original": "選択肢・怖いの怖いの、とんでけ～……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0118",
+      "context": {
+        "voice": "GC110113.ogg"
+      },
+      "original": "ミルフィー、それを言うなら……。",
+      "translation": "밀피, 그걸 말하려면…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21112,
+          "length": 32,
+          "key": 1162054219,
+          "original": "ミルフィー、それを言うなら……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0119",
+      "context": {
+        "voice": "GC110113.ogg"
+      },
+      "original": "痛いの痛いのとんでけ～、だろ？",
+      "translation": "아픈 건아픈거날아가라～,맞지？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21272,
+          "length": 30,
+          "key": 1162054219,
+          "original": "痛いの痛いのとんでけ～、だろ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0120",
+      "context": {
+        "voice": "GC110200.ogg"
+      },
+      "original": "……ああっ！　た、確かにそうでした！　あたし、間違えちゃいました！　ど、どうしよう……。",
+      "translation": "……아앗！ 하, 확실히 그랬어요！ 제가 틀렸어요！ 어, 어쩌지…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21452,
+          "length": 40,
+          "key": 1162054219,
+          "original": "……ああっ！　た、確かにそうでした！　あ"
+        },
+        {
+          "offset": 21500,
+          "length": 40,
+          "key": 1162054219,
+          "original": "たし、間違えちゃいました！　ど、どうしよ"
+        },
+        {
+          "offset": 21548,
+          "length": 8,
+          "key": 1162054219,
+          "original": "う……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0121",
+      "context": {
+        "voice": "GC110200.ogg"
+      },
+      "original": "……ぷっ。あはははははは。",
+      "translation": "……풋. 아하하하하하하.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21628,
+          "length": 26,
+          "key": 1162054219,
+          "original": "……ぷっ。あはははははは。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0122",
+      "context": {
+        "voice": "GC110201.ogg"
+      },
+      "original": "あ～、笑うなんてひどいですよ～。",
+      "translation": "아～, 웃다니 너무해요～.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21804,
+          "length": 32,
+          "key": 1162054219,
+          "original": "あ～、笑うなんてひどいですよ～。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0123",
+      "context": {
+        "voice": "GC110201.ogg"
+      },
+      "original": "ごめんごめん、ミルフィー。でも、よく効いたよ。ありがとう。",
+      "translation": "미안 미안, 밀피. 그래도, 아주 잘 들었어. 고마워.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21908,
+          "length": 26,
+          "key": 1162054219,
+          "original": "ごめんごめん、ミルフィー。"
+        },
+        {
+          "offset": 21944,
+          "length": 32,
+          "key": 1162054219,
+          "original": "でも、よく効いたよ。ありがとう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0124",
+      "context": {
+        "voice": "GC110202.ogg"
+      },
+      "original": "あはっ。それならよかったです～。",
+      "translation": "아핫. 그렇다면 다행이에요～.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22168,
+          "length": 32,
+          "key": 1162054219,
+          "original": "あはっ。それならよかったです～。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0125",
+      "context": {
+        "voice": "GC110202.ogg"
+      },
+      "original": "あ～、その……悪かったね、ミルフィー。急に、抱きついちゃったりして……。",
+      "translation": "아～, 그게…… 미안해, 밀피. 갑자기 껴안거나 해서…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22272,
+          "length": 40,
+          "key": 1162054219,
+          "original": "あ～、その……悪かったね、ミルフィー。急"
+        },
+        {
+          "offset": 22320,
+          "length": 32,
+          "key": 1162054219,
+          "original": "に、抱きついちゃったりして……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0126",
+      "context": {
+        "voice": "GC110203.ogg"
+      },
+      "original": "そんなことないですよ。ちょっと驚いちゃったけど……可愛いタクトさんを見ることができて嬉しかったです。",
+      "translation": "그렇지 않아요. 조금 놀라긴 했지만…… 귀여운 택트 씨를 볼 수 있어서 기뻤어요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22500,
+          "length": 40,
+          "key": 1162054219,
+          "original": "そんなことないですよ。ちょっと驚いちゃっ"
+        },
+        {
+          "offset": 22548,
+          "length": 40,
+          "key": 1162054219,
+          "original": "たけど……可愛いタクトさんを見ることがで"
+        },
+        {
+          "offset": 22596,
+          "length": 20,
+          "key": 1162054219,
+          "original": "きて嬉しかったです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0127",
+      "context": {
+        "voice": "GC110203.ogg"
+      },
+      "original": "男に対して可愛いは褒め言葉じゃないよ、ミルフィー。",
+      "translation": "남자한테 귀엽다는 건 칭찬이 아니야, 밀피.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22688,
+          "length": 40,
+          "key": 1162054219,
+          "original": "男に対して可愛いは褒め言葉じゃないよ、ミ"
+        },
+        {
+          "offset": 22736,
+          "length": 10,
+          "key": 1162054219,
+          "original": "ルフィー。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0128",
+      "context": {
+        "voice": "GC110204.ogg"
+      },
+      "original": "そうですか？",
+      "translation": "그래요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22896,
+          "length": 12,
+          "key": 1162054219,
+          "original": "そうですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0129",
+      "context": {
+        "voice": "GC110204.ogg"
+      },
+      "original": "そうさ。だいたい、ミルフィーの方がもっと可愛い。",
+      "translation": "그렇다니까. 애초에 밀피가 훨씬 더 귀여워.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22980,
+          "length": 40,
+          "key": 1162054219,
+          "original": "そうさ。だいたい、ミルフィーの方がもっと"
+        },
+        {
+          "offset": 23028,
+          "length": 8,
+          "key": 1162054219,
+          "original": "可愛い。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0130",
+      "context": {
+        "voice": "GC110205.ogg"
+      },
+      "original": "……へ？　や、やだ、もう、タクトさんってば。からかわないでください～。",
+      "translation": "……헤？ 아, 안 돼, 정말이지 택트 씨도 참. 놀리지 마세요～.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23184,
+          "length": 40,
+          "key": 1162054219,
+          "original": "……へ？　や、やだ、もう、タクトさんって"
+        },
+        {
+          "offset": 23232,
+          "length": 30,
+          "key": 1162054219,
+          "original": "ば。からかわないでください～。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0131",
+      "context": {
+        "voice": "GC110205.ogg"
+      },
+      "original": "ははははは。",
+      "translation": "하하하하하.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23336,
+          "length": 12,
+          "key": 1162054219,
+          "original": "ははははは。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0132",
+      "context": {
+        "voice": "GC110206.ogg"
+      },
+      "original": "もうっ、意地悪なんですから。",
+      "translation": "정말, 심술쟁이라니까요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23496,
+          "length": 28,
+          "key": 1162054219,
+          "original": "もうっ、意地悪なんですから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0133",
+      "context": {
+        "voice": "GC110206.ogg"
+      },
+      "original": "悪い子はいねえが～！　だろ？",
+      "translation": "나쁜 아이는 없지～！ 그치？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23604,
+          "length": 28,
+          "key": 1162054219,
+          "original": "悪い子はいねえが～！　だろ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0134",
+      "context": {
+        "voice": "GC110207.ogg"
+      },
+      "original": "えっ？　な、なんですかそれ？",
+      "translation": "엣？ 무, 뭔데요 그게？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23780,
+          "length": 28,
+          "key": 1162054219,
+          "original": "えっ？　な、なんですかそれ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0135",
+      "context": {
+        "voice": "GC110207.ogg"
+      },
+      "original": "あれ、知らない？　惑星オーガに伝わる風習なんだけど。",
+      "translation": "어라, 몰라？ 행성 오가에 전해지는 풍습인데.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23880,
+          "length": 40,
+          "key": 1162054219,
+          "original": "あれ、知らない？　惑星オーガに伝わる風習"
+        },
+        {
+          "offset": 23928,
+          "length": 12,
+          "key": 1162054219,
+          "original": "なんだけど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0136",
+      "context": {
+        "voice": "GC110207.ogg"
+      },
+      "original": "子供がいる家に、怪物のお面をかぶった人がやって来て、「悪い子はいねえが～！」っておどかすんだ。",
+      "translation": "아이들이 있는 집에 괴물 가면을 쓴 사람이 찾아와서, 「나쁜 아이는 없지～！」 하고 겁주는 거야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24012,
+          "length": 40,
+          "key": 1162054219,
+          "original": "子供がいる家に、怪物のお面をかぶった人が"
+        },
+        {
+          "offset": 24060,
+          "length": 40,
+          "key": 1162054219,
+          "original": "やって来て、「悪い子はいねえが～！」って"
+        },
+        {
+          "offset": 24108,
+          "length": 14,
+          "key": 1162054219,
+          "original": "おどかすんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0137",
+      "context": {
+        "voice": "GC110208.ogg"
+      },
+      "original": "ああ！　それ、テレビで見たことあります！もう、子供がわんわん泣いちゃうんですよね。あたしも目の前で見たら泣いちゃうかも。",
+      "translation": "아아！ 그거 TV에서 본 적 있어요！ 정말이지, 아이들이 엉엉 울어버리잖아요. 저도 눈앞에서 보면 울지도 몰라요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24272,
+          "length": 40,
+          "key": 1162054219,
+          "original": "ああ！　それ、テレビで見たことあります！"
+        },
+        {
+          "offset": 24320,
+          "length": 42,
+          "key": 1162054219,
+          "original": "もう、子供がわんわん泣いちゃうんですよね。"
+        },
+        {
+          "offset": 24372,
+          "length": 38,
+          "key": 1162054219,
+          "original": "あたしも目の前で見たら泣いちゃうかも。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0138",
+      "context": {
+        "voice": "GC110209.ogg"
+      },
+      "original": "……でも、それも違うと思いますよ？",
+      "translation": "……하지만, 그것도 아닌 것같아요？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24560,
+          "length": 34,
+          "key": 1162054219,
+          "original": "……でも、それも違うと思いますよ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0139",
+      "context": {
+        "voice": "GC110209.ogg"
+      },
+      "original": "あれ？　そうだったかな？",
+      "translation": "어라？ 그랬던가？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24668,
+          "length": 24,
+          "key": 1162054219,
+          "original": "あれ？　そうだったかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0140",
+      "context": {
+        "voice": "GC110210.ogg"
+      },
+      "original": "そうですよお。タクトさんってば、けっこう大ボケさんですね。",
+      "translation": "그렇다니까요. 택트 씨는 꽤 허당이라니까요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24840,
+          "length": 40,
+          "key": 1162054219,
+          "original": "そうですよお。タクトさんってば、けっこう"
+        },
+        {
+          "offset": 24888,
+          "length": 18,
+          "key": 1162054219,
+          "original": "大ボケさんですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0141",
+      "context": {
+        "voice": "GC110210.ogg"
+      },
+      "original": "ううっ、ミルフィーにそう言われるとは思わなかった……。",
+      "translation": "으윽, 밀피한테 그런 말을 들을 줄이야…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24980,
+          "length": 40,
+          "key": 1162054219,
+          "original": "ううっ、ミルフィーにそう言われるとは思わ"
+        },
+        {
+          "offset": 25028,
+          "length": 14,
+          "key": 1162054219,
+          "original": "なかった……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0142",
+      "context": {
+        "voice": "GC110210.ogg"
+      },
+      "original": "休息の終わり",
+      "translation": "휴식의 끝\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25064,
+          "length": 12,
+          "key": 1162054219,
+          "original": "休息の終わり"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0143",
+      "context": {
+        "voice": "GC110211.ogg"
+      },
+      "original": "……ところで、どんな夢を見てたんですか？タクトさんがあんなに怖がるなんて……。",
+      "translation": "……그런데, 어떤 꿈을 꾸고 있었던 거예요？ 택트 씨가 그렇게 무서워하다니…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25224,
+          "length": 40,
+          "key": 1162054219,
+          "original": "……ところで、どんな夢を見てたんですか？"
+        },
+        {
+          "offset": 25272,
+          "length": 38,
+          "key": 1162054219,
+          "original": "タクトさんがあんなに怖がるなんて……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0144",
+      "context": {
+        "voice": "GC110211.ogg"
+      },
+      "original": "ん……。",
+      "translation": "음…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25384,
+          "length": 8,
+          "key": 1162054219,
+          "original": "ん……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0145",
+      "context": {
+        "voice": "GC110211.ogg"
+      },
+      "original": "……そうだね、この世で一番怖いものを見たよ。でも……ミルフィーには内緒。",
+      "translation": "…그렇네, 이 세상에서 가장 무서운 걸 봤어. 하지만…… 밀피한테는 비밀.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25464,
+          "length": 40,
+          "key": 1162054219,
+          "original": "……そうだね、この世で一番怖いものを見た"
+        },
+        {
+          "offset": 25512,
+          "length": 32,
+          "key": 1162054219,
+          "original": "よ。でも……ミルフィーには内緒。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0146",
+      "context": {
+        "voice": "GC110212.ogg"
+      },
+      "original": "あ～、そんなのずるいです～。",
+      "translation": "아～, 그런 건 치사해요～.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25692,
+          "length": 28,
+          "key": 1162054219,
+          "original": "あ～、そんなのずるいです～。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0147",
+      "context": {
+        "voice": "GC110213.ogg"
+      },
+      "original": "いつまでそこにいるつもりだ、タクト。もうとっくに休憩時間は終わりだ。さっさとブリッジに戻れ。",
+      "translation": "언제까지 거기 있을 셈이냐, 택트. 벌써 한참 전에 휴식 시간은 끝났다. 얼른 함교로 돌아가라.\n",
+      "state": "reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26000,
+          "length": 36,
+          "key": 1162054219,
+          "original": "いつまでそこにいるつもりだ、タクト。"
+        },
+        {
+          "offset": 26044,
+          "length": 40,
+          "key": 1162054219,
+          "original": "もうとっくに休憩時間は終わりだ。さっさと"
+        },
+        {
+          "offset": 26092,
+          "length": 16,
+          "key": 1162054219,
+          "original": "ブリッジに戻れ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0148",
+      "context": {
+        "voice": "GC110213.ogg"
+      },
+      "original": "残念、ここまでか。せっかく時間を作ったってのに、途中で眠っちゃってごめんね、ミルフィー。",
+      "translation": "아쉽네, 여기까지인가. 어렵게 시간을 냈는데 도중에 잠들어버려서 미안해, 밀피.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26208,
+          "length": 40,
+          "key": 1162054219,
+          "original": "残念、ここまでか。せっかく時間を作ったっ"
+        },
+        {
+          "offset": 26256,
+          "length": 40,
+          "key": 1162054219,
+          "original": "てのに、途中で眠っちゃってごめんね、ミル"
+        },
+        {
+          "offset": 26304,
+          "length": 8,
+          "key": 1162054219,
+          "original": "フィー。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0149",
+      "context": {
+        "voice": "GC110214.ogg"
+      },
+      "original": "いいんですよ。タクトさんが司令官のお仕事で忙しいってことは、もうずっとわかってますから。",
+      "translation": "괜찮아요. 택트 씨가 사령관 업무로 바쁘다는 건 이미 오래전부터 알고 있었으니까요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26460,
+          "length": 40,
+          "key": 1162054219,
+          "original": "いいんですよ。タクトさんが司令官のお仕事"
+        },
+        {
+          "offset": 26508,
+          "length": 40,
+          "key": 1162054219,
+          "original": "で忙しいってことは、もうずっとわかってま"
+        },
+        {
+          "offset": 26556,
+          "length": 8,
+          "key": 1162054219,
+          "original": "すから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0150",
+      "context": {
+        "voice": "GC110215.ogg"
+      },
+      "original": "タクトさんは、あたしだけのタクトさんじゃないことも……。",
+      "translation": "택트 씨는, 저만의 택트 씨가 아니라는 것도…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26712,
+          "length": 40,
+          "key": 1162054219,
+          "original": "タクトさんは、あたしだけのタクトさんじゃ"
+        },
+        {
+          "offset": 26760,
+          "length": 16,
+          "key": 1162054219,
+          "original": "ないことも……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0151",
+      "context": {
+        "voice": "GC110215.ogg"
+      },
+      "original": "ミルフィー……。",
+      "translation": "밀피…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26848,
+          "length": 16,
+          "key": 1162054219,
+          "original": "ミルフィー……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0152",
+      "context": {
+        "voice": "GC110215.ogg"
+      },
+      "original": "チュッ★",
+      "translation": "쪽★\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27120,
+          "length": 8,
+          "key": 1162054219,
+          "original": "チュッ★"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0153",
+      "context": {
+        "voice": "GC110216.ogg"
+      },
+      "original": "わ、わわわ！",
+      "translation": "와, 와와와！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27344,
+          "length": 12,
+          "key": 1162054219,
+          "original": "わ、わわわ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0154",
+      "context": {
+        "voice": "GC110216.ogg"
+      },
+      "original": "オレは、全部ミルフィーのものだよ。",
+      "translation": "나는 전부 밀피의 것이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27428,
+          "length": 34,
+          "key": 1162054219,
+          "original": "オレは、全部ミルフィーのものだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0155",
+      "context": {
+        "voice": "GC110217.ogg"
+      },
+      "original": "…………………………はい。",
+      "translation": "…………………………네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27612,
+          "length": 26,
+          "key": 1162054219,
+          "original": "…………………………はい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0000c000:isb:0156",
+      "context": {
+        "voice": "GC110217.ogg"
+      },
+      "original": "うん。じゃあ、また。あと……いろいろありがとう、ミルフィー。",
+      "translation": "응. 그럼, 나중에 봐. 그리고…… 여러 가지로 고마워, 밀피.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27712,
+          "length": 20,
+          "key": 1162054219,
+          "original": "うん。じゃあ、また。"
+        },
+        {
+          "offset": 27740,
+          "length": 40,
+          "key": 1162054219,
+          "original": "あと……いろいろありがとう、ミルフィー。"
+        }
+      ]
+    }
+  ]
+}

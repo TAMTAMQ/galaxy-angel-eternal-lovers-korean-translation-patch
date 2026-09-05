@@ -1,0 +1,1984 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00163800.txt",
+    "encoding": "cp932",
+    "sha256": "f1a9e64ae8256805ebda89cebf3406ca03cc2171e3c7662dc81ed498badcdd83",
+    "tagged_records": 203,
+    "decoded_records": 203,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 1489619704,
+        "source": "header",
+        "end": 8044
+      },
+      {
+        "start": 8044,
+        "key_offset": 8028,
+        "key": 1411510602,
+        "source": "integer_literal",
+        "end": 17080
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "格納庫・フォルテがＥＤＥＮ姉弟に紋章機を紹介",
+      "translation": "격납고・포르테가 EDEN 남매에게문장기소개",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16,
+          "length": 44,
+          "key": 1489619704,
+          "original": "格納庫・フォルテがＥＤＥＮ姉弟に紋章機を紹介"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "やあ、フォルテ。案内の方、進んでいるかい？",
+      "translation": "안녕, 포르테. 안내는 잘 되어가고 있나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 200,
+          "length": 42,
+          "key": 1489619704,
+          "original": "やあ、フォルテ。案内の方、進んでいるかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0003",
+      "context": {
+        "voice": "GC425000.ogg"
+      },
+      "original": "ああ。ちょうど今から紋章機の説明をするところさ。",
+      "translation": "아아. 마침 지금부터 문장기 설명을 하려던 참이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 436,
+          "length": 40,
+          "key": 1489619704,
+          "original": "ああ。ちょうど今から紋章機の説明をすると"
+        },
+        {
+          "offset": 484,
+          "length": 8,
+          "key": 1489619704,
+          "original": "ころさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0004",
+      "context": {
+        "voice": "GC425000.ogg"
+      },
+      "original": "うんうん。紋章機はエンジェル隊の要だからね。ルシャーティとヴァインが安心できるよう気合いの入ったのを頼むよ。",
+      "translation": "응응. 문장기는 엔젤대의 핵심이니까 말이야. 루샤티와 바인이 안심할 수 있도록 기합 팍 들어간 걸로 부탁해.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 564,
+          "length": 40,
+          "key": 1489619704,
+          "original": "うんうん。紋章機はエンジェル隊の要だから"
+        },
+        {
+          "offset": 612,
+          "length": 40,
+          "key": 1489619704,
+          "original": "ね。ルシャーティとヴァインが安心できるよ"
+        },
+        {
+          "offset": 660,
+          "length": 28,
+          "key": 1489619704,
+          "original": "う気合いの入ったのを頼むよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0005",
+      "context": {
+        "voice": "GC425001.ogg"
+      },
+      "original": "誰に言ってるんだい？　もちろんそれくらい考慮済みだよ。",
+      "translation": "누구한테 하는 소리야？ 물론 그 정도는 고려해 뒀어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 836,
+          "length": 40,
+          "key": 1489619704,
+          "original": "誰に言ってるんだい？　もちろんそれくらい"
+        },
+        {
+          "offset": 884,
+          "length": 14,
+          "key": 1489619704,
+          "original": "考慮済みだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0006",
+      "context": {
+        "voice": "GC425002.ogg"
+      },
+      "original": "じゃあ、そろそろはじめようかね。これがあたしの紋章機で名前はハッピートリガーさ。",
+      "translation": "그럼 슬슬 시작해 볼까. 이게 내 문장기이고 이름은 해피 트리거야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1048,
+          "length": 40,
+          "key": 1489619704,
+          "original": "じゃあ、そろそろはじめようかね。これがあ"
+        },
+        {
+          "offset": 1096,
+          "length": 40,
+          "key": 1489619704,
+          "original": "たしの紋章機で名前はハッピートリガーさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0007",
+      "context": {
+        "voice": "GC425003.ogg"
+      },
+      "original": "前につき出ているのは、ぜんぶ大砲ですか？",
+      "translation": "앞으로 튀어나온 건 전부 대포인가요？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1284,
+          "length": 40,
+          "key": 1489619704,
+          "original": "前につき出ているのは、ぜんぶ大砲ですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0008",
+      "context": {
+        "voice": "GC425004.ogg"
+      },
+      "original": "そう。ハッピートリガーは攻撃力が自慢の紋章機なのさ。",
+      "translation": "그래. 해피 트리거는 공격력이 자랑인 문장기거든.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1472,
+          "length": 40,
+          "key": 1489619704,
+          "original": "そう。ハッピートリガーは攻撃力が自慢の紋"
+        },
+        {
+          "offset": 1520,
+          "length": 12,
+          "key": 1489619704,
+          "original": "章機なのさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0009",
+      "context": {
+        "voice": "GC425005.ogg"
+      },
+      "original": "でもその分、機動力はあまりなさそうですね。",
+      "translation": "하지만 그만큼 기동력은 낮겠네요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1680,
+          "length": 42,
+          "key": 1489619704,
+          "original": "でもその分、機動力はあまりなさそうですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0010",
+      "context": {
+        "voice": "GC425006.ogg"
+      },
+      "original": "まあ、速度が出ないのがこいつの唯一の弱点、玉にキズってやつでね。",
+      "translation": "뭐, 속도가 안 나는 게 이 녀석의 유일한 약점, 옥에 티라고 할까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1872,
+          "length": 42,
+          "key": 1489619704,
+          "original": "まあ、速度が出ないのがこいつの唯一の弱点、"
+        },
+        {
+          "offset": 1924,
+          "length": 22,
+          "key": 1489619704,
+          "original": "玉にキズってやつでね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0011",
+      "context": {
+        "voice": "GC425007.ogg"
+      },
+      "original": "まあ。紋章機にも弱点があるんですね。",
+      "translation": "어머. 문장기에도 약점이 있군요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2096,
+          "length": 36,
+          "key": 1489619704,
+          "original": "まあ。紋章機にも弱点があるんですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0012",
+      "context": {
+        "voice": "GC425008.ogg"
+      },
+      "original": "いつもミルフィーやランファが突っ込んだ後に追いつくものだから、そこらじゅう蜂の巣をつついたような状態になっててねえ。",
+      "translation": "항상 밀피나 란파가 돌입한 뒤에 따라가는 격이라, 주변이 벌집을 건드린 것 같은 상태가 돼서 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2280,
+          "length": 40,
+          "key": 1489619704,
+          "original": "いつもミルフィーやランファが突っ込んだ後"
+        },
+        {
+          "offset": 2328,
+          "length": 40,
+          "key": 1489619704,
+          "original": "に追いつくものだから、そこらじゅう蜂の巣"
+        },
+        {
+          "offset": 2376,
+          "length": 36,
+          "key": 1489619704,
+          "original": "をつついたような状態になっててねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0013",
+      "context": {
+        "voice": "GC425009.ogg"
+      },
+      "original": "乱戦になるのですか？",
+      "translation": "난전이 되는 건가요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2560,
+          "length": 20,
+          "key": 1489619704,
+          "original": "乱戦になるのですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0014",
+      "context": {
+        "voice": "GC425010.ogg"
+      },
+      "original": "ほとんどいつもそうさ。",
+      "translation": "거의 항상 그렇지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2728,
+          "length": 22,
+          "key": 1489619704,
+          "original": "ほとんどいつもそうさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0015",
+      "context": {
+        "voice": "GC425010.ogg"
+      },
+      "original": "相手の数の方が多いことがほとんどだから、すぐ囲まれちゃうんだよ。",
+      "translation": "상대 숫자가 더 많은 경우가 대부분이라, 금방 포위당해 버리거든.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2824,
+          "length": 40,
+          "key": 1489619704,
+          "original": "相手の数の方が多いことがほとんどだから、"
+        },
+        {
+          "offset": 2872,
+          "length": 24,
+          "key": 1489619704,
+          "original": "すぐ囲まれちゃうんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0016",
+      "context": {
+        "voice": "GC425011.ogg"
+      },
+      "original": "まあ。怖い。",
+      "translation": "어머,무서워.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3044,
+          "length": 12,
+          "key": 1489619704,
+          "original": "まあ。怖い。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0017",
+      "context": {
+        "voice": "GC425012.ogg"
+      },
+      "original": "怖いなんて感じる暇もないねえ。",
+      "translation": "무섭다고 느낄 틈도 없지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3204,
+          "length": 30,
+          "key": 1489619704,
+          "original": "怖いなんて感じる暇もないねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0018",
+      "context": {
+        "voice": "GC425013.ogg"
+      },
+      "original": "……フォルテさんは、とても勇気があるんですね。",
+      "translation": "...포르테 씨는 정말 용기가 대단하시네요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3384,
+          "length": 40,
+          "key": 1489619704,
+          "original": "……フォルテさんは、とても勇気があるんで"
+        },
+        {
+          "offset": 3432,
+          "length": 6,
+          "key": 1489619704,
+          "original": "すね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0019",
+      "context": {
+        "voice": "GC425014.ogg"
+      },
+      "original": "まあ、紋章機の性能を信じてるってのもあるけど。他のエンジェル隊もいるから、めったなことじゃ落とされないしね。",
+      "translation": "뭐, 문장기의 성능을 믿고 있는 것도 있지만. 다른 엔젤대도 있으니까 쉽게 격추되지는 않거든.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3588,
+          "length": 40,
+          "key": 1489619704,
+          "original": "まあ、紋章機の性能を信じてるってのもある"
+        },
+        {
+          "offset": 3636,
+          "length": 40,
+          "key": 1489619704,
+          "original": "けど。他のエンジェル隊もいるから、めった"
+        },
+        {
+          "offset": 3684,
+          "length": 28,
+          "key": 1489619704,
+          "original": "なことじゃ落とされないしね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0020",
+      "context": {
+        "voice": "GC425015.ogg"
+      },
+      "original": "密接なチームワークというわけですか。",
+      "translation": "긴밀한 팀워크라는 거군요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3860,
+          "length": 36,
+          "key": 1489619704,
+          "original": "密接なチームワークというわけですか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0021",
+      "context": {
+        "voice": "GC425016.ogg"
+      },
+      "original": "そうさね。ハッピートリガーで足りない所は誰かが補ってくれるのさ。",
+      "translation": "그렇지. 해피 트리거가 부족한 부분은 누군가가 보완해 주는 거야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4044,
+          "length": 40,
+          "key": 1489619704,
+          "original": "そうさね。ハッピートリガーで足りない所は"
+        },
+        {
+          "offset": 4092,
+          "length": 24,
+          "key": 1489619704,
+          "original": "誰かが補ってくれるのさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0022",
+      "context": {
+        "voice": "GC425016.ogg"
+      },
+      "original": "うん、エンジェル隊のチームワークはすばらしいよ。特にノってるときの彼女らにかなうものはいないと思うよ。",
+      "translation": "응, 엔젤대의 팀워크는 훌륭해. 특히 기세가 올랐을 때의 그녀들을 당할 자는 없을 거야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4188,
+          "length": 40,
+          "key": 1489619704,
+          "original": "うん、エンジェル隊のチームワークはすばら"
+        },
+        {
+          "offset": 4236,
+          "length": 40,
+          "key": 1489619704,
+          "original": "しいよ。特にノってるときの彼女らにかなう"
+        },
+        {
+          "offset": 4284,
+          "length": 22,
+          "key": 1489619704,
+          "original": "ものはいないと思うよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0023",
+      "context": {
+        "voice": "GC425017.ogg"
+      },
+      "original": "おやあ？　タクト。なにか大事なことを忘れてるんじゃないのかい？",
+      "translation": "어라？ 택트. 뭔가 중요한 걸 잊고 있는 거 아니야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4456,
+          "length": 40,
+          "key": 1489619704,
+          "original": "おやあ？　タクト。なにか大事なことを忘れ"
+        },
+        {
+          "offset": 4504,
+          "length": 22,
+          "key": 1489619704,
+          "original": "てるんじゃないのかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0024",
+      "context": {
+        "voice": "GC425017.ogg"
+      },
+      "original": "え？　何か言い忘れたことがあったかな。",
+      "translation": "에？ 내가 말 안 한 게 있었나.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4600,
+          "length": 38,
+          "key": 1489619704,
+          "original": "え？　何か言い忘れたことがあったかな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0025",
+      "context": {
+        "voice": "GC425018.ogg"
+      },
+      "original": "おや、わからないかい？",
+      "translation": "어라, 모르겠어？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4788,
+          "length": 22,
+          "key": 1489619704,
+          "original": "おや、わからないかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0026",
+      "context": {
+        "voice": "GC425018.ogg"
+      },
+      "original": "ええと……。",
+      "translation": "어라…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4884,
+          "length": 12,
+          "key": 1489619704,
+          "original": "ええと……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0027",
+      "context": {
+        "voice": "GC425018.ogg"
+      },
+      "original": "あ、そうだ！　エルシオールのみんなの力も無視できないね。いつも助けられているよ。",
+      "translation": "아, 맞다！ 에르시올 모두의 힘도 무시할 수 없지. 항상 도움받고 있어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4968,
+          "length": 40,
+          "key": 1489619704,
+          "original": "あ、そうだ！　エルシオールのみんなの力も"
+        },
+        {
+          "offset": 5016,
+          "length": 40,
+          "key": 1489619704,
+          "original": "無視できないね。いつも助けられているよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0028",
+      "context": {
+        "voice": "GC425019.ogg"
+      },
+      "original": "まだまだそれじゃあ満点はあげられないねえ。",
+      "translation": "아직 그걸론 만점을 줄 순 없겠네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5204,
+          "length": 42,
+          "key": 1489619704,
+          "original": "まだまだそれじゃあ満点はあげられないねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0029",
+      "context": {
+        "voice": "GC425019.ogg"
+      },
+      "original": "えー？　それじゃあのシャトヤーン様とか？それともノア？",
+      "translation": "에이～ 그럼 그 샤토얀 님이라든가？ 아니면 노아？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5320,
+          "length": 40,
+          "key": 1489619704,
+          "original": "えー？　それじゃあのシャトヤーン様とか？"
+        },
+        {
+          "offset": 5368,
+          "length": 14,
+          "key": 1489619704,
+          "original": "それともノア？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0030",
+      "context": {
+        "voice": "GC425019.ogg"
+      },
+      "original": "シヴァ様にもお世話になっているし。大穴でルフト先生とか。",
+      "translation": "시바 님께도 신세를 지고 있고, 루프트 선생님 같은 분도.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5456,
+          "length": 40,
+          "key": 1489619704,
+          "original": "シヴァ様にもお世話になっているし。大穴で"
+        },
+        {
+          "offset": 5504,
+          "length": 16,
+          "key": 1489619704,
+          "original": "ルフト先生とか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0031",
+      "context": {
+        "voice": "GC425020.ogg"
+      },
+      "original": "やれやれ、一番の大事な人間を忘れるんだから、タクトも間が抜けてるよ。",
+      "translation": "이런이런, 가장 중요한 인물을 잊어버리다니 택트도 한참 모자라네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5668,
+          "length": 40,
+          "key": 1489619704,
+          "original": "やれやれ、一番の大事な人間を忘れるんだか"
+        },
+        {
+          "offset": 5716,
+          "length": 28,
+          "key": 1489619704,
+          "original": "ら、タクトも間が抜けてるよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0032",
+      "context": {
+        "voice": "GC425020.ogg"
+      },
+      "original": "えー、誰なんだい？　オレにはさっぱりわからないよ。",
+      "translation": "에이～ 누구 말이야？ 난 전혀 모르겠는데.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5816,
+          "length": 40,
+          "key": 1489619704,
+          "original": "えー、誰なんだい？　オレにはさっぱりわか"
+        },
+        {
+          "offset": 5864,
+          "length": 10,
+          "key": 1489619704,
+          "original": "らないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0033",
+      "context": {
+        "voice": "GC425021.ogg"
+      },
+      "original": "何を言ってるんだい、最大の功労者は我らが司令官。タクト、あんただよ。",
+      "translation": "무슨 소리야, 최대의 공로자는 우리 사령관. 택트, 바로 너야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6024,
+          "length": 40,
+          "key": 1489619704,
+          "original": "何を言ってるんだい、最大の功労者は我らが"
+        },
+        {
+          "offset": 6072,
+          "length": 28,
+          "key": 1489619704,
+          "original": "司令官。タクト、あんただよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0034",
+      "context": {
+        "voice": "GC425021.ogg"
+      },
+      "original": "え？　オレ？",
+      "translation": "에？ 나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6172,
+          "length": 12,
+          "key": 1489619704,
+          "original": "え？　オレ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0035",
+      "context": {
+        "voice": "GC425022.ogg"
+      },
+      "original": "そうさ。どんなにやばいときでも的確な指揮で判断を下す。一見頼りなさそうで、実はねばり強い。",
+      "translation": "그래. 어떤 위기에도 정확한 지휘를 내리지. 언뜻 의지할 수 없어 보여도 사실은 끈기 있어.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6332,
+          "length": 40,
+          "key": 1489619704,
+          "original": "そうさ。どんなにやばいときでも的確な指揮"
+        },
+        {
+          "offset": 6380,
+          "length": 40,
+          "key": 1489619704,
+          "original": "で判断を下す。一見頼りなさそうで、実はね"
+        },
+        {
+          "offset": 6428,
+          "length": 10,
+          "key": 1489619704,
+          "original": "ばり強い。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0036",
+      "context": {
+        "voice": "GC425023.ogg"
+      },
+      "original": "そんなタクトがいたから今までやってこれたのさ。",
+      "translation": "그런 택트가 있었기에 지금까지 버틴 거야.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6588,
+          "length": 40,
+          "key": 1489619704,
+          "original": "そんなタクトがいたから今までやってこれた"
+        },
+        {
+          "offset": 6636,
+          "length": 6,
+          "key": 1489619704,
+          "original": "のさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0037",
+      "context": {
+        "voice": "GC425024.ogg"
+      },
+      "original": "タクトさん、やはりすごい方だったんですね。",
+      "translation": "택트 씨, 역시 대단한 분이었군요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6792,
+          "length": 42,
+          "key": 1489619704,
+          "original": "タクトさん、やはりすごい方だったんですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0038",
+      "context": {
+        "voice": "GC425024.ogg"
+      },
+      "original": "そんなあ、オレはいつもみんなに助けられてるだけだし。",
+      "translation": "에이 참, 난 항상 모두에게 도움받고 있을 뿐인걸.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6908,
+          "length": 40,
+          "key": 1489619704,
+          "original": "そんなあ、オレはいつもみんなに助けられて"
+        },
+        {
+          "offset": 6956,
+          "length": 12,
+          "key": 1489619704,
+          "original": "るだけだし。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0039",
+      "context": {
+        "voice": "GC425025.ogg"
+      },
+      "original": "冗談だか本気だかわからないところも、ついついつられるところなんだろうけどね。",
+      "translation": "농담인지 진심인지 모를 점도, 왠지 이끌리는 부분일지도 모르겠지만 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7116,
+          "length": 40,
+          "key": 1489619704,
+          "original": "冗談だか本気だかわからないところも、つい"
+        },
+        {
+          "offset": 7164,
+          "length": 36,
+          "key": 1489619704,
+          "original": "ついつられるところなんだろうけどね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0040",
+      "context": {
+        "voice": "GC425025.ogg"
+      },
+      "original": "なんだかそこまで言われると自分が大人物になったような気がするよ。",
+      "translation": "왠지 그렇게까지 들으니 내가 대단한 인물이 된 기분이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7272,
+          "length": 40,
+          "key": 1489619704,
+          "original": "なんだかそこまで言われると自分が大人物に"
+        },
+        {
+          "offset": 7320,
+          "length": 24,
+          "key": 1489619704,
+          "original": "なったような気がするよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0041",
+      "context": {
+        "voice": "GC425026.ogg"
+      },
+      "original": "ま、あんまりおだてすぎると羽目を外しそうだから、今日はこのぐらいにしとこうかねえ。",
+      "translation": "뭐, 너무 치켜세우면 선을 넘을 것 같으니까 오늘은 이 정도로 해두자고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7492,
+          "length": 40,
+          "key": 1489619704,
+          "original": "ま、あんまりおだてすぎると羽目を外しそう"
+        },
+        {
+          "offset": 7540,
+          "length": 42,
+          "key": 1489619704,
+          "original": "だから、今日はこのぐらいにしとこうかねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0042",
+      "context": {
+        "voice": "GC425026.ogg"
+      },
+      "original": "いやあ、あはは。もっと褒めてくれてもいいのに。",
+      "translation": "아하하. 좀 더 칭찬해 줘도 되는데.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7656,
+          "length": 40,
+          "key": 1489619704,
+          "original": "いやあ、あはは。もっと褒めてくれてもいい"
+        },
+        {
+          "offset": 7704,
+          "length": 6,
+          "key": 1489619704,
+          "original": "のに。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0043",
+      "context": {
+        "voice": "GC425026.ogg"
+      },
+      "original": "それじゃあ、オレはそろそろ他を見て回るから。",
+      "translation": "그럼 난 슬슬 다른 곳을 둘러보러 갈게.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7784,
+          "length": 40,
+          "key": 1489619704,
+          "original": "それじゃあ、オレはそろそろ他を見て回るか"
+        },
+        {
+          "offset": 7832,
+          "length": 4,
+          "key": 1489619704,
+          "original": "ら。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0044",
+      "context": {
+        "voice": "GC425027.ogg"
+      },
+      "original": "ああ、こっちは任せといて。",
+      "translation": "아아, 이쪽은 맡겨둬.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7984,
+          "length": 26,
+          "key": 1489619704,
+          "original": "ああ、こっちは任せといて。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0045",
+      "context": {
+        "voice": "GC425027.ogg"
+      },
+      "original": "射撃訓練場・フォルテがＥＤＥＮ姉弟に銃を紹介",
+      "translation": "사격 훈련장・포르테가 EDEN남매에게총소개",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8044,
+          "length": 44,
+          "key": 1411510602,
+          "original": "射撃訓練場・フォルテがＥＤＥＮ姉弟に銃を紹介"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0046",
+      "context": {
+        "voice": "GC425027.ogg"
+      },
+      "original": "やあ、フォルテ。今度は射撃訓練かい？",
+      "translation": "안녕, 포르테. 이번엔 사격 훈련이야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8228,
+          "length": 36,
+          "key": 1411510602,
+          "original": "やあ、フォルテ。今度は射撃訓練かい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0047",
+      "context": {
+        "voice": "GC425100.ogg"
+      },
+      "original": "ああ、ルシャーティとヴァインに一番よく使う場所を教えて欲しいと言われたんでねえ、ここに連れてきたんだよ。",
+      "translation": "아아, 루샤티와 바인이 가장 자주 쓰는 곳을 알려달라고 해서 말이야, 여기로 데려왔어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8456,
+          "length": 40,
+          "key": 1411510602,
+          "original": "ああ、ルシャーティとヴァインに一番よく使"
+        },
+        {
+          "offset": 8504,
+          "length": 40,
+          "key": 1411510602,
+          "original": "う場所を教えて欲しいと言われたんでねえ、"
+        },
+        {
+          "offset": 8552,
+          "length": 24,
+          "key": 1411510602,
+          "original": "ここに連れてきたんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0048",
+      "context": {
+        "voice": "GC425100.ogg"
+      },
+      "original": "そうだね。確かにここではよくフォルテを見かけるよ。",
+      "translation": "그렇네요. 확실히 여기서 포르테 씨를 자주 봐요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8648,
+          "length": 40,
+          "key": 1411510602,
+          "original": "そうだね。確かにここではよくフォルテを見"
+        },
+        {
+          "offset": 8696,
+          "length": 10,
+          "key": 1411510602,
+          "original": "かけるよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0049",
+      "context": {
+        "voice": "GC425101.ogg"
+      },
+      "original": "だろう？　ついでだからどんなところかひと通り見てもらおうと思ってねえ。",
+      "translation": "그렇지？ 온 김에 어떤 곳인지 대강 둘러보게 하려고 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8856,
+          "length": 40,
+          "key": 1411510602,
+          "original": "だろう？　ついでだからどんなところかひと"
+        },
+        {
+          "offset": 8904,
+          "length": 30,
+          "key": 1411510602,
+          "original": "通り見てもらおうと思ってねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0050",
+      "context": {
+        "voice": "GC425102.ogg"
+      },
+      "original": "ここで銃を撃つ訓練をするわけですか。",
+      "translation": "여기서 총을 쏘는 훈련을 하는 건가요?\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9084,
+          "length": 36,
+          "key": 1411510602,
+          "original": "ここで銃を撃つ訓練をするわけですか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0051",
+      "context": {
+        "voice": "GC425103.ogg"
+      },
+      "original": "いろんなものが整っていて、すごい施設ですね。",
+      "translation": "다양한 게 갖춰진 굉장한 시설이네요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9268,
+          "length": 40,
+          "key": 1411510602,
+          "original": "いろんなものが整っていて、すごい施設です"
+        },
+        {
+          "offset": 9316,
+          "length": 4,
+          "key": 1411510602,
+          "original": "ね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0052",
+      "context": {
+        "voice": "GC425104.ogg"
+      },
+      "original": "ま、半分以上あたしの趣味で使わせてもらってるけれど、本格的な訓練ができるだけの設備は整ってるよ。",
+      "translation": "뭐, 절반 이상은 내 취미로 쓰고 있지만, 본격적인 훈련을 할 만한 설비는 갖춰져 있어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9468,
+          "length": 40,
+          "key": 1411510602,
+          "original": "ま、半分以上あたしの趣味で使わせてもらっ"
+        },
+        {
+          "offset": 9516,
+          "length": 40,
+          "key": 1411510602,
+          "original": "てるけれど、本格的な訓練ができるだけの設"
+        },
+        {
+          "offset": 9564,
+          "length": 16,
+          "key": 1411510602,
+          "original": "備は整ってるよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0053",
+      "context": {
+        "voice": "GC425105.ogg"
+      },
+      "original": "つまり、趣味で銃を撃たれるんですか？",
+      "translation": "즉, 취미로 총을 쏘시는 건가요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9728,
+          "length": 36,
+          "key": 1411510602,
+          "original": "つまり、趣味で銃を撃たれるんですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0054",
+      "context": {
+        "voice": "GC425106.ogg"
+      },
+      "original": "まあね。特に火薬式のやつは個人的にもいろいろ集めてるんだよ。",
+      "translation": "뭐 그렇지. 특히 화약식은 개인적으로 이것저것 모으고 있거든.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9912,
+          "length": 40,
+          "key": 1411510602,
+          "original": "まあね。特に火薬式のやつは個人的にもいろ"
+        },
+        {
+          "offset": 9960,
+          "length": 20,
+          "key": 1411510602,
+          "original": "いろ集めてるんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0055",
+      "context": {
+        "voice": "GC425107.ogg"
+      },
+      "original": "火薬を使うなんて危ないんじゃありませんか？",
+      "translation": "화약을 쓰다니 위험하지 않나요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10128,
+          "length": 42,
+          "key": 1411510602,
+          "original": "火薬を使うなんて危ないんじゃありませんか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0056",
+      "context": {
+        "voice": "GC425108.ogg"
+      },
+      "original": "きちんと手入れをしてれば大丈夫さ。",
+      "translation": "제대로 관리만 하면 괜찮아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10320,
+          "length": 34,
+          "key": 1411510602,
+          "original": "きちんと手入れをしてれば大丈夫さ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0057",
+      "context": {
+        "voice": "GC425109.ogg"
+      },
+      "original": "大きな音もするのではないですか？",
+      "translation": "큰 소리도 나지 않나요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10504,
+          "length": 32,
+          "key": 1411510602,
+          "original": "大きな音もするのではないですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0058",
+      "context": {
+        "voice": "GC425110.ogg"
+      },
+      "original": "耳栓をするというのも手だけど、あたしはもう慣れたから。こういうのは、腕に伝わる反動も含めて体で味わうのがいいんだよ。",
+      "translation": "귀마개를하는 방법도 있지만, 난 이미 익숙해져서 말이야. 이런 건 반동이 팔에 전해지는 것까지 몸으로 느끼는 게 좋거든.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10684,
+          "length": 40,
+          "key": 1411510602,
+          "original": "耳栓をするというのも手だけど、あたしはも"
+        },
+        {
+          "offset": 10732,
+          "length": 40,
+          "key": 1411510602,
+          "original": "う慣れたから。こういうのは、腕に伝わる反"
+        },
+        {
+          "offset": 10780,
+          "length": 36,
+          "key": 1411510602,
+          "original": "動も含めて体で味わうのがいいんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0059",
+      "context": {
+        "voice": "GC425110.ogg"
+      },
+      "original": "うーん、趣味の世界だなあ。",
+      "translation": "으음, 취미의 세계네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10888,
+          "length": 26,
+          "key": 1411510602,
+          "original": "うーん、趣味の世界だなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0060",
+      "context": {
+        "voice": "GC425111.ogg"
+      },
+      "original": "せっかくだから本物を見てもらおうか。今日はあたしのコレクションの中から自慢の銃を持ってきたんだ。",
+      "translation": "온 김에 진짜를 보여줄까. 오늘은 내 컬렉션 중에서 자랑할 만한 총을 가져왔어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11064,
+          "length": 40,
+          "key": 1411510602,
+          "original": "せっかくだから本物を見てもらおうか。今日"
+        },
+        {
+          "offset": 11112,
+          "length": 40,
+          "key": 1411510602,
+          "original": "はあたしのコレクションの中から自慢の銃を"
+        },
+        {
+          "offset": 11160,
+          "length": 16,
+          "key": 1411510602,
+          "original": "持ってきたんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0061",
+      "context": {
+        "voice": "GC425112.ogg"
+      },
+      "original": "大きいですね……。それに重たいです。",
+      "translation": "크네요... 게다가 무거워요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11360,
+          "length": 36,
+          "key": 1411510602,
+          "original": "大きいですね……。それに重たいです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0062",
+      "context": {
+        "voice": "GC425113.ogg"
+      },
+      "original": "銃も弾丸も金属でできてるからね。どうしても重たくなるんだよ。",
+      "translation": "총과 탄환은 금속이라 아무래도 무거워질 수밖에 없어.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11508,
+          "length": 40,
+          "key": 1411510602,
+          "original": "銃も弾丸も金属でできてるからね。どうして"
+        },
+        {
+          "offset": 11556,
+          "length": 20,
+          "key": 1411510602,
+          "original": "も重たくなるんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0063",
+      "context": {
+        "voice": "GC425114.ogg"
+      },
+      "original": "それにある程度重たくないと、反動で銃が跳ね上がってしまうからねぇ。",
+      "translation": "게다가 어느 정도 무게가 없으면 반동 때문에 총이 튀어 오르거든.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11688,
+          "length": 40,
+          "key": 1411510602,
+          "original": "それにある程度重たくないと、反動で銃が跳"
+        },
+        {
+          "offset": 11736,
+          "length": 26,
+          "key": 1411510602,
+          "original": "ね上がってしまうからねぇ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0064",
+      "context": {
+        "voice": "GC425114.ogg"
+      },
+      "original": "フォルテ、まさかふたりに銃を撃たせようなんて思ってない？",
+      "translation": "포르테, 설마 두 사람에게 총을 쏘게 할 생각은 아니겠지？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11884,
+          "length": 40,
+          "key": 1411510602,
+          "original": "フォルテ、まさかふたりに銃を撃たせような"
+        },
+        {
+          "offset": 11932,
+          "length": 16,
+          "key": 1411510602,
+          "original": "んて思ってない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0065",
+      "context": {
+        "voice": "GC425115.ogg"
+      },
+      "original": "まさか、いくらあたしだってそこまで無茶はしないよ。でも銃の実演はしたいところだねえ。",
+      "translation": "설마, 아무리 나라도 그렇게 무리는 안 해. 하지만 총 시연은 하고 싶네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12096,
+          "length": 40,
+          "key": 1411510602,
+          "original": "まさか、いくらあたしだってそこまで無茶は"
+        },
+        {
+          "offset": 12144,
+          "length": 40,
+          "key": 1411510602,
+          "original": "しないよ。でも銃の実演はしたいところだね"
+        },
+        {
+          "offset": 12192,
+          "length": 4,
+          "key": 1411510602,
+          "original": "え。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0066",
+      "context": {
+        "voice": "GC425115.ogg"
+      },
+      "original": "あ、ひょっとして……。",
+      "translation": "아, 혹시...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12268,
+          "length": 22,
+          "key": 1411510602,
+          "original": "あ、ひょっとして……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0067",
+      "context": {
+        "voice": "GC425116.ogg"
+      },
+      "original": "タクト、お客様の前で実演してみないかい？",
+      "translation": "택트, 손님 앞에서 시연해 보지 않을래？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12440,
+          "length": 40,
+          "key": 1411510602,
+          "original": "タクト、お客様の前で実演してみないかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0068",
+      "context": {
+        "voice": "GC425116.ogg"
+      },
+      "original": "えー、でもオレ、自信ないし。",
+      "translation": "에이～ 그래도 나,자신없는데.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12552,
+          "length": 28,
+          "key": 1411510602,
+          "original": "えー、でもオレ、自信ないし。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0069",
+      "context": {
+        "voice": "GC425117.ogg"
+      },
+      "original": "情けないことをお言いでないよ。ちゃんと訓練はしてるだろ？",
+      "translation": "한심한 소리 하지 마. 제대로 훈련하고 있잖아？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12728,
+          "length": 40,
+          "key": 1411510602,
+          "original": "情けないことをお言いでないよ。ちゃんと訓"
+        },
+        {
+          "offset": 12776,
+          "length": 16,
+          "key": 1411510602,
+          "original": "練はしてるだろ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0070",
+      "context": {
+        "voice": "GC425117.ogg"
+      },
+      "original": "ちゃんとしてるかなあ、訓練。",
+      "translation": "제대로 하고 있으려나, 훈련.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12864,
+          "length": 28,
+          "key": 1411510602,
+          "original": "ちゃんとしてるかなあ、訓練。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0071",
+      "context": {
+        "voice": "GC425118.ogg"
+      },
+      "original": "ほら、ぐずぐず言わない。さっさと銃を構えな。",
+      "translation": "자, 꾸물거리지 말고. 얼른 총을 들어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13040,
+          "length": 40,
+          "key": 1411510602,
+          "original": "ほら、ぐずぐず言わない。さっさと銃を構え"
+        },
+        {
+          "offset": 13088,
+          "length": 4,
+          "key": 1411510602,
+          "original": "な。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0072",
+      "context": {
+        "voice": "GC425118.ogg"
+      },
+      "original": "は……はい！",
+      "translation": "하... 넵！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13164,
+          "length": 12,
+          "key": 1411510602,
+          "original": "は……はい！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0073",
+      "context": {
+        "voice": "GC425119.ogg"
+      },
+      "original": "ターゲットを出すよ。しっかり狙って……。",
+      "translation": "타겟을 내보낼게. 제대로 조준해서...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13324,
+          "length": 40,
+          "key": 1411510602,
+          "original": "ターゲットを出すよ。しっかり狙って……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0074",
+      "context": {
+        "voice": "GC425119.ogg"
+      },
+      "original": "フォルテ、この銃本当に重たいよ！",
+      "translation": "포르테, 이 총 정말 무거워！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13436,
+          "length": 32,
+          "key": 1411510602,
+          "original": "フォルテ、この銃本当に重たいよ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0075",
+      "context": {
+        "voice": "GC425120.ogg"
+      },
+      "original": "あたしの自慢の一品だからね。歴史の重みだよ。",
+      "translation": "내 자랑거리니까 말이야. 역사의 무게라고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13580,
+          "length": 40,
+          "key": 1411510602,
+          "original": "あたしの自慢の一品だからね。歴史の重みだ"
+        },
+        {
+          "offset": 13628,
+          "length": 4,
+          "key": 1411510602,
+          "original": "よ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0076",
+      "context": {
+        "voice": "GC425120.ogg"
+      },
+      "original": "ひ……引き金も固い……。",
+      "translation": "트... 트리거도 뻑뻑해...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13704,
+          "length": 24,
+          "key": 1411510602,
+          "original": "ひ……引き金も固い……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0077",
+      "context": {
+        "voice": "GC425121.ogg"
+      },
+      "original": "文句ばっかり多いね。はい、射撃開始！",
+      "translation": "불평만 많네. 자, 사격 개시！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13840,
+          "length": 36,
+          "key": 1411510602,
+          "original": "文句ばっかり多いね。はい、射撃開始！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0078",
+      "context": {
+        "voice": "GC425121.ogg"
+      },
+      "original": "よ……よーし。",
+      "translation": "요... 좋아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13948,
+          "length": 14,
+          "key": 1411510602,
+          "original": "よ……よーし。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0079",
+      "context": {
+        "voice": "GC425121.ogg"
+      },
+      "original": "うわっ。",
+      "translation": "우와.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14108,
+          "length": 8,
+          "key": 1411510602,
+          "original": "うわっ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0080",
+      "context": {
+        "voice": "GC425122.ogg"
+      },
+      "original": "きゃ！",
+      "translation": "꺄！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14228,
+          "length": 6,
+          "key": 1411510602,
+          "original": "きゃ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0081",
+      "context": {
+        "voice": "GC425123.ogg"
+      },
+      "original": "ほらほら的に当たってないよ。",
+      "translation": "이봐, 표적에 맞지 않잖아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14348,
+          "length": 28,
+          "key": 1411510602,
+          "original": "ほらほら的に当たってないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0082",
+      "context": {
+        "voice": "GC425124.ogg"
+      },
+      "original": "きゃあ！",
+      "translation": "꺄악！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14560,
+          "length": 8,
+          "key": 1411510602,
+          "original": "きゃあ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0083",
+      "context": {
+        "voice": "GC425124.ogg"
+      },
+      "original": "どわぁ！",
+      "translation": "콰앙！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14712,
+          "length": 8,
+          "key": 1411510602,
+          "original": "どわぁ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0084",
+      "context": {
+        "voice": "GC425125.ogg"
+      },
+      "original": "だ……大丈夫ですか、タクトさん？",
+      "translation": "괘... 괜찮으세요, 택트 씨？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14908,
+          "length": 32,
+          "key": 1411510602,
+          "original": "だ……大丈夫ですか、タクトさん？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0085",
+      "context": {
+        "voice": "GC425125.ogg"
+      },
+      "original": "あいたたたた。",
+      "translation": "아이고야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15012,
+          "length": 14,
+          "key": 1411510602,
+          "original": "あいたたたた。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0086",
+      "context": {
+        "voice": "GC425126.ogg"
+      },
+      "original": "タクト、いくらなんでもこれはひどいんじゃないかい？　的にかすってもいないよ。",
+      "translation": "택트, 아무리 그래도 이건 너무 심하잖아？ 표적에 스치지도 않았어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15140,
+          "length": 40,
+          "key": 1411510602,
+          "original": "タクト、いくらなんでもこれはひどいんじゃ"
+        },
+        {
+          "offset": 15188,
+          "length": 36,
+          "key": 1411510602,
+          "original": "ないかい？　的にかすってもいないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0087",
+      "context": {
+        "voice": "GC425126.ogg"
+      },
+      "original": "いやあ、火薬式の銃を撃つのは久しぶりだったから……。",
+      "translation": "아니, 화약식 총을 쏘는 건 오랜만이라서...\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15296,
+          "length": 40,
+          "key": 1411510602,
+          "original": "いやあ、火薬式の銃を撃つのは久しぶりだっ"
+        },
+        {
+          "offset": 15344,
+          "length": 12,
+          "key": 1411510602,
+          "original": "たから……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0088",
+      "context": {
+        "voice": "GC425127.ogg"
+      },
+      "original": "それでも非常時に備えるのが軍人のつとめってもんじゃないか。いくらなんでもなまりすぎなんじゃないかい？",
+      "translation": "그래도 비상시에 대비하는 게 군인의 임무 아니겠어？ 아무리 그래도 너무 녹슬었잖아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15468,
+          "length": 40,
+          "key": 1411510602,
+          "original": "それでも非常時に備えるのが軍人のつとめっ"
+        },
+        {
+          "offset": 15516,
+          "length": 40,
+          "key": 1411510602,
+          "original": "てもんじゃないか。いくらなんでもなまりす"
+        },
+        {
+          "offset": 15564,
+          "length": 20,
+          "key": 1411510602,
+          "original": "ぎなんじゃないかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0089",
+      "context": {
+        "voice": "GC425127.ogg"
+      },
+      "original": "すみません。しばらく射撃訓練場に通います。",
+      "translation": "죄송합니다. 당분간 사격 훈련장에 다닐게요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15656,
+          "length": 42,
+          "key": 1411510602,
+          "original": "すみません。しばらく射撃訓練場に通います。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00163800:isb:0090",
+      "context": {
+        "voice": "GC425128.ogg"
+      },
+      "original": "本当にしっかりしておくれよ、タクト。",
+      "translation": "정말 제대로 좀 해줘, 택트.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15812,
+          "length": 36,
+          "key": 1411510602,
+          "original": "本当にしっかりしておくれよ、タクト。"
+        }
+      ]
+    }
+  ]
+}

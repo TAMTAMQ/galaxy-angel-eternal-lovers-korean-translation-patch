@@ -1,0 +1,172 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00101800.txt",
+    "encoding": "cp932",
+    "sha256": "667288f9dc007d29067fa022160ad2be6ec6bbf8b298738d022b7abd393338f4",
+    "tagged_records": 21,
+    "decoded_records": 20,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 1454710701,
+        "source": "header",
+        "end": 228
+      },
+      {
+        "start": 228,
+        "key_offset": 168,
+        "key": 1025,
+        "source": "integer_literal",
+        "end": 1780
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00101800:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "i譴l",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 424,
+          "length": 5,
+          "key": 1025,
+          "original": "i譴l"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00101800:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "i譴l",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 536,
+          "length": 5,
+          "key": 1025,
+          "original": "i譴l"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00101800:isb:0003",
+      "context": {
+        "voice": null
+      },
+      "original": "i譴l",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 648,
+          "length": 5,
+          "key": 1025,
+          "original": "i譴l"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00101800:isb:0004",
+      "context": {
+        "voice": null
+      },
+      "original": "i譴l",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 760,
+          "length": 5,
+          "key": 1025,
+          "original": "i譴l"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00101800:isb:0005",
+      "context": {
+        "voice": null
+      },
+      "original": "i譴l",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 820,
+          "length": 5,
+          "key": 1025,
+          "original": "i譴l"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00101800:isb:0006",
+      "context": {
+        "voice": null
+      },
+      "original": "i譴l",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 880,
+          "length": 5,
+          "key": 1025,
+          "original": "i譴l"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00101800:isb:0007",
+      "context": {
+        "voice": null
+      },
+      "original": "i譴l",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 940,
+          "length": 5,
+          "key": 1025,
+          "original": "i譴l"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00101800:isb:0008",
+      "context": {
+        "voice": null
+      },
+      "original": "i譴l",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 1052,
+          "length": 5,
+          "key": 1025,
+          "original": "i譴l"
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,99 @@
-/analysis
-/assets
-/build
-/release
-/source
+# Python caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Original / extracted game data: the commercial game, and reproducible from the
+# disc with the extraction tools.  Never published here.
+source/
+original/
+assets/full_extraction/
+assets/image_extraction/*/png/
+assets/image_extraction/*/mirror_png/
+assets/image_extraction/*/translated_png/
+assets/image_extraction/**/*.zip
+
+# Build and release outputs (release artifacts go to GitHub Releases)
+build/
+build_*/
+release/
+cache/
+*.iso
+*.bin
+*.img
+*.cue
+*.dat
+*.xdelta
+*.vcdiff
+*.log
+
+# Images are not published in Git
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.webp
+*.tga
+*.psd
+*.tif
+*.tiff
+*.ico
+*.dds
+
+# Emulator captures and internal notes
+*.p2s
+*.p2s.backup
+analysis/
+.webjjongku-trash/
+.emucap/
+nul
+NUL
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# --- git publication rules (image data, oversized inputs) ---
+# Extracted texture data: image content in raw form, reproducible from the disc.
+# Only the manifests that carry the image translations are published.
+assets/image_extraction/**
+!assets/image_extraction/**/
+!assets/image_extraction/**/manifest.json
+!assets/image_extraction/**/mirror_manifest.json
+
+# Diagnostic and probe leftovers
+diagnostic_first_only/
+font_trials/
+font_probe/
+ptr_kseg*.json
+ptr_phys.json
+.ai-bridge/
+.deps/
+
+# Superseded snapshots kept only on this machine
+*.backup_*.json
+*.backup_*.jsonl
+assets/translation/*backup*/
+
+# Translation inputs too large for Git are published gzipped beside them;
+# tools/galaxy_angel_expand_translations.py restores them.
+assets/translation/remaining/remaining_candidates.json
+assets/translation/images/image_units.json
+assets/translation/battle/battle_units.json
+assets/translation/remaining/all_text_resources.json
+assets/translation/remaining/runtime_duplicate_hashes.json
+!*.json.gz
+
+# --- caches ---
+# Local translation-model caches.  Regenerable, and the finished text lives in
+# the segment files that are published.
+*translation_cache.jsonl
+*_cache.jsonl
+*_cache/
+cache/
+.cache/
+*.cache

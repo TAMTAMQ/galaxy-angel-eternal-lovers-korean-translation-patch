@@ -1,0 +1,777 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_0018b800.txt",
+    "encoding": "cp932",
+    "sha256": "19836bce1de1c8e0715fc55b512eb93926ec1d9202bbbc951e0d2812c5710d42",
+    "tagged_records": 67,
+    "decoded_records": 67,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 2526071291,
+        "source": "header",
+        "end": 6360
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "「ＥＤＥＮ本星解放作戦」ブリーフィング",
+      "translation": "「EDEN 본성 해방 작전」 브리핑\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16,
+          "length": 38,
+          "key": 2526071291,
+          "original": "「ＥＤＥＮ本星解放作戦」ブリーフィング"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "アルモ、作戦図をモニターへ。",
+      "translation": "아르모, 작전도를 모니터로.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 240,
+          "length": 28,
+          "key": 2526071291,
+          "original": "アルモ、作戦図をモニターへ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0003",
+      "context": {
+        "voice": "GC938000.ogg"
+      },
+      "original": "了解。",
+      "translation": "알았다",
+      "state": "compacted",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 380,
+          "length": 6,
+          "key": 2526071291,
+          "original": "了解。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0004",
+      "context": {
+        "voice": "GC938001.ogg"
+      },
+      "original": "これが現在の状況だ。",
+      "translation": "현재 상황이다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 608,
+          "length": 20,
+          "key": 2526071291,
+          "original": "これが現在の状況だ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0005",
+      "context": {
+        "voice": "GC938002.ogg"
+      },
+      "original": "エルシオールの現在位置は、ここだ。",
+      "translation": "에르시올의 현재 위치는, 여기다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 796,
+          "length": 34,
+          "key": 2526071291,
+          "original": "エルシオールの現在位置は、ここだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0006",
+      "context": {
+        "voice": "GC958003.ogg"
+      },
+      "original": "援護の友軍艦隊はこの位置にいる。",
+      "translation": "지원 우군 함대는 이 위치에 있다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1068,
+          "length": 32,
+          "key": 2526071291,
+          "original": "援護の友軍艦隊はこの位置にいる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0007",
+      "context": {
+        "voice": "GC958004.ogg"
+      },
+      "original": "敵艦隊の配置は、こうなっている。",
+      "translation": "적 함대의 배치는 이렇다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1336,
+          "length": 32,
+          "key": 2526071291,
+          "original": "敵艦隊の配置は、こうなっている。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0008",
+      "context": {
+        "voice": "GC958004.ogg"
+      },
+      "original": "これはなんだ？　ＥＤＥＮの施設じゃない感じがするけど……。",
+      "translation": "이건 뭐지？ EDEN의 시설 같은 느낌은 아닌데…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1640,
+          "length": 40,
+          "key": 2526071291,
+          "original": "これはなんだ？　ＥＤＥＮの施設じゃない感"
+        },
+        {
+          "offset": 1688,
+          "length": 18,
+          "key": 2526071291,
+          "original": "じがするけど……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0009",
+      "context": {
+        "voice": "GC958005.ogg"
+      },
+      "original": "ああ、『ヴァル・ファスク』の基地らしい。おそらく、ジュノー占領の拠点にしていたんだろう。",
+      "translation": "아아, 『발・파스크』의 기지인 모양이다. 아마 주노 점령 거점으로 삼았던 거겠지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1840,
+          "length": 40,
+          "key": 2526071291,
+          "original": "ああ、『ヴァル・ファスク』の基地らしい。"
+        },
+        {
+          "offset": 1888,
+          "length": 40,
+          "key": 2526071291,
+          "original": "おそらく、ジュノー占領の拠点にしていたん"
+        },
+        {
+          "offset": 1936,
+          "length": 8,
+          "key": 2526071291,
+          "original": "だろう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0010",
+      "context": {
+        "voice": "GC958006.ogg"
+      },
+      "original": "基地自体に攻撃能力はないようだが、この基地を取り囲むように大型の浮遊防塁が配置されている。",
+      "translation": "기지 자체에 공격 능력은 없는 듯하나, 이 기지를 둘러싸듯 대형 부유 방루가 배치되어 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2132,
+          "length": 40,
+          "key": 2526071291,
+          "original": "基地自体に攻撃能力はないようだが、この基"
+        },
+        {
+          "offset": 2180,
+          "length": 40,
+          "key": 2526071291,
+          "original": "地を取り囲むように大型の浮遊防塁が配置さ"
+        },
+        {
+          "offset": 2228,
+          "length": 10,
+          "key": 2526071291,
+          "original": "れている。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0011",
+      "context": {
+        "voice": "GC958007.ogg"
+      },
+      "original": "攻撃力は相当なものと予想される。注意しろ。",
+      "translation": "공격력은 상당할 것으로 예상된다. 주의해라.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2464,
+          "length": 42,
+          "key": 2526071291,
+          "original": "攻撃力は相当なものと予想される。注意しろ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0012",
+      "context": {
+        "voice": "GC958008.ogg"
+      },
+      "original": "それから、敵艦の中に新型が混じっている。",
+      "translation": "그리고, 적함 중에 신형이 섞여 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2716,
+          "length": 40,
+          "key": 2526071291,
+          "original": "それから、敵艦の中に新型が混じっている。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0013",
+      "context": {
+        "voice": "GC958009.ogg"
+      },
+      "original": "重巡洋艦タイプだ。速度、火力ともに侮れないだろう。",
+      "translation": "중순양함급이다. 속도와 화력 모두 무시 못 하겠군.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2980,
+          "length": 40,
+          "key": 2526071291,
+          "original": "重巡洋艦タイプだ。速度、火力ともに侮れな"
+        },
+        {
+          "offset": 3028,
+          "length": 10,
+          "key": 2526071291,
+          "original": "いだろう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0014",
+      "context": {
+        "voice": "GC958010.ogg"
+      },
+      "original": "そして、７番機はここだ。",
+      "translation": "그리고, ７번기는 여기다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3324,
+          "length": 24,
+          "key": 2526071291,
+          "original": "そして、７番機はここだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0015",
+      "context": {
+        "voice": "GC958010.ogg"
+      },
+      "original": "ヴァイン……。",
+      "translation": "바인…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3440,
+          "length": 14,
+          "key": 2526071291,
+          "original": "ヴァイン……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0016",
+      "context": {
+        "voice": "GC958011.ogg"
+      },
+      "original": "タクト、どうする？　７番機を狙うか？",
+      "translation": "택트, 어떻게할거야？７번기를노릴까？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3596,
+          "length": 36,
+          "key": 2526071291,
+          "original": "タクト、どうする？　７番機を狙うか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0017",
+      "context": {
+        "voice": "GC958011.ogg"
+      },
+      "original": "いや、それだけじゃだめだ。",
+      "translation": "아니, 그것만으로는 안 돼.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3724,
+          "length": 26,
+          "key": 2526071291,
+          "original": "いや、それだけじゃだめだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0018",
+      "context": {
+        "voice": "GC958011.ogg"
+      },
+      "original": "ＥＤＥＮを解放するためには、この宙域の敵を残らず片づける必要がある。作戦目標は敵艦隊の全滅とする。",
+      "translation": "EDEN 해방을 위해 이 우역의 적을 전멸시킨다. 목표는 적 함대 전멸.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3860,
+          "length": 40,
+          "key": 2526071291,
+          "original": "ＥＤＥＮを解放するためには、この宙域の敵"
+        },
+        {
+          "offset": 3908,
+          "length": 40,
+          "key": 2526071291,
+          "original": "を残らず片づける必要がある。作戦目標は敵"
+        },
+        {
+          "offset": 3956,
+          "length": 18,
+          "key": 2526071291,
+          "original": "艦隊の全滅とする。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0019",
+      "context": {
+        "voice": "GC958012.ogg"
+      },
+      "original": "マイヤーズ司令、敵の増援部隊がこちらに接近中です。",
+      "translation": "마이어스 사령관, 적 증원 부대가 접근 중입니다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4108,
+          "length": 40,
+          "key": 2526071291,
+          "original": "マイヤーズ司令、敵の増援部隊がこちらに接"
+        },
+        {
+          "offset": 4156,
+          "length": 10,
+          "key": 2526071291,
+          "original": "近中です。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0020",
+      "context": {
+        "voice": "GC958012.ogg"
+      },
+      "original": "そうか。下手に戦闘を長引かせると、不利になる可能性が高いな……。気をつけよう。",
+      "translation": "그런가. 어설프게 전투를 끌면 불리해질 가능성이 높겠군…… 주의하자.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4240,
+          "length": 40,
+          "key": 2526071291,
+          "original": "そうか。下手に戦闘を長引かせると、不利に"
+        },
+        {
+          "offset": 4288,
+          "length": 38,
+          "key": 2526071291,
+          "original": "なる可能性が高いな……。気をつけよう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0021",
+      "context": {
+        "voice": "GC958012.ogg"
+      },
+      "original": "ようやくＥＤＥＮにたどり着いたんだ。みんな、存分に戦ってくれ。以上だ。",
+      "translation": "겨우 EDEN에 도착했다. 모두, 마음껏 싸워줘라. 이상이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4428,
+          "length": 40,
+          "key": 2526071291,
+          "original": "ようやくＥＤＥＮにたどり着いたんだ。みん"
+        },
+        {
+          "offset": 4476,
+          "length": 30,
+          "key": 2526071291,
+          "original": "な、存分に戦ってくれ。以上だ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0022",
+      "context": {
+        "voice": null
+      },
+      "original": "～敵部隊の編成～",
+      "translation": "～적 부대 편성～",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4656,
+          "length": 16,
+          "key": 2526071291,
+          "original": "～敵部隊の編成～"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0023",
+      "context": {
+        "voice": null
+      },
+      "original": "　７番機×１　　　　　浮遊防塁×４",
+      "translation": "　７번기×１　　　부유 방루×４",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4680,
+          "length": 34,
+          "key": 2526071291,
+          "original": "　７番機×１　　　　　浮遊防塁×４"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0024",
+      "context": {
+        "voice": null
+      },
+      "original": "　重巡洋艦×３　　　　駆逐艦×３",
+      "translation": "　중순양함×３　　구축함×３",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4724,
+          "length": 32,
+          "key": 2526071291,
+          "original": "　重巡洋艦×３　　　　駆逐艦×３"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0025",
+      "context": {
+        "voice": null
+      },
+      "original": "　戦闘機×２",
+      "translation": "　전투기×２",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4764,
+          "length": 12,
+          "key": 2526071291,
+          "original": "　戦闘機×２"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0026",
+      "context": {
+        "voice": null
+      },
+      "original": "～勝利条件～",
+      "translation": "～승리조건～",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4792,
+          "length": 12,
+          "key": 2526071291,
+          "original": "～勝利条件～"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0027",
+      "context": {
+        "voice": null
+      },
+      "original": "　敵艦隊の全滅",
+      "translation": "　적 함대 전멸",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4812,
+          "length": 14,
+          "key": 2526071291,
+          "original": "　敵艦隊の全滅"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0028",
+      "context": {
+        "voice": null
+      },
+      "original": "～敗北条件～",
+      "translation": "～패배조건～",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4844,
+          "length": 12,
+          "key": 2526071291,
+          "original": "～敗北条件～"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0029",
+      "context": {
+        "voice": null
+      },
+      "original": "　エルシオールの破壊",
+      "translation": "　에르시올 파괴",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4864,
+          "length": 20,
+          "key": 2526071291,
+          "original": "　エルシオールの破壊"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0030",
+      "context": {
+        "voice": null
+      },
+      "original": "　タイムオーバー",
+      "translation": "　타임 오버",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4892,
+          "length": 16,
+          "key": 2526071291,
+          "original": "　タイムオーバー"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0031",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "もう一度、作戦内容を確認するか？",
+      "translation": "다시 작전 내용을 확인할까？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5056,
+          "length": 32,
+          "key": 2526071291,
+          "original": "もう一度、作戦内容を確認するか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0032",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "そうだなあ……。",
+      "translation": "글쎄...",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5160,
+          "length": 16,
+          "key": 2526071291,
+          "original": "そうだなあ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0033",
+      "context": {
+        "voice": null
+      },
+      "original": "もう一度確認する",
+      "translation": "다시 확인한다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5212,
+          "length": 16,
+          "key": 2526071291,
+          "original": "もう一度確認する"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0034",
+      "context": {
+        "voice": null
+      },
+      "original": "その必要はない",
+      "translation": "그럴 필요 없다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5236,
+          "length": 14,
+          "key": 2526071291,
+          "original": "その必要はない"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0035",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "うん。念のため、もう一度確認しておこう。",
+      "translation": "응. 만약을 위해, 다시 한번 확인해 두자.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5372,
+          "length": 40,
+          "key": 2526071291,
+          "original": "うん。念のため、もう一度確認しておこう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0036",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "いや、その必要はない。みんな、準備はいいな？",
+      "translation": "아니, 그럴 필요는 없다. 모두, 준비는 됐나？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5528,
+          "length": 40,
+          "key": 2526071291,
+          "original": "いや、その必要はない。みんな、準備はいい"
+        },
+        {
+          "offset": 5576,
+          "length": 4,
+          "key": 2526071291,
+          "original": "な？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0037",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "エンジェル隊、出撃！",
+      "translation": "엔젤대, 출격！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5652,
+          "length": 20,
+          "key": 2526071291,
+          "original": "エンジェル隊、出撃！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0018b800:isb:0038",
+      "context": {
+        "voice": "GC438010.ogg"
+      },
+      "original": "了解！",
+      "translation": "네！",
+      "state": "shortened-reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5784,
+          "length": 6,
+          "key": 2526071291,
+          "original": "了解！"
+        }
+      ]
+    }
+  ]
+}

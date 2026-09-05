@@ -1,0 +1,13 @@
+{
+  "schema": "galaxy-angel-translation-index/v1",
+  "game": "Galaxy Angel (Japan) [PS2]",
+  "source_encoding": "cp932",
+  "target_language": "ko",
+  "scope": "all @N(...@@) scenario dialogue blocks in the supplied 271-file corpus",
+  "population": {
+    "dialogue_units": 0,
+    "id_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+  },
+  "release_approval": null,
+  "segments": []
+}

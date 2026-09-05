@@ -1,0 +1,3315 @@
+{
+  "unique_strings": 39,
+  "candidates": [
+    {
+      "id": "scenario_ini:00001",
+      "original": "ここはブリッジだ。\n",
+      "translation": "여기는 함교다.\n",
+      "state": "reviewed",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 54,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 54,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 54,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 54,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 54,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 25,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 54,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00002",
+      "original": "オレが不在の間は、レスターが代わりに指揮を\n",
+      "translation": "내가 없는 동안에는, 레스터가 대신해서 지휘를\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 55,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 55,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 55,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 55,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 55,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 26,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 55,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00003",
+      "original": "とってくれている。\n",
+      "translation": "맡아주고 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 28,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 56,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 28,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 56,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 28,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 56,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 56,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 28,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 56,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 27,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 28,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 56,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00004",
+      "original": "司令官室だ。\n",
+      "translation": "사령관실이다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 47,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 47,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 76,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 47,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 47,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 77,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 99,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 47,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 49,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 71,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 76,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 47,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 47,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 76,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 47,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 47,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 76,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 48,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 70,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 47,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 76,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00005",
+      "original": "オレの私室も兼ねている。\n",
+      "translation": "내 개인실을 겸하고 있다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 48,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 48,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 77,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 48,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 48,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 78,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 100,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 48,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 50,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 72,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 77,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 48,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 48,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 77,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 48,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 48,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 77,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 49,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 71,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 48,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 77,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00006",
+      "original": "銀河展望公園だ。\n",
+      "translation": "은하 전망 공원이다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 69,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 99,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 69,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 69,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 69,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 72,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 69,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 71,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00007",
+      "original": "植物がたくさんあって、落ち着く場所だな。\n",
+      "translation": "식물이 많이 있어서, 마음이 편안해지는 장소군.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 70,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 100,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 70,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 70,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 70,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 73,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 70,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 72,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00008",
+      "original": "食堂だ。\n",
+      "translation": "식당이다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 92,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 69,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 121,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 91,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 113,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 69,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 121,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 91,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 96,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 118,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 98,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 91,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 94,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 98,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 91,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 93,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 98,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 92,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 69,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 98,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00009",
+      "original": "今日のメニューは、なんだろうな？\n",
+      "translation": "오늘 메뉴는, 뭘까？\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 93,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 70,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 122,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 92,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 114,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 70,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 122,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 92,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 97,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 119,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 99,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 92,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 95,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 99,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 92,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 94,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 99,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 93,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 70,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 99,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00010",
+      "original": "ティーラウンジだ。\n",
+      "translation": "티 라운지다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 115,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 137,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 135,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 113,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 136,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 113,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 121,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 142,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 114,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 136,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 114,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 94,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00011",
+      "original": "エンジェル隊が、よくお茶を飲んでいる。\n",
+      "translation": "엔젤대가, 자주 차를 마시고 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 116,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 138,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 136,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 114,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 137,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 114,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 122,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 143,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 115,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 137,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 115,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 95,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00012",
+      "original": "コンビニだ。\n",
+      "translation": "편의점이다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 159,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 143,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 157,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 94,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 143,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 159,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 181,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 120,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 142,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 135,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 164,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 158,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 120,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 136,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 120,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00013",
+      "original": "買い物をしたいときには、ここが便利だな。\n",
+      "translation": "쇼핑을 하고 싶을 때는, 여기가 편리하군.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 160,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 144,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 158,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 95,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 144,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 160,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 182,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 121,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 143,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 136,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 165,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 159,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 121,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 137,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 121,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00014",
+      "original": "ミルフィーの部屋だ。\n",
+      "translation": "밀피의 방이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 181,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 165,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 179,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 116,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 227,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 140,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 157,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 116,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 180,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 115,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 158,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 116,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00015",
+      "original": "ミントの部屋だ。\n",
+      "translation": "민트의 방이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 203,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 116,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 224,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 138,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 164,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 179,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 138,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 202,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 137,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 181,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 138,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00016",
+      "original": "フォルテの部屋だ。\n",
+      "translation": "포르테의 방이다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 225,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 246,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 249,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 202,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 186,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 224,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 203,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00017",
+      "original": "ヴァニラの部屋だ。\n",
+      "translation": "바닐라의 방이다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 247,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 268,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 271,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 224,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 247,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 142,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 225,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00018",
+      "original": "ちとせの部屋だ。\n",
+      "translation": "치토세의 방이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 269,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 291,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 290,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 312,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 293,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 315,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 246,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 268,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 269,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 291,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 248,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 142,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00019",
+      "original": "トレーニングルームだ。\n",
+      "translation": "트레이닝 룸이다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 313,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 138,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 187,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 187,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 338,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 162,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 186,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 290,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 160,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 208,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 313,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 159,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 164,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 293,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 160,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 164,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00020",
+      "original": "格闘技の訓練や筋力トレーニングをするところ\n",
+      "translation": "격투기 훈련이나 근력 트레이닝을 하는 곳\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 314,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 139,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 188,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 188,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 339,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 163,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 187,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 291,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 161,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 209,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 314,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 160,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 165,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 294,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 161,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 165,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00021",
+      "original": "だな。\n",
+      "translation": "이군.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 315,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 140,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 189,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 189,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 340,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 164,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 188,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 292,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 162,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 210,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 315,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 161,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 166,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 295,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 162,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 166,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00022",
+      "original": "クジラルームだ。\n",
+      "translation": "쿠지라 룸이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 335,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 160,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 209,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 231,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 334,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 160,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 209,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 231,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 360,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 184,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 208,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 230,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 312,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 182,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 230,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 252,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 335,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 184,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 206,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 187,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 209,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 231,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 315,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 182,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 209,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 231,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00023",
+      "original": "クロミエに頼むとエンジェル隊の心の中を見せ\n",
+      "translation": "크로미에에게 부탁하면 엔젤대의 마음속을 보여\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 336,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 161,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 210,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 232,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 335,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 161,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 210,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 232,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 361,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 185,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 209,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 231,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 313,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 183,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 231,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 253,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 336,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 185,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 207,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 188,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 210,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 232,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 316,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 183,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 210,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 232,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00024",
+      "original": "てもらえるぞ。\n",
+      "translation": "줄 수 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 337,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 162,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 211,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 233,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 336,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 162,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 211,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 233,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 362,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 186,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 210,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 232,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 314,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 184,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 232,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 254,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 337,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 186,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 208,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 189,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 211,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 233,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 317,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 184,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 211,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 233,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00025",
+      "original": "ここは医務室だ。\n",
+      "translation": "여기는 의무실이다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 357,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 182,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 253,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 356,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 182,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 206,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 253,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 382,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 206,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 252,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 334,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 204,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 228,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 274,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 357,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 253,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 337,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 228,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 253,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00026",
+      "original": "病気やケガをしたらお世話になるところだな。\n",
+      "translation": "병이나 부상을 입으면 신세를 지게 되는 곳이군.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 358,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 183,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3102720,
+          "line": 254,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 357,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 183,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 207,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 254,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 383,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 207,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3119104,
+          "line": 253,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 335,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 205,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 229,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3127296,
+          "line": 275,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 358,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3135488,
+          "line": 254,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 338,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 229,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 254,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00027",
+      "original": "格納庫だ。\n",
+      "translation": "격납고다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 380,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 402,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 204,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 379,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 228,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 404,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 228,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 356,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 378,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 379,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 228,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 359,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 250,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00028",
+      "original": "エンジェル隊の紋章機が置かれている。\n",
+      "translation": "엔젤대의 문장기가 놓여 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 381,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 403,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 205,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 380,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 229,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 405,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 229,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 357,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 379,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 380,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 229,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 360,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 251,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00029",
+      "original": "射撃訓練場だ。\n",
+      "translation": "사격 훈련장이다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 424,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 250,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 401,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 426,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 401,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 401,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 381,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00030",
+      "original": "フォルテがよく銃を撃っているぞ。\n",
+      "translation": "포르테가 총을 잘 쏘고 있군.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3096576,
+          "line": 425,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 251,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 402,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 427,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3121152,
+          "line": 402,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3129344,
+          "line": 402,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 382,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00031",
+      "original": "ランファの部屋だ。\n",
+      "translation": "란파의 방이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 94,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3104768,
+          "line": 202,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3110912,
+          "line": 165,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00032",
+      "original": "シミュレーションルームだ。\n",
+      "translation": "시뮬레이션 룸이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 226,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 250,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 250,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 250,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 250,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00033",
+      "original": "仮想空間で戦闘訓練ができる装置がある。\n",
+      "translation": "가상 공간에서 전투 훈련을 할 수 있는 장치가 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3100672,
+          "line": 227,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3108864,
+          "line": 251,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3117056,
+          "line": 251,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3125248,
+          "line": 251,
+          "section": "COMMON"
+        },
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3133440,
+          "line": 251,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00034",
+      "original": "ルシャーティとヴァインの部屋だ。\n",
+      "translation": "루샤티와 바인의 방이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3112960,
+          "line": 204,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00035",
+      "original": "シヴァ様のお部屋だ。\n",
+      "translation": "시바 님의 방이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3137536,
+          "line": 271,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00036",
+      "original": "ここは倉庫だ。\n",
+      "translation": "여기는 창고다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 206,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00037",
+      "original": "日用品や食料なんかが収められている。\n",
+      "translation": "일용품이나 식료품 등이 보관되어 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3141632,
+          "line": 207,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00038",
+      "original": "ロッカールームだ。\n",
+      "translation": "락커룸이다.\n",
+      "state": "draft_tm",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 187,
+          "section": "COMMON"
+        }
+      ]
+    },
+    {
+      "id": "scenario_ini:00039",
+      "original": "訓練をした後は、ここでシャワーを浴びよう。\n",
+      "translation": "훈련을 마친 후에는, 여기서 샤워를 하자.\n",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO.DAT",
+          "block_offset": 3143680,
+          "line": 188,
+          "section": "COMMON"
+        }
+      ]
+    }
+  ],
+  "schema": "galaxy-angel-scenario-ini/v1"
+}

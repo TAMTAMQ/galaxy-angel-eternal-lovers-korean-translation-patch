@@ -1,0 +1,3797 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00102000.txt",
+    "encoding": "cp932",
+    "sha256": "7e7c644ae60384373abf2d8a589f052100d7cbf7f8faff7fb6f1756084a1bf90",
+    "tagged_records": 426,
+    "decoded_records": 426,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 3279141949,
+        "source": "header",
+        "end": 13004
+      },
+      {
+        "start": 13004,
+        "key_offset": 12988,
+        "key": 1818862405,
+        "source": "integer_literal",
+        "end": 23908
+      },
+      {
+        "start": 23908,
+        "key_offset": 23892,
+        "key": 3199062558,
+        "source": "integer_literal",
+        "end": 34528
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "ラウンジ・お茶会をするミントたち",
+      "translation": "라운지・다과회를 하는 민트 일행\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16,
+          "length": 32,
+          "key": 3279141949,
+          "original": "ラウンジ・お茶会をするミントたち"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0002",
+      "context": {
+        "voice": "GC325000.ogg"
+      },
+      "original": "さて、テーブルクロスも替えましたし、カップもポットも準備万端。あと他に必要なものは……。",
+      "translation": "자, 테이블보도 바꿨고 컵이랑 포트도 준비 완료. 또 필요한 게…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 308,
+          "length": 40,
+          "key": 3279141949,
+          "original": "さて、テーブルクロスも替えましたし、カッ"
+        },
+        {
+          "offset": 356,
+          "length": 40,
+          "key": 3279141949,
+          "original": "プもポットも準備万端。あと他に必要なもの"
+        },
+        {
+          "offset": 404,
+          "length": 8,
+          "key": 3279141949,
+          "original": "は……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0003",
+      "context": {
+        "voice": "GC325000.ogg"
+      },
+      "original": "やあ、ミント。どうしたんだい、ティーラウンジを飾ったりして。",
+      "translation": "야아, 민트. 왜 그래, 티 라운지를 꾸미고 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 484,
+          "length": 40,
+          "key": 3279141949,
+          "original": "やあ、ミント。どうしたんだい、ティーラウ"
+        },
+        {
+          "offset": 532,
+          "length": 20,
+          "key": 3279141949,
+          "original": "ンジを飾ったりして。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0004",
+      "context": {
+        "voice": "GC325001.ogg"
+      },
+      "original": "あら、タクトさん。ちょうどいい所にいらっしゃいましたわ。さあさあ席についてくださいな。",
+      "translation": "어머, 택트 씨. 마침 잘 오셨어요. 자자, 자리에 앉으세요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 700,
+          "length": 40,
+          "key": 3279141949,
+          "original": "あら、タクトさん。ちょうどいい所にいらっ"
+        },
+        {
+          "offset": 748,
+          "length": 40,
+          "key": 3279141949,
+          "original": "しゃいましたわ。さあさあ席についてくださ"
+        },
+        {
+          "offset": 796,
+          "length": 6,
+          "key": 3279141949,
+          "original": "いな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0005",
+      "context": {
+        "voice": "GC325001.ogg"
+      },
+      "original": "なんだい？　これからお茶をはじめるのかい？ちょっと豪勢な感じだけど。",
+      "translation": "뭐지？ 이제 차를 마시려는 건가？ 좀 호화로운 느낌인데.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 876,
+          "length": 42,
+          "key": 3279141949,
+          "original": "なんだい？　これからお茶をはじめるのかい？"
+        },
+        {
+          "offset": 928,
+          "length": 26,
+          "key": 3279141949,
+          "original": "ちょっと豪勢な感じだけど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0006",
+      "context": {
+        "voice": "GC325002.ogg"
+      },
+      "original": "ただのお茶ではなく、お茶会ですわ。先ほどは雨が降ってしまいましたので、代わりにこのティーラウンジでと思いまして。",
+      "translation": "그냥 차가 아니라 다과회예요. 아까 비가 내렸으니 대신 이 티 라운지에서 하려고요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1104,
+          "length": 40,
+          "key": 3279141949,
+          "original": "ただのお茶ではなく、お茶会ですわ。先ほど"
+        },
+        {
+          "offset": 1152,
+          "length": 40,
+          "key": 3279141949,
+          "original": "は雨が降ってしまいましたので、代わりにこ"
+        },
+        {
+          "offset": 1200,
+          "length": 32,
+          "key": 3279141949,
+          "original": "のティーラウンジでと思いまして。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0007",
+      "context": {
+        "voice": "GC325003.ogg"
+      },
+      "original": "ルシャーティさんとヴァインさんのために、私が企画したんですの。",
+      "translation": "루샤티 씨와 바인 씨를 위해서 제가 기획한 거예요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1380,
+          "length": 40,
+          "key": 3279141949,
+          "original": "ルシャーティさんとヴァインさんのために、"
+        },
+        {
+          "offset": 1428,
+          "length": 22,
+          "key": 3279141949,
+          "original": "私が企画したんですの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0008",
+      "context": {
+        "voice": "GC325004.ogg"
+      },
+      "original": "あのミントさん。お皿はこちらに並べるのでよいのでしょうか？",
+      "translation": "저기, 민트 씨. 접시는 이쪽에 나열하면 될까요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1600,
+          "length": 40,
+          "key": 3279141949,
+          "original": "あのミントさん。お皿はこちらに並べるので"
+        },
+        {
+          "offset": 1648,
+          "length": 18,
+          "key": 3279141949,
+          "original": "よいのでしょうか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0009",
+      "context": {
+        "voice": "GC325005.ogg"
+      },
+      "original": "あらあら、ルシャーティさんはお客様なんですから、そんなことは任せていただければいいんですのよ。",
+      "translation": "어머머, 루샤티 씨는 손님이시니까 그런 건 제게 맡겨두시면 돼요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1816,
+          "length": 40,
+          "key": 3279141949,
+          "original": "あらあら、ルシャーティさんはお客様なんで"
+        },
+        {
+          "offset": 1864,
+          "length": 40,
+          "key": 3279141949,
+          "original": "すから、そんなことは任せていただければい"
+        },
+        {
+          "offset": 1912,
+          "length": 14,
+          "key": 3279141949,
+          "original": "いんですのよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0010",
+      "context": {
+        "voice": "GC325006.ogg"
+      },
+      "original": "そ……そうですか。でも、お手伝いも……。",
+      "translation": "그…… 그렇군요. 하지만 돕고 싶은데…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2076,
+          "length": 40,
+          "key": 3279141949,
+          "original": "そ……そうですか。でも、お手伝いも……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0011",
+      "context": {
+        "voice": "GC325007.ogg"
+      },
+      "original": "さあ、こちらに座ってくださいませ。もうほとんど準備も終わっていますから。",
+      "translation": "자, 이쪽에 앉으세요. 이제 거의 준비가 끝났으니까요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2264,
+          "length": 40,
+          "key": 3279141949,
+          "original": "さあ、こちらに座ってくださいませ。もうほ"
+        },
+        {
+          "offset": 2312,
+          "length": 32,
+          "key": 3279141949,
+          "original": "とんど準備も終わっていますから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0012",
+      "context": {
+        "voice": "GC325008.ogg"
+      },
+      "original": "姉さん。ミントさんもああ言ってくださっていることだし。",
+      "translation": "언니. 민트 씨도 저렇게 말씀하시고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2492,
+          "length": 40,
+          "key": 3279141949,
+          "original": "姉さん。ミントさんもああ言ってくださって"
+        },
+        {
+          "offset": 2540,
+          "length": 14,
+          "key": 3279141949,
+          "original": "いることだし。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0013",
+      "context": {
+        "voice": "GC325009.ogg"
+      },
+      "original": "そうね、ヴァイン。……では、お言葉に甘えさせていただきます。",
+      "translation": "그렇네, 바인. ……그럼, 호의를 받아들일게.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2704,
+          "length": 40,
+          "key": 3279141949,
+          "original": "そうね、ヴァイン。……では、お言葉に甘え"
+        },
+        {
+          "offset": 2752,
+          "length": 20,
+          "key": 3279141949,
+          "original": "させていただきます。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0014",
+      "context": {
+        "voice": "GC325009.ogg"
+      },
+      "original": "ところで、お茶会ということは、まだ他にも誰か来るのかな？",
+      "translation": "그런데 다과회라면 아직 다른 사람도 오는 거야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2844,
+          "length": 40,
+          "key": 3279141949,
+          "original": "ところで、お茶会ということは、まだ他にも"
+        },
+        {
+          "offset": 2892,
+          "length": 16,
+          "key": 3279141949,
+          "original": "誰か来るのかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0015",
+      "context": {
+        "voice": "GC325010.ogg"
+      },
+      "original": "ミルフィーさんとランファさんがいらっしゃいますわ。時間は伝えてありますからもうじきお見えになると思うのですけれど。",
+      "translation": "밀피 씨와 란파 씨가 오실 거예요. 시간은 알려드렸으니 곧 도착하실 거예요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3056,
+          "length": 40,
+          "key": 3279141949,
+          "original": "ミルフィーさんとランファさんがいらっしゃ"
+        },
+        {
+          "offset": 3104,
+          "length": 40,
+          "key": 3279141949,
+          "original": "いますわ。時間は伝えてありますからもうじ"
+        },
+        {
+          "offset": 3152,
+          "length": 34,
+          "key": 3279141949,
+          "original": "きお見えになると思うのですけれど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0016",
+      "context": {
+        "voice": "GC325011.ogg"
+      },
+      "original": "やっほ～！　ミント、お茶会にお招きありがとう！",
+      "translation": "얏호～！ 민트, 다과회에 초대해줘서 고마워！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3336,
+          "length": 40,
+          "key": 3279141949,
+          "original": "やっほ～！　ミント、お茶会にお招きありが"
+        },
+        {
+          "offset": 3384,
+          "length": 6,
+          "key": 3279141949,
+          "original": "とう！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0017",
+      "context": {
+        "voice": "GC325012.ogg"
+      },
+      "original": "来たわよミント！　わー、いつもとまた雰囲気違うわね。",
+      "translation": "왔어, 민트！ 와아, 평소랑 또 분위기가 다르네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3540,
+          "length": 40,
+          "key": 3279141949,
+          "original": "来たわよミント！　わー、いつもとまた雰囲"
+        },
+        {
+          "offset": 3588,
+          "length": 12,
+          "key": 3279141949,
+          "original": "気違うわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0018",
+      "context": {
+        "voice": "GC325013.ogg"
+      },
+      "original": "ミルフィーさん、ランファさん、ようこそいらっしゃいました。今回はちょっと趣向を変えてみたんですの。",
+      "translation": "밀피 씨, 란파 씨, 어서 오세요. 이번에는 좀 색다르게 준비해 봤어요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3748,
+          "length": 40,
+          "key": 3279141949,
+          "original": "ミルフィーさん、ランファさん、ようこそい"
+        },
+        {
+          "offset": 3796,
+          "length": 40,
+          "key": 3279141949,
+          "original": "らっしゃいました。今回はちょっと趣向を変"
+        },
+        {
+          "offset": 3844,
+          "length": 18,
+          "key": 3279141949,
+          "original": "えてみたんですの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0019",
+      "context": {
+        "voice": "GC325014.ogg"
+      },
+      "original": "あ、あたしタルト焼いてきたんだけど、一緒に並べてもいい？",
+      "translation": "아, 나 타르트 구워왔는데 같이 놓아도 돼？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4012,
+          "length": 40,
+          "key": 3279141949,
+          "original": "あ、あたしタルト焼いてきたんだけど、一緒"
+        },
+        {
+          "offset": 4060,
+          "length": 16,
+          "key": 3279141949,
+          "original": "に並べてもいい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0020",
+      "context": {
+        "voice": "GC325015.ogg"
+      },
+      "original": "どうぞどうぞ、ミルフィーさんのお菓子でしたらいつでも大歓迎ですわ。",
+      "translation": "어서 오세요, 밀피 씨의 과자라면 언제든 대환영이에요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4224,
+          "length": 40,
+          "key": 3279141949,
+          "original": "どうぞどうぞ、ミルフィーさんのお菓子でし"
+        },
+        {
+          "offset": 4272,
+          "length": 26,
+          "key": 3279141949,
+          "original": "たらいつでも大歓迎ですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0021",
+      "context": {
+        "voice": "GC325016.ogg"
+      },
+      "original": "じゃあ、これで全員そろったし、お茶もちょうどいい具合なんじゃない？",
+      "translation": "그럼 이걸로 다 모였고, 차도 딱 적당한 타이밍 아냐？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4448,
+          "length": 40,
+          "key": 3279141949,
+          "original": "じゃあ、これで全員そろったし、お茶もちょ"
+        },
+        {
+          "offset": 4496,
+          "length": 26,
+          "key": 3279141949,
+          "original": "うどいい具合なんじゃない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0022",
+      "context": {
+        "voice": "GC325017.ogg"
+      },
+      "original": "はい、ランファさん。お茶の方、皆さんのカップに注いでいただけますか。",
+      "translation": "네, 란파 씨. 차를 여러분의 컵에 따라 주시겠어요?\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4672,
+          "length": 42,
+          "key": 3279141949,
+          "original": "はい、ランファさん。お茶の方、皆さんのカッ"
+        },
+        {
+          "offset": 4724,
+          "length": 26,
+          "key": 3279141949,
+          "original": "プに注いでいただけますか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0023",
+      "context": {
+        "voice": "GC325018.ogg"
+      },
+      "original": "オッケー。うーん、とってもいい香り。",
+      "translation": "오케이. 음～ 정말 좋은 향기다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4900,
+          "length": 36,
+          "key": 3279141949,
+          "original": "オッケー。うーん、とってもいい香り。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0024",
+      "context": {
+        "voice": "GC325019.ogg"
+      },
+      "original": "みなさん、手慣れていらっしゃいますね。よくお茶会を開かれるのですか？",
+      "translation": "여러분, 아주 능숙하시네요. 다과회를 자주 여시나요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5084,
+          "length": 40,
+          "key": 3279141949,
+          "original": "みなさん、手慣れていらっしゃいますね。よ"
+        },
+        {
+          "offset": 5132,
+          "length": 28,
+          "key": 3279141949,
+          "original": "くお茶会を開かれるのですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0025",
+      "context": {
+        "voice": "GC325020.ogg"
+      },
+      "original": "そうですわね。私たちにとってお茶会は大事なコミュニケーション手段のひとつなんです。ですから、自然と回数も増えますわね。",
+      "translation": "그렇죠. 저희에게 다과회는 중요한 소통 수단 중 하나거든요. 그래서 자연스럽게 횟수도 늘어나네요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5308,
+          "length": 40,
+          "key": 3279141949,
+          "original": "そうですわね。私たちにとってお茶会は大事"
+        },
+        {
+          "offset": 5356,
+          "length": 42,
+          "key": 3279141949,
+          "original": "なコミュニケーション手段のひとつなんです。"
+        },
+        {
+          "offset": 5408,
+          "length": 36,
+          "key": 3279141949,
+          "original": "ですから、自然と回数も増えますわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0026",
+      "context": {
+        "voice": "GC325021.ogg"
+      },
+      "original": "ミルフィーさんの手作りお菓子も、定番のようですね。",
+      "translation": "밀피 씨의 수제 과자도 단골 메뉴인 것 같군요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5592,
+          "length": 40,
+          "key": 3279141949,
+          "original": "ミルフィーさんの手作りお菓子も、定番のよ"
+        },
+        {
+          "offset": 5640,
+          "length": 10,
+          "key": 3279141949,
+          "original": "うですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0027",
+      "context": {
+        "voice": "GC325022.ogg"
+      },
+      "original": "はい！　おいしいものがあるとお茶会が盛りあがるんです。だからいつもなにか作っていかなくっちゃって思うんですよ。",
+      "translation": "네！ 맛있는 게 있으면 다과회가 활기차지거든요. 그래서 항상 뭔가를 만들어 가야겠다고 생각해요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5800,
+          "length": 40,
+          "key": 3279141949,
+          "original": "はい！　おいしいものがあるとお茶会が盛り"
+        },
+        {
+          "offset": 5848,
+          "length": 40,
+          "key": 3279141949,
+          "original": "あがるんです。だからいつもなにか作ってい"
+        },
+        {
+          "offset": 5896,
+          "length": 30,
+          "key": 3279141949,
+          "original": "かなくっちゃって思うんですよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0028",
+      "context": {
+        "voice": "GC325023.ogg"
+      },
+      "original": "ミルフィーさんが何かひとつでも持ってきてくださると、それだけで一気にお茶会が華やかになりますわ。",
+      "translation": "밀피 씨가 무엇 하나라도 가져와 주시면, 그것만으로 다과회가 확 화사해져요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6076,
+          "length": 40,
+          "key": 3279141949,
+          "original": "ミルフィーさんが何かひとつでも持ってきて"
+        },
+        {
+          "offset": 6124,
+          "length": 40,
+          "key": 3279141949,
+          "original": "くださると、それだけで一気にお茶会が華や"
+        },
+        {
+          "offset": 6172,
+          "length": 16,
+          "key": 3279141949,
+          "original": "かになりますわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0029",
+      "context": {
+        "voice": "GC325024.ogg"
+      },
+      "original": "えへへ、そう？　うれしいなあ。",
+      "translation": "에헤헤, 그래？ 기쁘네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6336,
+          "length": 30,
+          "key": 3279141949,
+          "original": "えへへ、そう？　うれしいなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0030",
+      "context": {
+        "voice": "GC325025.ogg"
+      },
+      "original": "アタシもなんだか待ちきれなくなってきちゃった。ミント、まだあ？",
+      "translation": "나도 왠지 기다리기 힘들어졌어. 민트, 아직이야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6516,
+          "length": 42,
+          "key": 3279141949,
+          "original": "アタシもなんだか待ちきれなくなってきちゃっ"
+        },
+        {
+          "offset": 6568,
+          "length": 20,
+          "key": 3279141949,
+          "original": "た。ミント、まだあ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0031",
+      "context": {
+        "voice": "GC325026.ogg"
+      },
+      "original": "そうですわね。それではさっそく、始めましょうか。",
+      "translation": "그렇네요. 그럼 바로 시작해 볼까요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6736,
+          "length": 42,
+          "key": 3279141949,
+          "original": "そうですわね。それではさっそく、始めましょ"
+        },
+        {
+          "offset": 6788,
+          "length": 6,
+          "key": 3279141949,
+          "original": "うか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0032",
+      "context": {
+        "voice": "GC325027.ogg"
+      },
+      "original": "そうこなくっちゃ！",
+      "translation": "그래야지！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6944,
+          "length": 18,
+          "key": 3279141949,
+          "original": "そうこなくっちゃ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0033",
+      "context": {
+        "voice": "GC325028.ogg"
+      },
+      "original": "それではルシャーティさん、ヴァインさん。おふたりが私たちのことをますます身近に感じていただければ幸いですわ。",
+      "translation": "그럼 루샤티 씨, 바인 씨. 두 분이 저희를 더욱 가깝게 느껴주신다면 좋겠어요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7112,
+          "length": 40,
+          "key": 3279141949,
+          "original": "それではルシャーティさん、ヴァインさん。"
+        },
+        {
+          "offset": 7160,
+          "length": 40,
+          "key": 3279141949,
+          "original": "おふたりが私たちのことをますます身近に感"
+        },
+        {
+          "offset": 7208,
+          "length": 28,
+          "key": 3279141949,
+          "original": "じていただければ幸いですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0034",
+      "context": {
+        "voice": "GC325029.ogg"
+      },
+      "original": "はい、私たちもみなさんに少しでもお近づきになれればと思っています。",
+      "translation": "네, 저희도 여러분과 조금이라도 가까워지길 바라고 있어요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7384,
+          "length": 40,
+          "key": 3279141949,
+          "original": "はい、私たちもみなさんに少しでもお近づき"
+        },
+        {
+          "offset": 7432,
+          "length": 26,
+          "key": 3279141949,
+          "original": "になれればと思っています。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0035",
+      "context": {
+        "voice": "GC325030.ogg"
+      },
+      "original": "じゃあみんな、お茶でかんぱいだね！　かんぱーい！",
+      "translation": "자 그럼 다들, 차로 건배하자！ 건배～！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7608,
+          "length": 40,
+          "key": 3279141949,
+          "original": "じゃあみんな、お茶でかんぱいだね！　かん"
+        },
+        {
+          "offset": 7656,
+          "length": 8,
+          "key": 3279141949,
+          "original": "ぱーい！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0036",
+      "context": {
+        "voice": "GC325030.ogg"
+      },
+      "original": "ス……スプリンクラーは大丈夫かな……？",
+      "translation": "스…… 스프링클러는 괜찮을까……？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7736,
+          "length": 38,
+          "key": 3279141949,
+          "original": "ス……スプリンクラーは大丈夫かな……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0037",
+      "context": {
+        "voice": "GC325031.ogg"
+      },
+      "original": "大丈夫……のようですわね。",
+      "translation": "괜찮은…… 것 같네요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7924,
+          "length": 26,
+          "key": 3279141949,
+          "original": "大丈夫……のようですわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0038",
+      "context": {
+        "voice": "GC325032.ogg"
+      },
+      "original": "さあ、焼きたてのタルトですよ。たくさん食べてくださいね。",
+      "translation": "자, 갓 구운 타르트예요. 많이 드세요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8100,
+          "length": 40,
+          "key": 3279141949,
+          "original": "さあ、焼きたてのタルトですよ。たくさん食"
+        },
+        {
+          "offset": 8148,
+          "length": 16,
+          "key": 3279141949,
+          "original": "べてくださいね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0039",
+      "context": {
+        "voice": "GC325033.ogg"
+      },
+      "original": "あ、はい。いただきます。",
+      "translation": "아, 네. 잘 먹겠습니다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8312,
+          "length": 24,
+          "key": 3279141949,
+          "original": "あ、はい。いただきます。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0040",
+      "context": {
+        "voice": "GC325034.ogg"
+      },
+      "original": "ヴァインさん、お茶のお代わりはいかがですか。",
+      "translation": "바인 씨, 차를 더 드릴까요?\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8484,
+          "length": 40,
+          "key": 3279141949,
+          "original": "ヴァインさん、お茶のお代わりはいかがです"
+        },
+        {
+          "offset": 8532,
+          "length": 4,
+          "key": 3279141949,
+          "original": "か。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0041",
+      "context": {
+        "voice": "GC325035.ogg"
+      },
+      "original": "はい、いただきます。",
+      "translation": "네, 잘 먹겠습니다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8684,
+          "length": 20,
+          "key": 3279141949,
+          "original": "はい、いただきます。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0042",
+      "context": {
+        "voice": "GC325036.ogg"
+      },
+      "original": "このタルト、とてもおいしいですね。",
+      "translation": "이 타르트, 정말 맛있네요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8852,
+          "length": 34,
+          "key": 3279141949,
+          "original": "このタルト、とてもおいしいですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0043",
+      "context": {
+        "voice": "GC325037.ogg"
+      },
+      "original": "ありがとうございます！　他にももっとおいしいお菓子がありますから、今度作ってきますね！",
+      "translation": "감사합니다！ 다른 더 맛있는 과자도 있으니까 다음에 만들어 올게요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9036,
+          "length": 40,
+          "key": 3279141949,
+          "original": "ありがとうございます！　他にももっとおい"
+        },
+        {
+          "offset": 9084,
+          "length": 40,
+          "key": 3279141949,
+          "original": "しいお菓子がありますから、今度作ってきま"
+        },
+        {
+          "offset": 9132,
+          "length": 6,
+          "key": 3279141949,
+          "original": "すね！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0044",
+      "context": {
+        "voice": "GC325038.ogg"
+      },
+      "original": "ランファさん、お茶のお代わりは？",
+      "translation": "란파 씨, 차 더 드릴까요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9288,
+          "length": 32,
+          "key": 3279141949,
+          "original": "ランファさん、お茶のお代わりは？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0045",
+      "context": {
+        "voice": "GC325039.ogg"
+      },
+      "original": "あ、ありがとう。いただくわ。",
+      "translation": "아, 고마워. 마실게.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9468,
+          "length": 28,
+          "key": 3279141949,
+          "original": "あ、ありがとう。いただくわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0046",
+      "context": {
+        "voice": "GC325039.ogg"
+      },
+      "original": "うん、なかなかいい雰囲気になってきたね。",
+      "translation": "응, 제법 분위기가 좋아졌네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9568,
+          "length": 40,
+          "key": 3279141949,
+          "original": "うん、なかなかいい雰囲気になってきたね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0047",
+      "context": {
+        "voice": "GC325040.ogg"
+      },
+      "original": "ええ、お茶会作戦、大成功ですわ！",
+      "translation": "네, 다과회 작전, 대성공이에요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9756,
+          "length": 32,
+          "key": 3279141949,
+          "original": "ええ、お茶会作戦、大成功ですわ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0048",
+      "context": {
+        "voice": "GC325041.ogg"
+      },
+      "original": "ミントさん、こんな立派なお茶会を開いていただいて、なんだかもったいないです。",
+      "translation": "민트 씨, 이런 훌륭한 다과회를 열어주시다니 좀 아까울 정도예요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9936,
+          "length": 40,
+          "key": 3279141949,
+          "original": "ミントさん、こんな立派なお茶会を開いてい"
+        },
+        {
+          "offset": 9984,
+          "length": 36,
+          "key": 3279141949,
+          "original": "ただいて、なんだかもったいないです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0049",
+      "context": {
+        "voice": "GC325042.ogg"
+      },
+      "original": "これぐらい、何回でも何十回でもわけないですわ。そうですわよね、タクトさん。",
+      "translation": "이 정도는 몇 번이고, 수십 번이라도 괜찮아요. 그렇죠, 택트 씨?\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10168,
+          "length": 40,
+          "key": 3279141949,
+          "original": "これぐらい、何回でも何十回でもわけないで"
+        },
+        {
+          "offset": 10216,
+          "length": 34,
+          "key": 3279141949,
+          "original": "すわ。そうですわよね、タクトさん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0050",
+      "context": {
+        "voice": "GC325042.ogg"
+      },
+      "original": "うん、こういう集まりならいつでも大歓迎だよ。",
+      "translation": "응, 이런 모임이라면 언제든 대환영이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10324,
+          "length": 40,
+          "key": 3279141949,
+          "original": "うん、こういう集まりならいつでも大歓迎だ"
+        },
+        {
+          "offset": 10372,
+          "length": 4,
+          "key": 3279141949,
+          "original": "よ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0051",
+      "context": {
+        "voice": "GC325043.ogg"
+      },
+      "original": "私たちにできることならなんでも致しますわ。ＥＤＥＮを離れられて、落ち着かない気持ちは私たちにもわかるんです。",
+      "translation": "저희가 할 수 있는 일이라면 무엇이든 할게요. EDEN을 떠나 마음 편치 않은 기분은 저희도 잘 아니까요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10524,
+          "length": 42,
+          "key": 3279141949,
+          "original": "私たちにできることならなんでも致しますわ。"
+        },
+        {
+          "offset": 10576,
+          "length": 40,
+          "key": 3279141949,
+          "original": "ＥＤＥＮを離れられて、落ち着かない気持ち"
+        },
+        {
+          "offset": 10624,
+          "length": 26,
+          "key": 3279141949,
+          "original": "は私たちにもわかるんです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0052",
+      "context": {
+        "voice": "GC325044.ogg"
+      },
+      "original": "ミントさん……。",
+      "translation": "민트 씨…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10800,
+          "length": 16,
+          "key": 3279141949,
+          "original": "ミントさん……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0053",
+      "context": {
+        "voice": "GC325045.ogg"
+      },
+      "original": "最初にトランスバール本星が襲われて離れざるを得なかったときは、私たちもずいぶん心細い思いをしましたから。",
+      "translation": "처음에 트랜스벌 본성이 습격받아 떠날 수밖에 없었을 때는, 저희도 무척 불안했으니까요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10964,
+          "length": 40,
+          "key": 3279141949,
+          "original": "最初にトランスバール本星が襲われて離れざ"
+        },
+        {
+          "offset": 11012,
+          "length": 40,
+          "key": 3279141949,
+          "original": "るを得なかったときは、私たちもずいぶん心"
+        },
+        {
+          "offset": 11060,
+          "length": 24,
+          "key": 3279141949,
+          "original": "細い思いをしましたから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0054",
+      "context": {
+        "voice": "GC325046.ogg"
+      },
+      "original": "そうですね。あのときは逃げて逃げて、すごくいっぱい逃げました。",
+      "translation": "맞아요. 그때는 도망치고 또 도망치며 정말 많이 도망 다녔죠.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11232,
+          "length": 40,
+          "key": 3279141949,
+          "original": "そうですね。あのときは逃げて逃げて、すご"
+        },
+        {
+          "offset": 11280,
+          "length": 22,
+          "key": 3279141949,
+          "original": "くいっぱい逃げました。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0055",
+      "context": {
+        "voice": "GC325047.ogg"
+      },
+      "original": "時間はかかったけど、結局トランスバール本星を取り戻すことはできたしね。",
+      "translation": "시간은 걸렸지만, 결국 트랜스벌 본성을 되찾을 수 있었으니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11452,
+          "length": 40,
+          "key": 3279141949,
+          "original": "時間はかかったけど、結局トランスバール本"
+        },
+        {
+          "offset": 11500,
+          "length": 30,
+          "key": 3279141949,
+          "original": "星を取り戻すことはできたしね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0056",
+      "context": {
+        "voice": "GC325048.ogg"
+      },
+      "original": "それを見事に実現したのが、ここにいるタクトさんです。",
+      "translation": "그것을 멋지게 실현한 분이 바로 여기 계신 택트씨예요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11680,
+          "length": 40,
+          "key": 3279141949,
+          "original": "それを見事に実現したのが、ここにいるタク"
+        },
+        {
+          "offset": 11728,
+          "length": 12,
+          "key": 3279141949,
+          "original": "トさんです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0057",
+      "context": {
+        "voice": "GC325048.ogg"
+      },
+      "original": "まあ、それもエンジェル隊の実力があればこそだよ。",
+      "translation": "뭐,그것도 엔젤대의 실력이 있었기에가능한일이지.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11812,
+          "length": 40,
+          "key": 3279141949,
+          "original": "まあ、それもエンジェル隊の実力があればこ"
+        },
+        {
+          "offset": 11860,
+          "length": 8,
+          "key": 3279141949,
+          "original": "そだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0058",
+      "context": {
+        "voice": "GC325049.ogg"
+      },
+      "original": "この通り、タクトさんは余裕綽々ですから、どんどん頼ってもいいと思いましてよ。",
+      "translation": "보시다시피 택트 씨는 여유만만하시니까, 마음껏 의지해도 괜찮을 것 같아서요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12016,
+          "length": 40,
+          "key": 3279141949,
+          "original": "この通り、タクトさんは余裕綽々ですから、"
+        },
+        {
+          "offset": 12064,
+          "length": 36,
+          "key": 3279141949,
+          "original": "どんどん頼ってもいいと思いましてよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0059",
+      "context": {
+        "voice": "GC325050.ogg"
+      },
+      "original": "みなさん、本当に頼もしいですね。タクトさん、どうか、よろしくお願いします。",
+      "translation": "여러분, 정말 든든하네요. 택트 씨, 부디 잘 부탁드려요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12248,
+          "length": 40,
+          "key": 3279141949,
+          "original": "みなさん、本当に頼もしいですね。タクトさ"
+        },
+        {
+          "offset": 12296,
+          "length": 34,
+          "key": 3279141949,
+          "original": "ん、どうか、よろしくお願いします。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0060",
+      "context": {
+        "voice": "GC325050.ogg"
+      },
+      "original": "うーん、期待されちゃうと、弱いんだよなあ。",
+      "translation": "으음, 기대를 받으면 약해진단 말이지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12404,
+          "length": 42,
+          "key": 3279141949,
+          "original": "うーん、期待されちゃうと、弱いんだよなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0061",
+      "context": {
+        "voice": "GC325051.ogg"
+      },
+      "original": "お手並み拝見ですね。",
+      "translation": "실력을 보여줄때군요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12596,
+          "length": 20,
+          "key": 3279141949,
+          "original": "お手並み拝見ですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0062",
+      "context": {
+        "voice": "GC325051.ogg"
+      },
+      "original": "うん。そういうことにしといてくれるかな。それじゃあ、オレは見回りに戻るよ。お茶、ごちそうさま。",
+      "translation": "응. 그렇게 해두라고. 그럼 난 순찰하러 돌아갈게. 차 잘 마셨어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12688,
+          "length": 40,
+          "key": 3279141949,
+          "original": "うん。そういうことにしといてくれるかな。"
+        },
+        {
+          "offset": 12736,
+          "length": 40,
+          "key": 3279141949,
+          "original": "それじゃあ、オレは見回りに戻るよ。お茶、"
+        },
+        {
+          "offset": 12784,
+          "length": 14,
+          "key": 3279141949,
+          "original": "ごちそうさま。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0063",
+      "context": {
+        "voice": "GC325052.ogg"
+      },
+      "original": "はい。お粗末様でした。",
+      "translation": "네.대접이부족했습니다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12948,
+          "length": 22,
+          "key": 3279141949,
+          "original": "はい。お粗末様でした。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0064",
+      "context": {
+        "voice": "GC325052.ogg"
+      },
+      "original": "コンビニ・日用品を物色するミントとＥＤＥＮ姉弟",
+      "translation": "편의점・생필품을 구경하는 민트와 EDEN 남매\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13004,
+          "length": 46,
+          "key": 1818862405,
+          "original": "コンビニ・日用品を物色するミントとＥＤＥＮ姉弟"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0065",
+      "context": {
+        "voice": "GC325052.ogg"
+      },
+      "original": "おや？　みんな揃って何を買っているんだい？",
+      "translation": "어라？ 다들 모여서 뭘 사고 있는 거니？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13192,
+          "length": 42,
+          "key": 1818862405,
+          "original": "おや？　みんな揃って何を買っているんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0066",
+      "context": {
+        "voice": "GC325100.ogg"
+      },
+      "original": "あ、タクトさん。実はルシャーティさんとヴァインさんのために、日用品の買い足しをしておこうと思いまして。",
+      "translation": "아, 택트 씨. 사실 루샤티 씨와 바인 씨를 위해서 생필품을 좀 더 사두려고요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13428,
+          "length": 42,
+          "key": 1818862405,
+          "original": "あ、タクトさん。実はルシャーティさんとヴァ"
+        },
+        {
+          "offset": 13480,
+          "length": 40,
+          "key": 1818862405,
+          "original": "インさんのために、日用品の買い足しをして"
+        },
+        {
+          "offset": 13528,
+          "length": 20,
+          "key": 1818862405,
+          "original": "おこうと思いまして。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0067",
+      "context": {
+        "voice": "GC325100.ogg"
+      },
+      "original": "なにか足りないものがあったのかい？",
+      "translation": "뭐가 부족한 거라도 있어？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13620,
+          "length": 34,
+          "key": 1818862405,
+          "original": "なにか足りないものがあったのかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0068",
+      "context": {
+        "voice": "GC325101.ogg"
+      },
+      "original": "足りないものというより、おもに好みの問題ですわね。",
+      "translation": "부족하다기보다, 주로 취향의 문제예요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13804,
+          "length": 40,
+          "key": 1818862405,
+          "original": "足りないものというより、おもに好みの問題"
+        },
+        {
+          "offset": 13852,
+          "length": 10,
+          "key": 1818862405,
+          "original": "ですわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0069",
+      "context": {
+        "voice": "GC325101.ogg"
+      },
+      "original": "好みの問題？",
+      "translation": "취향의문제？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13936,
+          "length": 12,
+          "key": 1818862405,
+          "original": "好みの問題？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0070",
+      "context": {
+        "voice": "GC325102.ogg"
+      },
+      "original": "なんでもミントさんがおっしゃるには、よりよい品質の物を宇宙コンビニで手に入れられるとかで。",
+      "translation": "민트 씨 말씀으로는, 더 좋은 품질의 물건을 우주 편의점에서 구할 수 있다고 해서요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14096,
+          "length": 40,
+          "key": 1818862405,
+          "original": "なんでもミントさんがおっしゃるには、より"
+        },
+        {
+          "offset": 14144,
+          "length": 40,
+          "key": 1818862405,
+          "original": "よい品質の物を宇宙コンビニで手に入れられ"
+        },
+        {
+          "offset": 14192,
+          "length": 10,
+          "key": 1818862405,
+          "original": "るとかで。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0071",
+      "context": {
+        "voice": "GC325102.ogg"
+      },
+      "original": "あれ？　エルシオールのゲストルームはけっこういい物を揃えてると思ってたけど。",
+      "translation": "어라？ 에르시올의 게스트룸은 꽤 좋은 것들이 갖춰져 있다고 생각했는데.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14276,
+          "length": 40,
+          "key": 1818862405,
+          "original": "あれ？　エルシオールのゲストルームはけっ"
+        },
+        {
+          "offset": 14324,
+          "length": 36,
+          "key": 1818862405,
+          "original": "こういい物を揃えてると思ってたけど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0072",
+      "context": {
+        "voice": "GC325103.ogg"
+      },
+      "original": "でもタクトさん。洗面所に置いてある歯ブラシをご覧になったことがありますか？",
+      "translation": "하지만 택트 씨. 세면실에 놓인 칫솔을 보신 적이 있나요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14508,
+          "length": 40,
+          "key": 1818862405,
+          "original": "でもタクトさん。洗面所に置いてある歯ブラ"
+        },
+        {
+          "offset": 14556,
+          "length": 34,
+          "key": 1818862405,
+          "original": "シをご覧になったことがありますか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0073",
+      "context": {
+        "voice": "GC325104.ogg"
+      },
+      "original": "毛先が真っ平らでこんな小さな歯磨きチューブが入ってるだけなんですのよ。",
+      "translation": "모가 아주 평평하고 이런 작은 치약만 들어있을 뿐이라니까요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14704,
+          "length": 40,
+          "key": 1818862405,
+          "original": "毛先が真っ平らでこんな小さな歯磨きチュー"
+        },
+        {
+          "offset": 14752,
+          "length": 30,
+          "key": 1818862405,
+          "original": "ブが入ってるだけなんですのよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0074",
+      "context": {
+        "voice": "GC325104.ogg"
+      },
+      "original": "あ、確かにそんな感じだね。",
+      "translation": "아, 확실히 그런 느낌이네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14856,
+          "length": 26,
+          "key": 1818862405,
+          "original": "あ、確かにそんな感じだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0075",
+      "context": {
+        "voice": "GC325105.ogg"
+      },
+      "original": "シャンプーも石けんも、小さいのが並んでるだけなんですから、もっと自分にあったものを選んでいただきたいと思いまして。",
+      "translation": "샴푸도 비누도 작은 것만 놓여 있으니까, 좀 더 자신에게 맞는 것을 고르셨으면 해서요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15032,
+          "length": 40,
+          "key": 1818862405,
+          "original": "シャンプーも石けんも、小さいのが並んでる"
+        },
+        {
+          "offset": 15080,
+          "length": 40,
+          "key": 1818862405,
+          "original": "だけなんですから、もっと自分にあったもの"
+        },
+        {
+          "offset": 15128,
+          "length": 34,
+          "key": 1818862405,
+          "original": "を選んでいただきたいと思いまして。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0076",
+      "context": {
+        "voice": "GC325105.ogg"
+      },
+      "original": "なるほど、それで宇宙コンビニに来たわけか。たしかにここの品揃えはすごいからね。",
+      "translation": "그렇구나, 그래서 우주 편의점에 온 거군. 확실히 여기 상품 구성은 대단하니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15236,
+          "length": 42,
+          "key": 1818862405,
+          "original": "なるほど、それで宇宙コンビニに来たわけか。"
+        },
+        {
+          "offset": 15288,
+          "length": 36,
+          "key": 1818862405,
+          "original": "たしかにここの品揃えはすごいからね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0077",
+      "context": {
+        "voice": "GC325106.ogg"
+      },
+      "original": "あの、ミントさん。私、どれを選んでいいのやら……。",
+      "translation": "저기, 민트 씨. 저, 뭘 골라야 할지 모르겠어요…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15472,
+          "length": 40,
+          "key": 1818862405,
+          "original": "あの、ミントさん。私、どれを選んでいいの"
+        },
+        {
+          "offset": 15520,
+          "length": 10,
+          "key": 1818862405,
+          "original": "やら……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0078",
+      "context": {
+        "voice": "GC325107.ogg"
+      },
+      "original": "最初から自由に選ぶというのはハードルが高すぎたかもしれませんわね。それでは選び方のコツをお教えいたしますわ。",
+      "translation": "처음부터 자유롭게 고르는 건 허들이 너무 높았을지도 모르겠네요. 그럼 고르는 요령을 알려드릴게요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15680,
+          "length": 40,
+          "key": 1818862405,
+          "original": "最初から自由に選ぶというのはハードルが高"
+        },
+        {
+          "offset": 15728,
+          "length": 40,
+          "key": 1818862405,
+          "original": "すぎたかもしれませんわね。それでは選び方"
+        },
+        {
+          "offset": 15776,
+          "length": 28,
+          "key": 1818862405,
+          "original": "のコツをお教えいたしますわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0079",
+      "context": {
+        "voice": "GC325108.ogg"
+      },
+      "original": "はい、よろしくお願いいたします。",
+      "translation": "네, 잘 부탁드립니다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15952,
+          "length": 32,
+          "key": 1818862405,
+          "original": "はい、よろしくお願いいたします。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0080",
+      "context": {
+        "voice": "GC325109.ogg"
+      },
+      "original": "まず第一に、色ですわ！",
+      "translation": "첫째는 색깔이에요！",
+      "state": "shortened-reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16132,
+          "length": 22,
+          "key": 1818862405,
+          "original": "まず第一に、色ですわ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0081",
+      "context": {
+        "voice": "GC325110.ogg"
+      },
+      "original": "……色というのは歯ブラシの色でしょうか。",
+      "translation": "……색이라니, 칫솔의 색을 말하는 건가요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16304,
+          "length": 40,
+          "key": 1818862405,
+          "original": "……色というのは歯ブラシの色でしょうか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0082",
+      "context": {
+        "voice": "GC325111.ogg"
+      },
+      "original": "はい。朝食後にすっきりと歯を磨くために、色はその気持ちを盛り立ててくれる大事な要素ですわ。",
+      "translation": "네. 아침 식사 후에 상쾌하게 양치하기 위해, 색은 그 기분을 북돋아 주는 중요한 요소예요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16492,
+          "length": 40,
+          "key": 1818862405,
+          "original": "はい。朝食後にすっきりと歯を磨くために、"
+        },
+        {
+          "offset": 16540,
+          "length": 40,
+          "key": 1818862405,
+          "original": "色はその気持ちを盛り立ててくれる大事な要"
+        },
+        {
+          "offset": 16588,
+          "length": 10,
+          "key": 1818862405,
+          "original": "素ですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0083",
+      "context": {
+        "voice": "GC325112.ogg"
+      },
+      "original": "はあ……。",
+      "translation": "하아…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16748,
+          "length": 10,
+          "key": 1818862405,
+          "original": "はあ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0084",
+      "context": {
+        "voice": "GC325113.ogg"
+      },
+      "original": "例えばこのクリアブルーの歯ブラシ。この澄んだ青が見るからに引き締まると思いませんか？",
+      "translation": "예를 들어 이 클리어 블루 칫솔. 이 투명한 파란색이 보기만 해도 정신이번쩍들지않나요？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16908,
+          "length": 40,
+          "key": 1818862405,
+          "original": "例えばこのクリアブルーの歯ブラシ。この澄"
+        },
+        {
+          "offset": 16956,
+          "length": 40,
+          "key": 1818862405,
+          "original": "んだ青が見るからに引き締まると思いません"
+        },
+        {
+          "offset": 17004,
+          "length": 4,
+          "key": 1818862405,
+          "original": "か？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0085",
+      "context": {
+        "voice": "GC325114.ogg"
+      },
+      "original": "言われてみれば確かにそんな気もします……。",
+      "translation": "듣고 보니 정말 그런 것 같기도…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17156,
+          "length": 42,
+          "key": 1818862405,
+          "original": "言われてみれば確かにそんな気もします……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0086",
+      "context": {
+        "voice": "GC325115.ogg"
+      },
+      "original": "あるいは赤などもいいですわね。一生懸命に磨こうって気にさせてくれます。",
+      "translation": "아니면빨간색 등도 좋겠네요. 열심히닦아야겠다는의욕을불러일으키니까요.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17348,
+          "length": 40,
+          "key": 1818862405,
+          "original": "あるいは赤などもいいですわね。一生懸命に"
+        },
+        {
+          "offset": 17396,
+          "length": 30,
+          "key": 1818862405,
+          "original": "磨こうって気にさせてくれます。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0087",
+      "context": {
+        "voice": "GC325116.ogg"
+      },
+      "original": "そうそう、白というのも捨てがたいですわね。白さは歯の美しさの基本ですから。笑うときれいというのは理想ですわ。",
+      "translation": "맞아요, 하얀색도 빼놓을 수 없죠. 하얀 것은 치아 미백의 기본이니까요. 웃었을 때 깨끗한 것이 이상적이에요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17576,
+          "length": 42,
+          "key": 1818862405,
+          "original": "そうそう、白というのも捨てがたいですわね。"
+        },
+        {
+          "offset": 17628,
+          "length": 40,
+          "key": 1818862405,
+          "original": "白さは歯の美しさの基本ですから。笑うとき"
+        },
+        {
+          "offset": 17676,
+          "length": 26,
+          "key": 1818862405,
+          "original": "れいというのは理想ですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0088",
+      "context": {
+        "voice": "GC325117.ogg"
+      },
+      "original": "そうですね。白もいいと思います。",
+      "translation": "그렇네요. 흰색도 좋을 것 같아요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17852,
+          "length": 32,
+          "key": 1818862405,
+          "original": "そうですね。白もいいと思います。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0089",
+      "context": {
+        "voice": "GC325118.ogg"
+      },
+      "original": "電動歯ブラシという手もありますわね。音さえ気にしなければ相当楽ができますわ。",
+      "translation": "전동 칫솔이라는 방법도 있어요. 소리만 신경 쓰지 않는다면 상당히 편하답니다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18032,
+          "length": 40,
+          "key": 1818862405,
+          "original": "電動歯ブラシという手もありますわね。音さ"
+        },
+        {
+          "offset": 18080,
+          "length": 36,
+          "key": 1818862405,
+          "original": "え気にしなければ相当楽ができますわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0090",
+      "context": {
+        "voice": "GC325119.ogg"
+      },
+      "original": "あ……あの……。",
+      "translation": "아…… 저기…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18264,
+          "length": 16,
+          "key": 1818862405,
+          "original": "あ……あの……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0091",
+      "context": {
+        "voice": "GC325119.ogg"
+      },
+      "original": "ミント、ルシャーティが困ってるぞ。",
+      "translation": "민트, 루샤티가 곤란해하잖아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18352,
+          "length": 34,
+          "key": 1818862405,
+          "original": "ミント、ルシャーティが困ってるぞ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0092",
+      "context": {
+        "voice": "GC325120.ogg"
+      },
+      "original": "姉さん。これあたりがいいんじゃない。",
+      "translation": "언니. 이게 적당하지 않을까?\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18536,
+          "length": 36,
+          "key": 1818862405,
+          "original": "姉さん。これあたりがいいんじゃない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0093",
+      "context": {
+        "voice": "GC325121.ogg"
+      },
+      "original": "柄が透明のスタンダードタイプで、毛先が柔らかいタイプですわね。まあ、無難な選択ですが、よろしいのではないでしょうか。",
+      "translation": "손잡이가 투명한 스탠다드 타입에 모가 부드러운 타입네요. 뭐, 무난한 선택이지만 괜찮을 것 같아요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18720,
+          "length": 40,
+          "key": 1818862405,
+          "original": "柄が透明のスタンダードタイプで、毛先が柔"
+        },
+        {
+          "offset": 18768,
+          "length": 40,
+          "key": 1818862405,
+          "original": "らかいタイプですわね。まあ、無難な選択で"
+        },
+        {
+          "offset": 18816,
+          "length": 36,
+          "key": 1818862405,
+          "original": "すが、よろしいのではないでしょうか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0094",
+      "context": {
+        "voice": "GC325122.ogg"
+      },
+      "original": "そうね、それでいいと思います。",
+      "translation": "그래, 그걸로 된 것 같아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19000,
+          "length": 30,
+          "key": 1818862405,
+          "original": "そうね、それでいいと思います。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0095",
+      "context": {
+        "voice": "GC325123.ogg"
+      },
+      "original": "次は歯磨きチューブですわ。これもいろいろあって面白いんですわよ！",
+      "translation": "다음은 치약이에요. 이것도 여러 종류가 있어서 재미있답니다！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19180,
+          "length": 40,
+          "key": 1818862405,
+          "original": "次は歯磨きチューブですわ。これもいろいろ"
+        },
+        {
+          "offset": 19228,
+          "length": 24,
+          "key": 1818862405,
+          "original": "あって面白いんですわよ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0096",
+      "context": {
+        "voice": "GC325124.ogg"
+      },
+      "original": "面白いんですか……。",
+      "translation": "재미있다니요…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19400,
+          "length": 20,
+          "key": 1818862405,
+          "original": "面白いんですか……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0097",
+      "context": {
+        "voice": "GC325125.ogg"
+      },
+      "original": "チューブ選びはやはり味ですわ。粗塩の入ったつぶつぶもありますが、バナナやフルーツ味もありますわね。",
+      "translation": "치약선택은 역시 맛이에요. 거친 소금이 들어간 알갱이 형태도 있지만, 바나나구나 과일 맛도 있답니다.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19568,
+          "length": 40,
+          "key": 1818862405,
+          "original": "チューブ選びはやはり味ですわ。粗塩の入っ"
+        },
+        {
+          "offset": 19616,
+          "length": 40,
+          "key": 1818862405,
+          "original": "たつぶつぶもありますが、バナナやフルーツ"
+        },
+        {
+          "offset": 19664,
+          "length": 18,
+          "key": 1818862405,
+          "original": "味もありますわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0098",
+      "context": {
+        "voice": "GC325126.ogg"
+      },
+      "original": "味でお腹がいっぱいになってしまうのでは？",
+      "translation": "맛 때문에 배가 불러버리는 건 아닐까요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19832,
+          "length": 40,
+          "key": 1818862405,
+          "original": "味でお腹がいっぱいになってしまうのでは？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0099",
+      "context": {
+        "voice": "GC325127.ogg"
+      },
+      "original": "ご安心ください。口をすすぐと後味は残りますけど、それでお腹いっぱいというのは私も経験がありませんわ。",
+      "translation": "안심하세요. 입을 헹구면 뒷맛은 남겠지만, 그것으로 배가 부른 경험은 저도 없으니까요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20020,
+          "length": 40,
+          "key": 1818862405,
+          "original": "ご安心ください。口をすすぐと後味は残りま"
+        },
+        {
+          "offset": 20068,
+          "length": 40,
+          "key": 1818862405,
+          "original": "すけど、それでお腹いっぱいというのは私も"
+        },
+        {
+          "offset": 20116,
+          "length": 20,
+          "key": 1818862405,
+          "original": "経験がありませんわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0100",
+      "context": {
+        "voice": "GC325128.ogg"
+      },
+      "original": "姉さん、これがいいんじゃない？",
+      "translation": "언니, 이게 좋지 않을까？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20284,
+          "length": 30,
+          "key": 1818862405,
+          "original": "姉さん、これがいいんじゃない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0101",
+      "context": {
+        "voice": "GC325129.ogg"
+      },
+      "original": "これは三色チューブですわね。堅実ですわ、ヴァインさん。",
+      "translation": "이건 삼색 치약이네요. 아주 확실하군요, 바인 씨.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20464,
+          "length": 40,
+          "key": 1818862405,
+          "original": "これは三色チューブですわね。堅実ですわ、"
+        },
+        {
+          "offset": 20512,
+          "length": 14,
+          "key": 1818862405,
+          "original": "ヴァインさん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0102",
+      "context": {
+        "voice": "GC325130.ogg"
+      },
+      "original": "一番売れている物を教えていただきましたから。",
+      "translation": "가장 잘 팔리는 걸로 알려달라고 했거든요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20676,
+          "length": 40,
+          "key": 1818862405,
+          "original": "一番売れている物を教えていただきましたか"
+        },
+        {
+          "offset": 20724,
+          "length": 4,
+          "key": 1818862405,
+          "original": "ら。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0103",
+      "context": {
+        "voice": "GC325131.ogg"
+      },
+      "original": "あの、ミントさん。これも歯磨きチューブなのでしょうか？",
+      "translation": "저기, 민트 씨. 이것도 치약인가요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20876,
+          "length": 40,
+          "key": 1818862405,
+          "original": "あの、ミントさん。これも歯磨きチューブな"
+        },
+        {
+          "offset": 20924,
+          "length": 14,
+          "key": 1818862405,
+          "original": "のでしょうか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0104",
+      "context": {
+        "voice": "GC325131.ogg"
+      },
+      "original": "あれ、なんだか見たことのないラベルだな。チョコレートって書いてある。",
+      "translation": "어라, 왠지 처음 보는 라벨인데. 초콜릿이라고 적혀 있어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21012,
+          "length": 40,
+          "key": 1818862405,
+          "original": "あれ、なんだか見たことのないラベルだな。"
+        },
+        {
+          "offset": 21060,
+          "length": 28,
+          "key": 1818862405,
+          "original": "チョコレートって書いてある。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0105",
+      "context": {
+        "voice": "GC325132.ogg"
+      },
+      "original": "それはそのまま、チョコレートチューブですわ。薄くて甘いせんべいに似顔絵を描いて食べる駄菓子です。",
+      "translation": "그건 말 그대로 초콜릿 튜브예요. 얇고 달콤한 과자에 그림을 그려 먹는 간식이죠.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21236,
+          "length": 40,
+          "key": 1818862405,
+          "original": "それはそのまま、チョコレートチューブです"
+        },
+        {
+          "offset": 21284,
+          "length": 40,
+          "key": 1818862405,
+          "original": "わ。薄くて甘いせんべいに似顔絵を描いて食"
+        },
+        {
+          "offset": 21332,
+          "length": 16,
+          "key": 1818862405,
+          "original": "べる駄菓子です。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0106",
+      "context": {
+        "voice": "GC325132.ogg"
+      },
+      "original": "さすが駄菓子には詳しいね、ミント。",
+      "translation": "역시 군것질거리에는 밝네, 민트.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21420,
+          "length": 34,
+          "key": 1818862405,
+          "original": "さすが駄菓子には詳しいね、ミント。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0107",
+      "context": {
+        "voice": "GC325133.ogg"
+      },
+      "original": "当然ですわ。でもこの宇宙コンビニにはまだ入荷していなかったはず……、ということは新製品！",
+      "translation": "당연하죠. 하지만 이 우주 편의점엔 아직 입고되지 않았을 텐데…… 신제품이군요！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21604,
+          "length": 40,
+          "key": 1818862405,
+          "original": "当然ですわ。でもこの宇宙コンビニにはまだ"
+        },
+        {
+          "offset": 21652,
+          "length": 40,
+          "key": 1818862405,
+          "original": "入荷していなかったはず……、ということは"
+        },
+        {
+          "offset": 21700,
+          "length": 8,
+          "key": 1818862405,
+          "original": "新製品！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0108",
+      "context": {
+        "voice": "GC325133.ogg"
+      },
+      "original": "そういえば棚卸しがどうとかって言ってたような気がするなあ。",
+      "translation": "그러고 보니 재고 조사인가 뭔가 한다고 했던 것 같기도 해.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21780,
+          "length": 40,
+          "key": 1818862405,
+          "original": "そういえば棚卸しがどうとかって言ってたよ"
+        },
+        {
+          "offset": 21828,
+          "length": 18,
+          "key": 1818862405,
+          "original": "うな気がするなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0109",
+      "context": {
+        "voice": "GC325134.ogg"
+      },
+      "original": "こうしてはいられませんわ。なくなってしまう前にひと通り試しておきませんと。",
+      "translation": "이러고 있을 때가 아니에요. 다 없어지기 전에 한 번씩 먹어봐야죠.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21996,
+          "length": 40,
+          "key": 1818862405,
+          "original": "こうしてはいられませんわ。なくなってしま"
+        },
+        {
+          "offset": 22044,
+          "length": 34,
+          "key": 1818862405,
+          "original": "う前にひと通り試しておきませんと。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0110",
+      "context": {
+        "voice": "GC325135.ogg"
+      },
+      "original": "ミントさん、これはなんですか？",
+      "translation": "민트 씨, 이건 뭔가요？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22228,
+          "length": 30,
+          "key": 1818862405,
+          "original": "ミントさん、これはなんですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0111",
+      "context": {
+        "voice": "GC325136.ogg"
+      },
+      "original": "それは味付きイカのくんせいです。噛めば噛むほど味が出るお得な駄菓子ですわ。せっかくですから一緒に買ってしまいましょう。",
+      "translation": "그건맛이 든 오징어 훈제예요. 씹으면 씹을수록 맛이 나는 가성비 좋은 군것질거리랍니다. 기왕 이렇게 된 거 같이 사버리죠.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22408,
+          "length": 40,
+          "key": 1818862405,
+          "original": "それは味付きイカのくんせいです。噛めば噛"
+        },
+        {
+          "offset": 22456,
+          "length": 40,
+          "key": 1818862405,
+          "original": "むほど味が出るお得な駄菓子ですわ。せっか"
+        },
+        {
+          "offset": 22504,
+          "length": 38,
+          "key": 1818862405,
+          "original": "くですから一緒に買ってしまいましょう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0112",
+      "context": {
+        "voice": "GC325136.ogg"
+      },
+      "original": "ミント、日用品を買うんじゃなかったのかい？",
+      "translation": "민트, 생필품을 사러 온 게 아니었니？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22616,
+          "length": 42,
+          "key": 1818862405,
+          "original": "ミント、日用品を買うんじゃなかったのかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0113",
+      "context": {
+        "voice": "GC325137.ogg"
+      },
+      "original": "両方同時にやれば、時間を節約できますわ。あ、これも新製品ですわね。",
+      "translation": "양쪽을 동시에 하면 시간을 절약할 수 있어요. 아, 이것도 신제품네요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22808,
+          "length": 40,
+          "key": 1818862405,
+          "original": "両方同時にやれば、時間を節約できますわ。"
+        },
+        {
+          "offset": 22856,
+          "length": 26,
+          "key": 1818862405,
+          "original": "あ、これも新製品ですわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0114",
+      "context": {
+        "voice": "GC325138.ogg"
+      },
+      "original": "ミントさん、これ可愛いですね。",
+      "translation": "민트 씨, 이거 귀엽네요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23032,
+          "length": 30,
+          "key": 1818862405,
+          "original": "ミントさん、これ可愛いですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0115",
+      "context": {
+        "voice": "GC325139.ogg"
+      },
+      "original": "ルシャーティさん、それはどこにありましたの？　ご案内くださいませ。",
+      "translation": "루샤티 씨, 그건 어디에 있었나요？ 안내해 주세요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23212,
+          "length": 40,
+          "key": 1818862405,
+          "original": "ルシャーティさん、それはどこにありました"
+        },
+        {
+          "offset": 23260,
+          "length": 26,
+          "key": 1818862405,
+          "original": "の？　ご案内くださいませ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0116",
+      "context": {
+        "voice": "GC325140.ogg"
+      },
+      "original": "はい、喜んで。",
+      "translation": "네, 기꺼이요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23436,
+          "length": 14,
+          "key": 1818862405,
+          "original": "はい、喜んで。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0117",
+      "context": {
+        "voice": "GC325140.ogg"
+      },
+      "original": "それじゃあ、オレはそろそろ見回りに戻るから。ヴァイン、ふたりの荷物持ちをよろしく頼むよ。",
+      "translation": "그럼 난 슬슬 순찰로 돌아갈게. 바인, 두 사람 짐 좀 부탁해.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23604,
+          "length": 40,
+          "key": 1818862405,
+          "original": "それじゃあ、オレはそろそろ見回りに戻るか"
+        },
+        {
+          "offset": 23652,
+          "length": 40,
+          "key": 1818862405,
+          "original": "ら。ヴァイン、ふたりの荷物持ちをよろしく"
+        },
+        {
+          "offset": 23700,
+          "length": 8,
+          "key": 1818862405,
+          "original": "頼むよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0118",
+      "context": {
+        "voice": "GC325141.ogg"
+      },
+      "original": "はい、わかりました。",
+      "translation": "네, 알겠습니다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23856,
+          "length": 20,
+          "key": 1818862405,
+          "original": "はい、わかりました。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0119",
+      "context": {
+        "voice": "GC325141.ogg"
+      },
+      "original": "ゲストルーム・駄菓子を試すミントとＥＤＥＮ姉弟",
+      "translation": "게스트룸・군것질을 시험하는 민트와EDEN남매",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23908,
+          "length": 46,
+          "key": 3199062558,
+          "original": "ゲストルーム・駄菓子を試すミントとＥＤＥＮ姉弟"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0120",
+      "context": {
+        "voice": "GC325141.ogg"
+      },
+      "original": "おや？　ルシャーティもヴァインもゲストルームに戻ってるのかな？",
+      "translation": "어라？ 루샤티랑 바인도 게스트룸으로 돌아간 건가？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24096,
+          "length": 42,
+          "key": 3199062558,
+          "original": "おや？　ルシャーティもヴァインもゲストルー"
+        },
+        {
+          "offset": 24148,
+          "length": 20,
+          "key": 3199062558,
+          "original": "ムに戻ってるのかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0121",
+      "context": {
+        "voice": "GC325200.ogg"
+      },
+      "original": "あらタクトさん、見回りですか？　お疲れ様です。",
+      "translation": "어머 택트 씨, 순찰인가요？ 수고 많으시네요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24360,
+          "length": 40,
+          "key": 3199062558,
+          "original": "あらタクトさん、見回りですか？　お疲れ様"
+        },
+        {
+          "offset": 24408,
+          "length": 6,
+          "key": 3199062558,
+          "original": "です。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0122",
+      "context": {
+        "voice": "GC325200.ogg"
+      },
+      "original": "やあ、ミント。案内はもうお終いかい？",
+      "translation": "안녕, 민트. 안내는 이제 끝난 거야？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24488,
+          "length": 36,
+          "key": 3199062558,
+          "original": "やあ、ミント。案内はもうお終いかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0123",
+      "context": {
+        "voice": "GC325201.ogg"
+      },
+      "original": "実はルシャーティさんとヴァインさんのために買い揃えた物が結構な量になりまして……。いったんこの部屋に運ぶことにしたんですの。",
+      "translation": "실은 루샤티 씨와 바인 씨를 위해 산 게 꽤 많은 양이라서…… 일단 이 방으로 옮기기로 했어요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24672,
+          "length": 40,
+          "key": 3199062558,
+          "original": "実はルシャーティさんとヴァインさんのため"
+        },
+        {
+          "offset": 24720,
+          "length": 42,
+          "key": 3199062558,
+          "original": "に買い揃えた物が結構な量になりまして……。"
+        },
+        {
+          "offset": 24772,
+          "length": 42,
+          "key": 3199062558,
+          "original": "いったんこの部屋に運ぶことにしたんですの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0124",
+      "context": {
+        "voice": "GC325201.ogg"
+      },
+      "original": "ルシャーティもヴァインもショッピングは楽しめたかい？",
+      "translation": "루샤티랑 바인, 쇼핑은 즐거웠니？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24888,
+          "length": 40,
+          "key": 3199062558,
+          "original": "ルシャーティもヴァインもショッピングは楽"
+        },
+        {
+          "offset": 24936,
+          "length": 12,
+          "key": 3199062558,
+          "original": "しめたかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0125",
+      "context": {
+        "voice": "GC325202.ogg"
+      },
+      "original": "はい、とてもよい経験をさせていただきました。",
+      "translation": "네, 아주 좋은 경험을 했습니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25096,
+          "length": 40,
+          "key": 3199062558,
+          "original": "はい、とてもよい経験をさせていただきまし"
+        },
+        {
+          "offset": 25144,
+          "length": 4,
+          "key": 3199062558,
+          "original": "た。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0126",
+      "context": {
+        "voice": "GC325203.ogg"
+      },
+      "original": "こんなにたくさんの商品があるとは思いませんでした。",
+      "translation": "이렇게 많은 상품이 있을 줄은 몰랐어요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25296,
+          "length": 40,
+          "key": 3199062558,
+          "original": "こんなにたくさんの商品があるとは思いませ"
+        },
+        {
+          "offset": 25344,
+          "length": 10,
+          "key": 3199062558,
+          "original": "んでした。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0127",
+      "context": {
+        "voice": "GC325203.ogg"
+      },
+      "original": "ふたりが快適に過ごしてくれれば、オレも嬉しいよ。",
+      "translation": "두 사람이 쾌적하게 지내준다면 나도 기뻐.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25428,
+          "length": 40,
+          "key": 3199062558,
+          "original": "ふたりが快適に過ごしてくれれば、オレも嬉"
+        },
+        {
+          "offset": 25476,
+          "length": 8,
+          "key": 3199062558,
+          "original": "しいよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0128",
+      "context": {
+        "voice": "GC325204.ogg"
+      },
+      "original": "今度は靴やお洋服を揃えるのもいいかもしれませんね。",
+      "translation": "다음에는 신발이나 옷을 맞추는 것도 좋을 것 같네요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25632,
+          "length": 40,
+          "key": 3199062558,
+          "original": "今度は靴やお洋服を揃えるのもいいかもしれ"
+        },
+        {
+          "offset": 25680,
+          "length": 10,
+          "key": 3199062558,
+          "original": "ませんね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0129",
+      "context": {
+        "voice": "GC325205.ogg"
+      },
+      "original": "本当にいろいろな物があるのですね。驚いてしまいました。",
+      "translation": "정말 다양한 물건이 있군요. 깜짝 놀랐어요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25840,
+          "length": 40,
+          "key": 3199062558,
+          "original": "本当にいろいろな物があるのですね。驚いて"
+        },
+        {
+          "offset": 25888,
+          "length": 14,
+          "key": 3199062558,
+          "original": "しまいました。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0130",
+      "context": {
+        "voice": "GC325205.ogg"
+      },
+      "original": "あ、駄菓子も買ってきたんだね。",
+      "translation": "아, 군것질거리도 사 왔구나.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25976,
+          "length": 30,
+          "key": 3199062558,
+          "original": "あ、駄菓子も買ってきたんだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0131",
+      "context": {
+        "voice": "GC325206.ogg"
+      },
+      "original": "もちろんですわ。ぜひともルシャーティさんとヴァインさんには試していただきたい味ですもの。",
+      "translation": "물론이죠. 꼭 루샤티 씨와 바인 씨가 드셔보셨으면 하는 맛이니까요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26156,
+          "length": 40,
+          "key": 3199062558,
+          "original": "もちろんですわ。ぜひともルシャーティさん"
+        },
+        {
+          "offset": 26204,
+          "length": 40,
+          "key": 3199062558,
+          "original": "とヴァインさんには試していただきたい味で"
+        },
+        {
+          "offset": 26252,
+          "length": 8,
+          "key": 3199062558,
+          "original": "すもの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0132",
+      "context": {
+        "voice": "GC325206.ogg"
+      },
+      "original": "ひと通り揃えてみたんだ。",
+      "translation": "한바탕 골라봤어.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26332,
+          "length": 24,
+          "key": 3199062558,
+          "original": "ひと通り揃えてみたんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0133",
+      "context": {
+        "voice": "GC325207.ogg"
+      },
+      "original": "少しのお金でたくさん選べることも、駄菓子の魅力のひとつですわ。ちょうどこれから食べていただこうと思っていたところですの。",
+      "translation": "적은 돈으로 많이 고를 수 있는 게 군것질거리의 매력 중 하나죠. 마침 이제 막 먹어보려던 참이었어요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26504,
+          "length": 40,
+          "key": 3199062558,
+          "original": "少しのお金でたくさん選べることも、駄菓子"
+        },
+        {
+          "offset": 26552,
+          "length": 40,
+          "key": 3199062558,
+          "original": "の魅力のひとつですわ。ちょうどこれから食"
+        },
+        {
+          "offset": 26600,
+          "length": 40,
+          "key": 3199062558,
+          "original": "べていただこうと思っていたところですの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0134",
+      "context": {
+        "voice": "GC325207.ogg"
+      },
+      "original": "へー、いいなあ。オレも混ぜてもらっていいかい？",
+      "translation": "헤에, 좋겠다. 나도 좀 껴줘도 될까？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26712,
+          "length": 40,
+          "key": 3199062558,
+          "original": "へー、いいなあ。オレも混ぜてもらっていい"
+        },
+        {
+          "offset": 26760,
+          "length": 6,
+          "key": 3199062558,
+          "original": "かい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0135",
+      "context": {
+        "voice": "GC325208.ogg"
+      },
+      "original": "あらタクトさん、いやしんぼさんですのね。",
+      "translation": "어머 택트 씨, 먹보시군요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26916,
+          "length": 40,
+          "key": 3199062558,
+          "original": "あらタクトさん、いやしんぼさんですのね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0136",
+      "context": {
+        "voice": "GC325208.ogg"
+      },
+      "original": "駄菓子はついつまんじゃうんだよね。",
+      "translation": "군것질은 나도 모르게 손이간다니까.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27028,
+          "length": 34,
+          "key": 3199062558,
+          "original": "駄菓子はついつまんじゃうんだよね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0137",
+      "context": {
+        "voice": "GC325209.ogg"
+      },
+      "original": "さあ、お好きな物を選んでくださいませ。どれもおいしいですわよ。",
+      "translation": "자, 마음에 드는 걸로 골라보세요. 전부 맛있답니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27212,
+          "length": 40,
+          "key": 3199062558,
+          "original": "さあ、お好きな物を選んでくださいませ。ど"
+        },
+        {
+          "offset": 27260,
+          "length": 22,
+          "key": 3199062558,
+          "original": "れもおいしいですわよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0138",
+      "context": {
+        "voice": "GC325210.ogg"
+      },
+      "original": "これ、とてもすっぱいです。",
+      "translation": "이거, 엄청 시다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27432,
+          "length": 26,
+          "key": 3199062558,
+          "original": "これ、とてもすっぱいです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0139",
+      "context": {
+        "voice": "GC325211.ogg"
+      },
+      "original": "それは中に梅の実が入っていてすっぱいのですわ。実もおいしく食べられましてよ。",
+      "translation": "그건 안에 매실이 들어있어서 신 거예요. 알도 맛있게 드실 수 있답니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27608,
+          "length": 40,
+          "key": 3199062558,
+          "original": "それは中に梅の実が入っていてすっぱいので"
+        },
+        {
+          "offset": 27656,
+          "length": 36,
+          "key": 3199062558,
+          "original": "すわ。実もおいしく食べられましてよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0140",
+      "context": {
+        "voice": "GC325212.ogg"
+      },
+      "original": "ひと口サイズのものが多いですね。",
+      "translation": "한입 크기인 게 많네요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27840,
+          "length": 32,
+          "key": 3199062558,
+          "original": "ひと口サイズのものが多いですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0141",
+      "context": {
+        "voice": "GC325213.ogg"
+      },
+      "original": "ほとんどのものがひとつから選べるというのも駄菓子の特徴ですわ。",
+      "translation": "대부분 하나씩 고를 수 있다는 점도 불량식품의 특징이에요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 28020,
+          "length": 40,
+          "key": 3199062558,
+          "original": "ほとんどのものがひとつから選べるというの"
+        },
+        {
+          "offset": 28068,
+          "length": 22,
+          "key": 3199062558,
+          "original": "も駄菓子の特徴ですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0142",
+      "context": {
+        "voice": "GC325214.ogg"
+      },
+      "original": "あ、でもひと口ガムとひと口チョコを同時に食べるのはいけませんよ。",
+      "translation": "아, 그래도 한입 껌이랑 한입 초콜릿을 동시에 먹는 건 안 돼요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 28240,
+          "length": 40,
+          "key": 3199062558,
+          "original": "あ、でもひと口ガムとひと口チョコを同時に"
+        },
+        {
+          "offset": 28288,
+          "length": 24,
+          "key": 3199062558,
+          "original": "食べるのはいけませんよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0143",
+      "context": {
+        "voice": "GC325214.ogg"
+      },
+      "original": "どうしてだい？　チョコ味のガムにしたがる子も多いと思うけど。",
+      "translation": "왜 그래？ 초코맛 껌을 찾는 애들도 많을 텐데.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 28384,
+          "length": 40,
+          "key": 3199062558,
+          "original": "どうしてだい？　チョコ味のガムにしたがる"
+        },
+        {
+          "offset": 28432,
+          "length": 20,
+          "key": 3199062558,
+          "original": "子も多いと思うけど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0144",
+      "context": {
+        "voice": "GC325215.ogg"
+      },
+      "original": "実はガムはチョコと合わさると溶けてしまうんですの。いつの間にか、ガムが口の中から消えてしまったら怖いと思いません？",
+      "translation": "사실 껌은 초콜릿과 만나면 녹아버리거든요. 어느새 껌이 입안에서 사라져 버리면 무섭지 않겠어요？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 28600,
+          "length": 40,
+          "key": 3199062558,
+          "original": "実はガムはチョコと合わさると溶けてしまう"
+        },
+        {
+          "offset": 28648,
+          "length": 40,
+          "key": 3199062558,
+          "original": "んですの。いつの間にか、ガムが口の中から"
+        },
+        {
+          "offset": 28696,
+          "length": 34,
+          "key": 3199062558,
+          "original": "消えてしまったら怖いと思いません？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0145",
+      "context": {
+        "voice": "GC325215.ogg"
+      },
+      "original": "そうだね、それはちょっと怖いかも。",
+      "translation": "그렇네, 그건 좀 무서울지도.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 28804,
+          "length": 34,
+          "key": 3199062558,
+          "original": "そうだね、それはちょっと怖いかも。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0146",
+      "context": {
+        "voice": "GC325216.ogg"
+      },
+      "original": "ミントさん、これはどのようにして食べるんですか？",
+      "translation": "민트 씨, 이건 어떻게 먹는 건가요？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 28988,
+          "length": 40,
+          "key": 3199062558,
+          "original": "ミントさん、これはどのようにして食べるん"
+        },
+        {
+          "offset": 29036,
+          "length": 8,
+          "key": 3199062558,
+          "original": "ですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0147",
+      "context": {
+        "voice": "GC325217.ogg"
+      },
+      "original": "はい、それはおせんべいの片面にジャムを塗るんですの。２枚でサンドイッチにして手を汚さないようにして食べるものなんですわ。",
+      "translation": "네, 그건 전병의 한쪽에 잼을 바르는 거예요. 두 장으로 샌드위치를 만들어 손에 묻히지 않고 먹는 거랍니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 29192,
+          "length": 40,
+          "key": 3199062558,
+          "original": "はい、それはおせんべいの片面にジャムを塗"
+        },
+        {
+          "offset": 29240,
+          "length": 40,
+          "key": 3199062558,
+          "original": "るんですの。２枚でサンドイッチにして手を"
+        },
+        {
+          "offset": 29288,
+          "length": 40,
+          "key": 3199062558,
+          "original": "汚さないようにして食べるものなんですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0148",
+      "context": {
+        "voice": "GC325218.ogg"
+      },
+      "original": "さくさくしてとてもおいしいですね。",
+      "translation": "바삭바삭해서 정말 맛있네요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 29476,
+          "length": 34,
+          "key": 3199062558,
+          "original": "さくさくしてとてもおいしいですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0149",
+      "context": {
+        "voice": "GC325219.ogg"
+      },
+      "original": "おせんべいは塗る物や挟む物でいろいろな味を楽しめる、とても便利な駄菓子なんですの。",
+      "translation": "전병은 바르거나 끼우는 것에 따라 다양한 맛을즐길수있는,아주편리한군것질거리랍니다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 29660,
+          "length": 40,
+          "key": 3199062558,
+          "original": "おせんべいは塗る物や挟む物でいろいろな味"
+        },
+        {
+          "offset": 29708,
+          "length": 42,
+          "key": 3199062558,
+          "original": "を楽しめる、とても便利な駄菓子なんですの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0150",
+      "context": {
+        "voice": "GC325219.ogg"
+      },
+      "original": "ああ、いろいろ工夫したのを思い出したよ。ポテトチップの細かいのをせんべいに挟んで、スナック菓子サンドとか。",
+      "translation": "아, 여러 가지로 응용했던 게 생각났어. 감자칩 조각을 전병에 끼워서 스낵 샌드 같은 거 말이야.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 29824,
+          "length": 40,
+          "key": 3199062558,
+          "original": "ああ、いろいろ工夫したのを思い出したよ。"
+        },
+        {
+          "offset": 29872,
+          "length": 42,
+          "key": 3199062558,
+          "original": "ポテトチップの細かいのをせんべいに挟んで、"
+        },
+        {
+          "offset": 29924,
+          "length": 24,
+          "key": 3199062558,
+          "original": "スナック菓子サンドとか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0151",
+      "context": {
+        "voice": "GC325220.ogg"
+      },
+      "original": "そうですわ！　タクトさんもなかなか通でいらっしゃいますわね。",
+      "translation": "맞아요！ 택트 씨도 제법 고수시네요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 30096,
+          "length": 40,
+          "key": 3199062558,
+          "original": "そうですわ！　タクトさんもなかなか通でい"
+        },
+        {
+          "offset": 30144,
+          "length": 20,
+          "key": 3199062558,
+          "original": "らっしゃいますわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0152",
+      "context": {
+        "voice": "GC325220.ogg"
+      },
+      "original": "いやあ、誰でも一度はやってると思うよ。",
+      "translation": "아니 뭐, 누구나 한 번쯤은 해봤을 거야.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 30236,
+          "length": 38,
+          "key": 3199062558,
+          "original": "いやあ、誰でも一度はやってると思うよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0153",
+      "context": {
+        "voice": "GC325221.ogg"
+      },
+      "original": "他にもソーダのもとを挟んで、ぱちぱちさせながら食べるというのもありますわ。",
+      "translation": "그 외에도 소다 가루를 뿌려 톡톡 터뜨리며 먹는 방법도 있어요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 30424,
+          "length": 40,
+          "key": 3199062558,
+          "original": "他にもソーダのもとを挟んで、ぱちぱちさせ"
+        },
+        {
+          "offset": 30472,
+          "length": 34,
+          "key": 3199062558,
+          "original": "ながら食べるというのもありますわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0154",
+      "context": {
+        "voice": "GC325221.ogg"
+      },
+      "original": "うーん、なんだか懐かしいなあ。",
+      "translation": "음, 왠지 그리운걸.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 30580,
+          "length": 30,
+          "key": 3199062558,
+          "original": "うーん、なんだか懐かしいなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0155",
+      "context": {
+        "voice": "GC325222.ogg"
+      },
+      "original": "駄菓子はいろいろな食べ方がある物なのですね。",
+      "translation": "군것질거리는 먹는 방법도 다양하군요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 30760,
+          "length": 40,
+          "key": 3199062558,
+          "original": "駄菓子はいろいろな食べ方がある物なのです"
+        },
+        {
+          "offset": 30808,
+          "length": 4,
+          "key": 3199062558,
+          "original": "ね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0156",
+      "context": {
+        "voice": "GC325223.ogg"
+      },
+      "original": "楽しみ方は人の数だけありますわ。さあ、ルシャーティさんもヴァインさんもどんどん新しいレパートリーを作ってみてください。",
+      "translation": "즐기는 방법은 사람 수만큼 있어요. 자, 루샤티 씨랑 바인 씨도 계속 새로운 레퍼토리를 만들어 보세요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 30960,
+          "length": 40,
+          "key": 3199062558,
+          "original": "楽しみ方は人の数だけありますわ。さあ、ル"
+        },
+        {
+          "offset": 31008,
+          "length": 40,
+          "key": 3199062558,
+          "original": "シャーティさんもヴァインさんもどんどん新"
+        },
+        {
+          "offset": 31056,
+          "length": 38,
+          "key": 3199062558,
+          "original": "しいレパートリーを作ってみてください。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0157",
+      "context": {
+        "voice": "GC325224.ogg"
+      },
+      "original": "では、その粉のヨーグルトというのをいただいてもよろしいですか？",
+      "translation": "그럼, 그 가루 요거트라는 것을 먹어봐도 될까요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31244,
+          "length": 40,
+          "key": 3199062558,
+          "original": "では、その粉のヨーグルトというのをいただ"
+        },
+        {
+          "offset": 31292,
+          "length": 22,
+          "key": 3199062558,
+          "original": "いてもよろしいですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0158",
+      "context": {
+        "voice": "GC325225.ogg"
+      },
+      "original": "はい、これはとても甘くて酸っぱいですわよ。",
+      "translation": "네, 이건 아주 달콤하고 새콤하답니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31464,
+          "length": 42,
+          "key": 3199062558,
+          "original": "はい、これはとても甘くて酸っぱいですわよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0159",
+      "context": {
+        "voice": "GC325225.ogg"
+      },
+      "original": "うーん、ルシャーティが作る創作駄菓子には興味があるなあ。",
+      "translation": "으음, 루샤티가 만드는 창작 불량식품에는 흥미가 있네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31580,
+          "length": 40,
+          "key": 3199062558,
+          "original": "うーん、ルシャーティが作る創作駄菓子には"
+        },
+        {
+          "offset": 31628,
+          "length": 16,
+          "key": 3199062558,
+          "original": "興味があるなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0160",
+      "context": {
+        "voice": "GC325226.ogg"
+      },
+      "original": "そうですわね。ＥＤＥＮ風のとても斬新な物ができそうですわ。",
+      "translation": "그렇겠네요. EDEN 스타일의 참신한 것이 나올 것 같아요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31792,
+          "length": 40,
+          "key": 3199062558,
+          "original": "そうですわね。ＥＤＥＮ風のとても斬新な物"
+        },
+        {
+          "offset": 31840,
+          "length": 18,
+          "key": 3199062558,
+          "original": "ができそうですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0161",
+      "context": {
+        "voice": "GC325226.ogg"
+      },
+      "original": "じゃあ、そろそろオレは見回りに戻るから。ミント、またよろしく頼むよ。",
+      "translation": "그럼, 슬슬 나는 순찰로 돌아갈게. 민트, 다시 잘 부탁해.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31932,
+          "length": 40,
+          "key": 3199062558,
+          "original": "じゃあ、そろそろオレは見回りに戻るから。"
+        },
+        {
+          "offset": 31980,
+          "length": 28,
+          "key": 3199062558,
+          "original": "ミント、またよろしく頼むよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00102000:isb:0162",
+      "context": {
+        "voice": "GC325227.ogg"
+      },
+      "original": "はい、わかりましたわ！",
+      "translation": "네, 알겠습니다！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 32156,
+          "length": 22,
+          "key": 3199062558,
+          "original": "はい、わかりましたわ！"
+        }
+      ]
+    }
+  ]
+}

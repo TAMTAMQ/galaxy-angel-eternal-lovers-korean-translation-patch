@@ -1,0 +1,357 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00263000.txt",
+    "encoding": "cp932",
+    "sha256": "6a393c3ca1baf56b46edac2beed318741d807600d9770de37b19ce42f19c1ed8",
+    "tagged_records": 26,
+    "decoded_records": 26,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 181743381,
+        "source": "header",
+        "end": 2156
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0001",
+      "context": {
+        "voice": "GC938001.ogg"
+      },
+      "original": "これが現在の状況だ。",
+      "translation": "이것이 현재상황이다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 216,
+          "length": 20,
+          "key": 181743381,
+          "original": "これが現在の状況だ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0002",
+      "context": {
+        "voice": "GC938002.ogg"
+      },
+      "original": "エルシオールの現在位置は、ここだ。",
+      "translation": "에르시올의 현재 위치는, 여기다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 404,
+          "length": 34,
+          "key": 181743381,
+          "original": "エルシオールの現在位置は、ここだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0003",
+      "context": {
+        "voice": "GC938003.ogg"
+      },
+      "original": "敵艦隊の配置は、こうなっている。",
+      "translation": "적 함대의 배치는 이렇다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 636,
+          "length": 32,
+          "key": 181743381,
+          "original": "敵艦隊の配置は、こうなっている。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0004",
+      "context": {
+        "voice": "GC938003.ogg"
+      },
+      "original": "もうすぐ交戦圏内に入るな。……とにかく、戦うしかないか。",
+      "translation": "곧 교전권 내로 진입한다. ……어쨌든, 싸울 수밖에 없나.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 760,
+          "length": 40,
+          "key": 181743381,
+          "original": "もうすぐ交戦圏内に入るな。……とにかく、"
+        },
+        {
+          "offset": 808,
+          "length": 16,
+          "key": 181743381,
+          "original": "戦うしかないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0005",
+      "context": {
+        "voice": "GC938003.ogg"
+      },
+      "original": "以上だ。みんな、よろしく頼むよ。",
+      "translation": "이상이다. 모두, 잘 부탁해.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 924,
+          "length": 32,
+          "key": 181743381,
+          "original": "以上だ。みんな、よろしく頼むよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0006",
+      "context": {
+        "voice": null
+      },
+      "original": "～敵部隊の編成～",
+      "translation": "～적 부대 편성～",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1084,
+          "length": 16,
+          "key": 181743381,
+          "original": "～敵部隊の編成～"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0007",
+      "context": {
+        "voice": null
+      },
+      "original": "　突撃艦タイプ×４　　　戦艦タイプ×３",
+      "translation": "　돌격함형×４　　　전함형×３",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1108,
+          "length": 38,
+          "key": 181743381,
+          "original": "　突撃艦タイプ×４　　　戦艦タイプ×３"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0008",
+      "context": {
+        "voice": null
+      },
+      "original": "～勝利条件～",
+      "translation": "～승리조건～",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1164,
+          "length": 12,
+          "key": 181743381,
+          "original": "～勝利条件～"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0009",
+      "context": {
+        "voice": null
+      },
+      "original": "　敵艦隊の全滅",
+      "translation": "　적 함대 전멸",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1184,
+          "length": 14,
+          "key": 181743381,
+          "original": "　敵艦隊の全滅"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0010",
+      "context": {
+        "voice": null
+      },
+      "original": "～敗北条件～",
+      "translation": "～패배조건～",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1216,
+          "length": 12,
+          "key": 181743381,
+          "original": "～敗北条件～"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0011",
+      "context": {
+        "voice": null
+      },
+      "original": "　エルシオールの破壊",
+      "translation": "　에르시올 파괴",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1236,
+          "length": 20,
+          "key": 181743381,
+          "original": "　エルシオールの破壊"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0012",
+      "context": {
+        "voice": null
+      },
+      "original": "　タイムオーバー",
+      "translation": "　타임 오버",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1264,
+          "length": 16,
+          "key": 181743381,
+          "original": "　タイムオーバー"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0013",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "もう一度、作戦内容を確認するか？",
+      "translation": "다시 작전 내용을 확인할까？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1428,
+          "length": 32,
+          "key": 181743381,
+          "original": "もう一度、作戦内容を確認するか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0014",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "そうだなあ……。",
+      "translation": "글쎄...",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1532,
+          "length": 16,
+          "key": 181743381,
+          "original": "そうだなあ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0015",
+      "context": {
+        "voice": null
+      },
+      "original": "もう一度確認する",
+      "translation": "다시 확인한다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1584,
+          "length": 16,
+          "key": 181743381,
+          "original": "もう一度確認する"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0016",
+      "context": {
+        "voice": null
+      },
+      "original": "その必要はない",
+      "translation": "그럴 필요 없다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1608,
+          "length": 14,
+          "key": 181743381,
+          "original": "その必要はない"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0017",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "うん。念のため、もう一度確認しておこう。",
+      "translation": "응. 만약을 위해, 다시 한번 확인해 두자.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1744,
+          "length": 40,
+          "key": 181743381,
+          "original": "うん。念のため、もう一度確認しておこう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00263000:isb:0018",
+      "context": {
+        "voice": "GC938005.ogg"
+      },
+      "original": "いや、その必要はない。みんな、準備はいいな？",
+      "translation": "아니, 그럴 필요는 없다. 모두, 준비는 됐나？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1900,
+          "length": 40,
+          "key": 181743381,
+          "original": "いや、その必要はない。みんな、準備はいい"
+        },
+        {
+          "offset": 1948,
+          "length": 4,
+          "key": 181743381,
+          "original": "な？"
+        }
+      ]
+    }
+  ]
+}

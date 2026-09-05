@@ -1,0 +1,63 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_0006e000.txt",
+    "encoding": "cp932",
+    "sha256": "4ce0488ace0962b7cbaffe67417e48f880102b8c5b20ee1c63cd5dd6d586d26a",
+    "tagged_records": 3,
+    "decoded_records": 3,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 533533669,
+        "source": "header",
+        "end": 300
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_0006e000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "「スカイパレス防衛」ブリーフィング",
+      "translation": "「스카이팔레스 방위」 브리핑\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12,
+          "length": 34,
+          "key": 533533669,
+          "original": "「スカイパレス防衛」ブリーフィング"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0006e000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "\\c(0xffff0000)▼ＳＬＧ６－１（ミルフィーユ・ルート）\\c(0xffffffff)\\c(0xffff0000)（ここにブリーフィングが入ります）\\c(0xffffffff)",
+      "translation": "\\c(0xffff0000)▼ＳＬＧ６－１（밀피유・루트）\\c(0xffffffff)\\c(0xffff0000)（여기에 브리핑이 들어갑니다）\\c(0xffffffff)",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 120,
+          "length": 66,
+          "key": 533533669,
+          "original": "\\c(0xffff0000)▼ＳＬＧ６－１（ミルフィーユ・ルート）\\c(0xffffffff)"
+        },
+        {
+          "offset": 196,
+          "length": 62,
+          "key": 533533669,
+          "original": "\\c(0xffff0000)（ここにブリーフィングが入ります）\\c(0xffffffff)"
+        }
+      ]
+    }
+  ]
+}

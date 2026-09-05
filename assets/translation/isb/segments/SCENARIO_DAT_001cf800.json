@@ -1,0 +1,3154 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_001cf800.txt",
+    "encoding": "cp932",
+    "sha256": "ca43ded674996608049a9aa788a44bf0e32ce76cda00130acf6a0e2f0a8fc83a",
+    "tagged_records": 330,
+    "decoded_records": 330,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 3051126824,
+        "source": "header",
+        "end": 12784
+      },
+      {
+        "start": 12784,
+        "key_offset": 12768,
+        "key": 1515589570,
+        "source": "integer_literal",
+        "end": 28444
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "銀河展望公園・元気をなくした宇宙ウサギ",
+      "translation": "은하 전망 공원・기운을 잃은 우주 토끼\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16,
+          "length": 38,
+          "key": 3051126824,
+          "original": "銀河展望公園・元気をなくした宇宙ウサギ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0002",
+      "context": {
+        "voice": "GC545000.ogg"
+      },
+      "original": "ほーら、おまえたち。ついたぞー。",
+      "translation": "자, 너희들. 도착했다─.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 316,
+          "length": 32,
+          "key": 3051126824,
+          "original": "ほーら、おまえたち。ついたぞー。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0003",
+      "context": {
+        "voice": "GC545001.ogg"
+      },
+      "original": "ほら、公園だよ。遊んでおいで。遊んできなさいってば、ほら、ぴょーんぴょーん！",
+      "translation": "자, 공원이야. 놀다 오렴. 놀다 오라니까, 자, 깡충깡충！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 496,
+          "length": 40,
+          "key": 3051126824,
+          "original": "ほら、公園だよ。遊んでおいで。遊んできな"
+        },
+        {
+          "offset": 544,
+          "length": 36,
+          "key": 3051126824,
+          "original": "さいってば、ほら、ぴょーんぴょーん！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0004",
+      "context": {
+        "voice": "GC545001.ogg"
+      },
+      "original": "あれ、フォルテたち、誰を引率してるんだい？",
+      "translation": "어라, 포르테 일행, 누구를 인솔하는 거야？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 652,
+          "length": 42,
+          "key": 3051126824,
+          "original": "あれ、フォルテたち、誰を引率してるんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0005",
+      "context": {
+        "voice": "GC545002.ogg"
+      },
+      "original": "やあ、タクト。実はしばらくこいつらを預かることになってね。",
+      "translation": "야아, 택트. 사실 잠시 이 녀석들을 맡기로 해서 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 840,
+          "length": 40,
+          "key": 3051126824,
+          "original": "やあ、タクト。実はしばらくこいつらを預か"
+        },
+        {
+          "offset": 888,
+          "length": 18,
+          "key": 3051126824,
+          "original": "ることになってね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0006",
+      "context": {
+        "voice": "GC545002.ogg"
+      },
+      "original": "おや、宇宙ウサギたちじゃないか。クジラルームから連れてきたのかい？",
+      "translation": "어라, 우주 토끼들이 아닌가. 쿠지라 룸에서 데려온 건가？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 980,
+          "length": 42,
+          "key": 3051126824,
+          "original": "おや、宇宙ウサギたちじゃないか。クジラルー"
+        },
+        {
+          "offset": 1032,
+          "length": 24,
+          "key": 3051126824,
+          "original": "ムから連れてきたのかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0007",
+      "context": {
+        "voice": "GC545003.ogg"
+      },
+      "original": "いつもはヴァニラが連れてきてるんだけど、いま留守してるわけじゃない？　だからその間だけの臨時よ、臨時。",
+      "translation": "평소에는 바닐라가 데려오는데, 지금은 자리를 비웠거든？ 그래서 그동안만 임시로 맡는 거야, 임시.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1168,
+          "length": 40,
+          "key": 3051126824,
+          "original": "いつもはヴァニラが連れてきてるんだけど、"
+        },
+        {
+          "offset": 1216,
+          "length": 40,
+          "key": 3051126824,
+          "original": "いま留守してるわけじゃない？　だからその"
+        },
+        {
+          "offset": 1264,
+          "length": 22,
+          "key": 3051126824,
+          "original": "間だけの臨時よ、臨時。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0008",
+      "context": {
+        "voice": "GC545004.ogg"
+      },
+      "original": "でもこいつら妙に勘が働くらしくってねえ。",
+      "translation": "하지만이녀석들,묘하게눈치가빨라서말이지.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1400,
+          "length": 40,
+          "key": 3051126824,
+          "original": "でもこいつら妙に勘が働くらしくってねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0009",
+      "context": {
+        "voice": "GC545004.ogg"
+      },
+      "original": "え、なにかやっかいなことになってるのかい？",
+      "translation": "에, 뭔가 골치 아픈 일이 생긴 거야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1512,
+          "length": 42,
+          "key": 3051126824,
+          "original": "え、なにかやっかいなことになってるのかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0010",
+      "context": {
+        "voice": "GC545005.ogg"
+      },
+      "original": "まあ手間はかからないんだが、かからなさすぎってのがちょっと心配なのさ。",
+      "translation": "뭐 손이 많이 가는 건 아니지만, 너무 손이 안 가서 좀 걱정이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1668,
+          "length": 40,
+          "key": 3051126824,
+          "original": "まあ手間はかからないんだが、かからなさす"
+        },
+        {
+          "offset": 1716,
+          "length": 30,
+          "key": 3051126824,
+          "original": "ぎってのがちょっと心配なのさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0011",
+      "context": {
+        "voice": "GC545006.ogg"
+      },
+      "original": "どうもヴァニラがいないってのがわかるらしくって、全然元気がないのよ。",
+      "translation": "바닐라가 없다는 걸 아는 모양인지, 전혀 기운이 없어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1860,
+          "length": 40,
+          "key": 3051126824,
+          "original": "どうもヴァニラがいないってのがわかるらし"
+        },
+        {
+          "offset": 1908,
+          "length": 28,
+          "key": 3051126824,
+          "original": "くって、全然元気がないのよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0012",
+      "context": {
+        "voice": "GC545006.ogg"
+      },
+      "original": "本当だ、なんだかどれもうずくまってばっかりだね。",
+      "translation": "정말이다, 다들 웅크리고만 있네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2008,
+          "length": 40,
+          "key": 3051126824,
+          "original": "本当だ、なんだかどれもうずくまってばっか"
+        },
+        {
+          "offset": 2056,
+          "length": 8,
+          "key": 3051126824,
+          "original": "りだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0013",
+      "context": {
+        "voice": "GC545007.ogg"
+      },
+      "original": "そうなると、いろいろ気になっちまってねえ。宇宙ウサギの顔色っていってもよくわからないし。",
+      "translation": "그러니까 이것저것 신경 쓰인단 말이지. 우주 토끼의 안색이라는 건 잘 모르겠고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2176,
+          "length": 42,
+          "key": 3051126824,
+          "original": "そうなると、いろいろ気になっちまってねえ。"
+        },
+        {
+          "offset": 2228,
+          "length": 40,
+          "key": 3051126824,
+          "original": "宇宙ウサギの顔色っていってもよくわからな"
+        },
+        {
+          "offset": 2276,
+          "length": 6,
+          "key": 3051126824,
+          "original": "いし。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0014",
+      "context": {
+        "voice": "GC545008.ogg"
+      },
+      "original": "タクト、ヴァニラからなにか聞いてない？",
+      "translation": "택트, 바닐라한테 뭐 들은 거 없어？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2396,
+          "length": 38,
+          "key": 3051126824,
+          "original": "タクト、ヴァニラからなにか聞いてない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0015",
+      "context": {
+        "voice": "GC545008.ogg"
+      },
+      "original": "宇宙ウサギの元気を出させる方法か。うーん、どうだろう。",
+      "translation": "우주 토끼의 기운을 차리게 할 방법인가. 으음, 글쎄.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2508,
+          "length": 42,
+          "key": 3051126824,
+          "original": "宇宙ウサギの元気を出させる方法か。うーん、"
+        },
+        {
+          "offset": 2560,
+          "length": 12,
+          "key": 3051126824,
+          "original": "どうだろう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0016",
+      "context": {
+        "voice": "GC545009.ogg"
+      },
+      "original": "耳までたれちゃって、ちょっと心配よね。",
+      "translation": "귀까지 처져서 좀 걱정되네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2684,
+          "length": 38,
+          "key": 3051126824,
+          "original": "耳までたれちゃって、ちょっと心配よね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0017",
+      "context": {
+        "voice": "GC545009.ogg"
+      },
+      "original": "いや、宇宙ウサギの耳は元々たれてるって。",
+      "translation": "아니, 우주 토끼의 귀는 원래 처져 있어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2796,
+          "length": 40,
+          "key": 3051126824,
+          "original": "いや、宇宙ウサギの耳は元々たれてるって。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0018",
+      "context": {
+        "voice": "GC545010.ogg"
+      },
+      "original": "あれ、そうだったっけ？",
+      "translation": "어라, 그랬던가？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2948,
+          "length": 22,
+          "key": 3051126824,
+          "original": "あれ、そうだったっけ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0019",
+      "context": {
+        "voice": "GC545011.ogg"
+      },
+      "original": "普段、ヴァニラは宇宙ウサギとどんなことをしてたんだい？",
+      "translation": "평소에 바닐라는 우주 토끼와 뭘 하고 지냈지？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3084,
+          "length": 40,
+          "key": 3051126824,
+          "original": "普段、ヴァニラは宇宙ウサギとどんなことを"
+        },
+        {
+          "offset": 3132,
+          "length": 14,
+          "key": 3051126824,
+          "original": "してたんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0020",
+      "context": {
+        "voice": "GC545012.ogg"
+      },
+      "original": "そうよ、タクトはいつもヴァニラといたんだから、少しは覚えてるでしょ？",
+      "translation": "맞아, 택트는 항상 바닐라랑 같이 있었으니까 조금은 기억하고 있잖아？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3260,
+          "length": 40,
+          "key": 3051126824,
+          "original": "そうよ、タクトはいつもヴァニラといたんだ"
+        },
+        {
+          "offset": 3308,
+          "length": 28,
+          "key": 3051126824,
+          "original": "から、少しは覚えてるでしょ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0021",
+      "context": {
+        "voice": "GC545012.ogg"
+      },
+      "original": "ヴァニラがしてたこと……うーんと、話しかけたりしてたかな？",
+      "translation": "바닐라가 했던 것…… 으음, 말을 걸거나 했었나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3408,
+          "length": 40,
+          "key": 3051126824,
+          "original": "ヴァニラがしてたこと……うーんと、話しか"
+        },
+        {
+          "offset": 3456,
+          "length": 18,
+          "key": 3051126824,
+          "original": "けたりしてたかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0022",
+      "context": {
+        "voice": "GC545013.ogg"
+      },
+      "original": "よし、話しかけるんだね……。",
+      "translation": "좋아, 말을 거는 거구나…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3608,
+          "length": 28,
+          "key": 3051126824,
+          "original": "よし、話しかけるんだね……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0023",
+      "context": {
+        "voice": "GC545014.ogg"
+      },
+      "original": "はーい、宇宙バニーちゃんたち、お元気でちゅか？",
+      "translation": "하-이, 우주 버니쨩들, 잘 지내고 있나용？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3792,
+          "length": 42,
+          "key": 3051126824,
+          "original": "はーい、宇宙バニーちゃんたち、お元気でちゅ"
+        },
+        {
+          "offset": 3844,
+          "length": 4,
+          "key": 3051126824,
+          "original": "か？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0024",
+      "context": {
+        "voice": "GC545015.ogg"
+      },
+      "original": "ランファちゃんでちゅよ～？　こんにちはでちゅー！",
+      "translation": "란파쨩이에용～？ 안녕해용！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3960,
+          "length": 40,
+          "key": 3051126824,
+          "original": "ランファちゃんでちゅよ～？　こんにちはで"
+        },
+        {
+          "offset": 4008,
+          "length": 8,
+          "key": 3051126824,
+          "original": "ちゅー！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0025",
+      "context": {
+        "voice": "GC545015.ogg"
+      },
+      "original": "……そういう感じじゃなかったと思う。",
+      "translation": "……그런 느낌이 아니었던 것 같은데.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4108,
+          "length": 36,
+          "key": 3051126824,
+          "original": "……そういう感じじゃなかったと思う。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0026",
+      "context": {
+        "voice": "GC545016.ogg"
+      },
+      "original": "うーん、確かにヴァニラが赤ちゃん言葉を使うはずないし……。",
+      "translation": "으음, 확실히 바닐라가 아기 말투를 쓸 리가 없고…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4368,
+          "length": 40,
+          "key": 3051126824,
+          "original": "うーん、確かにヴァニラが赤ちゃん言葉を使"
+        },
+        {
+          "offset": 4416,
+          "length": 18,
+          "key": 3051126824,
+          "original": "うはずないし……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0027",
+      "context": {
+        "voice": "GC545017.ogg"
+      },
+      "original": "いま、フォルテさんにつられちゃったけど、か……かなり恥ずかしかったわね。",
+      "translation": "방금 포르테 씨한테 휩쓸려 버렸지만, 꽤 부끄러웠어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4584,
+          "length": 40,
+          "key": 3051126824,
+          "original": "いま、フォルテさんにつられちゃったけど、"
+        },
+        {
+          "offset": 4632,
+          "length": 32,
+          "key": 3051126824,
+          "original": "か……かなり恥ずかしかったわね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0028",
+      "context": {
+        "voice": "GC545018.ogg"
+      },
+      "original": "タクト、もっと他にはないのかい？",
+      "translation": "택트, 좀 더 다른 건 없어？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4812,
+          "length": 32,
+          "key": 3051126824,
+          "original": "タクト、もっと他にはないのかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0029",
+      "context": {
+        "voice": "GC545018.ogg"
+      },
+      "original": "うーんと、首の後ろあたりをなでたりとか？",
+      "translation": "으음, 목 뒤쪽 같은 데를 쓰다듬는다거나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4916,
+          "length": 40,
+          "key": 3051126824,
+          "original": "うーんと、首の後ろあたりをなでたりとか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0030",
+      "context": {
+        "voice": "GC545019.ogg"
+      },
+      "original": "それって、どのへんだい？",
+      "translation": "그게 어디쯤이야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5104,
+          "length": 24,
+          "key": 3051126824,
+          "original": "それって、どのへんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0031",
+      "context": {
+        "voice": "GC545019.ogg"
+      },
+      "original": "ほら、宇宙ウサギって、耳の付け根の裏っ側あたりを後ろ足でカッカッカッて掻くんだよ。それが気持ちいいらしくて、喜ぶんだ。",
+      "translation": "있잖아, 우주 토끼는 귀 뿌리 안쪽을 뒷발로 벅벅 긁거든. 그게 기분 좋은 모양이라 좋아해.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5200,
+          "length": 40,
+          "key": 3051126824,
+          "original": "ほら、宇宙ウサギって、耳の付け根の裏っ側"
+        },
+        {
+          "offset": 5248,
+          "length": 42,
+          "key": 3051126824,
+          "original": "あたりを後ろ足でカッカッカッて掻くんだよ。"
+        },
+        {
+          "offset": 5300,
+          "length": 36,
+          "key": 3051126824,
+          "original": "それが気持ちいいらしくて、喜ぶんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0032",
+      "context": {
+        "voice": "GC545020.ogg"
+      },
+      "original": "このへんかな？　ゴシゴシゴシ。",
+      "translation": "이쯤인가？ 슥슥슥.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5484,
+          "length": 30,
+          "key": 3051126824,
+          "original": "このへんかな？　ゴシゴシゴシ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0033",
+      "context": {
+        "voice": "GC545021.ogg"
+      },
+      "original": "ごりごりごりごり。",
+      "translation": "벅벅벅벅.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5664,
+          "length": 18,
+          "key": 3051126824,
+          "original": "ごりごりごりごり。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0034",
+      "context": {
+        "voice": "GC545021.ogg"
+      },
+      "original": "反応がないねえ。",
+      "translation": "반응이 없네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5756,
+          "length": 16,
+          "key": 3051126824,
+          "original": "反応がないねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0035",
+      "context": {
+        "voice": "GC545022.ogg"
+      },
+      "original": "こいつらもそうとう落ち込んでるんだなあ。",
+      "translation": "이 녀석들도 상당히 낙담했나 보네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5920,
+          "length": 40,
+          "key": 3051126824,
+          "original": "こいつらもそうとう落ち込んでるんだなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0036",
+      "context": {
+        "voice": "GC545023.ogg"
+      },
+      "original": "こうなったら意地でもなんとかしてあげたいわね。タクト、他になんかないの？",
+      "translation": "이렇게 된 이상 어떻게든 해주고 싶어. 택트, 다른 건 없어？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6108,
+          "length": 40,
+          "key": 3051126824,
+          "original": "こうなったら意地でもなんとかしてあげたい"
+        },
+        {
+          "offset": 6156,
+          "length": 32,
+          "key": 3051126824,
+          "original": "わね。タクト、他になんかないの？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0037",
+      "context": {
+        "voice": "GC545023.ogg"
+      },
+      "original": "あと、試せることといったら……。",
+      "translation": "그 외에 시도해 볼만한거라면…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6260,
+          "length": 32,
+          "key": 3051126824,
+          "original": "あと、試せることといったら……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0038",
+      "context": {
+        "voice": "GC545023.ogg"
+      },
+      "original": "好物をあげてみることかな。",
+      "translation": "좋아하는 걸 주는 것일까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6444,
+          "length": 26,
+          "key": 3051126824,
+          "original": "好物をあげてみることかな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0039",
+      "context": {
+        "voice": "GC545100.ogg"
+      },
+      "original": "そうよ、それがあったじゃない。ちょっと待ってて、いまいいこと思いついたから。",
+      "translation": "맞아, 그거 있었지. 잠깐만 기다려 봐, 좋은 게 생각났으니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6664,
+          "length": 42,
+          "key": 3051126824,
+          "original": "そうよ、それがあったじゃない。ちょっと待っ"
+        },
+        {
+          "offset": 6716,
+          "length": 34,
+          "key": 3051126824,
+          "original": "てて、いまいいこと思いついたから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0040",
+      "context": {
+        "voice": "GC545100.ogg"
+      },
+      "original": "どうするんだい？",
+      "translation": "어떻게 하려고？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6824,
+          "length": 16,
+          "key": 3051126824,
+          "original": "どうするんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0041",
+      "context": {
+        "voice": "GC545101.ogg"
+      },
+      "original": "さっきそこでミルフィーを見かけたのよね。いまここにいるとすればあの子は……。",
+      "translation": "아까 저기서 밀피를 봤거든. 지금 여기 있다면 그 애는…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6988,
+          "length": 40,
+          "key": 3051126824,
+          "original": "さっきそこでミルフィーを見かけたのよね。"
+        },
+        {
+          "offset": 7036,
+          "length": 36,
+          "key": 3051126824,
+          "original": "いまここにいるとすればあの子は……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0042",
+      "context": {
+        "voice": "GC545102.ogg"
+      },
+      "original": "そうか、家庭菜園の野菜をもらおうってことかい？",
+      "translation": "그렇군, 텃밭 채소를 얻어오겠다는 건가？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7220,
+          "length": 40,
+          "key": 3051126824,
+          "original": "そうか、家庭菜園の野菜をもらおうってこと"
+        },
+        {
+          "offset": 7268,
+          "length": 6,
+          "key": 3051126824,
+          "original": "かい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0043",
+      "context": {
+        "voice": "GC545103.ogg"
+      },
+      "original": "そういうこと。ミルフィー！　いるんでしょ！",
+      "translation": "바로 그거야. 밀피！ 거기 있지！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7424,
+          "length": 42,
+          "key": 3051126824,
+          "original": "そういうこと。ミルフィー！　いるんでしょ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0044",
+      "context": {
+        "voice": "GC545104.ogg"
+      },
+      "original": "えー？　ランファ、いまあたしのこと呼んだあ？",
+      "translation": "에-？ 란파, 지금 내 이름 불렀어？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7680,
+          "length": 40,
+          "key": 3051126824,
+          "original": "えー？　ランファ、いまあたしのこと呼んだ"
+        },
+        {
+          "offset": 7728,
+          "length": 4,
+          "key": 3051126824,
+          "original": "あ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0045",
+      "context": {
+        "voice": "GC545105.ogg"
+      },
+      "original": "呼んだわよ。実はちょっと協力してほしいのよね。",
+      "translation": "불렀어. 사실 좀 협력해줬으면 해서.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7880,
+          "length": 40,
+          "key": 3051126824,
+          "original": "呼んだわよ。実はちょっと協力してほしいの"
+        },
+        {
+          "offset": 7928,
+          "length": 6,
+          "key": 3051126824,
+          "original": "よね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0046",
+      "context": {
+        "voice": "GC545106.ogg"
+      },
+      "original": "ふんふん、それで宇宙ウサギさんに、好物の野菜を？　もちろん、とれとれの野菜をあげちゃいます！",
+      "translation": "흐음흐음, 그래서 우주 토끼 씨에게 좋아하는 채소를？ 물론 싱싱한 채소로 줄게요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8116,
+          "length": 40,
+          "key": 3051126824,
+          "original": "ふんふん、それで宇宙ウサギさんに、好物の"
+        },
+        {
+          "offset": 8164,
+          "length": 40,
+          "key": 3051126824,
+          "original": "野菜を？　もちろん、とれとれの野菜をあげ"
+        },
+        {
+          "offset": 8212,
+          "length": 12,
+          "key": 3051126824,
+          "original": "ちゃいます！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0047",
+      "context": {
+        "voice": "GC545107.ogg"
+      },
+      "original": "それじゃあさっそくニンジンをもらっていいかな？",
+      "translation": "그럼 바로 당근을 좀 가져가도 될까？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8372,
+          "length": 40,
+          "key": 3051126824,
+          "original": "それじゃあさっそくニンジンをもらっていい"
+        },
+        {
+          "offset": 8420,
+          "length": 6,
+          "key": 3051126824,
+          "original": "かな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0048",
+      "context": {
+        "voice": "GC545108.ogg"
+      },
+      "original": "はい！　ところでランファ、あたしも宇宙ウサギさんにお野菜食べさせてあげていいかな。",
+      "translation": "네！ 그나저나 란파, 나도 우주 토끼 씨에게 채소를 먹여줘도 될까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8576,
+          "length": 40,
+          "key": 3051126824,
+          "original": "はい！　ところでランファ、あたしも宇宙ウ"
+        },
+        {
+          "offset": 8624,
+          "length": 42,
+          "key": 3051126824,
+          "original": "サギさんにお野菜食べさせてあげていいかな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0049",
+      "context": {
+        "voice": "GC545109.ogg"
+      },
+      "original": "もちろんいいに決まってるじゃない。",
+      "translation": "당연히 되지!\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8816,
+          "length": 34,
+          "key": 3051126824,
+          "original": "もちろんいいに決まってるじゃない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0050",
+      "context": {
+        "voice": "GC545110.ogg"
+      },
+      "original": "そーら、おまえたち。好物のニンジンだぞ。",
+      "translation": "자, 너희들. 좋아하는 당근이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9000,
+          "length": 40,
+          "key": 3051126824,
+          "original": "そーら、おまえたち。好物のニンジンだぞ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0051",
+      "context": {
+        "voice": "GC545111.ogg"
+      },
+      "original": "甘くておいしいよお！",
+      "translation": "달콤하고 맛있어！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9188,
+          "length": 20,
+          "key": 3051126824,
+          "original": "甘くておいしいよお！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0052",
+      "context": {
+        "voice": "GC545112.ogg"
+      },
+      "original": "新鮮でぴちぴちしてるわよ！",
+      "translation": "신선해서 아주 싱싱해！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9356,
+          "length": 26,
+          "key": 3051126824,
+          "original": "新鮮でぴちぴちしてるわよ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0053",
+      "context": {
+        "voice": "GC545112.ogg"
+      },
+      "original": "あ、食べてる食べてる。",
+      "translation": "아, 먹고있어,먹고있어.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9456,
+          "length": 22,
+          "key": 3051126824,
+          "original": "あ、食べてる食べてる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0054",
+      "context": {
+        "voice": "GC545113.ogg"
+      },
+      "original": "夢中になって食べてますよ、タクトさん！",
+      "translation": "정신없이 먹고 있어요, 택트 씨！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9628,
+          "length": 38,
+          "key": 3051126824,
+          "original": "夢中になって食べてますよ、タクトさん！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0055",
+      "context": {
+        "voice": "GC545114.ogg"
+      },
+      "original": "あいた！　アタシの指まで食べないでよね。",
+      "translation": "아얏！ 내 손가락까지 먹지 마.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9816,
+          "length": 40,
+          "key": 3051126824,
+          "original": "あいた！　アタシの指まで食べないでよね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0056",
+      "context": {
+        "voice": "GC545115.ogg"
+      },
+      "original": "やれやれ、でもこれでひと安心だよ。宇宙ウサギの世話も楽じゃないねえ。",
+      "translation": "이런이런, 그래도 이걸로 안심이야. 우주 토끼 돌보는 것도 쉽지 않네.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10004,
+          "length": 40,
+          "key": 3051126824,
+          "original": "やれやれ、でもこれでひと安心だよ。宇宙ウ"
+        },
+        {
+          "offset": 10052,
+          "length": 28,
+          "key": 3051126824,
+          "original": "サギの世話も楽じゃないねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0057",
+      "context": {
+        "voice": "GC545115.ogg"
+      },
+      "original": "そっとしておくことかな？",
+      "translation": "그냥내버려두는게답일까？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10160,
+          "length": 24,
+          "key": 3051126824,
+          "original": "そっとしておくことかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0058",
+      "context": {
+        "voice": "GC545116.ogg"
+      },
+      "original": "えー、そうなの？　それしかないの？",
+      "translation": "에, 정말？ 그것뿐이야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10332,
+          "length": 34,
+          "key": 3051126824,
+          "original": "えー、そうなの？　それしかないの？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0059",
+      "context": {
+        "voice": "GC545116.ogg"
+      },
+      "original": "宇宙ウサギってのは意外とストレスに弱いらしいんだ。だからへたに構い過ぎてもいけないんだって……ヴァニラが言ってた気がする。",
+      "translation": "우주 토끼는 의외로 스트레스에 약하대. 그러니까 너무 과하게 신경 써줘도 안 된다고…… 바닐라가 말했던 것 같아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10440,
+          "length": 40,
+          "key": 3051126824,
+          "original": "宇宙ウサギってのは意外とストレスに弱いら"
+        },
+        {
+          "offset": 10488,
+          "length": 40,
+          "key": 3051126824,
+          "original": "しいんだ。だからへたに構い過ぎてもいけな"
+        },
+        {
+          "offset": 10536,
+          "length": 42,
+          "key": 3051126824,
+          "original": "いんだって……ヴァニラが言ってた気がする。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0060",
+      "context": {
+        "voice": "GC545117.ogg"
+      },
+      "original": "なんだか曖昧だなあ。でもそれはあたしも聞いたことがあるねえ。",
+      "translation": "뭔가 애매하네. 하지만 나도 들어본 적 있어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10728,
+          "length": 40,
+          "key": 3051126824,
+          "original": "なんだか曖昧だなあ。でもそれはあたしも聞"
+        },
+        {
+          "offset": 10776,
+          "length": 20,
+          "key": 3051126824,
+          "original": "いたことがあるねえ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0061",
+      "context": {
+        "voice": "GC545118.ogg"
+      },
+      "original": "え、そうなんだ。それじゃあ、ほっとくしかないわけ？",
+      "translation": "에, 그래？ 그럼 그냥 내버려 둘 수밖에 없는 거야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10944,
+          "length": 40,
+          "key": 3051126824,
+          "original": "え、そうなんだ。それじゃあ、ほっとくしか"
+        },
+        {
+          "offset": 10992,
+          "length": 10,
+          "key": 3051126824,
+          "original": "ないわけ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0062",
+      "context": {
+        "voice": "GC545119.ogg"
+      },
+      "original": "まあ、今日の所はのんびりさせてやるってことにしようじゃないか。",
+      "translation": "뭐, 오늘은 느긋하게 지내게 해주자고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11152,
+          "length": 40,
+          "key": 3051126824,
+          "original": "まあ、今日の所はのんびりさせてやるってこ"
+        },
+        {
+          "offset": 11200,
+          "length": 22,
+          "key": 3051126824,
+          "original": "とにしようじゃないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0063",
+      "context": {
+        "voice": "GC545119.ogg"
+      },
+      "original": "宇宙ウサギの気持ちになってみることかな？",
+      "translation": "우주 토끼의 마음이 되어보는 건 어떨까？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11304,
+          "length": 40,
+          "key": 3051126824,
+          "original": "宇宙ウサギの気持ちになってみることかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0064",
+      "context": {
+        "voice": "GC545120.ogg"
+      },
+      "original": "宇宙ウサギの気持ちって何よ？　タクト、適当なこと言ってない？",
+      "translation": "우주 토끼의 마음이라니 뭐야？ 택트, 대충 말하는 거 아냐？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11536,
+          "length": 40,
+          "key": 3051126824,
+          "original": "宇宙ウサギの気持ちって何よ？　タクト、適"
+        },
+        {
+          "offset": 11584,
+          "length": 20,
+          "key": 3051126824,
+          "original": "当なこと言ってない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0065",
+      "context": {
+        "voice": "GC545120.ogg"
+      },
+      "original": "でもほら、相手の身になって考えるって、基本だろ？",
+      "translation": "하지만 봐봐,상대방입장에서생각하는건기본이잖아？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11676,
+          "length": 40,
+          "key": 3051126824,
+          "original": "でもほら、相手の身になって考えるって、基"
+        },
+        {
+          "offset": 11724,
+          "length": 8,
+          "key": 3051126824,
+          "original": "本だろ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0066",
+      "context": {
+        "voice": "GC545121.ogg"
+      },
+      "original": "耳でもつけて考えろってのかねえ。それじゃ用意してもらおうか、耳。",
+      "translation": "귀라도 달고 생각하라는 거야? 그럼 귀를 좀 준비해줘야겠네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11880,
+          "length": 40,
+          "key": 3051126824,
+          "original": "耳でもつけて考えろってのかねえ。それじゃ"
+        },
+        {
+          "offset": 11928,
+          "length": 24,
+          "key": 3051126824,
+          "original": "用意してもらおうか、耳。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0067",
+      "context": {
+        "voice": "GC545121.ogg"
+      },
+      "original": "うーん、いい考えだと思ったんだけどなあ。",
+      "translation": "으음, 좋은 생각인 줄 알았는데 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12024,
+          "length": 40,
+          "key": 3051126824,
+          "original": "うーん、いい考えだと思ったんだけどなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0068",
+      "context": {
+        "voice": "GC545121.ogg"
+      },
+      "original": "まあ、宇宙ウサギの世話は大変だと思うけど、焦らずのんびりやることだと思うよ。",
+      "translation": "뭐, 우주 토끼 돌보는 건 힘들겠지만, 서두르지 말고 천천히 하면 될 거야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12136,
+          "length": 42,
+          "key": 3051126824,
+          "original": "まあ、宇宙ウサギの世話は大変だと思うけど、"
+        },
+        {
+          "offset": 12188,
+          "length": 34,
+          "key": 3051126824,
+          "original": "焦らずのんびりやることだと思うよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0069",
+      "context": {
+        "voice": "GC545122.ogg"
+      },
+      "original": "しかたない。宇宙ウサギのペースってやつを実践してみるか……。",
+      "translation": "어쩔 수 없지. 우주 토끼의 페이스라는 걸 실천해 볼까…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12372,
+          "length": 40,
+          "key": 3051126824,
+          "original": "しかたない。宇宙ウサギのペースってやつを"
+        },
+        {
+          "offset": 12420,
+          "length": 20,
+          "key": 3051126824,
+          "original": "実践してみるか……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0070",
+      "context": {
+        "voice": "GC545123.ogg"
+      },
+      "original": "ニンジンでもかじってね。",
+      "translation": "당근이나 갉아먹으라고.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12588,
+          "length": 24,
+          "key": 3051126824,
+          "original": "ニンジンでもかじってね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0071",
+      "context": {
+        "voice": "GC545123.ogg"
+      },
+      "original": "そうそう。じきに宇宙ウサギたちの方が慣れてくれるさ、きっと。",
+      "translation": "그래그래. 곧 우주 토끼들이 익숙해질 거야, 분명.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12684,
+          "length": 40,
+          "key": 3051126824,
+          "original": "そうそう。じきに宇宙ウサギたちの方が慣れ"
+        },
+        {
+          "offset": 12732,
+          "length": 20,
+          "key": 3051126824,
+          "original": "てくれるさ、きっと。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0072",
+      "context": {
+        "voice": "GC545123.ogg"
+      },
+      "original": "クジラルーム・宇宙クジラに相談",
+      "translation": "쿠지라 룸・우주 고래에게 상담\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12784,
+          "length": 30,
+          "key": 1515589570,
+          "original": "クジラルーム・宇宙クジラに相談"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0073",
+      "context": {
+        "voice": "GC545123.ogg"
+      },
+      "original": "やあ、みんな。クロミエとなんの相談だい？",
+      "translation": "안녕, 얘들아. 크로미에와 무슨 상담이지？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13072,
+          "length": 40,
+          "key": 1515589570,
+          "original": "やあ、みんな。クロミエとなんの相談だい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0074",
+      "context": {
+        "voice": "GC545200.ogg"
+      },
+      "original": "あ、タクトさん。いまあたしたち宇宙クジラを呼んでもらってるところなんですよ。",
+      "translation": "아, 택트 씨. 지금 저희 우주 고래를 부르고 있는 중이에요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13260,
+          "length": 40,
+          "key": 1515589570,
+          "original": "あ、タクトさん。いまあたしたち宇宙クジラ"
+        },
+        {
+          "offset": 13308,
+          "length": 36,
+          "key": 1515589570,
+          "original": "を呼んでもらってるところなんですよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0075",
+      "context": {
+        "voice": "GC545200.ogg"
+      },
+      "original": "宇宙クジラを？　背中にでものせてもらうのかい？",
+      "translation": "우주 고래를？ 등에 태워달라는 거야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13416,
+          "length": 40,
+          "key": 1515589570,
+          "original": "宇宙クジラを？　背中にでものせてもらうの"
+        },
+        {
+          "offset": 13464,
+          "length": 6,
+          "key": 1515589570,
+          "original": "かい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0076",
+      "context": {
+        "voice": "GC545201.ogg"
+      },
+      "original": "私たちは宇宙クジラさんと遊びに来たわけではありません。",
+      "translation": "저희는 우주 고래 씨와 놀러 온 게 아닙니다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13620,
+          "length": 40,
+          "key": 1515589570,
+          "original": "私たちは宇宙クジラさんと遊びに来たわけで"
+        },
+        {
+          "offset": 13668,
+          "length": 14,
+          "key": 1515589570,
+          "original": "はありません。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0077",
+      "context": {
+        "voice": "GC545202.ogg"
+      },
+      "original": "そうですわ、タクトさん。もしかしたら宇宙クジラさんがとても重要なことを知っているかもしれないんですよ。",
+      "translation": "맞아요, 택트 씨. 어쩌면 우주 고래 씨가 아주 중요한 것을 알고 있을지도 몰라요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13832,
+          "length": 40,
+          "key": 1515589570,
+          "original": "そうですわ、タクトさん。もしかしたら宇宙"
+        },
+        {
+          "offset": 13880,
+          "length": 40,
+          "key": 1515589570,
+          "original": "クジラさんがとても重要なことを知っている"
+        },
+        {
+          "offset": 13928,
+          "length": 22,
+          "key": 1515589570,
+          "original": "かもしれないんですよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0078",
+      "context": {
+        "voice": "GC545202.ogg"
+      },
+      "original": "へぇ、宇宙クジラが知っている重要なことってなんだい？",
+      "translation": "헤에, 우주 고래가 아는 중요한 것이 뭔데？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14024,
+          "length": 40,
+          "key": 1515589570,
+          "original": "へぇ、宇宙クジラが知っている重要なことっ"
+        },
+        {
+          "offset": 14072,
+          "length": 12,
+          "key": 1515589570,
+          "original": "てなんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0079",
+      "context": {
+        "voice": "GC545203.ogg"
+      },
+      "original": "ヴァニラさんのことですわ。",
+      "translation": "바닐라 씨의 일이에요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14232,
+          "length": 26,
+          "key": 1515589570,
+          "original": "ヴァニラさんのことですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0080",
+      "context": {
+        "voice": "GC545203.ogg"
+      },
+      "original": "ヴァニラの？",
+      "translation": "바닐라가？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14332,
+          "length": 12,
+          "key": 1515589570,
+          "original": "ヴァニラの？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0081",
+      "context": {
+        "voice": "GC545204.ogg"
+      },
+      "original": "はい！　私たちヴァニラ先輩に一日でも早く回復していただきたいと思っているんです。",
+      "translation": "네！ 저희는 바닐라 선배님이 하루라도 빨리 회복하시길 바라고 있어요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14456,
+          "length": 40,
+          "key": 1515589570,
+          "original": "はい！　私たちヴァニラ先輩に一日でも早く"
+        },
+        {
+          "offset": 14504,
+          "length": 40,
+          "key": 1515589570,
+          "original": "回復していただきたいと思っているんです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0082",
+      "context": {
+        "voice": "GC545205.ogg"
+      },
+      "original": "だから、ヴァニラが好きそうなことを知ってる人に、いまいろいろ聞いてまわってるところなんですよ。",
+      "translation": "그래서 바닐라가 좋아할 만한 걸 아는 사람에게 지금 여기저기 물어보고 다니는 중이에요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14692,
+          "length": 40,
+          "key": 1515589570,
+          "original": "だから、ヴァニラが好きそうなことを知って"
+        },
+        {
+          "offset": 14740,
+          "length": 40,
+          "key": 1515589570,
+          "original": "る人に、いまいろいろ聞いてまわってるとこ"
+        },
+        {
+          "offset": 14788,
+          "length": 14,
+          "key": 1515589570,
+          "original": "ろなんですよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0083",
+      "context": {
+        "voice": "GC545206.ogg"
+      },
+      "original": "先ほど、ケーラ先生にもお伺いしましたから、今度は宇宙クジラさんというわけです。",
+      "translation": "아까 케라 선생님께도 여쭤봤으니, 이번엔 우주 고래 씨 차례예요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14952,
+          "length": 42,
+          "key": 1515589570,
+          "original": "先ほど、ケーラ先生にもお伺いしましたから、"
+        },
+        {
+          "offset": 15004,
+          "length": 36,
+          "key": 1515589570,
+          "original": "今度は宇宙クジラさんというわけです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0084",
+      "context": {
+        "voice": "GC545206.ogg"
+      },
+      "original": "そうだなあ、ヴァニラはクジラルームによく通ってたからなあ。宇宙ウサギとかの世話もしていたし。",
+      "translation": "글쎄, 바닐라는 쿠지라 룸에 자주 다녔으니까 말이야. 우주 토끼 같은 걸 돌보기도 했고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15112,
+          "length": 40,
+          "key": 1515589570,
+          "original": "そうだなあ、ヴァニラはクジラルームによく"
+        },
+        {
+          "offset": 15160,
+          "length": 40,
+          "key": 1515589570,
+          "original": "通ってたからなあ。宇宙ウサギとかの世話も"
+        },
+        {
+          "offset": 15208,
+          "length": 12,
+          "key": 1515589570,
+          "original": "していたし。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0085",
+      "context": {
+        "voice": "GC545207.ogg"
+      },
+      "original": "本当は宇宙ウサギたちのお話も聞きたかったんだけど、宇宙ウサギ語はさすがにちょっとわからなくて……。",
+      "translation": "사실은 우주 토끼들의 이야기도 듣고 싶었지만, 우주 토끼어는 역시 좀 몰라서…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15368,
+          "length": 40,
+          "key": 1515589570,
+          "original": "本当は宇宙ウサギたちのお話も聞きたかった"
+        },
+        {
+          "offset": 15416,
+          "length": 40,
+          "key": 1515589570,
+          "original": "んだけど、宇宙ウサギ語はさすがにちょっと"
+        },
+        {
+          "offset": 15464,
+          "length": 18,
+          "key": 1515589570,
+          "original": "わからなくて……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0086",
+      "context": {
+        "voice": "GC545208.ogg"
+      },
+      "original": "でもメモはだいぶたまりましたわ！　これで宇宙クジラさんのお話が聞ければ、かなり詳しい資料になりますわよ。",
+      "translation": "하지만 메모는 꽤 모았어요！ 이걸로 우주 고래 씨의 이야기를 들을 수 있다면 아주 상세한 자료가 될 거예요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15632,
+          "length": 40,
+          "key": 1515589570,
+          "original": "でもメモはだいぶたまりましたわ！　これで"
+        },
+        {
+          "offset": 15680,
+          "length": 40,
+          "key": 1515589570,
+          "original": "宇宙クジラさんのお話が聞ければ、かなり詳"
+        },
+        {
+          "offset": 15728,
+          "length": 24,
+          "key": 1515589570,
+          "original": "しい資料になりますわよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0087",
+      "context": {
+        "voice": "GC545209.ogg"
+      },
+      "original": "がんばりましょう、ミルフィー先輩、ミント先輩！",
+      "translation": "힘내자, 밀피 선배님, 민트 선배님！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15900,
+          "length": 40,
+          "key": 1515589570,
+          "original": "がんばりましょう、ミルフィー先輩、ミント"
+        },
+        {
+          "offset": 15948,
+          "length": 6,
+          "key": 1515589570,
+          "original": "先輩！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0088",
+      "context": {
+        "voice": "GC545209.ogg"
+      },
+      "original": "オレも宇宙クジラが知ってることには興味があるなあ、一緒に聞いてもいいかい？",
+      "translation": "나도 우주 고래가 아는 것에는 흥미가 있는데, 같이 들어봐도 될까？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16028,
+          "length": 40,
+          "key": 1515589570,
+          "original": "オレも宇宙クジラが知ってることには興味が"
+        },
+        {
+          "offset": 16076,
+          "length": 34,
+          "key": 1515589570,
+          "original": "あるなあ、一緒に聞いてもいいかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0089",
+      "context": {
+        "voice": "GC545210.ogg"
+      },
+      "original": "もちろん！　どんどん聞いてっちゃってください！",
+      "translation": "물론이죠！ 마음껏 물어보세요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16260,
+          "length": 40,
+          "key": 1515589570,
+          "original": "もちろん！　どんどん聞いてっちゃってくだ"
+        },
+        {
+          "offset": 16308,
+          "length": 6,
+          "key": 1515589570,
+          "original": "さい！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0090",
+      "context": {
+        "voice": "GC545211.ogg"
+      },
+      "original": "そろそろ宇宙クジラがくると言ってますよ。",
+      "translation": "슬슬 우주 고래가 온다고 하네요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16528,
+          "length": 40,
+          "key": 1515589570,
+          "original": "そろそろ宇宙クジラがくると言ってますよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0091",
+      "context": {
+        "voice": "GA213019.ogg"
+      },
+      "original": "キュオォーン。",
+      "translation": "큐오오옹.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16680,
+          "length": 14,
+          "key": 1515589570,
+          "original": "キュオォーン。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0092",
+      "context": {
+        "voice": "GC545213.ogg"
+      },
+      "original": "こんにちは、と言ってます。それで何をお聞きになるんですか？",
+      "translation": "안녕, 이라고 합니다. 그래서 무엇을 물어보실 건가요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16844,
+          "length": 40,
+          "key": 1515589570,
+          "original": "こんにちは、と言ってます。それで何をお聞"
+        },
+        {
+          "offset": 16892,
+          "length": 18,
+          "key": 1515589570,
+          "original": "きになるんですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0093",
+      "context": {
+        "voice": "GC545214.ogg"
+      },
+      "original": "いまヴァニラの調子が悪くって、みんな心配してるんです。それで元気になる方法を教えてほしいんです！",
+      "translation": "지금 바닐라의 상태가 안 좋아서 다들 걱정하고 있어요. 그래서 기운 차릴 방법을 알려줬으면 해요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17060,
+          "length": 40,
+          "key": 1515589570,
+          "original": "いまヴァニラの調子が悪くって、みんな心配"
+        },
+        {
+          "offset": 17108,
+          "length": 40,
+          "key": 1515589570,
+          "original": "してるんです。それで元気になる方法を教え"
+        },
+        {
+          "offset": 17156,
+          "length": 16,
+          "key": 1515589570,
+          "original": "てほしいんです！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0094",
+      "context": {
+        "voice": "GC545215.ogg"
+      },
+      "original": "元気になる方法ですね。それでは……。",
+      "translation": "기운 차릴 방법 말이죠. 그럼…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17320,
+          "length": 36,
+          "key": 1515589570,
+          "original": "元気になる方法ですね。それでは……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0095",
+      "context": {
+        "voice": "GA213019.ogg"
+      },
+      "original": "キュオォーン。",
+      "translation": "큐오오옹.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17468,
+          "length": 14,
+          "key": 1515589570,
+          "original": "キュオォーン。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0096",
+      "context": {
+        "voice": "GC545217.ogg"
+      },
+      "original": "宇宙クジラが言うには、海のものがいいそうです。",
+      "translation": "우주고래가 말하기로는,바다의것이좋다고합니다.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17596,
+          "length": 40,
+          "key": 1515589570,
+          "original": "宇宙クジラが言うには、海のものがいいそう"
+        },
+        {
+          "offset": 17644,
+          "length": 6,
+          "key": 1515589570,
+          "original": "です。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0097",
+      "context": {
+        "voice": "GC545218.ogg"
+      },
+      "original": "海のものですか？　海のもので体にいいといったら……あ、わかりましたわ、お魚です！",
+      "translation": "바다의 것 말인가요？ 몸에 좋은 거라면…… 아, 알겠습니다, 생선이군요！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17800,
+          "length": 42,
+          "key": 1515589570,
+          "original": "海のものですか？　海のもので体にいいといっ"
+        },
+        {
+          "offset": 17852,
+          "length": 38,
+          "key": 1515589570,
+          "original": "たら……あ、わかりましたわ、お魚です！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0098",
+      "context": {
+        "voice": "GC545219.ogg"
+      },
+      "original": "なるほど、ドコサヘキサエン酸ですね。",
+      "translation": "그렇군요, DHA(도코사헥사엔산)말이죠.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18040,
+          "length": 36,
+          "key": 1515589570,
+          "original": "なるほど、ドコサヘキサエン酸ですね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0099",
+      "context": {
+        "voice": "GC545220.ogg"
+      },
+      "original": "え？　どすこいだいすきさん？",
+      "translation": "에？ 도스쿠이 다이스키상？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18224,
+          "length": 28,
+          "key": 1515589570,
+          "original": "え？　どすこいだいすきさん？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0100",
+      "context": {
+        "voice": "GC545221.ogg"
+      },
+      "original": "ドコサヘキサエン酸ですわ、ＤＨＡとも言われてますわね。とても体にいいんですのよ。",
+      "translation": "도코사헥사엔산이에요, ＤＨＡ라고도 불리죠. 몸에 아주 좋답니다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18400,
+          "length": 40,
+          "key": 1515589570,
+          "original": "ドコサヘキサエン酸ですわ、ＤＨＡとも言わ"
+        },
+        {
+          "offset": 18448,
+          "length": 40,
+          "key": 1515589570,
+          "original": "れてますわね。とても体にいいんですのよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0101",
+      "context": {
+        "voice": "GC545221.ogg"
+      },
+      "original": "頭とか心臓にいいんじゃなかったけか。",
+      "translation": "머리나 심장에 좋은 거 아니었나?\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18560,
+          "length": 36,
+          "key": 1515589570,
+          "original": "頭とか心臓にいいんじゃなかったけか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0102",
+      "context": {
+        "voice": "GC545222.ogg"
+      },
+      "original": "食べ物で健康になるってことですね。なるほど、とてもためになります。",
+      "translation": "음식으로 건강해진다는 뜻이군요. 과연, 아주 도움이 되었습니다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18744,
+          "length": 40,
+          "key": 1515589570,
+          "original": "食べ物で健康になるってことですね。なるほ"
+        },
+        {
+          "offset": 18792,
+          "length": 26,
+          "key": 1515589570,
+          "original": "ど、とてもためになります。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0103",
+      "context": {
+        "voice": "GA213020.ogg"
+      },
+      "original": "キュオォーン。",
+      "translation": "큐오오옹.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18932,
+          "length": 14,
+          "key": 1515589570,
+          "original": "キュオォーン。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0104",
+      "context": {
+        "voice": "GC545224.ogg"
+      },
+      "original": "体をこするのもいいそうです。",
+      "translation": "몸을 문지르는 것도 좋대요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19096,
+          "length": 28,
+          "key": 1515589570,
+          "original": "体をこするのもいいそうです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0105",
+      "context": {
+        "voice": "GC545225.ogg"
+      },
+      "original": "体をこする？　ゴシゴシってこすることかな。",
+      "translation": "몸을 문지른다？ 슥슥 문지르는 걸까.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19272,
+          "length": 42,
+          "key": 1515589570,
+          "original": "体をこする？　ゴシゴシってこすることかな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0106",
+      "context": {
+        "voice": "GC545226.ogg"
+      },
+      "original": "乾布摩擦のことでしょうか。",
+      "translation": "건부 마찰 말씀이신가요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19464,
+          "length": 26,
+          "key": 1515589570,
+          "original": "乾布摩擦のことでしょうか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0107",
+      "context": {
+        "voice": "GA213020.ogg"
+      },
+      "original": "キュオォーン。",
+      "translation": "큐오오옹.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19604,
+          "length": 14,
+          "key": 1515589570,
+          "original": "キュオォーン。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0108",
+      "context": {
+        "voice": "GC545228.ogg"
+      },
+      "original": "ブラシでこすると、なおいいそうですよ。",
+      "translation": "브러시로 문지르면 더 좋을 거예요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19768,
+          "length": 38,
+          "key": 1515589570,
+          "original": "ブラシでこすると、なおいいそうですよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0109",
+      "context": {
+        "voice": "GC545229.ogg"
+      },
+      "original": "「ブラシでゴシゴシこする」ですわね？",
+      "translation": "「브러시로 슥슥 문지르기」 말이죠？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19956,
+          "length": 36,
+          "key": 1515589570,
+          "original": "「ブラシでゴシゴシこする」ですわね？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0110",
+      "context": {
+        "voice": "GC545229.ogg"
+      },
+      "original": "うん、全身マッサージは気持ちいいからね。血の巡りも良くなるし。",
+      "translation": "응, 전신 마사지는 기분 좋으니까. 혈액 순환도 좋아지고.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20064,
+          "length": 40,
+          "key": 1515589570,
+          "original": "うん、全身マッサージは気持ちいいからね。"
+        },
+        {
+          "offset": 20112,
+          "length": 22,
+          "key": 1515589570,
+          "original": "血の巡りも良くなるし。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0111",
+      "context": {
+        "voice": "GC545230.ogg"
+      },
+      "original": "そうですね。ヴァニラをブラシでゴシゴシしましょう！",
+      "translation": "그렇네요. 바닐라를 브러시로 슥슥 문질러요！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20284,
+          "length": 40,
+          "key": 1515589570,
+          "original": "そうですね。ヴァニラをブラシでゴシゴシし"
+        },
+        {
+          "offset": 20332,
+          "length": 10,
+          "key": 1515589570,
+          "original": "ましょう！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0112",
+      "context": {
+        "voice": "GC545230.ogg"
+      },
+      "original": "なるべく毛の柔らかいやつでね。",
+      "translation": "가급적 털이부드러운걸로말이야.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20416,
+          "length": 30,
+          "key": 1515589570,
+          "original": "なるべく毛の柔らかいやつでね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0113",
+      "context": {
+        "voice": "GC545231.ogg"
+      },
+      "original": "他にはまだありませんか？　ヴァニラ先輩の調子を取り戻すのに役立ちそうなことは。",
+      "translation": "그 외엔 더 없나요？ 바닐라 선배의 컨디션 회복에 도움이 될 만한 건.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20596,
+          "length": 40,
+          "key": 1515589570,
+          "original": "他にはまだありませんか？　ヴァニラ先輩の"
+        },
+        {
+          "offset": 20644,
+          "length": 38,
+          "key": 1515589570,
+          "original": "調子を取り戻すのに役立ちそうなことは。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0114",
+      "context": {
+        "voice": "GA213019.ogg"
+      },
+      "original": "キュオォーン。",
+      "translation": "큐오오옹.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20796,
+          "length": 14,
+          "key": 1515589570,
+          "original": "キュオォーン。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0115",
+      "context": {
+        "voice": "GC545233.ogg"
+      },
+      "original": "潮を吹くといいそうです。",
+      "translation": "분수를 뿜으면 좋대요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20960,
+          "length": 24,
+          "key": 1515589570,
+          "original": "潮を吹くといいそうです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0116",
+      "context": {
+        "voice": "GC545234.ogg"
+      },
+      "original": "塩？　お砂糖とかお塩の塩ですか？",
+      "translation": "소금？ 설탕이나 소금 말인가요？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21132,
+          "length": 32,
+          "key": 1515589570,
+          "original": "塩？　お砂糖とかお塩の塩ですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0117",
+      "context": {
+        "voice": "GA213020.ogg"
+      },
+      "original": "キュオォーン！！",
+      "translation": "큐오오옹！！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21436,
+          "length": 16,
+          "key": 1515589570,
+          "original": "キュオォーン！！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0118",
+      "context": {
+        "voice": "GC545236.ogg"
+      },
+      "original": "きゃあ！",
+      "translation": "꺄악！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21612,
+          "length": 8,
+          "key": 1515589570,
+          "original": "きゃあ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0119",
+      "context": {
+        "voice": "GC545236.ogg"
+      },
+      "original": "うわっ、いきなり潮を吹いたぞ！",
+      "translation": "우와, 갑자기 분수를 뿜었어！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21692,
+          "length": 30,
+          "key": 1515589570,
+          "original": "うわっ、いきなり潮を吹いたぞ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0120",
+      "context": {
+        "voice": "GC545237.ogg"
+      },
+      "original": "もう、いったいなんなんですの！？",
+      "translation": "정말, 도대체 뭐인 건가요！？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21872,
+          "length": 32,
+          "key": 1515589570,
+          "original": "もう、いったいなんなんですの！？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0121",
+      "context": {
+        "voice": "GC545238.ogg"
+      },
+      "original": "びしょびしょになってしまいました……。",
+      "translation": "흠뻑 젖어버렸습니다…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22052,
+          "length": 38,
+          "key": 1515589570,
+          "original": "びしょびしょになってしまいました……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0122",
+      "context": {
+        "voice": "GC545238.ogg"
+      },
+      "original": "潮……そうか！",
+      "translation": "분수……그래！",
+      "state": "shortened-reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22164,
+          "length": 14,
+          "key": 1515589570,
+          "original": "潮……そうか！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0123",
+      "context": {
+        "voice": "GC545238.ogg"
+      },
+      "original": "もしかして、宇宙クジラが言ってる事って、全部自分にとっていいことじゃない？",
+      "translation": "혹시, 우주 고래가 하는 말은 전부 자신에게 좋은 일이 아니야？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22252,
+          "length": 40,
+          "key": 1515589570,
+          "original": "もしかして、宇宙クジラが言ってる事って、"
+        },
+        {
+          "offset": 22300,
+          "length": 34,
+          "key": 1515589570,
+          "original": "全部自分にとっていいことじゃない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0124",
+      "context": {
+        "voice": "GC545239.ogg"
+      },
+      "original": "あ、そういえば。",
+      "translation": "아, 그러고 보니.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22484,
+          "length": 16,
+          "key": 1515589570,
+          "original": "あ、そういえば。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0125",
+      "context": {
+        "voice": "GC545240.ogg"
+      },
+      "original": "するといままで聞いたことは全部。",
+      "translation": "그러면 지금까지 들은 건 전부,",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22648,
+          "length": 32,
+          "key": 1515589570,
+          "original": "するといままで聞いたことは全部。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0126",
+      "context": {
+        "voice": "GC545241.ogg"
+      },
+      "original": "宇宙クジラさんが元気になる方法だったんですね……。",
+      "translation": "우주 고래 씨가 건강해지는 방법이었던 거네요…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22828,
+          "length": 40,
+          "key": 1515589570,
+          "original": "宇宙クジラさんが元気になる方法だったんで"
+        },
+        {
+          "offset": 22876,
+          "length": 10,
+          "key": 1515589570,
+          "original": "すね……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0127",
+      "context": {
+        "voice": "GC545241.ogg"
+      },
+      "original": "まあまあ、そんなに落ち込まなくても……。",
+      "translation": "자자, 그렇게 낙담하지 말고…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22960,
+          "length": 40,
+          "key": 1515589570,
+          "original": "まあまあ、そんなに落ち込まなくても……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0128",
+      "context": {
+        "voice": "GC545241.ogg"
+      },
+      "original": "さっきの健康法があるじゃないか。",
+      "translation": "아까 그 건강법이 있잖아.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23152,
+          "length": 32,
+          "key": 1515589570,
+          "original": "さっきの健康法があるじゃないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0129",
+      "context": {
+        "voice": "GC545300.ogg"
+      },
+      "original": "そうですね！　お魚料理をお見舞いで持っていって、どすこいだいすきさんの力を試してみます！",
+      "translation": "그렇네요！생선 요리를 위문 선물로 가져가서, 도스코이 다이스키 님의 힘을 시험해 볼게요！",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23376,
+          "length": 40,
+          "key": 1515589570,
+          "original": "そうですね！　お魚料理をお見舞いで持って"
+        },
+        {
+          "offset": 23424,
+          "length": 40,
+          "key": 1515589570,
+          "original": "いって、どすこいだいすきさんの力を試して"
+        },
+        {
+          "offset": 23472,
+          "length": 8,
+          "key": 1515589570,
+          "original": "みます！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0130",
+      "context": {
+        "voice": "GC545301.ogg"
+      },
+      "original": "それを言うならドコサヘキサエン酸ですわ。ミルフィーさん。",
+      "translation": "정확히는 도코사헥사엔산입니다, 밀피 씨.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23628,
+          "length": 40,
+          "key": 1515589570,
+          "original": "それを言うならドコサヘキサエン酸ですわ。"
+        },
+        {
+          "offset": 23676,
+          "length": 16,
+          "key": 1515589570,
+          "original": "ミルフィーさん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0131",
+      "context": {
+        "voice": "GC545302.ogg"
+      },
+      "original": "乾布摩擦も体にいいですしね。",
+      "translation": "건부 마찰도 몸에 좋으니까요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23840,
+          "length": 28,
+          "key": 1515589570,
+          "original": "乾布摩擦も体にいいですしね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0132",
+      "context": {
+        "voice": "GC545302.ogg"
+      },
+      "original": "そうそう、ポジティブシンキングだよ、みんな。",
+      "translation": "그래그래, 긍정적으로 생각하자고, 다들.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23940,
+          "length": 40,
+          "key": 1515589570,
+          "original": "そうそう、ポジティブシンキングだよ、みん"
+        },
+        {
+          "offset": 23988,
+          "length": 4,
+          "key": 1515589570,
+          "original": "な。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0133",
+      "context": {
+        "voice": "GC545302.ogg"
+      },
+      "original": "面白い話を体験できたじゃないか。",
+      "translation": "재미있는 경험을 했잖아.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24072,
+          "length": 32,
+          "key": 1515589570,
+          "original": "面白い話を体験できたじゃないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0134",
+      "context": {
+        "voice": "GC545303.ogg"
+      },
+      "original": "そうですわね。宇宙クジラさんのおかげでびしょびしょになるとは思ってもみませんでしたが……。",
+      "translation": "그렇네요. 우주 고래 씨 덕분에 흠뻑 젖게 될 줄은 몰랐지만…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24296,
+          "length": 40,
+          "key": 1515589570,
+          "original": "そうですわね。宇宙クジラさんのおかげでび"
+        },
+        {
+          "offset": 24344,
+          "length": 40,
+          "key": 1515589570,
+          "original": "しょびしょになるとは思ってもみませんでし"
+        },
+        {
+          "offset": 24392,
+          "length": 10,
+          "key": 1515589570,
+          "original": "たが……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0135",
+      "context": {
+        "voice": "GC545304.ogg"
+      },
+      "original": "でも体験するのって面白いですね。私、こんなの初めてです！",
+      "translation": "하지만 체험하는 건 재미있네요. 저, 이런 건 처음이에요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24552,
+          "length": 40,
+          "key": 1515589570,
+          "original": "でも体験するのって面白いですね。私、こん"
+        },
+        {
+          "offset": 24600,
+          "length": 16,
+          "key": 1515589570,
+          "original": "なの初めてです！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0136",
+      "context": {
+        "voice": "GC545304.ogg"
+      },
+      "original": "オレもはじめてだよ。うーん、しょっぱい。",
+      "translation": "나도 처음이야. 으음, 짜다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24688,
+          "length": 40,
+          "key": 1515589570,
+          "original": "オレもはじめてだよ。うーん、しょっぱい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0137",
+      "context": {
+        "voice": "GC545304.ogg"
+      },
+      "original": "オレは面白かったぞ。",
+      "translation": "난 재밌었어.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24808,
+          "length": 20,
+          "key": 1515589570,
+          "original": "オレは面白かったぞ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0138",
+      "context": {
+        "voice": "GC545305.ogg"
+      },
+      "original": "タクトさんを面白がらせても仕方がないのですわ。",
+      "translation": "택트 씨를 즐겁게 해봤자 별수 없어요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24976,
+          "length": 40,
+          "key": 1515589570,
+          "original": "タクトさんを面白がらせても仕方がないので"
+        },
+        {
+          "offset": 25024,
+          "length": 6,
+          "key": 1515589570,
+          "original": "すわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0139",
+      "context": {
+        "voice": "GC545306.ogg"
+      },
+      "original": "失敗しちゃいましたね。何かわかるかと思ったのですが……。",
+      "translation": "실패해 버렸네요. 뭔가를 알 수 있을 줄 알았는데…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25180,
+          "length": 40,
+          "key": 1515589570,
+          "original": "失敗しちゃいましたね。何かわかるかと思っ"
+        },
+        {
+          "offset": 25228,
+          "length": 16,
+          "key": 1515589570,
+          "original": "たのですが……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0140",
+      "context": {
+        "voice": "GC545307.ogg"
+      },
+      "original": "まあ、仕方ないよ。次をがんばろう！",
+      "translation": "뭐, 어쩔 수없지.다음을위해힘내자！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25392,
+          "length": 34,
+          "key": 1515589570,
+          "original": "まあ、仕方ないよ。次をがんばろう！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0141",
+      "context": {
+        "voice": "GC545307.ogg"
+      },
+      "original": "そうそう。前進前進！",
+      "translation": "그래그래. 전진전진！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25500,
+          "length": 20,
+          "key": 1515589570,
+          "original": "そうそう。前進前進！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0142",
+      "context": {
+        "voice": "GC545307.ogg"
+      },
+      "original": "まあ、オレでなにか手伝えることがあったらいつでも言ってくれよ。",
+      "translation": "뭐, 내가 도울 일이 있으면 언제든 말해줘.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25592,
+          "length": 40,
+          "key": 1515589570,
+          "original": "まあ、オレでなにか手伝えることがあったら"
+        },
+        {
+          "offset": 25640,
+          "length": 22,
+          "key": 1515589570,
+          "original": "いつでも言ってくれよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0143",
+      "context": {
+        "voice": "GC545308.ogg"
+      },
+      "original": "はい、わかりました、タクトさん。",
+      "translation": "네, 알겠습니다, 택트 씨.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25812,
+          "length": 32,
+          "key": 1515589570,
+          "original": "はい、わかりました、タクトさん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0144",
+      "context": {
+        "voice": "GC545309.ogg"
+      },
+      "original": "そのときはぜひご協力いただきますわ。",
+      "translation": "그때는 꼭 협력해 드릴게요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25992,
+          "length": 36,
+          "key": 1515589570,
+          "original": "そのときはぜひご協力いただきますわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0145",
+      "context": {
+        "voice": "GC545310.ogg"
+      },
+      "original": "よろしくお願いいたします。",
+      "translation": "잘 부탁드립니다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26176,
+          "length": 26,
+          "key": 1515589570,
+          "original": "よろしくお願いいたします。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001cf800:isb:0146",
+      "context": {
+        "voice": "GC545310.ogg"
+      },
+      "original": "うん、それじゃあオレは見回りに戻るよ。",
+      "translation": "응, 그럼 난 순찰하러 돌아갈게.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26276,
+          "length": 38,
+          "key": 1515589570,
+          "original": "うん、それじゃあオレは見回りに戻るよ。"
+        }
+      ]
+    }
+  ]
+}

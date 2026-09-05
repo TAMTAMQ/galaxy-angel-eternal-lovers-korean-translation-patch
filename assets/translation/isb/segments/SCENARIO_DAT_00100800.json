@@ -1,0 +1,63 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00100800.txt",
+    "encoding": "cp932",
+    "sha256": "29c33f16a456c213378fd879e1b27b02086a6701c8c3422623e2f10f8529cf0f",
+    "tagged_records": 3,
+    "decoded_records": 3,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 533533669,
+        "source": "header",
+        "end": 292
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00100800:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "「ロウィル艦隊登場」ブリーフィング",
+      "translation": "「로윌 함대 등장」 브리핑",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12,
+          "length": 34,
+          "key": 533533669,
+          "original": "「ロウィル艦隊登場」ブリーフィング"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00100800:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "\\c(0xffff0000)▼ＳＬＧ２－１（ミント・ルート）\\c(0xffffffff)\\c(0xffff0000)（ここにブリーフィングが入ります）\\c(0xffffffff)",
+      "translation": "\\c(0xffff0000)▼ＳＬＧ２－１（민트・루트）\\c(0xffffffff)\\c(0xffff0000)（여기에 브리핑이 들어갑니다）\\c(0xffffffff)",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 120,
+          "length": 60,
+          "key": 533533669,
+          "original": "\\c(0xffff0000)▼ＳＬＧ２－１（ミント・ルート）\\c(0xffffffff)"
+        },
+        {
+          "offset": 188,
+          "length": 62,
+          "key": 533533669,
+          "original": "\\c(0xffff0000)（ここにブリーフィングが入ります）\\c(0xffffffff)"
+        }
+      ]
+    }
+  ]
+}

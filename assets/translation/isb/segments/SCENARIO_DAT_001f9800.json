@@ -1,0 +1,303 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_001f9800.txt",
+    "encoding": "cp932",
+    "sha256": "dd9c20e62cc02e054bd4a772c7e701f750f8c8ab8236c1161620d5c41fd8fe6a",
+    "tagged_records": 26,
+    "decoded_records": 26,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 2372742186,
+        "source": "header",
+        "end": 2380
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "いや、その必要はない。……始めよう。",
+      "translation": "아니, 그럴 필요는 없다.……시작하지.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 76,
+          "length": 36,
+          "key": 2372742186,
+          "original": "いや、その必要はない。……始めよう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "ああ、それと、ヴァニラ……。",
+      "translation": "아아, 그리고, 바닐라…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 276,
+          "length": 28,
+          "key": 2372742186,
+          "original": "ああ、それと、ヴァニラ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0003",
+      "context": {
+        "voice": "GC578009.ogg"
+      },
+      "original": "はい。",
+      "translation": "네.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 460,
+          "length": 6,
+          "key": 2372742186,
+          "original": "はい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0004",
+      "context": {
+        "voice": "GC578009.ogg"
+      },
+      "original": "ヴァニラ……オレたちの考えていることは同じだ。",
+      "translation": "바닐라…… 우리들이 생각하는 건 같다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 540,
+          "length": 40,
+          "key": 2372742186,
+          "original": "ヴァニラ……オレたちの考えていることは同"
+        },
+        {
+          "offset": 588,
+          "length": 6,
+          "key": 2372742186,
+          "original": "じだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0005",
+      "context": {
+        "voice": "GC578009.ogg"
+      },
+      "original": "……わかってるね？",
+      "translation": "……알고 있겠지？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 668,
+          "length": 18,
+          "key": 2372742186,
+          "original": "……わかってるね？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0006",
+      "context": {
+        "voice": "GC521260.ogg"
+      },
+      "original": "……はい、タクトさん。",
+      "translation": "……네, 택트 씨.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 800,
+          "length": 22,
+          "key": 2372742186,
+          "original": "……はい、タクトさん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0007",
+      "context": {
+        "voice": "GC178011.ogg"
+      },
+      "original": "ああ、もう、なにふたりで通じ合ってるのよ、アンタたちは。",
+      "translation": "아아, 정말, 둘이서 아주 통했네, 당신들은.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 972,
+          "length": 42,
+          "key": 2372742186,
+          "original": "ああ、もう、なにふたりで通じ合ってるのよ、"
+        },
+        {
+          "offset": 1024,
+          "length": 14,
+          "key": 2372742186,
+          "original": "アンタたちは。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0008",
+      "context": {
+        "voice": "GC178012.ogg"
+      },
+      "original": "いちゃつくんだったら、帰りにいくらでもできるだろう？",
+      "translation": "꽁냥거릴 거라면, 돌아가는 길에 얼마든지 할수있잖아？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1188,
+          "length": 40,
+          "key": 2372742186,
+          "original": "いちゃつくんだったら、帰りにいくらでもで"
+        },
+        {
+          "offset": 1236,
+          "length": 12,
+          "key": 2372742186,
+          "original": "きるだろう？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0009",
+      "context": {
+        "voice": "GC178013.ogg"
+      },
+      "original": "その時はいくらでも遊んでさしあげますので、今ぐらいはご遠慮くださいな。",
+      "translation": "그때는 얼마든지 놀아드릴 테니까, 지금만큼은 사양해 주세요.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1396,
+          "length": 42,
+          "key": 2372742186,
+          "original": "その時はいくらでも遊んでさしあげますので、"
+        },
+        {
+          "offset": 1448,
+          "length": 28,
+          "key": 2372742186,
+          "original": "今ぐらいはご遠慮くださいな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0010",
+      "context": {
+        "voice": "GC178013.ogg"
+      },
+      "original": "や、やだなあ。みんな。",
+      "translation": "아, 아하하. 다들.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1584,
+          "length": 22,
+          "key": 2372742186,
+          "original": "や、やだなあ。みんな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0011",
+      "context": {
+        "voice": "GC578014.ogg"
+      },
+      "original": "あまり、からかわないでください……。",
+      "translation": "너무 놀리지 말아 주세요…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1720,
+          "length": 36,
+          "key": 2372742186,
+          "original": "あまり、からかわないでください……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0012",
+      "context": {
+        "voice": "GC578014.ogg"
+      },
+      "original": "……とにかく、司令官として、やるべきことは全てやったつもりだ。",
+      "translation": "……어쨌든, 사령관으로서 할 일은 모두 했다고 생각한다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1848,
+          "length": 40,
+          "key": 2372742186,
+          "original": "……とにかく、司令官として、やるべきこと"
+        },
+        {
+          "offset": 1896,
+          "length": 22,
+          "key": 2372742186,
+          "original": "は全てやったつもりだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0013",
+      "context": {
+        "voice": "GC578014.ogg"
+      },
+      "original": "あとは任せたよ、みんな！",
+      "translation": "남은 건 맡길게, 모두！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1992,
+          "length": 24,
+          "key": 2372742186,
+          "original": "あとは任せたよ、みんな！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001f9800:isb:0014",
+      "context": {
+        "voice": "GC938006.ogg"
+      },
+      "original": "了解！",
+      "translation": "네！",
+      "state": "shortened-reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2128,
+          "length": 6,
+          "key": 2372742186,
+          "original": "了解！"
+        }
+      ]
+    }
+  ]
+}

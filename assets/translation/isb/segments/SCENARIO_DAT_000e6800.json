@@ -1,0 +1,46 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_000e6800.txt",
+    "encoding": "cp932",
+    "sha256": "6a9c35f8d309d4c10449ddb341c3be80a8666a40c3755173175dc6df601cd86e",
+    "tagged_records": 14,
+    "decoded_records": 13,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 1454710701,
+        "source": "header",
+        "end": 188
+      },
+      {
+        "start": 188,
+        "key_offset": 168,
+        "key": 1025,
+        "source": "integer_literal",
+        "end": 1316
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_000e6800:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "ｫm外ｮ",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 620,
+          "length": 5,
+          "key": 1025,
+          "original": "ｫm外ｮ"
+        }
+      ]
+    }
+  ]
+}

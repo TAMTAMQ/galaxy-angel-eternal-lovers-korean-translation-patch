@@ -1,0 +1,261 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_001a4000.txt",
+    "encoding": "cp932",
+    "sha256": "3b49d7f4440b40dfcb992cc0835fa68fbfa8950257d02940678c37e3589ff8f4",
+    "tagged_records": 25,
+    "decoded_records": 25,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 1291393684,
+        "source": "header",
+        "end": 2288
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "いや、その必要はない。……始めよう。",
+      "translation": "아니, 그럴 필요 없다.…… 시작하지.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 76,
+          "length": 36,
+          "key": 1291393684,
+          "original": "いや、その必要はない。……始めよう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "ああ、それと、フォルテ……。",
+      "translation": "아아, 그리고 포르테…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 240,
+          "length": 28,
+          "key": 1291393684,
+          "original": "ああ、それと、フォルテ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0003",
+      "context": {
+        "voice": "GC478009.ogg"
+      },
+      "original": "……うん。わかってる。",
+      "translation": "……응. 알고 있어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 460,
+          "length": 22,
+          "key": 1291393684,
+          "original": "……うん。わかってる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0004",
+      "context": {
+        "voice": "GC478011.ogg"
+      },
+      "original": "フォルテさん……。",
+      "translation": "포르테 씨…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 828,
+          "length": 18,
+          "key": 1291393684,
+          "original": "フォルテさん……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0005",
+      "context": {
+        "voice": "GC478012.ogg"
+      },
+      "original": "……どうなさったのですか？",
+      "translation": "……어떻게 된 건가요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 960,
+          "length": 26,
+          "key": 1291393684,
+          "original": "……どうなさったのですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0006",
+      "context": {
+        "voice": "GC478013.ogg"
+      },
+      "original": "いや、なんでもない、なんでもない。",
+      "translation": "아니, 아무것도 아니야, 아무것도.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1100,
+          "length": 34,
+          "key": 1291393684,
+          "original": "いや、なんでもない、なんでもない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0007",
+      "context": {
+        "voice": "GC478014.ogg"
+      },
+      "original": "じゃあ、みんな。気合い入れていくよ！",
+      "translation": "자, 모두들. 기합 넣고 가자！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1248,
+          "length": 36,
+          "key": 1291393684,
+          "original": "じゃあ、みんな。気合い入れていくよ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0008",
+      "context": {
+        "voice": "GC478015.ogg"
+      },
+      "original": "はいっ！",
+      "translation": "네！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1396,
+          "length": 8,
+          "key": 1291393684,
+          "original": "はいっ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0009",
+      "context": {
+        "voice": "GC478016.ogg"
+      },
+      "original": "もちろんです！",
+      "translation": "물론이죠！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1516,
+          "length": 14,
+          "key": 1291393684,
+          "original": "もちろんです！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0010",
+      "context": {
+        "voice": "GC478016.ogg"
+      },
+      "original": "ああ、よろしく頼む。",
+      "translation": "아아, 잘 부탁하네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1640,
+          "length": 20,
+          "key": 1291393684,
+          "original": "ああ、よろしく頼む。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0011",
+      "context": {
+        "voice": "GC478016.ogg"
+      },
+      "original": "……とにかく、司令官として、やるべきことは全てやったつもりだ。",
+      "translation": "……어쨌든, 사령관으로서 할 일은 모두 했다고 생각한다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1752,
+          "length": 40,
+          "key": 1291393684,
+          "original": "……とにかく、司令官として、やるべきこと"
+        },
+        {
+          "offset": 1800,
+          "length": 22,
+          "key": 1291393684,
+          "original": "は全てやったつもりだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0012",
+      "context": {
+        "voice": "GC478016.ogg"
+      },
+      "original": "あとは任せたよ、みんな！",
+      "translation": "남은 건 맡길게, 모두！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1896,
+          "length": 24,
+          "key": 1291393684,
+          "original": "あとは任せたよ、みんな！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001a4000:isb:0013",
+      "context": {
+        "voice": "GC938006.ogg"
+      },
+      "original": "了解！",
+      "translation": "네！",
+      "state": "shortened-reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2032,
+          "length": 6,
+          "key": 1291393684,
+          "original": "了解！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00150000.txt",
+    "encoding": "cp932",
+    "sha256": "eb4bc6f0ca392a4928e461749116ef1ccdd21e88c84115be3b966b4e1d093d4a",
+    "tagged_records": 31,
+    "decoded_records": 31,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 1017952301,
+        "source": "header",
+        "end": 2800
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "いや、その必要はない。……始めよう。",
+      "translation": "아니, 그럴 필요 없다.…… 시작하지.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 76,
+          "length": 36,
+          "key": 1017952301,
+          "original": "いや、その必要はない。……始めよう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "ああ、ところでミント……。",
+      "translation": "아아, 그런데 민트…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 240,
+          "length": 26,
+          "key": 1017952301,
+          "original": "ああ、ところでミント……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0003",
+      "context": {
+        "voice": "GC378009.ogg"
+      },
+      "original": "はい。",
+      "translation": "네.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 496,
+          "length": 6,
+          "key": 1017952301,
+          "original": "はい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0004",
+      "context": {
+        "voice": "GC378009.ogg"
+      },
+      "original": "……わかってるね？",
+      "translation": "……알고 있겠지？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 576,
+          "length": 18,
+          "key": 1017952301,
+          "original": "……わかってるね？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0005",
+      "context": {
+        "voice": "GC378010.ogg"
+      },
+      "original": "ええ……もちろんですわ。",
+      "translation": "네…… 물론이에요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 708,
+          "length": 24,
+          "key": 1017952301,
+          "original": "ええ……もちろんですわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0006",
+      "context": {
+        "voice": "GC178011.ogg"
+      },
+      "original": "ああ、もう、なにふたりで通じ合ってるのよ、アンタたちは。",
+      "translation": "아아, 정말, 둘이서 아주 통했네, 당신들은.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 880,
+          "length": 42,
+          "key": 1017952301,
+          "original": "ああ、もう、なにふたりで通じ合ってるのよ、"
+        },
+        {
+          "offset": 932,
+          "length": 14,
+          "key": 1017952301,
+          "original": "アンタたちは。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0007",
+      "context": {
+        "voice": "GC178012.ogg"
+      },
+      "original": "いちゃつくんだったら、帰りにいくらでもできるだろう？",
+      "translation": "꽁냥거릴 거라면, 돌아가는 길에 얼마든지 할수있잖아？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1096,
+          "length": 40,
+          "key": 1017952301,
+          "original": "いちゃつくんだったら、帰りにいくらでもで"
+        },
+        {
+          "offset": 1144,
+          "length": 12,
+          "key": 1017952301,
+          "original": "きるだろう？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0008",
+      "context": {
+        "voice": "GC378013.ogg"
+      },
+      "original": "そうそう、誰も邪魔なんかしないから。",
+      "translation": "맞아 맞아, 아무도 방해 안 할 테니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1304,
+          "length": 36,
+          "key": 1017952301,
+          "original": "そうそう、誰も邪魔なんかしないから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0009",
+      "context": {
+        "voice": "GC378014.ogg"
+      },
+      "original": "そのお心遣いには感謝いたしますわ。",
+      "translation": "그 배려에는 감사드려요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1488,
+          "length": 34,
+          "key": 1017952301,
+          "original": "そのお心遣いには感謝いたしますわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0010",
+      "context": {
+        "voice": "GC378015.ogg"
+      },
+      "original": "まあ……その必要は、ないかもしれませんけど。",
+      "translation": "어머…… 그럴 필요는 없을지도 모르겠지만요.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1636,
+          "length": 40,
+          "key": 1017952301,
+          "original": "まあ……その必要は、ないかもしれませんけ"
+        },
+        {
+          "offset": 1684,
+          "length": 4,
+          "key": 1017952301,
+          "original": "ど。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0011",
+      "context": {
+        "voice": "GC378016.ogg"
+      },
+      "original": "ええと……どういうこと？",
+      "translation": "저기…… 무슨 뜻이야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1800,
+          "length": 24,
+          "key": 1017952301,
+          "original": "ええと……どういうこと？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0012",
+      "context": {
+        "voice": "GC378017.ogg"
+      },
+      "original": "ふふっ、こちらの話ですわ。そうですわよね、タクトさん。",
+      "translation": "후훗, 이쪽 이야기랍니다. 그렇죠, 택트 씨.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1936,
+          "length": 42,
+          "key": 1017952301,
+          "original": "ふふっ、こちらの話ですわ。そうですわよね、"
+        },
+        {
+          "offset": 1988,
+          "length": 12,
+          "key": 1017952301,
+          "original": "タクトさん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0013",
+      "context": {
+        "voice": "GC378017.ogg"
+      },
+      "original": "ま、まあ、そういうことかな……。",
+      "translation": "뭐, 뭐, 그런 셈이려나…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2108,
+          "length": 32,
+          "key": 1017952301,
+          "original": "ま、まあ、そういうことかな……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0014",
+      "context": {
+        "voice": "GC378017.ogg"
+      },
+      "original": "……とにかく、司令官として、やるべきことは全てやったつもりだ。",
+      "translation": "……어쨌든, 사령관으로서 할 일은 모두 했다고 생각한다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2232,
+          "length": 40,
+          "key": 1017952301,
+          "original": "……とにかく、司令官として、やるべきこと"
+        },
+        {
+          "offset": 2280,
+          "length": 22,
+          "key": 1017952301,
+          "original": "は全てやったつもりだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0015",
+      "context": {
+        "voice": "GC378017.ogg"
+      },
+      "original": "あとは任せたよ、みんな！",
+      "translation": "남은 건 맡길게, 모두！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2376,
+          "length": 24,
+          "key": 1017952301,
+          "original": "あとは任せたよ、みんな！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00150000:isb:0016",
+      "context": {
+        "voice": "GC938006.ogg"
+      },
+      "original": "了解！",
+      "translation": "네！",
+      "state": "shortened-reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2512,
+          "length": 6,
+          "key": 1017952301,
+          "original": "了解！"
+        }
+      ]
+    }
+  ]
+}

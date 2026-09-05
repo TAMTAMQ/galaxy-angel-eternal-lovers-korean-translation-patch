@@ -1,0 +1,6961 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_0019e000.txt",
+    "encoding": "cp932",
+    "sha256": "274799f024930e6364e3112d4d8b2c66b41a672fe3048b62c9a6799fa8504af7",
+    "tagged_records": 736,
+    "decoded_records": 734,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 3570136948,
+        "source": "header",
+        "end": 12924
+      },
+      {
+        "start": 12924,
+        "key_offset": 12908,
+        "key": 3783825247,
+        "source": "integer_literal",
+        "end": 26264
+      },
+      {
+        "start": 26264,
+        "key_offset": 26248,
+        "key": 1991526916,
+        "source": "integer_literal",
+        "end": 33328
+      },
+      {
+        "start": 33328,
+        "key_offset": 33232,
+        "key": 1451098381,
+        "source": "integer_literal",
+        "end": 52868
+      },
+      {
+        "start": 52868,
+        "key_offset": 52852,
+        "key": 611561292,
+        "source": "integer_literal",
+        "end": 64500
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0001",
+      "context": {
+        "voice": "GC470000.ogg"
+      },
+      "original": "あ、あの、タクトさん、フォルテさん。",
+      "translation": "저, 저기, 택트 씨, 포르테 씨.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 164,
+          "length": 36,
+          "key": 3570136948,
+          "original": "あ、あの、タクトさん、フォルテさん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0002",
+      "context": {
+        "voice": "GC470000.ogg"
+      },
+      "original": "えっ？",
+      "translation": "엣？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 272,
+          "length": 6,
+          "key": 3570136948,
+          "original": "えっ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0003",
+      "context": {
+        "voice": "GC470001.ogg"
+      },
+      "original": "なんだい？",
+      "translation": "뭔데？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 428,
+          "length": 10,
+          "key": 3570136948,
+          "original": "なんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0004",
+      "context": {
+        "voice": "GC470002.ogg"
+      },
+      "original": "あ、あの……。",
+      "translation": "저, 저기...\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 588,
+          "length": 14,
+          "key": 3570136948,
+          "original": "あ、あの……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0005",
+      "context": {
+        "voice": "GC470002.ogg"
+      },
+      "original": "……ミルフィー。",
+      "translation": "……밀피.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 720,
+          "length": 16,
+          "key": 3570136948,
+          "original": "……ミルフィー。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0006",
+      "context": {
+        "voice": "GC470003.ogg"
+      },
+      "original": "はい？",
+      "translation": "네？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 884,
+          "length": 6,
+          "key": 3570136948,
+          "original": "はい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0007",
+      "context": {
+        "voice": "GC470003.ogg"
+      },
+      "original": "みんなと先に行っててくれないかな？　オレたちもあとからすぐ行くから。",
+      "translation": "다들 먼저 가 있어 줄래？ 우리도 곧 따라갈 테니까.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 964,
+          "length": 40,
+          "key": 3570136948,
+          "original": "みんなと先に行っててくれないかな？　オレ"
+        },
+        {
+          "offset": 1012,
+          "length": 28,
+          "key": 3570136948,
+          "original": "たちもあとからすぐ行くから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0008",
+      "context": {
+        "voice": "GC470004.ogg"
+      },
+      "original": "わかりました。行こ！　ランファ。",
+      "translation": "알겠습니다. 가자, 란파.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1188,
+          "length": 32,
+          "key": 3570136948,
+          "original": "わかりました。行こ！　ランファ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0009",
+      "context": {
+        "voice": "GC470005.ogg"
+      },
+      "original": "あ、うん。",
+      "translation": "아, 응.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1368,
+          "length": 10,
+          "key": 3570136948,
+          "original": "あ、うん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0010",
+      "context": {
+        "voice": "GC470006.ogg"
+      },
+      "original": "待ってください！　先輩。私も……。",
+      "translation": "기다려 주세요！ 선배. 저도…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1564,
+          "length": 34,
+          "key": 3570136948,
+          "original": "待ってください！　先輩。私も……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0011",
+      "context": {
+        "voice": "GC470008.ogg"
+      },
+      "original": "どうしたんだい、ルシャーティ？",
+      "translation": "왜 그러니, 루샤티？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1916,
+          "length": 30,
+          "key": 3570136948,
+          "original": "どうしたんだい、ルシャーティ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0012",
+      "context": {
+        "voice": "GC470009.ogg"
+      },
+      "original": "……あの、私……。",
+      "translation": "……저기, 저…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2060,
+          "length": 18,
+          "key": 3570136948,
+          "original": "……あの、私……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0013",
+      "context": {
+        "voice": "GC470010.ogg"
+      },
+      "original": "私……タクトさんとフォルテさんに謝らないと……。",
+      "translation": "저… 택트 씨와 포르테 씨에게 사과해야해요…….",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2272,
+          "length": 40,
+          "key": 3570136948,
+          "original": "私……タクトさんとフォルテさんに謝らない"
+        },
+        {
+          "offset": 2320,
+          "length": 8,
+          "key": 3570136948,
+          "original": "と……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0014",
+      "context": {
+        "voice": "GC170014.ogg"
+      },
+      "original": "おふたりがＥＤＥＮを発つ前にちゃんと謝っておかないと……そう思って。",
+      "translation": "두 분이 EDEN을 떠나기 전 제대로 사과하고 싶어서요…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2440,
+          "length": 40,
+          "key": 3570136948,
+          "original": "おふたりがＥＤＥＮを発つ前にちゃんと謝っ"
+        },
+        {
+          "offset": 2488,
+          "length": 28,
+          "key": 3570136948,
+          "original": "ておかないと……そう思って。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0015",
+      "context": {
+        "voice": "GC170015.ogg"
+      },
+      "original": "……本当に、ごめんなさい。",
+      "translation": "……정말로, 미안해요.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2628,
+          "length": 26,
+          "key": 3570136948,
+          "original": "……本当に、ごめんなさい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0016",
+      "context": {
+        "voice": "GC470013.ogg"
+      },
+      "original": "ちょ……ちょっと待っておくれよ、ルシャーティ！？　なんで謝ったりなんかしなきゃならないんだい？",
+      "translation": "잠…… 잠깐 기다려 줘, 루샤티！？ 왜 사과 같은 걸 해야 하는 거니？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2768,
+          "length": 40,
+          "key": 3570136948,
+          "original": "ちょ……ちょっと待っておくれよ、ルシャー"
+        },
+        {
+          "offset": 2816,
+          "length": 40,
+          "key": 3570136948,
+          "original": "ティ！？　なんで謝ったりなんかしなきゃな"
+        },
+        {
+          "offset": 2864,
+          "length": 14,
+          "key": 3570136948,
+          "original": "らないんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0017",
+      "context": {
+        "voice": "GC470013.ogg"
+      },
+      "original": "そうだよ。君に謝ってもらう理由なんて、オレたちにはない。",
+      "translation": "맞아. 네가 사과할 이유는 우리에게 없어.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2952,
+          "length": 40,
+          "key": 3570136948,
+          "original": "そうだよ。君に謝ってもらう理由なんて、オ"
+        },
+        {
+          "offset": 3000,
+          "length": 16,
+          "key": 3570136948,
+          "original": "レたちにはない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0018",
+      "context": {
+        "voice": "GC170017.ogg"
+      },
+      "original": "……ノアさんから聞きました。",
+      "translation": "……노아 씨에게 들었습니다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3128,
+          "length": 28,
+          "key": 3570136948,
+          "original": "……ノアさんから聞きました。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0019",
+      "context": {
+        "voice": "GC170018.ogg"
+      },
+      "original": "私がヴァインに、エルシオールから連れ出されてからのことを……。",
+      "translation": "제가 바인에 의해, 에르시올에서 끌려 나온 뒤의 일을…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3268,
+          "length": 40,
+          "key": 3570136948,
+          "original": "私がヴァインに、エルシオールから連れ出さ"
+        },
+        {
+          "offset": 3316,
+          "length": 22,
+          "key": 3570136948,
+          "original": "れてからのことを……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0020",
+      "context": {
+        "voice": "GC470016.ogg"
+      },
+      "original": "彼の行動で、タクトさんとフォルテさんが、とても苦しまれていたことを……。",
+      "translation": "그의 행동 때문에 택트 씨와 포르테 씨가 무척 괴로워하셨던 것을…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3452,
+          "length": 40,
+          "key": 3570136948,
+          "original": "彼の行動で、タクトさんとフォルテさんが、"
+        },
+        {
+          "offset": 3500,
+          "length": 32,
+          "key": 3570136948,
+          "original": "とても苦しまれていたことを……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0021",
+      "context": {
+        "voice": "GC470017.ogg"
+      },
+      "original": "そのことか……。",
+      "translation": "그 일인가…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3644,
+          "length": 16,
+          "key": 3570136948,
+          "original": "そのことか……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0022",
+      "context": {
+        "voice": "GC470017.ogg"
+      },
+      "original": "やれやれ、ノアもそんなことまで話さなくていいのに……。",
+      "translation": "이런, 노아도 그런 것까지 말할 필요는 없는데…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3732,
+          "length": 40,
+          "key": 3570136948,
+          "original": "やれやれ、ノアもそんなことまで話さなくて"
+        },
+        {
+          "offset": 3780,
+          "length": 14,
+          "key": 3570136948,
+          "original": "いいのに……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0023",
+      "context": {
+        "voice": "GC170023.ogg"
+      },
+      "original": "ヴァインに操られていた時のことも、私の記憶に残っていますから……。",
+      "translation": "바인에게 조종당하던 때의 일도 제 기억에 남아 있으니까요…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3908,
+          "length": 40,
+          "key": 3570136948,
+          "original": "ヴァインに操られていた時のことも、私の記"
+        },
+        {
+          "offset": 3956,
+          "length": 26,
+          "key": 3570136948,
+          "original": "憶に残っていますから……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0024",
+      "context": {
+        "voice": "GC170023.ogg"
+      },
+      "original": "いいんだよ、ルシャーティ。もう、全部終わったことなんだから。",
+      "translation": "괜찮아, 루샤티. 이제 다 끝난 일이니까.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4056,
+          "length": 42,
+          "key": 3570136948,
+          "original": "いいんだよ、ルシャーティ。もう、全部終わっ"
+        },
+        {
+          "offset": 4108,
+          "length": 18,
+          "key": 3570136948,
+          "original": "たことなんだから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0025",
+      "context": {
+        "voice": "GC470019.ogg"
+      },
+      "original": "そうだよ。あたしもタクトも、もう、平気だから……。",
+      "translation": "맞아. 나도 택트도, 이제 괜찮으니까…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4240,
+          "length": 40,
+          "key": 3570136948,
+          "original": "そうだよ。あたしもタクトも、もう、平気だ"
+        },
+        {
+          "offset": 4288,
+          "length": 10,
+          "key": 3570136948,
+          "original": "から……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0026",
+      "context": {
+        "voice": "GC170025.ogg"
+      },
+      "original": "……でも、それだけじゃないんです。",
+      "translation": "……하지만, 그것뿐만이 아니에요.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4412,
+          "length": 34,
+          "key": 3570136948,
+          "original": "……でも、それだけじゃないんです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0027",
+      "context": {
+        "voice": "GC170025.ogg"
+      },
+      "original": "それだけじゃ……ない？",
+      "translation": "그것뿐이……아니라고？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4520,
+          "length": 22,
+          "key": 3570136948,
+          "original": "それだけじゃ……ない？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0028",
+      "context": {
+        "voice": "GC470021.ogg"
+      },
+      "original": "そう言われても……もう、特に思い当たることはないんだけどねぇ……。",
+      "translation": "그렇게 말해도…… 딱히 생각나는 건 없지만 말이야…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4656,
+          "length": 40,
+          "key": 3570136948,
+          "original": "そう言われても……もう、特に思い当たるこ"
+        },
+        {
+          "offset": 4704,
+          "length": 26,
+          "key": 3570136948,
+          "original": "とはないんだけどねぇ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0029",
+      "context": {
+        "voice": "GC170027.ogg"
+      },
+      "original": "これは、私自身のことなんです。",
+      "translation": "이건, 저 자신에 대한 거예요.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4844,
+          "length": 30,
+          "key": 3570136948,
+          "original": "これは、私自身のことなんです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0030",
+      "context": {
+        "voice": "GC470023.ogg"
+      },
+      "original": "ルシャーティの？",
+      "translation": "루샤티의？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4988,
+          "length": 16,
+          "key": 3570136948,
+          "original": "ルシャーティの？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0031",
+      "context": {
+        "voice": "GC170030.ogg"
+      },
+      "original": "……やっぱり、私にはヴァインを憎むことができないんです……。",
+      "translation": "……역시, 저는 바인을 증오할 수 없어요…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5252,
+          "length": 40,
+          "key": 3570136948,
+          "original": "……やっぱり、私にはヴァインを憎むことが"
+        },
+        {
+          "offset": 5300,
+          "length": 20,
+          "key": 3570136948,
+          "original": "できないんです……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0032",
+      "context": {
+        "voice": "GC170031.ogg"
+      },
+      "original": "彼が『ヴァル・ファスク』としてやってきたことは、決して許されることではありません……それでも……。",
+      "translation": "그가 『발・파스크』로서 저지른 일은 결코 용서받을 수 없는 일이에요…… 그래도…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5432,
+          "length": 40,
+          "key": 3570136948,
+          "original": "彼が『ヴァル・ファスク』としてやってきた"
+        },
+        {
+          "offset": 5480,
+          "length": 40,
+          "key": 3570136948,
+          "original": "ことは、決して許されることではありません"
+        },
+        {
+          "offset": 5528,
+          "length": 18,
+          "key": 3570136948,
+          "original": "……それでも……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0033",
+      "context": {
+        "voice": "GC170032.ogg"
+      },
+      "original": "それでも、私はヴァインのことを……。",
+      "translation": "그래도, 저는 바인을…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5660,
+          "length": 36,
+          "key": 3570136948,
+          "original": "それでも、私はヴァインのことを……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0034",
+      "context": {
+        "voice": "GC170034.ogg"
+      },
+      "original": "そのことを……どうしても謝りたかったんです……。",
+      "translation": "그 점을…… 어떻게든 사과하고 싶었어요…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5808,
+          "length": 40,
+          "key": 3570136948,
+          "original": "そのことを……どうしても謝りたかったんで"
+        },
+        {
+          "offset": 5856,
+          "length": 8,
+          "key": 3570136948,
+          "original": "す……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0035",
+      "context": {
+        "voice": "GC170034.ogg"
+      },
+      "original": "……ああ、なんだ。",
+      "translation": "……아아, 뭐야.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5968,
+          "length": 18,
+          "key": 3570136948,
+          "original": "……ああ、なんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0036",
+      "context": {
+        "voice": "GC470029.ogg"
+      },
+      "original": "そんなことかい。",
+      "translation": "그런 건가.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6136,
+          "length": 16,
+          "key": 3570136948,
+          "original": "そんなことかい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0037",
+      "context": {
+        "voice": "GC170036.ogg"
+      },
+      "original": "……えっ？",
+      "translation": "……엣？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6300,
+          "length": 10,
+          "key": 3570136948,
+          "original": "……えっ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0038",
+      "context": {
+        "voice": "GC470031.ogg"
+      },
+      "original": "ルシャーティがあんまり真剣なものだから、なにかと思ったよ。",
+      "translation": "루샤티가 너무 진지한 표정이라, 무슨 일인가 했어.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6460,
+          "length": 40,
+          "key": 3570136948,
+          "original": "ルシャーティがあんまり真剣なものだから、"
+        },
+        {
+          "offset": 6508,
+          "length": 18,
+          "key": 3570136948,
+          "original": "なにかと思ったよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0039",
+      "context": {
+        "voice": "GC470031.ogg"
+      },
+      "original": "いや、まったく。",
+      "translation": "이런, 정말이지.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6600,
+          "length": 16,
+          "key": 3570136948,
+          "original": "いや、まったく。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0040",
+      "context": {
+        "voice": "GC170038.ogg"
+      },
+      "original": "えっ、えっ、あ、あの？",
+      "translation": "엣, 엣, 저, 저기？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6764,
+          "length": 22,
+          "key": 3570136948,
+          "original": "えっ、えっ、あ、あの？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0041",
+      "context": {
+        "voice": "GC170038.ogg"
+      },
+      "original": "それこそ、ルシャーティに謝ってもらう必要なんか全然ないんだ。",
+      "translation": "그야말로 루샤티가 사과할 필요 같은 건 전혀 없어.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6860,
+          "length": 40,
+          "key": 3570136948,
+          "original": "それこそ、ルシャーティに謝ってもらう必要"
+        },
+        {
+          "offset": 6908,
+          "length": 20,
+          "key": 3570136948,
+          "original": "なんか全然ないんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0042",
+      "context": {
+        "voice": "GC170038.ogg"
+      },
+      "original": "いや、むしろホッとしてる。君が今も、ヴァインのことを思ってくれていて。",
+      "translation": "아니, 오히려 안심했어. 네가 지금도 바인을 생각해주고 있어서.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7000,
+          "length": 40,
+          "key": 3570136948,
+          "original": "いや、むしろホッとしてる。君が今も、ヴァ"
+        },
+        {
+          "offset": 7048,
+          "length": 30,
+          "key": 3570136948,
+          "original": "インのことを思ってくれていて。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0043",
+      "context": {
+        "voice": "GC470033.ogg"
+      },
+      "original": "あたしもタクトと同じ意見さ。",
+      "translation": "나도 택트와 같은 의견이야.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7228,
+          "length": 28,
+          "key": 3570136948,
+          "original": "あたしもタクトと同じ意見さ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0044",
+      "context": {
+        "voice": "GC170040.ogg"
+      },
+      "original": "ど、どうしてですか！？",
+      "translation": "어, 어째서인가요！？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7404,
+          "length": 22,
+          "key": 3570136948,
+          "original": "ど、どうしてですか！？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0045",
+      "context": {
+        "voice": "GC170041.ogg"
+      },
+      "original": "おふたりとも、彼を恨んでも当然のはずです。なのに……。",
+      "translation": "두 분 모두 그를 원망하는 게 당연할 텐데. 그런데도….",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7576,
+          "length": 42,
+          "key": 3570136948,
+          "original": "おふたりとも、彼を恨んでも当然のはずです。"
+        },
+        {
+          "offset": 7628,
+          "length": 12,
+          "key": 3570136948,
+          "original": "なのに……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0046",
+      "context": {
+        "voice": "GC170041.ogg"
+      },
+      "original": "……確かに、手放しで彼を許すことはできないよ。実際、彼は『ヴァル・ファスク』で、オレたちの敵だったんだから。",
+      "translation": "……확실히, 무조건 그를 용서할 수는 없겠지. 실제로 그는 『발・파스크』로서 우리의 적이었으니까.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7712,
+          "length": 40,
+          "key": 3570136948,
+          "original": "……確かに、手放しで彼を許すことはできな"
+        },
+        {
+          "offset": 7760,
+          "length": 40,
+          "key": 3570136948,
+          "original": "いよ。実際、彼は『ヴァル・ファスク』で、"
+        },
+        {
+          "offset": 7808,
+          "length": 28,
+          "key": 3570136948,
+          "original": "オレたちの敵だったんだから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0047",
+      "context": {
+        "voice": "GC170042.ogg"
+      },
+      "original": "だったら、なぜ……？",
+      "translation": "그렇다면, 왜……？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7984,
+          "length": 20,
+          "key": 3570136948,
+          "original": "だったら、なぜ……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0048",
+      "context": {
+        "voice": "GC170042.ogg"
+      },
+      "original": "オレたちは、『ヴァル・ファスク』全てを、倒すべき敵だと思っていた。",
+      "translation": "우리는 『발・파스크』 모두를 쓰러뜨려야 할 적이라고 생각했다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8076,
+          "length": 40,
+          "key": 3570136948,
+          "original": "オレたちは、『ヴァル・ファスク』全てを、"
+        },
+        {
+          "offset": 8124,
+          "length": 26,
+          "key": 3570136948,
+          "original": "倒すべき敵だと思っていた。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0049",
+      "context": {
+        "voice": "GC170042.ogg"
+      },
+      "original": "この銀河の平和を守るためには、『ヴァル・ファスク』は倒さなければいけない敵だと、本気で思っていた。",
+      "translation": "은하의 평화를 위해 『발・파스크』는 반드시 쓰러뜨려야 할 적이라 믿었다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8224,
+          "length": 40,
+          "key": 3570136948,
+          "original": "この銀河の平和を守るためには、『ヴァル・"
+        },
+        {
+          "offset": 8272,
+          "length": 40,
+          "key": 3570136948,
+          "original": "ファスク』は倒さなければいけない敵だと、"
+        },
+        {
+          "offset": 8320,
+          "length": 18,
+          "key": 3570136948,
+          "original": "本気で思っていた。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0050",
+      "context": {
+        "voice": "GC470037.ogg"
+      },
+      "original": "でも、ルシャーティとヴァインが、そんなあたしたちに可能性を示してくれたんだよ。",
+      "translation": "하지만 루샤티와 바인이 우리에게 가능성을 보여줬어.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8488,
+          "length": 40,
+          "key": 3570136948,
+          "original": "でも、ルシャーティとヴァインが、そんなあ"
+        },
+        {
+          "offset": 8536,
+          "length": 38,
+          "key": 3570136948,
+          "original": "たしたちに可能性を示してくれたんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0051",
+      "context": {
+        "voice": "GC170044.ogg"
+      },
+      "original": "可能性……。",
+      "translation": "가능성…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8724,
+          "length": 12,
+          "key": 3570136948,
+          "original": "可能性……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0052",
+      "context": {
+        "voice": "GC170044.ogg"
+      },
+      "original": "ルシャーティは『ヴァル・ファスク』であるヴァインのために涙を流し、そして、彼を許すことができた。",
+      "translation": "루샤티는 『발・파스크』인 바인을 위해 눈물을 흘렸고, 그리고 그를 용서할 수 있었다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8808,
+          "length": 40,
+          "key": 3570136948,
+          "original": "ルシャーティは『ヴァル・ファスク』である"
+        },
+        {
+          "offset": 8856,
+          "length": 40,
+          "key": 3570136948,
+          "original": "ヴァインのために涙を流し、そして、彼を許"
+        },
+        {
+          "offset": 8904,
+          "length": 16,
+          "key": 3570136948,
+          "original": "すことができた。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0053",
+      "context": {
+        "voice": "GC170044.ogg"
+      },
+      "original": "そんなルシャーティだからこそ、ヴァインはとても大切に思っていたはずだ。",
+      "translation": "그런 루샤티였기에, 바인은 무척 소중하게 생각했을 거야.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8992,
+          "length": 40,
+          "key": 3570136948,
+          "original": "そんなルシャーティだからこそ、ヴァインは"
+        },
+        {
+          "offset": 9040,
+          "length": 30,
+          "key": 3570136948,
+          "original": "とても大切に思っていたはずだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0054",
+      "context": {
+        "voice": "GC470039.ogg"
+      },
+      "original": "そして、そんなルシャーティだから、ヴァインは救われたと思うんだ。",
+      "translation": "그리고 그런 루샤티였기에, 바인은 구원받았다고 생각해.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9220,
+          "length": 40,
+          "key": 3570136948,
+          "original": "そして、そんなルシャーティだから、ヴァイ"
+        },
+        {
+          "offset": 9268,
+          "length": 24,
+          "key": 3570136948,
+          "original": "ンは救われたと思うんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0055",
+      "context": {
+        "voice": "GC170046.ogg"
+      },
+      "original": "あっ……。",
+      "translation": "앗…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9440,
+          "length": 10,
+          "key": 3570136948,
+          "original": "あっ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0056",
+      "context": {
+        "voice": "GC470041.ogg"
+      },
+      "original": "ふたりはあたしたちに見せてくれたんだよ。あたしたちがわかりあえるかもしれない、そんな素敵な未来を。",
+      "translation": "두 사람은 우리에게 보여줬어. 우리가 서로 이해할 수 있을지도 모른다는, 그런 멋진 미래를.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9600,
+          "length": 40,
+          "key": 3570136948,
+          "original": "ふたりはあたしたちに見せてくれたんだよ。"
+        },
+        {
+          "offset": 9648,
+          "length": 40,
+          "key": 3570136948,
+          "original": "あたしたちがわかりあえるかもしれない、そ"
+        },
+        {
+          "offset": 9696,
+          "length": 18,
+          "key": 3570136948,
+          "original": "んな素敵な未来を。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0057",
+      "context": {
+        "voice": "GC470042.ogg"
+      },
+      "original": "だから、謝ってくれなくてもいいんだよ。むしろ、あたしたちの方がお礼を言いたいぐらいなんだからさ。",
+      "translation": "그러니까 사과하지 않아도 돼. 오히려 우리가 고맙다고 말하고 싶을 정도니까.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9864,
+          "length": 40,
+          "key": 3570136948,
+          "original": "だから、謝ってくれなくてもいいんだよ。む"
+        },
+        {
+          "offset": 9912,
+          "length": 40,
+          "key": 3570136948,
+          "original": "しろ、あたしたちの方がお礼を言いたいぐら"
+        },
+        {
+          "offset": 9960,
+          "length": 16,
+          "key": 3570136948,
+          "original": "いなんだからさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0058",
+      "context": {
+        "voice": "GC470043.ogg"
+      },
+      "original": "フォルテさん……。",
+      "translation": "포르테 씨…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10124,
+          "length": 18,
+          "key": 3570136948,
+          "original": "フォルテさん……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0059",
+      "context": {
+        "voice": "GC470043.ogg"
+      },
+      "original": "改めて、決心がついたよ。",
+      "translation": "다시 한번, 결심이 섰어.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10216,
+          "length": 24,
+          "key": 3570136948,
+          "original": "改めて、決心がついたよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0060",
+      "context": {
+        "voice": "GC470043.ogg"
+      },
+      "original": "この戦い……オレたちは、絶対に負けられないってね。",
+      "translation": "이 싸움…… 우리는 절대로 질 수 없다는 걸 말이야.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10312,
+          "length": 40,
+          "key": 3570136948,
+          "original": "この戦い……オレたちは、絶対に負けられな"
+        },
+        {
+          "offset": 10360,
+          "length": 10,
+          "key": 3570136948,
+          "original": "いってね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0061",
+      "context": {
+        "voice": "GC470044.ogg"
+      },
+      "original": "いつか来る、未来のためにも……。",
+      "translation": "언젠가 올 미래를 위해서라도…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10520,
+          "length": 32,
+          "key": 3570136948,
+          "original": "いつか来る、未来のためにも……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0062",
+      "context": {
+        "voice": "GC470046.ogg"
+      },
+      "original": "タクトさん、フォルテさん……。",
+      "translation": "택트 씨, 포르테 씨…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10872,
+          "length": 30,
+          "key": 3570136948,
+          "original": "タクトさん、フォルテさん……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0063",
+      "context": {
+        "voice": "GC170054.ogg"
+      },
+      "original": "私、あなたたちに会えてよかったです。",
+      "translation": "저, 당신들을 만나서 다행이에요.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11052,
+          "length": 36,
+          "key": 3570136948,
+          "original": "私、あなたたちに会えてよかったです。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0064",
+      "context": {
+        "voice": "GC170055.ogg"
+      },
+      "original": "あなたたちみたいな、素敵な人たちに会えて、本当によかった……。",
+      "translation": "당신들 같은 멋진 사람들을 만나서, 정말로 다행이었어요…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11236,
+          "length": 42,
+          "key": 3570136948,
+          "original": "あなたたちみたいな、素敵な人たちに会えて、"
+        },
+        {
+          "offset": 11288,
+          "length": 20,
+          "key": 3570136948,
+          "original": "本当によかった……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0065",
+      "context": {
+        "voice": "GC170055.ogg"
+      },
+      "original": "……そういうことなら、オレたちにも言わせてもらわないと、ね？",
+      "translation": "……그렇게 말한다면, 우리도 한마디 해야겠네？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11380,
+          "length": 40,
+          "key": 3570136948,
+          "original": "……そういうことなら、オレたちにも言わせ"
+        },
+        {
+          "offset": 11428,
+          "length": 20,
+          "key": 3570136948,
+          "original": "てもらわないと、ね？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0066",
+      "context": {
+        "voice": "GC470049.ogg"
+      },
+      "original": "ああ。",
+      "translation": "아아.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11596,
+          "length": 6,
+          "key": 3570136948,
+          "original": "ああ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0067",
+      "context": {
+        "voice": "GC470050.ogg"
+      },
+      "original": "あたしたちも、心から思っているよ。",
+      "translation": "우리도 진심으로 생각하고 있어.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11752,
+          "length": 34,
+          "key": 3570136948,
+          "original": "あたしたちも、心から思っているよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0068",
+      "context": {
+        "voice": "GC470051.ogg"
+      },
+      "original": "ルシャーティとヴァインに会えて、本当によかった……ってね。",
+      "translation": "루샤티와 바인을 만나서 정말 다행이라고 말이야.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11936,
+          "length": 40,
+          "key": 3570136948,
+          "original": "ルシャーティとヴァインに会えて、本当によ"
+        },
+        {
+          "offset": 11984,
+          "length": 18,
+          "key": 3570136948,
+          "original": "かった……ってね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0069",
+      "context": {
+        "voice": "GC470051.ogg"
+      },
+      "original": "ありがとう……君たちと会えて、本当に嬉しかった。",
+      "translation": "고마워…… 너희를 만나서 정말 기뻤어.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12076,
+          "length": 40,
+          "key": 3570136948,
+          "original": "ありがとう……君たちと会えて、本当に嬉し"
+        },
+        {
+          "offset": 12124,
+          "length": 8,
+          "key": 3570136948,
+          "original": "かった。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0070",
+      "context": {
+        "voice": "GC170059.ogg"
+      },
+      "original": "……ありがとう……ございます……。",
+      "translation": "……감사……합니다…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12280,
+          "length": 34,
+          "key": 3570136948,
+          "original": "……ありがとう……ございます……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0071",
+      "context": {
+        "voice": "GC170059.ogg"
+      },
+      "original": "じゃあ、そろそろオレたちも行くよ。",
+      "translation": "그럼, 슬슬 우리도 가볼까.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12388,
+          "length": 34,
+          "key": 3570136948,
+          "original": "じゃあ、そろそろオレたちも行くよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0072",
+      "context": {
+        "voice": "GC170059.ogg"
+      },
+      "original": "行こう、フォルテ！",
+      "translation": "가자, 포르테！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12496,
+          "length": 18,
+          "key": 3570136948,
+          "original": "行こう、フォルテ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0073",
+      "context": {
+        "voice": "GC470053.ogg"
+      },
+      "original": "あぁ。それじゃ、ルシャーティ。",
+      "translation": "그래. 그럼, 루샤티.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12664,
+          "length": 30,
+          "key": 3570136948,
+          "original": "あぁ。それじゃ、ルシャーティ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0074",
+      "context": {
+        "voice": "GC170062.ogg"
+      },
+      "original": "はい……行ってらっしゃい。",
+      "translation": "네…… 다녀오세요.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12844,
+          "length": 26,
+          "key": 3570136948,
+          "original": "はい……行ってらっしゃい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0075",
+      "context": {
+        "voice": "GC170062.ogg"
+      },
+      "original": "星空の誓い",
+      "translation": "별빛의맹세",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12924,
+          "length": 10,
+          "key": 3783825247,
+          "original": "星空の誓い"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0076",
+      "context": {
+        "voice": "GC170062.ogg"
+      },
+      "original": "ふう……。なんとなくここに来ちゃったな。",
+      "translation": "후우…… 왠지 모르게 여기까지 와 버렸네.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13208,
+          "length": 40,
+          "key": 3783825247,
+          "original": "ふう……。なんとなくここに来ちゃったな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0077",
+      "context": {
+        "voice": "GC170062.ogg"
+      },
+      "original": "ここにもよくフォルテと来たな……。",
+      "translation": "여기도 포르테와 자주 왔었지…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13320,
+          "length": 34,
+          "key": 3783825247,
+          "original": "ここにもよくフォルテと来たな……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0078",
+      "context": {
+        "voice": "GC470100.ogg"
+      },
+      "original": "おや、タクトじゃないか。",
+      "translation": "어라, 택트 아니냐.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13504,
+          "length": 24,
+          "key": 3783825247,
+          "original": "おや、タクトじゃないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0079",
+      "context": {
+        "voice": "GC470100.ogg"
+      },
+      "original": "あれ？　フォルテ。偶然だね。",
+      "translation": "어라？ 포르테. 우연이네.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13644,
+          "length": 28,
+          "key": 3783825247,
+          "original": "あれ？　フォルテ。偶然だね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0080",
+      "context": {
+        "voice": "GC470101.ogg"
+      },
+      "original": "ああ、なんだか足が向いてね。",
+      "translation": "아아, 왠지 발길이 안 가네.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13820,
+          "length": 28,
+          "key": 3783825247,
+          "original": "ああ、なんだか足が向いてね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0081",
+      "context": {
+        "voice": "GC470101.ogg"
+      },
+      "original": "そうか、実はオレもなんだ。今までのことやこれからのことを考えてたら、自然とここに来てたよ。",
+      "translation": "그렇구나, 사실 나도 그래. 지금까지와 앞으로를 생각하다 보니 자연스레 여기 왔어.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13920,
+          "length": 40,
+          "key": 3783825247,
+          "original": "そうか、実はオレもなんだ。今までのことや"
+        },
+        {
+          "offset": 13968,
+          "length": 40,
+          "key": 3783825247,
+          "original": "これからのことを考えてたら、自然とここに"
+        },
+        {
+          "offset": 14016,
+          "length": 10,
+          "key": 3783825247,
+          "original": "来てたよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0082",
+      "context": {
+        "voice": "GC470102.ogg"
+      },
+      "original": "そうかい……。",
+      "translation": "그런가……",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14176,
+          "length": 14,
+          "key": 3783825247,
+          "original": "そうかい……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0083",
+      "context": {
+        "voice": "GC470102.ogg"
+      },
+      "original": "ああ。……フォルテ、隣においでよ。",
+      "translation": "아아. ……포르테, 옆으로 와 봐.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14264,
+          "length": 34,
+          "key": 3783825247,
+          "original": "ああ。……フォルテ、隣においでよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0084",
+      "context": {
+        "voice": "GC470103.ogg"
+      },
+      "original": "じゃあ、ちょっと失礼するよ。",
+      "translation": "그럼, 잠시 실례할게.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14448,
+          "length": 28,
+          "key": 3783825247,
+          "original": "じゃあ、ちょっと失礼するよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0085",
+      "context": {
+        "voice": "GC470103.ogg"
+      },
+      "original": "うん！",
+      "translation": "응！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14612,
+          "length": 6,
+          "key": 3783825247,
+          "original": "うん！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0086",
+      "context": {
+        "voice": "GC470104.ogg"
+      },
+      "original": "……きれいな星空だね。",
+      "translation": "……아름다운 별자리네.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14768,
+          "length": 22,
+          "key": 3783825247,
+          "original": "……きれいな星空だね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0087",
+      "context": {
+        "voice": "GC470104.ogg"
+      },
+      "original": "うん、作り物とはわかっていてもね。",
+      "translation": "응, 가짜라는 걸 알아도 말이야.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14864,
+          "length": 34,
+          "key": 3783825247,
+          "original": "うん、作り物とはわかっていてもね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0088",
+      "context": {
+        "voice": "GC470105.ogg"
+      },
+      "original": "……ん？",
+      "translation": "……응？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15012,
+          "length": 8,
+          "key": 3783825247,
+          "original": "……ん？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0089",
+      "context": {
+        "voice": "GC470105.ogg"
+      },
+      "original": "どうしたの、フォルテ？",
+      "translation": "왜 그래, 포르테？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15092,
+          "length": 22,
+          "key": 3783825247,
+          "original": "どうしたの、フォルテ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0090",
+      "context": {
+        "voice": "GC470106.ogg"
+      },
+      "original": "この星空は……ヴァル・ヴァロス星系の星空かい？",
+      "translation": "이 별자리는…… 발・바로스 성계의 별자리니？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15228,
+          "length": 40,
+          "key": 3783825247,
+          "original": "この星空は……ヴァル・ヴァロス星系の星空"
+        },
+        {
+          "offset": 15276,
+          "length": 6,
+          "key": 3783825247,
+          "original": "かい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0091",
+      "context": {
+        "voice": "GC470106.ogg"
+      },
+      "original": "あぁ。さすがフォルテだね。ライブラリで航路データを手に入れて、せっかくだから、ここのデータに組み込んでもらったんだ。",
+      "translation": "아아. 역시 포르테네. 라이브러리에서 항로 데이터를 얻어서, 기왕이면 여기 데이터에 넣어달라고 했어.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15356,
+          "length": 40,
+          "key": 3783825247,
+          "original": "あぁ。さすがフォルテだね。ライブラリで航"
+        },
+        {
+          "offset": 15404,
+          "length": 40,
+          "key": 3783825247,
+          "original": "路データを手に入れて、せっかくだから、こ"
+        },
+        {
+          "offset": 15452,
+          "length": 36,
+          "key": 3783825247,
+          "original": "このデータに組み込んでもらったんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0092",
+      "context": {
+        "voice": "GC470107.ogg"
+      },
+      "original": "ふふ、粋なことをやるじゃないか。",
+      "translation": "후후, 꽤 멋진 일을 했잖아.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15600,
+          "length": 32,
+          "key": 3783825247,
+          "original": "ふふ、粋なことをやるじゃないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0093",
+      "context": {
+        "voice": "GC470107.ogg"
+      },
+      "original": "あぁ。",
+      "translation": "응.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15704,
+          "length": 6,
+          "key": 3783825247,
+          "original": "あぁ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0094",
+      "context": {
+        "voice": "GC470108.ogg"
+      },
+      "original": "不思議な気分だね……。行ったこともない場所の星空がこうして見られるんだから。",
+      "translation": "신비로운 기분이야……. 가본 적도 없는 장소의 별자리를 이렇게 볼 수 있다니.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15824,
+          "length": 40,
+          "key": 3783825247,
+          "original": "不思議な気分だね……。行ったこともない場"
+        },
+        {
+          "offset": 15872,
+          "length": 36,
+          "key": 3783825247,
+          "original": "所の星空がこうして見られるんだから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0095",
+      "context": {
+        "voice": "GC470108.ogg"
+      },
+      "original": "宇宙はまだまだ広いからね。いずれ、もっと遠くの銀河の星空も見られるかもしれないよ。",
+      "translation": "우주는 아직 넓으니까 말이야. 언젠가 더 먼 은하의 별빛도 볼 수 있을지 몰라.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 15980,
+          "length": 40,
+          "key": 3783825247,
+          "original": "宇宙はまだまだ広いからね。いずれ、もっと"
+        },
+        {
+          "offset": 16028,
+          "length": 42,
+          "key": 3783825247,
+          "original": "遠くの銀河の星空も見られるかもしれないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0096",
+      "context": {
+        "voice": "GC470109.ogg"
+      },
+      "original": "……しかし、あたしたち、本当に遠くまで来たんだね。",
+      "translation": "……그나저나 우리, 정말 멀리까지 왔구나.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16184,
+          "length": 40,
+          "key": 3783825247,
+          "original": "……しかし、あたしたち、本当に遠くまで来"
+        },
+        {
+          "offset": 16232,
+          "length": 10,
+          "key": 3783825247,
+          "original": "たんだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0097",
+      "context": {
+        "voice": "GC470109.ogg"
+      },
+      "original": "そうだね。ＥＤＥＮを超えて、その先の『ヴァル・ファスク』の中心にまで来ちゃったんだから。",
+      "translation": "그렇네. EDEN을 넘어 그 너머 『발・파스크』의 중심부까지 와버렸으니까.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16316,
+          "length": 42,
+          "key": 3783825247,
+          "original": "そうだね。ＥＤＥＮを超えて、その先の『ヴァ"
+        },
+        {
+          "offset": 16368,
+          "length": 40,
+          "key": 3783825247,
+          "original": "ル・ファスク』の中心にまで来ちゃったんだ"
+        },
+        {
+          "offset": 16416,
+          "length": 6,
+          "key": 3783825247,
+          "original": "から。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0098",
+      "context": {
+        "voice": "GC470110.ogg"
+      },
+      "original": "なんだか、気が遠くなるよ……。",
+      "translation": "왠지 아득해지는 기분이야…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16536,
+          "length": 30,
+          "key": 3783825247,
+          "original": "なんだか、気が遠くなるよ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0099",
+      "context": {
+        "voice": "GC470110.ogg"
+      },
+      "original": "ああ。",
+      "translation": "아아.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16640,
+          "length": 6,
+          "key": 3783825247,
+          "original": "ああ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0100",
+      "context": {
+        "voice": "GC470111.ogg"
+      },
+      "original": "こうして星々を見ていると、ひとつひとつがただ瞬いて光っているだけなのに、そこにはそれぞれ生活や文化があるんだものね……。",
+      "translation": "이렇게 별들을 보고 있으면, 하나하나가 그저 깜빡이며 빛날 뿐인데도, 거기에는 저마다의 생활과 문화가 있네…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16760,
+          "length": 40,
+          "key": 3783825247,
+          "original": "こうして星々を見ていると、ひとつひとつが"
+        },
+        {
+          "offset": 16808,
+          "length": 40,
+          "key": 3783825247,
+          "original": "ただ瞬いて光っているだけなのに、そこには"
+        },
+        {
+          "offset": 16856,
+          "length": 40,
+          "key": 3783825247,
+          "original": "それぞれ生活や文化があるんだものね……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0101",
+      "context": {
+        "voice": "GC470111.ogg"
+      },
+      "original": "ああ。生活があり、文化があり、歴史があるんだ。たくさんの人によって作られた……ね。",
+      "translation": "아아. 생활과 문화, 역사가 있어. 수많은 사람에 의해 만들어진…… 말이야.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16968,
+          "length": 40,
+          "key": 3783825247,
+          "original": "ああ。生活があり、文化があり、歴史がある"
+        },
+        {
+          "offset": 17016,
+          "length": 42,
+          "key": 3783825247,
+          "original": "んだ。たくさんの人によって作られた……ね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0102",
+      "context": {
+        "voice": "GC470112.ogg"
+      },
+      "original": "あぁ……。あの星にも、あたしたちみたいに夜空を見上げているカップルがたくさんいるんだろうね。",
+      "translation": "아아……. 저 별에도 우리처럼 밤하늘을 올려다보는 커플이 많이 있겠지.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17172,
+          "length": 40,
+          "key": 3783825247,
+          "original": "あぁ……。あの星にも、あたしたちみたいに"
+        },
+        {
+          "offset": 17220,
+          "length": 40,
+          "key": 3783825247,
+          "original": "夜空を見上げているカップルがたくさんいる"
+        },
+        {
+          "offset": 17268,
+          "length": 12,
+          "key": 3783825247,
+          "original": "んだろうね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0103",
+      "context": {
+        "voice": "GC470112.ogg"
+      },
+      "original": "きっとね。",
+      "translation": "분명해.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17352,
+          "length": 10,
+          "key": 3783825247,
+          "original": "きっとね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0104",
+      "context": {
+        "voice": "GC470114.ogg"
+      },
+      "original": "……でも、クロノ・クェイクがまた起きたら、もうそんなこと、言っていられないんだね。",
+      "translation": "……하지만, 크로노・퀘이크가 다시 일어난다면 더는 그런 말을 할 수 없겠지.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17612,
+          "length": 42,
+          "key": 3783825247,
+          "original": "……でも、クロノ・クェイクがまた起きたら、"
+        },
+        {
+          "offset": 17664,
+          "length": 40,
+          "key": 3783825247,
+          "original": "もうそんなこと、言っていられないんだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0105",
+      "context": {
+        "voice": "GC470114.ogg"
+      },
+      "original": "……あぁ。人々はまた、ひとつの星に閉じこめられ、何百年もの時を待たなきゃいけなくなる。",
+      "translation": "……아아. 사람들은 다시 하나의 별에 갇혀서, 몇백 년이라는 시간을 기다려야만 하게 돼.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17776,
+          "length": 40,
+          "key": 3783825247,
+          "original": "……あぁ。人々はまた、ひとつの星に閉じこ"
+        },
+        {
+          "offset": 17824,
+          "length": 40,
+          "key": 3783825247,
+          "original": "められ、何百年もの時を待たなきゃいけなく"
+        },
+        {
+          "offset": 17872,
+          "length": 6,
+          "key": 3783825247,
+          "original": "なる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0106",
+      "context": {
+        "voice": "GC470114.ogg"
+      },
+      "original": "以前はそれで、いくつもの星が滅亡したり、文明を失ってきた……。",
+      "translation": "이전에는 그것 때문에 여러 별이 멸망하거나 문명을 잃어왔어….",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17952,
+          "length": 40,
+          "key": 3783825247,
+          "original": "以前はそれで、いくつもの星が滅亡したり、"
+        },
+        {
+          "offset": 18000,
+          "length": 22,
+          "key": 3783825247,
+          "original": "文明を失ってきた……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0107",
+      "context": {
+        "voice": "GC470114.ogg"
+      },
+      "original": "言わばそれは、銀河を殺しかねない大いなる災厄……。",
+      "translation": "말하자면 그것은은하를죽일지도모르는거대한재앙….",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18096,
+          "length": 40,
+          "key": 3783825247,
+          "original": "言わばそれは、銀河を殺しかねない大いなる"
+        },
+        {
+          "offset": 18144,
+          "length": 10,
+          "key": 3783825247,
+          "original": "災厄……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0108",
+      "context": {
+        "voice": "GC470114.ogg"
+      },
+      "original": "それが……クロノ・クェイク。",
+      "translation": "그것이…… 크로노・퀘이크.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18228,
+          "length": 28,
+          "key": 3783825247,
+          "original": "それが……クロノ・クェイク。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0109",
+      "context": {
+        "voice": "GC470115.ogg"
+      },
+      "original": "タクト……。",
+      "translation": "택트…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18424,
+          "length": 12,
+          "key": 3783825247,
+          "original": "タクト……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0110",
+      "context": {
+        "voice": "GC470115.ogg"
+      },
+      "original": "なんだい？",
+      "translation": "뭔데？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18508,
+          "length": 10,
+          "key": 3783825247,
+          "original": "なんだい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0111",
+      "context": {
+        "voice": "GC470116.ogg"
+      },
+      "original": "あのゲルンはクロノ・クェイク爆弾を使うと思うかい？",
+      "translation": "저 게른이 크로노・퀘이크 폭탄을 쓸 것 같나？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18632,
+          "length": 40,
+          "key": 3783825247,
+          "original": "あのゲルンはクロノ・クェイク爆弾を使うと"
+        },
+        {
+          "offset": 18680,
+          "length": 10,
+          "key": 3783825247,
+          "original": "思うかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0112",
+      "context": {
+        "voice": "GC470116.ogg"
+      },
+      "original": "使う……そう思うよ。",
+      "translation": "쓸 거야…… 그럴게.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18860,
+          "length": 20,
+          "key": 3783825247,
+          "original": "使う……そう思うよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0113",
+      "context": {
+        "voice": "GC470116.ogg"
+      },
+      "original": "一度しか見たことはないけど、わかる。",
+      "translation": "한 번뿐이지만, 알 수 있어.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 18952,
+          "length": 36,
+          "key": 3783825247,
+          "original": "一度しか見たことはないけど、わかる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0114",
+      "context": {
+        "voice": "GC470116.ogg"
+      },
+      "original": "そんな恐ろしい兵器を躊躇無く使う……そんな目をしていたよ。",
+      "translation": "그런 무서운 병기를 주저 없이 쓸…… 그런 눈을 하고 있었어.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19060,
+          "length": 40,
+          "key": 3783825247,
+          "original": "そんな恐ろしい兵器を躊躇無く使う……そん"
+        },
+        {
+          "offset": 19108,
+          "length": 18,
+          "key": 3783825247,
+          "original": "な目をしていたよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0115",
+      "context": {
+        "voice": "GC470116.ogg"
+      },
+      "original": "あの、ゲルンという男は。",
+      "translation": "저기, 게른이라는 남자는.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19200,
+          "length": 24,
+          "key": 3783825247,
+          "original": "あの、ゲルンという男は。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0116",
+      "context": {
+        "voice": "GC470117.ogg"
+      },
+      "original": "……ノアが言ってたね。クロノ・クェイク爆弾を防ぐ方法があるって。",
+      "translation": "……노아가 말했었지. 크로노・퀘이크 폭탄을 막는 방법이 있다고.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19400,
+          "length": 40,
+          "key": 3783825247,
+          "original": "……ノアが言ってたね。クロノ・クェイク爆"
+        },
+        {
+          "offset": 19448,
+          "length": 24,
+          "key": 3783825247,
+          "original": "弾を防ぐ方法があるって。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0117",
+      "context": {
+        "voice": "GC470117.ogg"
+      },
+      "original": "……うん。エンジェル隊で最大のテンションを持つ者だけが、それを可能にすると。",
+      "translation": "……응. 엔젤대에서 최고의 텐션을 가진 자만이 그것을 가능하게 한다고.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19544,
+          "length": 40,
+          "key": 3783825247,
+          "original": "……うん。エンジェル隊で最大のテンション"
+        },
+        {
+          "offset": 19592,
+          "length": 36,
+          "key": 3783825247,
+          "original": "を持つ者だけが、それを可能にすると。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0118",
+      "context": {
+        "voice": "GC470119.ogg"
+      },
+      "original": "……もう、クロノ・クェイクを起こさせやしない……。",
+      "translation": "……이제, 크로노・퀘이크를 일으키게 두지 않아…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 19912,
+          "length": 40,
+          "key": 3783825247,
+          "original": "……もう、クロノ・クェイクを起こさせやし"
+        },
+        {
+          "offset": 19960,
+          "length": 10,
+          "key": 3783825247,
+          "original": "ない……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0119",
+      "context": {
+        "voice": "GC470119.ogg"
+      },
+      "original": "……フォルテ。",
+      "translation": "……포르테.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20044,
+          "length": 14,
+          "key": 3783825247,
+          "original": "……フォルテ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0120",
+      "context": {
+        "voice": "GC470120.ogg"
+      },
+      "original": "……クロノ・クェイクでまた銀河が閉ざされたら、なにもかもが終わりさ。",
+      "translation": "……크로노・퀘이크로 다시 은하가 닫힌다면, 모든 것이 끝이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20172,
+          "length": 40,
+          "key": 3783825247,
+          "original": "……クロノ・クェイクでまた銀河が閉ざされ"
+        },
+        {
+          "offset": 20220,
+          "length": 28,
+          "key": 3783825247,
+          "original": "たら、なにもかもが終わりさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0121",
+      "context": {
+        "voice": "GC470121.ogg"
+      },
+      "original": "ヴァインが命がけで見せてくれた小さな希望を、あたしはムダにしたくないんだよ。",
+      "translation": "바인이 목숨 걸고 보여준 작은 희망을, 난 헛되게 하고 싶지 않아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20360,
+          "length": 40,
+          "key": 3783825247,
+          "original": "ヴァインが命がけで見せてくれた小さな希望"
+        },
+        {
+          "offset": 20408,
+          "length": 36,
+          "key": 3783825247,
+          "original": "を、あたしはムダにしたくないんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0122",
+      "context": {
+        "voice": "GC470121.ogg"
+      },
+      "original": "ああ。オレは、『ヴァル・ファスク』を滅ぼすために戦うんじゃない……。",
+      "translation": "그래. 나는 『발・파스크』를 멸하기 위해 싸우는 게 아니야…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20516,
+          "length": 40,
+          "key": 3783825247,
+          "original": "ああ。オレは、『ヴァル・ファスク』を滅ぼ"
+        },
+        {
+          "offset": 20564,
+          "length": 28,
+          "key": 3783825247,
+          "original": "すために戦うんじゃない……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0123",
+      "context": {
+        "voice": "GC470121.ogg"
+      },
+      "original": "あの、小さな希望を守るために戦うんだ。",
+      "translation": "저기, 작은 희망을지키기위해싸우는거야.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20664,
+          "length": 38,
+          "key": 3783825247,
+          "original": "あの、小さな希望を守るために戦うんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0124",
+      "context": {
+        "voice": "GC470121.ogg"
+      },
+      "original": "そして、その希望を現実のものにするためには、この銀河が絶対必要なんだ。",
+      "translation": "그리고 그 희망을 현실로 만들기 위해서는 이 은하가 반드시 필요해.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 20776,
+          "length": 40,
+          "key": 3783825247,
+          "original": "そして、その希望を現実のものにするために"
+        },
+        {
+          "offset": 20824,
+          "length": 30,
+          "key": 3783825247,
+          "original": "は、この銀河が絶対必要なんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0125",
+      "context": {
+        "voice": "GC470122.ogg"
+      },
+      "original": "あたしもタクトと同じ気持ちだよ……。",
+      "translation": "나도 택트와 같은 마음이야…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21004,
+          "length": 36,
+          "key": 3783825247,
+          "original": "あたしもタクトと同じ気持ちだよ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0126",
+      "context": {
+        "voice": "GC470123.ogg"
+      },
+      "original": "タクト、あたしが守るよ……。",
+      "translation": "택트, 내가 지킬게…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21152,
+          "length": 28,
+          "key": 3783825247,
+          "original": "タクト、あたしが守るよ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0127",
+      "context": {
+        "voice": "GC470123.ogg"
+      },
+      "original": "フォルテ……。",
+      "translation": "포르테…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21252,
+          "length": 14,
+          "key": 3783825247,
+          "original": "フォルテ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0128",
+      "context": {
+        "voice": "GC470124.ogg"
+      },
+      "original": "クロノ・クェイク爆弾……。",
+      "translation": "크로노・퀘이크 폭탄…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21380,
+          "length": 26,
+          "key": 3783825247,
+          "original": "クロノ・クェイク爆弾……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0129",
+      "context": {
+        "voice": "GC470125.ogg"
+      },
+      "original": "あれを止めることができるのは、あたししかいない。",
+      "translation": "그것을 멈출 수 있는 건, 나뿐이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21520,
+          "length": 40,
+          "key": 3783825247,
+          "original": "あれを止めることができるのは、あたししか"
+        },
+        {
+          "offset": 21568,
+          "length": 8,
+          "key": 3783825247,
+          "original": "いない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0130",
+      "context": {
+        "voice": "GC470126.ogg"
+      },
+      "original": "あたしに行かせてくれるね？",
+      "translation": "나를 보내줄 거지？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21688,
+          "length": 26,
+          "key": 3783825247,
+          "original": "あたしに行かせてくれるね？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0131",
+      "context": {
+        "voice": "GC470126.ogg"
+      },
+      "original": "……ああ、止めないよ。",
+      "translation": "……그래,말리지않을게.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21788,
+          "length": 22,
+          "key": 3783825247,
+          "original": "……ああ、止めないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0132",
+      "context": {
+        "voice": "GC470126.ogg"
+      },
+      "original": "フォルテなら、そう言うと思ってた。",
+      "translation": "포르테라면 그렇게 말할 줄 알았어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 21884,
+          "length": 34,
+          "key": 3783825247,
+          "original": "フォルテなら、そう言うと思ってた。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0133",
+      "context": {
+        "voice": "GC470127.ogg"
+      },
+      "original": "そうかい、お見通しだったってわけか。",
+      "translation": "그런가, 다 꿰뚫고 있었다는 건가.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22068,
+          "length": 36,
+          "key": 3783825247,
+          "original": "そうかい、お見通しだったってわけか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0134",
+      "context": {
+        "voice": "GC470127.ogg"
+      },
+      "original": "ああ。",
+      "translation": "아아.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22176,
+          "length": 6,
+          "key": 3783825247,
+          "original": "ああ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0135",
+      "context": {
+        "voice": "GC470128.ogg"
+      },
+      "original": "おや、まぁ。ずいぶんはっきりと言い切ってくれるね。でも、まぁ、嬉しいよ。",
+      "translation": "어머나. 아주 명확하게 단언해 주네. 하지만, 뭐, 기뻐.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22332,
+          "length": 40,
+          "key": 3783825247,
+          "original": "おや、まぁ。ずいぶんはっきりと言い切って"
+        },
+        {
+          "offset": 22380,
+          "length": 32,
+          "key": 3783825247,
+          "original": "くれるね。でも、まぁ、嬉しいよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0136",
+      "context": {
+        "voice": "GC470129.ogg"
+      },
+      "original": "あのやっかいな爆弾をなんとかできる人間はあたししかいないと思っていたのは、うぬぼれじゃないってことだろ？",
+      "translation": "그 골치 아픈 폭탄을 어떻게든 할 수 있는 사람은 나뿐이라고 생각한 건, 자만은 아니라는 뜻이겠지？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22560,
+          "length": 40,
+          "key": 3783825247,
+          "original": "あのやっかいな爆弾をなんとかできる人間は"
+        },
+        {
+          "offset": 22608,
+          "length": 40,
+          "key": 3783825247,
+          "original": "あたししかいないと思っていたのは、うぬぼ"
+        },
+        {
+          "offset": 22656,
+          "length": 24,
+          "key": 3783825247,
+          "original": "れじゃないってことだろ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0137",
+      "context": {
+        "voice": "GC470129.ogg"
+      },
+      "original": "ああ、もちろん。フォルテしかいない。でも",
+      "translation": "그래, 물론이지. 포르테뿐이야. 하지만\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22752,
+          "length": 40,
+          "key": 3783825247,
+          "original": "ああ、もちろん。フォルテしかいない。でも"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0138",
+      "context": {
+        "voice": "GC470130.ogg"
+      },
+      "original": "ん……？",
+      "translation": "음...？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 22956,
+          "length": 8,
+          "key": 3783825247,
+          "original": "ん……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0139",
+      "context": {
+        "voice": "GC470130.ogg"
+      },
+      "original": "オレも一緒に行く。フォルテをひとりにはしない。",
+      "translation": "나도 함께 가겠어. 포르테를 혼자 두지는 않아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23036,
+          "length": 40,
+          "key": 3783825247,
+          "original": "オレも一緒に行く。フォルテをひとりにはし"
+        },
+        {
+          "offset": 23084,
+          "length": 6,
+          "key": 3783825247,
+          "original": "ない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0140",
+      "context": {
+        "voice": "GC470131.ogg"
+      },
+      "original": "タクト……。",
+      "translation": "택트…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23240,
+          "length": 12,
+          "key": 3783825247,
+          "original": "タクト……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0141",
+      "context": {
+        "voice": "GC470131.ogg"
+      },
+      "original": "オレに背中を預けてくれ。オレもフォルテに、背中を任せるから……。",
+      "translation": "내 등에 몸을 맡겨줘. 나도 포르테에게, 등을 맡길 테니까…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23324,
+          "length": 42,
+          "key": 3783825247,
+          "original": "オレに背中を預けてくれ。オレもフォルテに、"
+        },
+        {
+          "offset": 23376,
+          "length": 22,
+          "key": 3783825247,
+          "original": "背中を任せるから……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0142",
+      "context": {
+        "voice": "GC470132.ogg"
+      },
+      "original": "わかった。了解したよ、司令官どの。ふたりで行こうじゃないか。",
+      "translation": "알았어. 확인했다, 사령관님. 둘이서 가자고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23548,
+          "length": 40,
+          "key": 3783825247,
+          "original": "わかった。了解したよ、司令官どの。ふたり"
+        },
+        {
+          "offset": 23596,
+          "length": 20,
+          "key": 3783825247,
+          "original": "で行こうじゃないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0143",
+      "context": {
+        "voice": "GC470132.ogg"
+      },
+      "original": "ああ……。",
+      "translation": "아아…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23688,
+          "length": 10,
+          "key": 3783825247,
+          "original": "ああ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0144",
+      "context": {
+        "voice": "GC470133.ogg"
+      },
+      "original": "銀河を守るんだ……。あたしたちで……。",
+      "translation": "은하를 지키는거야……우리들힘으로…….",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23848,
+          "length": 38,
+          "key": 3783825247,
+          "original": "銀河を守るんだ……。あたしたちで……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0145",
+      "context": {
+        "voice": "GC470133.ogg"
+      },
+      "original": "ああ……。",
+      "translation": "아아…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 23960,
+          "length": 10,
+          "key": 3783825247,
+          "original": "ああ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0146",
+      "context": {
+        "voice": "GC470133.ogg"
+      },
+      "original": "銀河を守る……か。そういうことなら、さしずめフォルテたちは、ギャラクシーエンジェルってところかな。",
+      "translation": "은하를 지킨다……라. 그렇다면, 말하자면 포르테 일행이 갤러시 엔젤라는 건가.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24044,
+          "length": 40,
+          "key": 3783825247,
+          "original": "銀河を守る……か。そういうことなら、さし"
+        },
+        {
+          "offset": 24092,
+          "length": 40,
+          "key": 3783825247,
+          "original": "ずめフォルテたちは、ギャラクシーエンジェ"
+        },
+        {
+          "offset": 24140,
+          "length": 18,
+          "key": 3783825247,
+          "original": "ルってところかな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0147",
+      "context": {
+        "voice": "GC470134.ogg"
+      },
+      "original": "ギャラクシーエンジェル……。",
+      "translation": "갤럭시 엔젤…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24308,
+          "length": 28,
+          "key": 3783825247,
+          "original": "ギャラクシーエンジェル……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0148",
+      "context": {
+        "voice": "GC470134.ogg"
+      },
+      "original": "オレにとって、フォルテは天使だよ。どんな暗闇の中でも光を与えてくれる、幸福の……。",
+      "translation": "내게 있어 포르테는 천사야. 어떤 어둠 속에서도 빛을 주는, 행복의…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24408,
+          "length": 40,
+          "key": 3783825247,
+          "original": "オレにとって、フォルテは天使だよ。どんな"
+        },
+        {
+          "offset": 24456,
+          "length": 42,
+          "key": 3783825247,
+          "original": "暗闇の中でも光を与えてくれる、幸福の……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0149",
+      "context": {
+        "voice": "GC470135.ogg"
+      },
+      "original": "フフッ。じゃあ、タクトはさしずめ勇敢なナイトってところだね。愛の騎士……だっけ？",
+      "translation": "후훗. 그럼 택트는 말하자면 용감한 나이트라는 거네. 사랑의 기사……였나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24648,
+          "length": 40,
+          "key": 3783825247,
+          "original": "フフッ。じゃあ、タクトはさしずめ勇敢なナ"
+        },
+        {
+          "offset": 24696,
+          "length": 40,
+          "key": 3783825247,
+          "original": "イトってところだね。愛の騎士……だっけ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0150",
+      "context": {
+        "voice": "GC470135.ogg"
+      },
+      "original": "あはは、そんな話もあったっけね。",
+      "translation": "아하하, 그런 이야기도 있었지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24808,
+          "length": 32,
+          "key": 3783825247,
+          "original": "あはは、そんな話もあったっけね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0151",
+      "context": {
+        "voice": "GC470136.ogg"
+      },
+      "original": "ふふふっ！",
+      "translation": "후후훗！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 24988,
+          "length": 10,
+          "key": 3783825247,
+          "original": "ふふふっ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0152",
+      "context": {
+        "voice": "GC470137.ogg"
+      },
+      "original": "フォルテ……。",
+      "translation": "포르테…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25340,
+          "length": 14,
+          "key": 3783825247,
+          "original": "フォルテ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0153",
+      "context": {
+        "voice": "GC470137.ogg"
+      },
+      "original": "フォルテ、愛してる。",
+      "translation": "포르테, 사랑해.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25428,
+          "length": 20,
+          "key": 3783825247,
+          "original": "フォルテ、愛してる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0154",
+      "context": {
+        "voice": "GC470138.ogg"
+      },
+      "original": "あたしもだよ、タクト……。",
+      "translation": "나도 그래, 택트…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25596,
+          "length": 26,
+          "key": 3783825247,
+          "original": "あたしもだよ、タクト……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0155",
+      "context": {
+        "voice": "GC470138.ogg"
+      },
+      "original": "絶対に守ろう……フォルテ。この銀河を……全てを……。",
+      "translation": "반드시 지키자… 포르테. 이 은하를……모든것을…….",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25696,
+          "length": 40,
+          "key": 3783825247,
+          "original": "絶対に守ろう……フォルテ。この銀河を……"
+        },
+        {
+          "offset": 25744,
+          "length": 12,
+          "key": 3783825247,
+          "original": "全てを……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0156",
+      "context": {
+        "voice": "GC470139.ogg"
+      },
+      "original": "あぁ……。タクトと一緒ならなにも怖くないさ。",
+      "translation": "아아… 택트와 함께라면 아무것도두렵지않아.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 25904,
+          "length": 40,
+          "key": 3783825247,
+          "original": "あぁ……。タクトと一緒ならなにも怖くない"
+        },
+        {
+          "offset": 25952,
+          "length": 4,
+          "key": 3783825247,
+          "original": "さ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0157",
+      "context": {
+        "voice": "GC470139.ogg"
+      },
+      "original": "……ああ、そうだね。ふたりなら、きっとなんだってできる。",
+      "translation": "……아아, 그렇네. 둘이라면 분명 뭐든지 할 수 있어.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26028,
+          "length": 40,
+          "key": 3783825247,
+          "original": "……ああ、そうだね。ふたりなら、きっとな"
+        },
+        {
+          "offset": 26076,
+          "length": 16,
+          "key": 3783825247,
+          "original": "んだってできる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0158",
+      "context": {
+        "voice": "GC470140.ogg"
+      },
+      "original": "ああ。",
+      "translation": "아아.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26204,
+          "length": 6,
+          "key": 3783825247,
+          "original": "ああ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0159",
+      "context": {
+        "voice": "GC470140.ogg"
+      },
+      "original": "小さな希望を守るために",
+      "translation": "작은 희망을 지키기위해",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26264,
+          "length": 22,
+          "key": 1991526916,
+          "original": "小さな希望を守るために"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0160",
+      "context": {
+        "voice": "GC470140.ogg"
+      },
+      "original": "オレは約束したんだ。『ヴァル・ファスク』の中にも芽吹いた小さな希望……それを信じて戦うことを！",
+      "translation": "나는 약속했어. 『발・파스크』 안에서도 싹튼 작은 희망…… 그것을 믿고 싸우는 것을！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26404,
+          "length": 40,
+          "key": 1991526916,
+          "original": "オレは約束したんだ。『ヴァル・ファスク』"
+        },
+        {
+          "offset": 26452,
+          "length": 40,
+          "key": 1991526916,
+          "original": "の中にも芽吹いた小さな希望……それを信じ"
+        },
+        {
+          "offset": 26500,
+          "length": 14,
+          "key": 1991526916,
+          "original": "て戦うことを！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0161",
+      "context": {
+        "voice": "GC470140.ogg"
+      },
+      "original": "そうだろう、フォルテ？",
+      "translation": "그렇지, 포르테？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26588,
+          "length": 22,
+          "key": 1991526916,
+          "original": "そうだろう、フォルテ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0162",
+      "context": {
+        "voice": "GC470200.ogg"
+      },
+      "original": "あぁ。奪い、傷つけ合うだけなんて悲しすぎやしないかい？",
+      "translation": "아아. 서로 빼앗고 상처입히는것뿐이라니너무슬프지않나？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26796,
+          "length": 40,
+          "key": 1991526916,
+          "original": "あぁ。奪い、傷つけ合うだけなんて悲しすぎ"
+        },
+        {
+          "offset": 26844,
+          "length": 14,
+          "key": 1991526916,
+          "original": "やしないかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0163",
+      "context": {
+        "voice": "GC470201.ogg"
+      },
+      "original": "人間だろうと、『ヴァル・ファスク』だろうと、人を思いやる気持ちや愛する気持ちは同じなんだよ。",
+      "translation": "인간이든 『발・파스크』든, 타인을 배려하는 마음이나 사랑하는 마음은 같아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 26972,
+          "length": 40,
+          "key": 1991526916,
+          "original": "人間だろうと、『ヴァル・ファスク』だろう"
+        },
+        {
+          "offset": 27020,
+          "length": 40,
+          "key": 1991526916,
+          "original": "と、人を思いやる気持ちや愛する気持ちは同"
+        },
+        {
+          "offset": 27068,
+          "length": 12,
+          "key": 1991526916,
+          "original": "じなんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0164",
+      "context": {
+        "voice": "GC170402.ogg"
+      },
+      "original": "愚かな……『ヴァル・ファスク』にそのようなものなどない。",
+      "translation": "어리석군…… 『발・파스크』에 그런 것은 없다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27192,
+          "length": 40,
+          "key": 1991526916,
+          "original": "愚かな……『ヴァル・ファスク』にそのよう"
+        },
+        {
+          "offset": 27240,
+          "length": 16,
+          "key": 1991526916,
+          "original": "なものなどない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0165",
+      "context": {
+        "voice": "GC170402.ogg"
+      },
+      "original": "そんなことはない……だって、オレたちは知ってるんだから。",
+      "translation": "그렇지 않아…… 왜냐하면 우리는 알고 있으니까.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27364,
+          "length": 42,
+          "key": 1991526916,
+          "original": "そんなことはない……だって、オレたちは知っ"
+        },
+        {
+          "offset": 27416,
+          "length": 14,
+          "key": 1991526916,
+          "original": "てるんだから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0166",
+      "context": {
+        "voice": "GC470203.ogg"
+      },
+      "original": "今は小さい可能性かもしれない……。でも、いつか、それが大きな輝きとなって未来を照らすはずさ。",
+      "translation": "지금은 작은 가능성일지도 몰라……. 하지만 언젠가, 그것이 큰 광채가 되어 미래를 비출 거야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27544,
+          "length": 40,
+          "key": 1991526916,
+          "original": "今は小さい可能性かもしれない……。でも、"
+        },
+        {
+          "offset": 27592,
+          "length": 40,
+          "key": 1991526916,
+          "original": "いつか、それが大きな輝きとなって未来を照"
+        },
+        {
+          "offset": 27640,
+          "length": 12,
+          "key": 1991526916,
+          "original": "らすはずさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0167",
+      "context": {
+        "voice": "GC470204.ogg"
+      },
+      "original": "少なくとも、あたしはそう信じてる。",
+      "translation": "적어도 나는 그렇게 믿고 있어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27764,
+          "length": 34,
+          "key": 1991526916,
+          "original": "少なくとも、あたしはそう信じてる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0168",
+      "context": {
+        "voice": "GC470204.ogg"
+      },
+      "original": "それを阻むと言うのなら、オレたちはおまえを倒す！　そして、この銀河も守ってみせる！それが……。",
+      "translation": "그것을 가로막겠다면 우리는 너를 쓰러뜨리겠다！ 그리고 이 은하도 지켜 보이겠어！ 그것이……\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 27872,
+          "length": 40,
+          "key": 1991526916,
+          "original": "それを阻むと言うのなら、オレたちはおまえ"
+        },
+        {
+          "offset": 27920,
+          "length": 42,
+          "key": 1991526916,
+          "original": "を倒す！　そして、この銀河も守ってみせる！"
+        },
+        {
+          "offset": 27972,
+          "length": 12,
+          "key": 1991526916,
+          "original": "それが……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0169",
+      "context": {
+        "voice": "GC470205.ogg"
+      },
+      "original": "あたしたちの答えだよ。",
+      "translation": "우리들의 답이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 28132,
+          "length": 22,
+          "key": 1991526916,
+          "original": "あたしたちの答えだよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0170",
+      "context": {
+        "voice": "GC170405.ogg"
+      },
+      "original": "……ふっ……ふははは……！",
+      "translation": "……훗…… 푸하하하……！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 28268,
+          "length": 26,
+          "key": 1991526916,
+          "original": "……ふっ……ふははは……！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0171",
+      "context": {
+        "voice": "GC170406.ogg"
+      },
+      "original": "わっはっはっはっ！　汝らは、どこまで余を楽しませれば気がすむのだ？",
+      "translation": "왓핫핫핫！ 너희는 어디까지 나를 즐겁게 해야 직성이 풀리겠느냐？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 28480,
+          "length": 40,
+          "key": 1991526916,
+          "original": "わっはっはっはっ！　汝らは、どこまで余を"
+        },
+        {
+          "offset": 28528,
+          "length": 26,
+          "key": 1991526916,
+          "original": "楽しませれば気がすむのだ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0172",
+      "context": {
+        "voice": "GC170407.ogg"
+      },
+      "original": "その愚かなる希望にすがり、無駄にあがき、滅ぶがよい！",
+      "translation": "그 어리석은 희망에매달려헛되이발버둥치다멸망하거라！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 28668,
+          "length": 40,
+          "key": 1991526916,
+          "original": "その愚かなる希望にすがり、無駄にあがき、"
+        },
+        {
+          "offset": 28716,
+          "length": 12,
+          "key": 1991526916,
+          "original": "滅ぶがよい！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0173",
+      "context": {
+        "voice": "GC170408.ogg"
+      },
+      "original": "ははははははははははは……！！",
+      "translation": "하하하하하하하하하하하……！！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 28840,
+          "length": 30,
+          "key": 1991526916,
+          "original": "ははははははははははは……！！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0174",
+      "context": {
+        "voice": "GC170408.ogg"
+      },
+      "original": "シヴァ陛下、ルフト将軍。ゲルンへの、総攻撃の許可を。",
+      "translation": "시바 폐하, 루프트 장군. 게른에 대한 총공격 허가를.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 29096,
+          "length": 40,
+          "key": 1991526916,
+          "original": "シヴァ陛下、ルフト将軍。ゲルンへの、総攻"
+        },
+        {
+          "offset": 29144,
+          "length": 12,
+          "key": 1991526916,
+          "original": "撃の許可を。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0175",
+      "context": {
+        "voice": "GC170409.ogg"
+      },
+      "original": "マイヤーズ……しかし……。",
+      "translation": "마이어스…… 하지만……\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 29268,
+          "length": 26,
+          "key": 1991526916,
+          "original": "マイヤーズ……しかし……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0176",
+      "context": {
+        "voice": "GC170410.ogg"
+      },
+      "original": "奴にはクロノ・クェイク爆弾がある……うかつに手を出しては……。",
+      "translation": "그놈에게는 크로노・퀘이크 폭탄이 있다…함부로손을댔다간…….",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 29408,
+          "length": 40,
+          "key": 1991526916,
+          "original": "奴にはクロノ・クェイク爆弾がある……うか"
+        },
+        {
+          "offset": 29456,
+          "length": 22,
+          "key": 1991526916,
+          "original": "つに手を出しては……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0177",
+      "context": {
+        "voice": "GC170411.ogg"
+      },
+      "original": "俺からもお願いします。",
+      "translation": "저도 부탁드립니다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 29628,
+          "length": 22,
+          "key": 1991526916,
+          "original": "俺からもお願いします。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0178",
+      "context": {
+        "voice": "GC170412.ogg"
+      },
+      "original": "レスター、おまえまで……。",
+      "translation": "레스터, 너까지……\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 29764,
+          "length": 26,
+          "key": 1991526916,
+          "original": "レスター、おまえまで……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0179",
+      "context": {
+        "voice": "GC170413.ogg"
+      },
+      "original": "たとえこの場は従ったとしても、あの男が存在する以上、いずれ必ず銀河は破滅の危機を迎えるでしょう。",
+      "translation": "설령 지금은 따를지라도, 그 남자가 있는 한 은하는 반드시 파멸할 것입니다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 29904,
+          "length": 40,
+          "key": 1991526916,
+          "original": "たとえこの場は従ったとしても、あの男が存"
+        },
+        {
+          "offset": 29952,
+          "length": 40,
+          "key": 1991526916,
+          "original": "在する以上、いずれ必ず銀河は破滅の危機を"
+        },
+        {
+          "offset": 30000,
+          "length": 16,
+          "key": 1991526916,
+          "original": "迎えるでしょう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0180",
+      "context": {
+        "voice": "GC170414.ogg"
+      },
+      "original": "ならば今、こいつにかけましょう。あなたの最高の教え子で、俺の最高の親友である、この男に。",
+      "translation": "그렇다면 지금 이 녀석에게 걸겠습니다. 당신의 최고의 제자이자 나의 친구인, 이 남자에게.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 30164,
+          "length": 40,
+          "key": 1991526916,
+          "original": "ならば今、こいつにかけましょう。あなたの"
+        },
+        {
+          "offset": 30212,
+          "length": 40,
+          "key": 1991526916,
+          "original": "最高の教え子で、俺の最高の親友である、こ"
+        },
+        {
+          "offset": 30260,
+          "length": 8,
+          "key": 1991526916,
+          "original": "の男に。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0181",
+      "context": {
+        "voice": "GC170415.ogg"
+      },
+      "original": "レスター……。",
+      "translation": "레스터…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 30416,
+          "length": 14,
+          "key": 1991526916,
+          "original": "レスター……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0182",
+      "context": {
+        "voice": "GC470206.ogg"
+      },
+      "original": "大丈夫です！！",
+      "translation": "괜찮습니다！！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 30616,
+          "length": 14,
+          "key": 1991526916,
+          "original": "大丈夫です！！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0183",
+      "context": {
+        "voice": "GC470207.ogg"
+      },
+      "original": "絶対アタシたちであいつを止めてみせます！",
+      "translation": "반드시 우리들이 저녀석을막아보이겠어요！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 30780,
+          "length": 40,
+          "key": 1991526916,
+          "original": "絶対アタシたちであいつを止めてみせます！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0184",
+      "context": {
+        "voice": "GC170417.ogg"
+      },
+      "original": "私たちに不可能はございませんわ。",
+      "translation": "저희에게 불가능이란 없습니다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 30968,
+          "length": 32,
+          "key": 1991526916,
+          "original": "私たちに不可能はございませんわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0185",
+      "context": {
+        "voice": "GC170418.ogg"
+      },
+      "original": "それゆえの、ムーンエンジェル隊。いや……。",
+      "translation": "그렇기에 문 엔젤대. 아니……\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31148,
+          "length": 42,
+          "key": 1991526916,
+          "original": "それゆえの、ムーンエンジェル隊。いや……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0186",
+      "context": {
+        "voice": "GC170419.ogg"
+      },
+      "original": "ギャラクシーエンジェル……。",
+      "translation": "갤럭시 엔젤…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31340,
+          "length": 28,
+          "key": 1991526916,
+          "original": "ギャラクシーエンジェル……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0187",
+      "context": {
+        "voice": "GC170420.ogg"
+      },
+      "original": "全てを守ってご覧にいれます。",
+      "translation": "모든 것을 지켜 보이겠습니다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31516,
+          "length": 28,
+          "key": 1991526916,
+          "original": "全てを守ってご覧にいれます。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0188",
+      "context": {
+        "voice": "GC170421.ogg"
+      },
+      "original": "そなたたち……。",
+      "translation": "그대들…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31656,
+          "length": 16,
+          "key": 1991526916,
+          "original": "そなたたち……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0189",
+      "context": {
+        "voice": "GC170421.ogg"
+      },
+      "original": "信じてください……オレたちを！",
+      "translation": "믿어 주세요…… 우리들을！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31780,
+          "length": 30,
+          "key": 1991526916,
+          "original": "信じてください……オレたちを！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0190",
+      "context": {
+        "voice": "GC170424.ogg"
+      },
+      "original": "……そうであったな。そなたたちを信じたからこそ、今の私たちがある。",
+      "translation": "……그랬었지. 너희를 믿었기에 지금의 우리가 있다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 32096,
+          "length": 40,
+          "key": 1991526916,
+          "original": "……そうであったな。そなたたちを信じたか"
+        },
+        {
+          "offset": 32144,
+          "length": 26,
+          "key": 1991526916,
+          "original": "らこそ、今の私たちがある。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0191",
+      "context": {
+        "voice": "GC170425.ogg"
+      },
+      "original": "ならば、最後まで信じぬこうではないか。",
+      "translation": "그렇다면, 마지막까지 믿어보자꾸나.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 32284,
+          "length": 38,
+          "key": 1991526916,
+          "original": "ならば、最後まで信じぬこうではないか。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0192",
+      "context": {
+        "voice": "GC470216.ogg"
+      },
+      "original": "マイヤーズ司令……フォルテ……そして、皆さん……。",
+      "translation": "마이어스 사령관…… 포르테…… 그리고, 여러분…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 32436,
+          "length": 38,
+          "key": 1991526916,
+          "original": "マイヤーズ司令……フォルテ……そして、"
+        },
+        {
+          "offset": 32484,
+          "length": 12,
+          "key": 1991526916,
+          "original": "皆さん……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0193",
+      "context": {
+        "voice": "GC170427.ogg"
+      },
+      "original": "あなた方に、この銀河の未来を託します。",
+      "translation": "당신들에게 이은하의미래를맡기겠습니다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 32608,
+          "length": 38,
+          "key": 1991526916,
+          "original": "あなた方に、この銀河の未来を託します。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0194",
+      "context": {
+        "voice": "GC170427.ogg"
+      },
+      "original": "はいっ！",
+      "translation": "네！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 32772,
+          "length": 8,
+          "key": 1991526916,
+          "original": "はいっ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0195",
+      "context": {
+        "voice": "GC470218.ogg"
+      },
+      "original": "はい。",
+      "translation": "네.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 32892,
+          "length": 6,
+          "key": 1991526916,
+          "original": "はい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0196",
+      "context": {
+        "voice": "GC170500.ogg"
+      },
+      "original": "ぶっ壊れろおっ！　アンカァァクローーッ！",
+      "translation": "다 부숴버려라！ 앙카클로～！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 33392,
+          "length": 40,
+          "key": 1451098381,
+          "original": "ぶっ壊れろおっ！　アンカァァクローーッ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0197",
+      "context": {
+        "voice": "GC170501.ogg"
+      },
+      "original": "……ダメ！　全然手応えがないわ！",
+      "translation": "……안 돼！ 전혀 타격이 없어！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 33904,
+          "length": 32,
+          "key": 1451098381,
+          "original": "……ダメ！　全然手応えがないわ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0198",
+      "context": {
+        "voice": "GC170502.ogg"
+      },
+      "original": "今度は私が！　フェイタルアローーー！！",
+      "translation": "이번엔 내가！ 페이탈 애로우～！！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 34084,
+          "length": 38,
+          "key": 1451098381,
+          "original": "今度は私が！　フェイタルアローーー！！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0199",
+      "context": {
+        "voice": "GC170503.ogg"
+      },
+      "original": "……損傷、確認できません。さっきから全力で攻撃しているのに……！",
+      "translation": "……손상, 확인 불가. 아까부터 전력으로 공격하고 있는데……！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 34372,
+          "length": 40,
+          "key": 1451098381,
+          "original": "……損傷、確認できません。さっきから全力"
+        },
+        {
+          "offset": 34420,
+          "length": 24,
+          "key": 1451098381,
+          "original": "で攻撃しているのに……！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0200",
+      "context": {
+        "voice": "GC470304.ogg"
+      },
+      "original": "え～いっ！　ハイパーキャノンーーーッ！！",
+      "translation": "에잇！ 하이퍼 캐논ーーー！！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 34592,
+          "length": 40,
+          "key": 1451098381,
+          "original": "え～いっ！　ハイパーキャノンーーーッ！！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0201",
+      "context": {
+        "voice": "GC470305.ogg"
+      },
+      "original": "あ～ん、なんできかないの～～～～！",
+      "translation": "아앙, 왜 안 듣는 거야～～～～！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 34880,
+          "length": 34,
+          "key": 1451098381,
+          "original": "あ～ん、なんできかないの～～～～！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0202",
+      "context": {
+        "voice": "GC470306.ogg"
+      },
+      "original": "そういえば、先程からフォルテさんの姿が見えませんわ。",
+      "translation": "그러고 보니, 아까부터 포르테 씨가 안 보이네요.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 35064,
+          "length": 40,
+          "key": 1451098381,
+          "original": "そういえば、先程からフォルテさんの姿が見"
+        },
+        {
+          "offset": 35112,
+          "length": 12,
+          "key": 1451098381,
+          "original": "えませんわ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0203",
+      "context": {
+        "voice": "GC470307.ogg"
+      },
+      "original": "なんですって！？　まさか……！",
+      "translation": "뭐라고요！？ 설마……！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 35272,
+          "length": 30,
+          "key": 1451098381,
+          "original": "なんですって！？　まさか……！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0204",
+      "context": {
+        "voice": "GC470308.ogg"
+      },
+      "original": "フォルテさんなら、今さっきエルシオールに戻られました。",
+      "translation": "포르테 씨라면, 방금 전 에르시올로 돌아가셨습니다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 35452,
+          "length": 40,
+          "key": 1451098381,
+          "original": "フォルテさんなら、今さっきエルシオールに"
+        },
+        {
+          "offset": 35500,
+          "length": 14,
+          "key": 1451098381,
+          "original": "戻られました。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0205",
+      "context": {
+        "voice": "GC470309.ogg"
+      },
+      "original": "補給にでも戻ったのかな～？",
+      "translation": "보급이라도 하러 간걸까～？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 35664,
+          "length": 26,
+          "key": 1451098381,
+          "original": "補給にでも戻ったのかな～？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0206",
+      "context": {
+        "voice": "GC470310.ogg"
+      },
+      "original": "フォルテ先輩が戻るまで気を張っていきましょう！",
+      "translation": "포르테 선배가 올 때까지 긴장을 늦추지 말자！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 35840,
+          "length": 42,
+          "key": 1451098381,
+          "original": "フォルテ先輩が戻るまで気を張っていきましょ"
+        },
+        {
+          "offset": 35892,
+          "length": 4,
+          "key": 1451098381,
+          "original": "う！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0207",
+      "context": {
+        "voice": "GC470310.ogg"
+      },
+      "original": "光の中へ",
+      "translation": "빛속으로",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 35916,
+          "length": 8,
+          "key": 1451098381,
+          "original": "光の中へ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0208",
+      "context": {
+        "voice": "GC470311.ogg"
+      },
+      "original": "あの、今、ハッピートリガーが帰艦したんですけど……何かあったんですか？",
+      "translation": "저기, 지금 해피 트리거가 귀환했습니다만…… 무슨 일 있나요？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 36132,
+          "length": 40,
+          "key": 1451098381,
+          "original": "あの、今、ハッピートリガーが帰艦したんで"
+        },
+        {
+          "offset": 36180,
+          "length": 30,
+          "key": 1451098381,
+          "original": "すけど……何かあったんですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0209",
+      "context": {
+        "voice": "GC170510.ogg"
+      },
+      "original": "なんだと？　帰艦の指示は出していないぞ。",
+      "translation": "뭐라고？ 귀환 지시는 내리지 않았다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 36360,
+          "length": 40,
+          "key": 1451098381,
+          "original": "なんだと？　帰艦の指示は出していないぞ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0210",
+      "context": {
+        "voice": "GC170511.ogg"
+      },
+      "original": "クロノ・クェイク爆弾、まだ無傷のままです！もう時間がありません……！",
+      "translation": "크로노・퀘이크 폭탄, 아직 무사합니다！ 이제 시간이 없어요……！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 36788,
+          "length": 42,
+          "key": 1451098381,
+          "original": "クロノ・クェイク爆弾、まだ無傷のままです！"
+        },
+        {
+          "offset": 36840,
+          "length": 26,
+          "key": 1451098381,
+          "original": "もう時間がありません……！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0211",
+      "context": {
+        "voice": "GC170511.ogg"
+      },
+      "original": "……さて、と。",
+      "translation": "……자, 그럼.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 36940,
+          "length": 14,
+          "key": 1451098381,
+          "original": "……さて、と。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0212",
+      "context": {
+        "voice": "GC170512.ogg"
+      },
+      "original": "ん？　どうした、タクト？",
+      "translation": "음？ 왜 그래, 택트？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 37260,
+          "length": 24,
+          "key": 1451098381,
+          "original": "ん？　どうした、タクト？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0213",
+      "context": {
+        "voice": "GC170512.ogg"
+      },
+      "original": "レスター、あとは頼む。今からおまえが総司令官だ。",
+      "translation": "레스터,나머진 부탁한다. 이제 네가 총사령관이다.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 37356,
+          "length": 40,
+          "key": 1451098381,
+          "original": "レスター、あとは頼む。今からおまえが総司"
+        },
+        {
+          "offset": 37404,
+          "length": 8,
+          "key": 1451098381,
+          "original": "令官だ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0214",
+      "context": {
+        "voice": "GC170512.ogg"
+      },
+      "original": "以上、引き継ぎ終わり！",
+      "translation": "이상, 인계 완료！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 37484,
+          "length": 22,
+          "key": 1451098381,
+          "original": "以上、引き継ぎ終わり！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0215",
+      "context": {
+        "voice": "GC170513.ogg"
+      },
+      "original": "……おい、今はそんなタチの悪い冗談につきあってるヒマはないぞ。",
+      "translation": "……어이, 지금은 그런 질 나쁜 농담에 어울려줄 때가 아니라고.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 37656,
+          "length": 40,
+          "key": 1451098381,
+          "original": "……おい、今はそんなタチの悪い冗談につき"
+        },
+        {
+          "offset": 37704,
+          "length": 22,
+          "key": 1451098381,
+          "original": "あってるヒマはないぞ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0216",
+      "context": {
+        "voice": "GC170513.ogg"
+      },
+      "original": "あいにくと、冗談じゃないんだ。ちょっとこれから、出かけなきゃいけなくてね。",
+      "translation": "안타깝게도 농담이 아니야. 잠시 좀 다녀와야 해서 말이지.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 37924,
+          "length": 40,
+          "key": 1451098381,
+          "original": "あいにくと、冗談じゃないんだ。ちょっとこ"
+        },
+        {
+          "offset": 37972,
+          "length": 34,
+          "key": 1451098381,
+          "original": "れから、出かけなきゃいけなくてね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0217",
+      "context": {
+        "voice": "GC170514.ogg"
+      },
+      "original": "どういうことだ、ハッキリと言え。",
+      "translation": "무슨 소리냐, 확실히 말해라.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 38168,
+          "length": 32,
+          "key": 1451098381,
+          "original": "どういうことだ、ハッキリと言え。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0218",
+      "context": {
+        "voice": "GC170514.ogg"
+      },
+      "original": "クロノ・クェイク爆弾を止めてくる。オレとフォルテ、ふたりでね。",
+      "translation": "크로노・퀘이크 폭탄을 멈추고 올게. 나와 포르테, 둘이서 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 38316,
+          "length": 40,
+          "key": 1451098381,
+          "original": "クロノ・クェイク爆弾を止めてくる。オレと"
+        },
+        {
+          "offset": 38364,
+          "length": 22,
+          "key": 1451098381,
+          "original": "フォルテ、ふたりでね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0219",
+      "context": {
+        "voice": "GC170515.ogg"
+      },
+      "original": "まさか……おまえっ！？",
+      "translation": "설마…… 너！？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 38536,
+          "length": 22,
+          "key": 1451098381,
+          "original": "まさか……おまえっ！？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0220",
+      "context": {
+        "voice": "GC170515.ogg"
+      },
+      "original": "色々言いたいことはあるだろうけど、ここはひとつ素直に行かせてくれないか、レスター？",
+      "translation": "하고 싶은 말은 많겠지만, 이번만큼은 순순히 보내주지 않을래, 레스터？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 38632,
+          "length": 40,
+          "key": 1451098381,
+          "original": "色々言いたいことはあるだろうけど、ここは"
+        },
+        {
+          "offset": 38680,
+          "length": 42,
+          "key": 1451098381,
+          "original": "ひとつ素直に行かせてくれないか、レスター？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0221",
+      "context": {
+        "voice": "GC170515.ogg"
+      },
+      "original": "オレには、フォルテをひとりで行かせるつもりなんか絶対ないんだからさ。",
+      "translation": "나에게는 포르테를 혼자 보낼 생각 따위 절대 없으니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 38796,
+          "length": 40,
+          "key": 1451098381,
+          "original": "オレには、フォルテをひとりで行かせるつも"
+        },
+        {
+          "offset": 38844,
+          "length": 28,
+          "key": 1451098381,
+          "original": "りなんか絶対ないんだからさ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0222",
+      "context": {
+        "voice": "GC470313.ogg"
+      },
+      "original": "最初から、そのつもりだったのか？　おまえも、フォルテも……。",
+      "translation": "처음부터 그럴 생각이었나？ 너도, 포르테도…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 39176,
+          "length": 40,
+          "key": 1451098381,
+          "original": "最初から、そのつもりだったのか？　おまえ"
+        },
+        {
+          "offset": 39224,
+          "length": 20,
+          "key": 1451098381,
+          "original": "も、フォルテも……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0223",
+      "context": {
+        "voice": "GC170517.ogg"
+      },
+      "original": "タクト、おまえは総司令官だ。この艦隊全てに責任を持たなければならない立場なんだぞ。それがわかってるのか？",
+      "translation": "택트, 너는 총사령관이다. 이 함대 전체에 책임을 져야 하는 입장이라고. 알고 있는 건가？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 39356,
+          "length": 40,
+          "key": 1451098381,
+          "original": "タクト、おまえは総司令官だ。この艦隊全て"
+        },
+        {
+          "offset": 39404,
+          "length": 42,
+          "key": 1451098381,
+          "original": "に責任を持たなければならない立場なんだぞ。"
+        },
+        {
+          "offset": 39456,
+          "length": 22,
+          "key": 1451098381,
+          "original": "それがわかってるのか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0224",
+      "context": {
+        "voice": "GC170517.ogg"
+      },
+      "original": "わかってる。これは、オレのただのワガママなんだ。",
+      "translation": "알고 있어. 이건 내 단순한 고집이야.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 39552,
+          "length": 40,
+          "key": 1451098381,
+          "original": "わかってる。これは、オレのただのワガママ"
+        },
+        {
+          "offset": 39600,
+          "length": 8,
+          "key": 1451098381,
+          "original": "なんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0225",
+      "context": {
+        "voice": "GC170519.ogg"
+      },
+      "original": "……ふう……。わかった、行ってこい。",
+      "translation": "……후우……. 알았다, 다녀와라.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 40084,
+          "length": 36,
+          "key": 1451098381,
+          "original": "……ふう……。わかった、行ってこい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0226",
+      "context": {
+        "voice": "GC170519.ogg"
+      },
+      "original": "レスター……。",
+      "translation": "레스터…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 40236,
+          "length": 14,
+          "key": 1451098381,
+          "original": "レスター……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0227",
+      "context": {
+        "voice": "GC170520.ogg"
+      },
+      "original": "俺たちも、この銀河に住む全ての人々も、おまえたちふたりに借りこそあれ、貸しはない。",
+      "translation": "우리도, 이 은하에 사는 모든 사람들도 너희 둘에게 빚은 있어도, 신세 진 건 없다.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 40400,
+          "length": 40,
+          "key": 1451098381,
+          "original": "俺たちも、この銀河に住む全ての人々も、お"
+        },
+        {
+          "offset": 40448,
+          "length": 42,
+          "key": 1451098381,
+          "original": "まえたちふたりに借りこそあれ、貸しはない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0228",
+      "context": {
+        "voice": "GC170521.ogg"
+      },
+      "original": "おまえには、そのワガママを貫く権利がある。だから、行け。あとは俺が引き受けた。",
+      "translation": "너에게는 그 고집을 관철할 권리가 있다. 그러니까 가라. 나머지는 내가 맡으마.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 40604,
+          "length": 42,
+          "key": 1451098381,
+          "original": "おまえには、そのワガママを貫く権利がある。"
+        },
+        {
+          "offset": 40656,
+          "length": 36,
+          "key": 1451098381,
+          "original": "だから、行け。あとは俺が引き受けた。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0229",
+      "context": {
+        "voice": "GC170521.ogg"
+      },
+      "original": "……ありがとう。やっぱり、おまえはオレの親友だよ。",
+      "translation": "……고마워. 역시 너는 내 친우야.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 40888,
+          "length": 40,
+          "key": 1451098381,
+          "original": "……ありがとう。やっぱり、おまえはオレの"
+        },
+        {
+          "offset": 40936,
+          "length": 10,
+          "key": 1451098381,
+          "original": "親友だよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0230",
+      "context": {
+        "voice": "GC170522.ogg"
+      },
+      "original": "マイヤーズ司令！　……その、ご無事で。",
+      "translation": "마이어스 사령관님！ ……그,무사하시길.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 41108,
+          "length": 38,
+          "key": 1451098381,
+          "original": "マイヤーズ司令！　……その、ご無事で。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0231",
+      "context": {
+        "voice": "GC470315.ogg"
+      },
+      "original": "絶対に……絶対に帰ってきてくださいね、フォルテさんと一緒に！",
+      "translation": "절대로…… 절대로 돌아와 주세요, 포르테 씨와 함께！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 41296,
+          "length": 42,
+          "key": 1451098381,
+          "original": "絶対に……絶対に帰ってきてくださいね、フォ"
+        },
+        {
+          "offset": 41348,
+          "length": 18,
+          "key": 1451098381,
+          "original": "ルテさんと一緒に！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0232",
+      "context": {
+        "voice": "GC470315.ogg"
+      },
+      "original": "アルモも、ココも、今までありがとう。レスターを、助けてやってくれ。",
+      "translation": "아르모도, 코코도, 지금까지 고마웠어. 레스터를 도와줘.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 41440,
+          "length": 40,
+          "key": 1451098381,
+          "original": "アルモも、ココも、今までありがとう。レス"
+        },
+        {
+          "offset": 41488,
+          "length": 26,
+          "key": 1451098381,
+          "original": "ターを、助けてやってくれ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0233",
+      "context": {
+        "voice": "GC470315.ogg"
+      },
+      "original": "それじゃ、行ってくる！",
+      "translation": "그럼, 다녀올게！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 41588,
+          "length": 22,
+          "key": 1451098381,
+          "original": "それじゃ、行ってくる！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0234",
+      "context": {
+        "voice": "GC470315.ogg"
+      },
+      "original": "フォルテ！",
+      "translation": "포르테！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 41784,
+          "length": 10,
+          "key": 1451098381,
+          "original": "フォルテ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0235",
+      "context": {
+        "voice": "GC470316.ogg"
+      },
+      "original": "タクト！",
+      "translation": "택트！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 41908,
+          "length": 8,
+          "key": 1451098381,
+          "original": "タクト！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0236",
+      "context": {
+        "voice": "GC470316.ogg"
+      },
+      "original": "急いでくれ、クロノ・クェイク爆弾の発動まで、もう時間があまりない。",
+      "translation": "서둘러줘, 크로노・퀘이크 폭탄 발동까지 이제 시간이 얼마 없어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 42032,
+          "length": 40,
+          "key": 1451098381,
+          "original": "急いでくれ、クロノ・クェイク爆弾の発動ま"
+        },
+        {
+          "offset": 42080,
+          "length": 26,
+          "key": 1451098381,
+          "original": "で、もう時間があまりない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0237",
+      "context": {
+        "voice": "GC470317.ogg"
+      },
+      "original": "オッケー。それじゃあ、タクト。ちょっと狭いかもしれないけど、ガマンしておくれ。",
+      "translation": "오케이. 그럼, 택트. 좀 좁을지도 모르지만 참아줘.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 42220,
+          "length": 40,
+          "key": 1451098381,
+          "original": "オッケー。それじゃあ、タクト。ちょっと狭"
+        },
+        {
+          "offset": 42268,
+          "length": 38,
+          "key": 1451098381,
+          "original": "いかもしれないけど、ガマンしておくれ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0238",
+      "context": {
+        "voice": "GC470317.ogg"
+      },
+      "original": "シートの後ろ側に回り込んで……と。よし、これでいいかい？",
+      "translation": "시트 뒷부분으로 돌아가서…… 됐다. 이걸로 됐나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 42424,
+          "length": 40,
+          "key": 1451098381,
+          "original": "シートの後ろ側に回り込んで……と。よし、"
+        },
+        {
+          "offset": 42472,
+          "length": 16,
+          "key": 1451098381,
+          "original": "これでいいかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0239",
+      "context": {
+        "voice": "GC470318.ogg"
+      },
+      "original": "あぁ、バッチリさ。さて、と……。じゃあ、いいね、タクト。",
+      "translation": "아아, 완벽해. 자, 그럼…… 좋아, 택트.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 42632,
+          "length": 40,
+          "key": 1451098381,
+          "original": "あぁ、バッチリさ。さて、と……。じゃあ、"
+        },
+        {
+          "offset": 42680,
+          "length": 16,
+          "key": 1451098381,
+          "original": "いいね、タクト。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0240",
+      "context": {
+        "voice": "GC470318.ogg"
+      },
+      "original": "ああ！",
+      "translation": "아아！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 42768,
+          "length": 6,
+          "key": 1451098381,
+          "original": "ああ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0241",
+      "context": {
+        "voice": "GC470319.ogg"
+      },
+      "original": "さあ、ふたりでいっちょ派手にぶちかまそうじゃないか！　覚悟はいいかい？　司令官どの。",
+      "translation": "자, 둘이서 화끈하게 날려버리자고！ 각오는 됐나？ 사령관님.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 42888,
+          "length": 40,
+          "key": 1451098381,
+          "original": "さあ、ふたりでいっちょ派手にぶちかまそう"
+        },
+        {
+          "offset": 42936,
+          "length": 40,
+          "key": 1451098381,
+          "original": "じゃないか！　覚悟はいいかい？　司令官ど"
+        },
+        {
+          "offset": 42984,
+          "length": 4,
+          "key": 1451098381,
+          "original": "の。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0242",
+      "context": {
+        "voice": "GC470319.ogg"
+      },
+      "original": "ああ、もちろん。",
+      "translation": "아아, 물론이지.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 43104,
+          "length": 16,
+          "key": 1451098381,
+          "original": "ああ、もちろん。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0243",
+      "context": {
+        "voice": "GC470320.ogg"
+      },
+      "original": "ふふ、さすがあたしの惚れた男だけあるよ。こんな時なのに、いい顔してる。",
+      "translation": "후후, 역시 내가 반한 남자답네. 이런 때에 그런 표정을 짓다니.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 43232,
+          "length": 40,
+          "key": 1451098381,
+          "original": "ふふ、さすがあたしの惚れた男だけあるよ。"
+        },
+        {
+          "offset": 43280,
+          "length": 30,
+          "key": 1451098381,
+          "original": "こんな時なのに、いい顔してる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0244",
+      "context": {
+        "voice": "GC470320.ogg"
+      },
+      "original": "こんな時だからさ。フォルテと一緒ならなんでもできる。",
+      "translation": "이런 때니까 말이야. 포르테와 함께라면 뭐든 할수있어.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 43384,
+          "length": 40,
+          "key": 1451098381,
+          "original": "こんな時だからさ。フォルテと一緒ならなん"
+        },
+        {
+          "offset": 43432,
+          "length": 12,
+          "key": 1451098381,
+          "original": "でもできる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0245",
+      "context": {
+        "voice": "GC470321.ogg"
+      },
+      "original": "タクト……。",
+      "translation": "택트…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 43556,
+          "length": 12,
+          "key": 1451098381,
+          "original": "タクト……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0246",
+      "context": {
+        "voice": "GC470321.ogg"
+      },
+      "original": "フォルテ……オレがついているよ。",
+      "translation": "포르테…… 내가 곁에 있을게.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 43684,
+          "length": 32,
+          "key": 1451098381,
+          "original": "フォルテ……オレがついているよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0247",
+      "context": {
+        "voice": "GC470322.ogg"
+      },
+      "original": "ありがとう。",
+      "translation": "고마워.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 43828,
+          "length": 12,
+          "key": 1451098381,
+          "original": "ありがとう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0248",
+      "context": {
+        "voice": "GC470323.ogg"
+      },
+      "original": "よしっ、それじゃあ……。ハッピートリガー、行くよ！",
+      "translation": "좋아, 그럼…… 해피 트리거, 간다！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 43952,
+          "length": 42,
+          "key": 1451098381,
+          "original": "よしっ、それじゃあ……。ハッピートリガー、"
+        },
+        {
+          "offset": 44004,
+          "length": 8,
+          "key": 1451098381,
+          "original": "行くよ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0249",
+      "context": {
+        "voice": "GC170533.ogg"
+      },
+      "original": "フライヤーダンス！！",
+      "translation": "플라이어 댄스！！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 44392,
+          "length": 20,
+          "key": 1451098381,
+          "original": "フライヤーダンス！！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0250",
+      "context": {
+        "voice": "GC170534.ogg"
+      },
+      "original": "くうっ……まだ壊れないなんて……。",
+      "translation": "크윽…… 아직 안 부서지다니…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 45368,
+          "length": 34,
+          "key": 1451098381,
+          "original": "くうっ……まだ壊れないなんて……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0251",
+      "context": {
+        "voice": "GC170535.ogg"
+      },
+      "original": "はあ……はあ……。ここまでやって傷ひとつつかないなんて、いったい何でできてるのよ、コイツ……。",
+      "translation": "하아…… 하아……. 이만큼 하고도 상처 하나 없다니, 대체 뭘로 만든 거야, 이 녀석…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 45552,
+          "length": 40,
+          "key": 1451098381,
+          "original": "はあ……はあ……。ここまでやって傷ひとつ"
+        },
+        {
+          "offset": 45600,
+          "length": 42,
+          "key": 1451098381,
+          "original": "つかないなんて、いったい何でできてるのよ、"
+        },
+        {
+          "offset": 45652,
+          "length": 12,
+          "key": 1451098381,
+          "original": "コイツ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0252",
+      "context": {
+        "voice": "GC170536.ogg"
+      },
+      "original": "さすがに、機体もそろそろ……。",
+      "translation": "역시 기체도 슬슬…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 45776,
+          "length": 30,
+          "key": 1451098381,
+          "original": "さすがに、機体もそろそろ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0253",
+      "context": {
+        "voice": "GC170537.ogg"
+      },
+      "original": "癒しの光よ……リペアウェーブ！",
+      "translation": "치유의빛이여……리페어웨이브！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 45956,
+          "length": 30,
+          "key": 1451098381,
+          "original": "癒しの光よ……リペアウェーブ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0254",
+      "context": {
+        "voice": "GC170538.ogg"
+      },
+      "original": "……もう、ナノマシンが底をつきます……。",
+      "translation": "……이제 나노머신이 바닥나요…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 46108,
+          "length": 40,
+          "key": 1451098381,
+          "original": "……もう、ナノマシンが底をつきます……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0255",
+      "context": {
+        "voice": "GC470324.ogg"
+      },
+      "original": "あ～ん。あたしもそろそろ限界かも～！",
+      "translation": "아～앙. 나도 슬슬 한계일지도몰라～！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 46296,
+          "length": 36,
+          "key": 1451098381,
+          "original": "あ～ん。あたしもそろそろ限界かも～！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0256",
+      "context": {
+        "voice": "GC470325.ogg"
+      },
+      "original": "一体どうしたら……！",
+      "translation": "대체어떻게해야……！",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 46480,
+          "length": 20,
+          "key": 1451098381,
+          "original": "一体どうしたら……！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0257",
+      "context": {
+        "voice": "GC170542.ogg"
+      },
+      "original": "……あっ！？　皆さん、後方から超高エネルギー反応が接近してきますわ。……これは、まさか……！",
+      "translation": "……앗！？ 여러분, 후방에서 초고에너지 반응이 접근하고 있어요. ……설마 이건……！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 46648,
+          "length": 40,
+          "key": 1451098381,
+          "original": "……あっ！？　皆さん、後方から超高エネル"
+        },
+        {
+          "offset": 46696,
+          "length": 40,
+          "key": 1451098381,
+          "original": "ギー反応が接近してきますわ。……これは、"
+        },
+        {
+          "offset": 46744,
+          "length": 12,
+          "key": 1451098381,
+          "original": "まさか……！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0258",
+      "context": {
+        "voice": "GC470327.ogg"
+      },
+      "original": "よっ！",
+      "translation": "여어！\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 46916,
+          "length": 6,
+          "key": 1451098381,
+          "original": "よっ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0259",
+      "context": {
+        "voice": "GC470328.ogg"
+      },
+      "original": "フォルテさん！？　……って、なんでコクピットにタクトがいるのよ！？",
+      "translation": "포르테 씨！？ ……어라, 왜 콕핏에 택트가 있는 거야！？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 47036,
+          "length": 42,
+          "key": 1451098381,
+          "original": "フォルテさん！？　……って、なんでコクピッ"
+        },
+        {
+          "offset": 47088,
+          "length": 24,
+          "key": 1451098381,
+          "original": "トにタクトがいるのよ！？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0260",
+      "context": {
+        "voice": "GC470328.ogg"
+      },
+      "original": "そのへんのことは、あとでレスターにでも聞いてよ。今は時間がない。",
+      "translation": "그건 나중에 레스터한테 물어봐. 지금은 시간이 없어.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 47184,
+          "length": 40,
+          "key": 1451098381,
+          "original": "そのへんのことは、あとでレスターにでも聞"
+        },
+        {
+          "offset": 47232,
+          "length": 24,
+          "key": 1451098381,
+          "original": "いてよ。今は時間がない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0261",
+      "context": {
+        "voice": "GC470329.ogg"
+      },
+      "original": "ど、どういうことなんですか～？",
+      "translation": "도, 도대체 어떻게 된거예요～？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 47368,
+          "length": 30,
+          "key": 1451098381,
+          "original": "ど、どういうことなんですか～？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0262",
+      "context": {
+        "voice": "GC470330.ogg"
+      },
+      "original": "あとは、あたしたちに任せておくれ。クロノ・クェイク爆弾なんか、あたしとタクトのふたりで絶対に防いでみせるから。",
+      "translation": "나머지는 우리에게 맡겨줘. 크로노・퀘이크 폭탄 따위, 나와 택트 둘이서 반드시 막아낼 테니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 47512,
+          "length": 42,
+          "key": 1451098381,
+          "original": "あとは、あたしたちに任せておくれ。クロノ・"
+        },
+        {
+          "offset": 47564,
+          "length": 40,
+          "key": 1451098381,
+          "original": "クェイク爆弾なんか、あたしとタクトのふた"
+        },
+        {
+          "offset": 47612,
+          "length": 28,
+          "key": 1451098381,
+          "original": "りで絶対に防いでみせるから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0263",
+      "context": {
+        "voice": "GC470330.ogg"
+      },
+      "original": "フォルテ、一気にクロノ・クェイク爆弾の鼻先に取りつくんだ。",
+      "translation": "포르테,단숨에 크로노・퀘이크 폭탄 코앞까지 파고드는 거야.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 47712,
+          "length": 40,
+          "key": 1451098381,
+          "original": "フォルテ、一気にクロノ・クェイク爆弾の鼻"
+        },
+        {
+          "offset": 47760,
+          "length": 18,
+          "key": 1451098381,
+          "original": "先に取りつくんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0264",
+      "context": {
+        "voice": "GC470331.ogg"
+      },
+      "original": "あいよ、了解！",
+      "translation": "알았어, 라져！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 47892,
+          "length": 14,
+          "key": 1451098381,
+          "original": "あいよ、了解！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0265",
+      "context": {
+        "voice": "GC470332.ogg"
+      },
+      "original": "鼻先って……あ。まさか！？",
+      "translation": "코앞이라니…… 아.설마！？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 48020,
+          "length": 26,
+          "key": 1451098381,
+          "original": "鼻先って……あ。まさか！？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0266",
+      "context": {
+        "voice": "GC170547.ogg"
+      },
+      "original": "ノアさんが見つけた方法を……。",
+      "translation": "노아 씨가 찾아낸 방법을…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 48160,
+          "length": 30,
+          "key": 1451098381,
+          "original": "ノアさんが見つけた方法を……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0267",
+      "context": {
+        "voice": "GC470334.ogg"
+      },
+      "original": "ダ、ダメですっ！　そんなの絶対ダメです！",
+      "translation": "아, 안 돼요！ 그런 건 절대 안 돼요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 48340,
+          "length": 40,
+          "key": 1451098381,
+          "original": "ダ、ダメですっ！　そんなの絶対ダメです！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0268",
+      "context": {
+        "voice": "GC470335.ogg"
+      },
+      "original": "待ってくださ～い！",
+      "translation": "기다려주세～요！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 48528,
+          "length": 18,
+          "key": 1451098381,
+          "original": "待ってくださ～い！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0269",
+      "context": {
+        "voice": "GC470336.ogg"
+      },
+      "original": "おやめください！　そんなことをしたら、おふたりは……！",
+      "translation": "그만두세요！ 그런 짓을 하면, 두 사람은……！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 48696,
+          "length": 40,
+          "key": 1451098381,
+          "original": "おやめください！　そんなことをしたら、お"
+        },
+        {
+          "offset": 48744,
+          "length": 14,
+          "key": 1451098381,
+          "original": "ふたりは……！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0270",
+      "context": {
+        "voice": "GC470337.ogg"
+      },
+      "original": "フォルテさん！！",
+      "translation": "포르테 씨！！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 48908,
+          "length": 16,
+          "key": 1451098381,
+          "original": "フォルテさん！！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0271",
+      "context": {
+        "voice": "GC470338.ogg"
+      },
+      "original": "……大丈夫。",
+      "translation": "……괜찮아.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 49036,
+          "length": 12,
+          "key": 1451098381,
+          "original": "……大丈夫。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0272",
+      "context": {
+        "voice": "GC470339.ogg"
+      },
+      "original": "……えっ？",
+      "translation": "……엣？",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 49160,
+          "length": 10,
+          "key": 1451098381,
+          "original": "……えっ？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0273",
+      "context": {
+        "voice": "GC470340.ogg"
+      },
+      "original": "あんたたちのことはあたしが守る。あんたたちは、あたしの妹みたいな……いや、家族みたいな仲間だから。",
+      "translation": "너희는 내가 지켜. 너희는 내 여동생 같은…… 아니, 가족 같은 동료니까.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 49336,
+          "length": 40,
+          "key": 1451098381,
+          "original": "あんたたちのことはあたしが守る。あんたた"
+        },
+        {
+          "offset": 49384,
+          "length": 40,
+          "key": 1451098381,
+          "original": "ちは、あたしの妹みたいな……いや、家族み"
+        },
+        {
+          "offset": 49432,
+          "length": 18,
+          "key": 1451098381,
+          "original": "たいな仲間だから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0274",
+      "context": {
+        "voice": "GC470341.ogg"
+      },
+      "original": "フォルテさん…………。",
+      "translation": "포르테 씨………….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 49564,
+          "length": 22,
+          "key": 1451098381,
+          "original": "フォルテさん…………。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0275",
+      "context": {
+        "voice": "GC470342.ogg"
+      },
+      "original": "フォルテ先輩……。ううっ……。",
+      "translation": "포르테 선배…… 으윽…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 49700,
+          "length": 30,
+          "key": 1451098381,
+          "original": "フォルテ先輩……。ううっ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0276",
+      "context": {
+        "voice": "GC470343.ogg"
+      },
+      "original": "あたしとタクトに任せておきな。あんたたちの司令官とリーダーに、ね。",
+      "translation": "나랑 택트에게 맡겨둬. 너희의 사령관과 리더에게 말이야.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 49844,
+          "length": 40,
+          "key": 1451098381,
+          "original": "あたしとタクトに任せておきな。あんたたち"
+        },
+        {
+          "offset": 49892,
+          "length": 26,
+          "key": 1451098381,
+          "original": "の司令官とリーダーに、ね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0277",
+      "context": {
+        "voice": "GC470343.ogg"
+      },
+      "original": "ああ。オレたちを信じて。",
+      "translation": "그래. 우리를 믿고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 49992,
+          "length": 24,
+          "key": 1451098381,
+          "original": "ああ。オレたちを信じて。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0278",
+      "context": {
+        "voice": "GC470343.ogg"
+      },
+      "original": "時間がもうない！　頼む、フォルテ！",
+      "translation": "시간이 없어！ 부탁이야, 포르테！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 50088,
+          "length": 34,
+          "key": 1451098381,
+          "original": "時間がもうない！　頼む、フォルテ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0279",
+      "context": {
+        "voice": "GC470344.ogg"
+      },
+      "original": "わかった！　行くよ！",
+      "translation": "알았어！ 간다！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 50264,
+          "length": 20,
+          "key": 1451098381,
+          "original": "わかった！　行くよ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0280",
+      "context": {
+        "voice": "GC470345.ogg"
+      },
+      "original": "フォルテさん！",
+      "translation": "포르테 씨！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 50668,
+          "length": 14,
+          "key": 1451098381,
+          "original": "フォルテさん！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0281",
+      "context": {
+        "voice": "GC470346.ogg"
+      },
+      "original": "タクトさん！",
+      "translation": "택트 씨！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 50832,
+          "length": 12,
+          "key": 1451098381,
+          "original": "タクトさん！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0282",
+      "context": {
+        "voice": "GC470347.ogg"
+      },
+      "original": "待ってくださいよ～、ねえ！",
+      "translation": "기다려달라니까요～, 네！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 50992,
+          "length": 26,
+          "key": 1451098381,
+          "original": "待ってくださいよ～、ねえ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0283",
+      "context": {
+        "voice": "GC470348.ogg"
+      },
+      "original": "フォルテさん……。",
+      "translation": "포르테 씨…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 51168,
+          "length": 18,
+          "key": 1451098381,
+          "original": "フォルテさん……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0284",
+      "context": {
+        "voice": "GC470349.ogg"
+      },
+      "original": "フォルテ先輩……タクトさん…………。",
+      "translation": "포르테 선배…… 택트 씨………….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 51336,
+          "length": 36,
+          "key": 1451098381,
+          "original": "フォルテ先輩……タクトさん…………。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0285",
+      "context": {
+        "voice": "GC470350.ogg"
+      },
+      "original": "行ってくる……！",
+      "translation": "다녀올게……！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 51536,
+          "length": 16,
+          "key": 1451098381,
+          "original": "行ってくる……！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0286",
+      "context": {
+        "voice": "GC470350.ogg"
+      },
+      "original": "きっと、また……。",
+      "translation": "분명, 다시…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 51624,
+          "length": 18,
+          "key": 1451098381,
+          "original": "きっと、また……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0287",
+      "context": {
+        "voice": "GC470351.ogg"
+      },
+      "original": "……もう少しだね。",
+      "translation": "……얼마 안남았네.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 52004,
+          "length": 18,
+          "key": 1451098381,
+          "original": "……もう少しだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0288",
+      "context": {
+        "voice": "GC470351.ogg"
+      },
+      "original": "ああ、もうすぐ全部終わるんだ……。",
+      "translation": "아아, 이제 곧 전부 끝날 거야…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 52096,
+          "length": 34,
+          "key": 1451098381,
+          "original": "ああ、もうすぐ全部終わるんだ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0289",
+      "context": {
+        "voice": "GC470352.ogg"
+      },
+      "original": "ふぅ……。そう考えると、さすがに緊張するね……。",
+      "translation": "후우……. 그렇게 생각하니 역시 긴장되네…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 52244,
+          "length": 40,
+          "key": 1451098381,
+          "original": "ふぅ……。そう考えると、さすがに緊張する"
+        },
+        {
+          "offset": 52292,
+          "length": 8,
+          "key": 1451098381,
+          "original": "ね……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0290",
+      "context": {
+        "voice": "GC470352.ogg"
+      },
+      "original": "ああ……。怖いかい？",
+      "translation": "아아……. 무서운가？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 52372,
+          "length": 20,
+          "key": 1451098381,
+          "original": "ああ……。怖いかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0291",
+      "context": {
+        "voice": "GC470353.ogg"
+      },
+      "original": "いや。タクト、行こう……！",
+      "translation": "아니. 택트, 가자……！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 52504,
+          "length": 26,
+          "key": 1451098381,
+          "original": "いや。タクト、行こう……！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0292",
+      "context": {
+        "voice": "GC470353.ogg"
+      },
+      "original": "ああ。",
+      "translation": "아아.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 52604,
+          "length": 6,
+          "key": 1451098381,
+          "original": "ああ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0293",
+      "context": {
+        "voice": "GC470353.ogg"
+      },
+      "original": "エピローグ・永遠の恋人たち",
+      "translation": "에필로그・영원한 연인들\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 52868,
+          "length": 26,
+          "key": 611561292,
+          "original": "エピローグ・永遠の恋人たち"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0294",
+      "context": {
+        "voice": "GC470353.ogg"
+      },
+      "original": "……あちゃー、本当に異空間に跳んじゃったかー。",
+      "translation": "……아차, 정말로 이공간으로 튀어버린 건가—.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 53196,
+          "length": 40,
+          "key": 611561292,
+          "original": "……あちゃー、本当に異空間に跳んじゃった"
+        },
+        {
+          "offset": 53244,
+          "length": 6,
+          "key": 611561292,
+          "original": "かー。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0295",
+      "context": {
+        "voice": "GC470400.ogg"
+      },
+      "original": "……のようだね。",
+      "translation": "……인 것 같네.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 53364,
+          "length": 16,
+          "key": 611561292,
+          "original": "……のようだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0296",
+      "context": {
+        "voice": "GC470400.ogg"
+      },
+      "original": "すまない、フォルテ。キミを守りきれなかった。あいかわらず、頼りにならないなぁ、オレ。",
+      "translation": "미안해, 포르테. 너를 지켜내지 못했어. 여전히 믿음직스럽지 못하구나, 나는.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 53488,
+          "length": 40,
+          "key": 611561292,
+          "original": "すまない、フォルテ。キミを守りきれなかっ"
+        },
+        {
+          "offset": 53536,
+          "length": 40,
+          "key": 611561292,
+          "original": "た。あいかわらず、頼りにならないなぁ、オ"
+        },
+        {
+          "offset": 53584,
+          "length": 4,
+          "key": 611561292,
+          "original": "レ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0297",
+      "context": {
+        "voice": "GC470401.ogg"
+      },
+      "original": "何いってるんだい、アンタとあたしは、とてつもなく大きなものを守ったんだ。",
+      "translation": "무슨 소릴 하는 거야, 당신과 나는 엄청나게 큰 것을 지켜냈다고.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 53764,
+          "length": 40,
+          "key": 611561292,
+          "original": "何いってるんだい、アンタとあたしは、とて"
+        },
+        {
+          "offset": 53812,
+          "length": 32,
+          "key": 611561292,
+          "original": "つもなく大きなものを守ったんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0298",
+      "context": {
+        "voice": "GC470402.ogg"
+      },
+      "original": "それに、あたしはタクトさえそばにいたら、ちっともさみしくなんてないよ。",
+      "translation": "게다가 난 택트만 곁에 있다면 전혀 외롭지 않아.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 53956,
+          "length": 40,
+          "key": 611561292,
+          "original": "それに、あたしはタクトさえそばにいたら、"
+        },
+        {
+          "offset": 54004,
+          "length": 30,
+          "key": 611561292,
+          "original": "ちっともさみしくなんてないよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0299",
+      "context": {
+        "voice": "GC470402.ogg"
+      },
+      "original": "フォルテ……。",
+      "translation": "포르테…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 54108,
+          "length": 14,
+          "key": 611561292,
+          "original": "フォルテ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0300",
+      "context": {
+        "voice": "GC470403.ogg"
+      },
+      "original": "それとも、何かい？　タクトは、あたしとふたりきりが不満だって言うのかい？",
+      "translation": "아니면 뭐야？ 택트가 나랑 둘뿐이라 불만이라는 거야？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 54236,
+          "length": 40,
+          "key": 611561292,
+          "original": "それとも、何かい？　タクトは、あたしとふ"
+        },
+        {
+          "offset": 54284,
+          "length": 32,
+          "key": 611561292,
+          "original": "たりきりが不満だって言うのかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0301",
+      "context": {
+        "voice": "GC470403.ogg"
+      },
+      "original": "いや、まさか！　そんなことは……。",
+      "translation": "아니, 설마！ 그럴 리가…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 54388,
+          "length": 34,
+          "key": 611561292,
+          "original": "いや、まさか！　そんなことは……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0302",
+      "context": {
+        "voice": "GC470404.ogg"
+      },
+      "original": "だろ？　それに、あたしのそばには、銀河を救った男がいるんだ。なーに、なんとかなるさ。",
+      "translation": "그렇지？ 게다가 내 곁에는 은하를 구한 남자가 있어. 뭐, 어떻게든 되겠지.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 54536,
+          "length": 40,
+          "key": 611561292,
+          "original": "だろ？　それに、あたしのそばには、銀河を"
+        },
+        {
+          "offset": 54584,
+          "length": 40,
+          "key": 611561292,
+          "original": "救った男がいるんだ。なーに、なんとかなる"
+        },
+        {
+          "offset": 54632,
+          "length": 4,
+          "key": 611561292,
+          "original": "さ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0303",
+      "context": {
+        "voice": "GC470405.ogg"
+      },
+      "original": "頼りにしてるよ、司令官どの。",
+      "translation": "믿고 있을게, 사령관님.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 54748,
+          "length": 28,
+          "key": 611561292,
+          "original": "頼りにしてるよ、司令官どの。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0304",
+      "context": {
+        "voice": "GC470405.ogg"
+      },
+      "original": "ああ、フォルテとふたりなら何でもできる。",
+      "translation": "그래, 포르테와 둘이라면 뭐든 할 수 있어.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 54848,
+          "length": 40,
+          "key": 611561292,
+          "original": "ああ、フォルテとふたりなら何でもできる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0305",
+      "context": {
+        "voice": "GC470406.ogg"
+      },
+      "original": "で、司令官どの。この状況、どう切り抜ける？",
+      "translation": "그래서사령관님.이상황,어떻게헤쳐나갈거야？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 55000,
+          "length": 42,
+          "key": 611561292,
+          "original": "で、司令官どの。この状況、どう切り抜ける？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0306",
+      "context": {
+        "voice": "GC470406.ogg"
+      },
+      "original": "そうだなぁ……。まぁ、焦っても仕方ないし、とりあえずキスするってのはどう？",
+      "translation": "글쎄…… 뭐, 서둘러봤자 소용없으니 일단 키스하는 건 어때？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 55116,
+          "length": 42,
+          "key": 611561292,
+          "original": "そうだなぁ……。まぁ、焦っても仕方ないし、"
+        },
+        {
+          "offset": 55168,
+          "length": 32,
+          "key": 611561292,
+          "original": "とりあえずキスするってのはどう？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0307",
+      "context": {
+        "voice": "GC470407.ogg"
+      },
+      "original": "……だめかな？",
+      "translation": "……안되려나？",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 55428,
+          "length": 14,
+          "key": 611561292,
+          "original": "……だめかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0308",
+      "context": {
+        "voice": "GC470408.ogg"
+      },
+      "original": "なかなかいい作戦じゃないか。愛は銀河を救うってやつだね。",
+      "translation": "꽤 괜찮은 작전이잖아. 사랑이 은하를 구한다는 건그런거네.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 55632,
+          "length": 40,
+          "key": 611561292,
+          "original": "なかなかいい作戦じゃないか。愛は銀河を救"
+        },
+        {
+          "offset": 55680,
+          "length": 16,
+          "key": 611561292,
+          "original": "うってやつだね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0309",
+      "context": {
+        "voice": "GC470408.ogg"
+      },
+      "original": "あぁ！",
+      "translation": "아！",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 55768,
+          "length": 6,
+          "key": 611561292,
+          "original": "あぁ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0310",
+      "context": {
+        "voice": "GC470409.ogg"
+      },
+      "original": "のったよ。救ってもらおうじゃないか！",
+      "translation": "좋아, 가자. 구원받아 보자고！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 55888,
+          "length": 36,
+          "key": 611561292,
+          "original": "のったよ。救ってもらおうじゃないか！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0311",
+      "context": {
+        "voice": "GC470409.ogg"
+      },
+      "original": "あれは……。",
+      "translation": "저건…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 56336,
+          "length": 12,
+          "key": 611561292,
+          "original": "あれは……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0312",
+      "context": {
+        "voice": "GC470410.ogg"
+      },
+      "original": "エルシオールと紋章機……！？　それじゃあ",
+      "translation": "에르시올과 문장기……！？ 그럼,\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 56460,
+          "length": 40,
+          "key": 611561292,
+          "original": "エルシオールと紋章機……！？　それじゃあ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0313",
+      "context": {
+        "voice": "GC170631.ogg"
+      },
+      "original": "やっと見つけたぞ……。",
+      "translation": "겨우 찾아냈군…….\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 56628,
+          "length": 22,
+          "key": 611561292,
+          "original": "やっと見つけたぞ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0314",
+      "context": {
+        "voice": "GC170631.ogg"
+      },
+      "original": "シヴァ陛下……。",
+      "translation": "시바 폐하…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 56724,
+          "length": 16,
+          "key": 611561292,
+          "original": "シヴァ陛下……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0315",
+      "context": {
+        "voice": "GC170632.ogg"
+      },
+      "original": "遅くなってすまぬ……アナザースペースの解析作業に手間取ってな。",
+      "translation": "늦어서 미안하다…… 애너서 스페이스 해석 때문에 좀 걸렸어.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 56852,
+          "length": 40,
+          "key": 611561292,
+          "original": "遅くなってすまぬ……アナザースペースの解"
+        },
+        {
+          "offset": 56900,
+          "length": 22,
+          "key": 611561292,
+          "original": "析作業に手間取ってな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0316",
+      "context": {
+        "voice": "GC170633.ogg"
+      },
+      "original": "本当に苦労したのよ。",
+      "translation": "정말 고생했다고.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 57036,
+          "length": 20,
+          "key": 611561292,
+          "original": "本当に苦労したのよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0317",
+      "context": {
+        "voice": "GC170634.ogg"
+      },
+      "original": "あんたたちのいる場所を特定し、そこへ続く道をあけるのに、ＥＤＥＮとトランスバールのテクノロジーを結集させたんだから。",
+      "translation": "당신들이 있는 곳을 특정하고, 그곳으로 이어지는 길을 여는 데 EDEN과 트랜스벌의 기술을 결집시켰으니까.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 57168,
+          "length": 40,
+          "key": 611561292,
+          "original": "あんたたちのいる場所を特定し、そこへ続く"
+        },
+        {
+          "offset": 57216,
+          "length": 40,
+          "key": 611561292,
+          "original": "道をあけるのに、ＥＤＥＮとトランスバール"
+        },
+        {
+          "offset": 57264,
+          "length": 36,
+          "key": 611561292,
+          "original": "のテクノロジーを結集させたんだから。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0318",
+      "context": {
+        "voice": "GC170635.ogg"
+      },
+      "original": "ルシャーティたちも協力してくれた。おまえらのことを、心配していたぞ。",
+      "translation": "루샤티 일행도 협력해 주었어. 너희를 걱정하고 있더군.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 57412,
+          "length": 40,
+          "key": 611561292,
+          "original": "ルシャーティたちも協力してくれた。おまえ"
+        },
+        {
+          "offset": 57460,
+          "length": 28,
+          "key": 611561292,
+          "original": "らのことを、心配していたぞ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0319",
+      "context": {
+        "voice": "GC470412.ogg"
+      },
+      "original": "やっと迎えに来れましたよ～。",
+      "translation": "겨우 데리러 왔어요～.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 57600,
+          "length": 28,
+          "key": 611561292,
+          "original": "やっと迎えに来れましたよ～。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0320",
+      "context": {
+        "voice": "GC170636.ogg"
+      },
+      "original": "あらあら、おふたりとも言葉もないようですわね。",
+      "translation": "어머나, 두 분 다 할 말을 잃은 모양이네요.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 57740,
+          "length": 40,
+          "key": 611561292,
+          "original": "あらあら、おふたりとも言葉もないようです"
+        },
+        {
+          "offset": 57788,
+          "length": 6,
+          "key": 611561292,
+          "original": "わね。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0321",
+      "context": {
+        "voice": "GC170638.ogg"
+      },
+      "original": "あっ、それとも実はいちゃついてる最中で、アタシたちってお邪魔だったとか？",
+      "translation": "앗, 아니면 사실은 꽁냥거리는 중이라서 우리가 방해가 된 건가？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 57908,
+          "length": 40,
+          "key": 611561292,
+          "original": "あっ、それとも実はいちゃついてる最中で、"
+        },
+        {
+          "offset": 57956,
+          "length": 32,
+          "key": 611561292,
+          "original": "アタシたちってお邪魔だったとか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0322",
+      "context": {
+        "voice": "GC170639.ogg"
+      },
+      "original": "ご安心を。私ども、なーんにも見ておりませんから。ええ、何も。",
+      "translation": "안심하세요.저희는 아무것도 보지 않았으니까요. 네, 아무것도.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 58100,
+          "length": 40,
+          "key": 611561292,
+          "original": "ご安心を。私ども、なーんにも見ておりませ"
+        },
+        {
+          "offset": 58148,
+          "length": 20,
+          "key": 611561292,
+          "original": "んから。ええ、何も。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0323",
+      "context": {
+        "voice": "GC570525.ogg"
+      },
+      "original": "ランファ。ミント。あんまりからかっちゃだめだよ～。",
+      "translation": "란파. 민트. 너무 놀리지 마～.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 58280,
+          "length": 40,
+          "key": 611561292,
+          "original": "ランファ。ミント。あんまりからかっちゃだ"
+        },
+        {
+          "offset": 58328,
+          "length": 10,
+          "key": 611561292,
+          "original": "めだよ～。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0324",
+      "context": {
+        "voice": "GC170642.ogg"
+      },
+      "original": "お元気でしたか……？",
+      "translation": "잘 지내셨나요……？\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 58452,
+          "length": 20,
+          "key": 611561292,
+          "original": "お元気でしたか……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0325",
+      "context": {
+        "voice": "GC470417.ogg"
+      },
+      "original": "タクトさん……フォルテ先輩……。また、おふたりに会えて、私はもう、なんと言っていいやら……。",
+      "translation": "택트 씨…… 포르테 선배……. 다시 두 분을 만나게 되어, 저는 이제 뭐라고 말해야 할지…….\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 58604,
+          "length": 40,
+          "key": 611561292,
+          "original": "タクトさん……フォルテ先輩……。また、お"
+        },
+        {
+          "offset": 58652,
+          "length": 40,
+          "key": 611561292,
+          "original": "ふたりに会えて、私はもう、なんと言ってい"
+        },
+        {
+          "offset": 58700,
+          "length": 12,
+          "key": 611561292,
+          "original": "いやら……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0326",
+      "context": {
+        "voice": "GC470418.ogg"
+      },
+      "original": "こんな時は、みんなで！",
+      "translation": "이럴 때는 다 같이！\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 58824,
+          "length": 22,
+          "key": 611561292,
+          "original": "こんな時は、みんなで！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0327",
+      "context": {
+        "voice": "GC470419.ogg"
+      },
+      "original": "せ～の！！",
+      "translation": "하나둘！！",
+      "state": "compacted",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 58960,
+          "length": 10,
+          "key": 611561292,
+          "original": "せ～の！！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0328",
+      "context": {
+        "voice": "GC470420.ogg"
+      },
+      "original": "おかえりなさい。",
+      "translation": "어서 와요.\n",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 59104,
+          "length": 16,
+          "key": 611561292,
+          "original": "おかえりなさい。"
+        }
+      ]
+    }
+  ]
+}

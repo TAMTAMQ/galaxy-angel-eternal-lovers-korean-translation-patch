@@ -1,0 +1,190 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_0022b000.txt",
+    "encoding": "cp932",
+    "sha256": "b1b61a99c630d28283f6d29fab2171a80affc37693f92ac2122d32fc741cb67f",
+    "tagged_records": 13,
+    "decoded_records": 12,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 1454710701,
+        "source": "header",
+        "end": 228
+      },
+      {
+        "start": 228,
+        "key_offset": 200,
+        "key": 1310720,
+        "source": "integer_literal",
+        "end": 1140
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_0022b000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "Tﾆ漂Q",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 340,
+          "length": 5,
+          "key": 1310720,
+          "original": "Tﾆ漂Q"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0022b000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "Tﾆ漂Q",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 416,
+          "length": 5,
+          "key": 1310720,
+          "original": "Tﾆ漂Q"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0022b000:isb:0003",
+      "context": {
+        "voice": null
+      },
+      "original": "Tﾆ漂Q",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 468,
+          "length": 5,
+          "key": 1310720,
+          "original": "Tﾆ漂Q"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0022b000:isb:0004",
+      "context": {
+        "voice": null
+      },
+      "original": "Tﾆ漂Q",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 520,
+          "length": 5,
+          "key": 1310720,
+          "original": "Tﾆ漂Q"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0022b000:isb:0005",
+      "context": {
+        "voice": null
+      },
+      "original": "Tﾆ漂Q",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 572,
+          "length": 5,
+          "key": 1310720,
+          "original": "Tﾆ漂Q"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0022b000:isb:0006",
+      "context": {
+        "voice": null
+      },
+      "original": "Tﾆ漂Q",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 624,
+          "length": 5,
+          "key": 1310720,
+          "original": "Tﾆ漂Q"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0022b000:isb:0007",
+      "context": {
+        "voice": null
+      },
+      "original": "Tﾆ漂Q",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 736,
+          "length": 5,
+          "key": 1310720,
+          "original": "Tﾆ漂Q"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0022b000:isb:0008",
+      "context": {
+        "voice": null
+      },
+      "original": "Tﾆ漂Q",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 788,
+          "length": 5,
+          "key": 1310720,
+          "original": "Tﾆ漂Q"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0022b000:isb:0009",
+      "context": {
+        "voice": null
+      },
+      "original": "Tﾆ漂Q",
+      "translation": "",
+      "state": "untranslated",
+      "use_translation": false,
+      "storage": [
+        {
+          "offset": 840,
+          "length": 5,
+          "key": 1310720,
+          "original": "Tﾆ漂Q"
+        }
+      ]
+    }
+  ]
+}

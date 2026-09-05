@@ -1,0 +1,63 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_001b7000.txt",
+    "encoding": "cp932",
+    "sha256": "a9bb81037b724293a4745b1736a5c4fb9deb9d5c4b0e9cd5b124650edc9d2a1a",
+    "tagged_records": 3,
+    "decoded_records": 3,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 533533669,
+        "source": "header",
+        "end": 300
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_001b7000:isb:0001",
+      "context": {
+        "voice": null
+      },
+      "original": "「ロウィル艦隊・第２陣」ブリーフィング",
+      "translation": "「로윌 함대・제２진」 브리핑",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12,
+          "length": 38,
+          "key": 533533669,
+          "original": "「ロウィル艦隊・第２陣」ブリーフィング"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_001b7000:isb:0002",
+      "context": {
+        "voice": null
+      },
+      "original": "\\c(0xffff0000)▼ＳＬＧ２－２（ヴァニラ・ルート）\\c(0xffffffff)\\c(0xffff0000)（ここにブリーフィングが入ります）\\c(0xffffffff)",
+      "translation": "\\c(0xffff0000)▼ＳＬＧ２－２（바닐라・루트）\\c(0xffffffff)\\c(0xffff0000)（여기에 브리핑이 들어갑니다）\\c(0xffffffff)",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 124,
+          "length": 62,
+          "key": 533533669,
+          "original": "\\c(0xffff0000)▼ＳＬＧ２－２（ヴァニラ・ルート）\\c(0xffffffff)"
+        },
+        {
+          "offset": 196,
+          "length": 62,
+          "key": 533533669,
+          "original": "\\c(0xffff0000)（ここにブリーフィングが入ります）\\c(0xffffffff)"
+        }
+      ]
+    }
+  ]
+}

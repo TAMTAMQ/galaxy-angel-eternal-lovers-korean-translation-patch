@@ -1,0 +1,1359 @@
+{
+  "schema": "galaxy-angel-eternal-lovers-isb-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_002e3000.txt",
+    "encoding": "cp932",
+    "sha256": "c50e3d87164ca52f31ffe94768e239361ab0f87b99351ab2773daf22b29a3e6b",
+    "tagged_records": 164,
+    "decoded_records": 164,
+    "key_spans": [
+      {
+        "start": 0,
+        "key_offset": 0,
+        "key": 4145311685,
+        "source": "header",
+        "end": 15192
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0001",
+      "context": {
+        "voice": "GEL0001.ogg"
+      },
+      "original": "これが指揮システムの画面だ。",
+      "translation": "이것이 지휘 시스템 화면이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 204,
+          "length": 28,
+          "key": 4145311685,
+          "original": "これが指揮システムの画面だ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0002",
+      "context": {
+        "voice": "GEL0002.ogg"
+      },
+      "original": "画面右上に表示されているのは、ステージの残り時間だ。",
+      "translation": "화면 우측 상단에 표시된 것은 스테이지 남은 시간이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 440,
+          "length": 40,
+          "key": 4145311685,
+          "original": "画面右上に表示されているのは、ステージの"
+        },
+        {
+          "offset": 488,
+          "length": 12,
+          "key": 4145311685,
+          "original": "残り時間だ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0003",
+      "context": {
+        "voice": "GEL0003.ogg"
+      },
+      "original": "ステージによっては、時間切れでゲームオーバーになる場合もある。残り時間には気をつけろよ。",
+      "translation": "스테이지에 따라 시간 초과로 게임 오버가 될 수도 있다. 남은 시간에 주의해라.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 612,
+          "length": 40,
+          "key": 4145311685,
+          "original": "ステージによっては、時間切れでゲームオー"
+        },
+        {
+          "offset": 660,
+          "length": 40,
+          "key": 4145311685,
+          "original": "バーになる場合もある。残り時間には気をつ"
+        },
+        {
+          "offset": 708,
+          "length": 8,
+          "key": 4145311685,
+          "original": "けろよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0004",
+      "context": {
+        "voice": "GEL0004.ogg"
+      },
+      "original": "残り時間の下にあるのはレーダーパネルだ。レーダーには、味方ユニットは青い点で、敵ユニットは赤い点で表示される。",
+      "translation": "남은 시간 아래는 레이더 패널이다. 레이더에는 아군 유닛은 파란 점, 적 유닛은 빨간 점으로 표시된다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 952,
+          "length": 40,
+          "key": 4145311685,
+          "original": "残り時間の下にあるのはレーダーパネルだ。"
+        },
+        {
+          "offset": 1000,
+          "length": 40,
+          "key": 4145311685,
+          "original": "レーダーには、味方ユニットは青い点で、敵"
+        },
+        {
+          "offset": 1048,
+          "length": 30,
+          "key": 4145311685,
+          "original": "ユニットは赤い点で表示される。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0005",
+      "context": {
+        "voice": "GEL0005.ogg"
+      },
+      "original": "画面左下は、ユニットアイコンパネルだ。各ユニットの状態が簡単に表示される。",
+      "translation": "화면 좌측 하단은 유닛 아이콘 패널이다. 각 유닛의 상태가 간략히 표시된다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1316,
+          "length": 40,
+          "key": 4145311685,
+          "original": "画面左下は、ユニットアイコンパネルだ。各"
+        },
+        {
+          "offset": 1364,
+          "length": 34,
+          "key": 4145311685,
+          "original": "ユニットの状態が簡単に表示される。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0006",
+      "context": {
+        "voice": "GEL0006.ogg"
+      },
+      "original": "このアイコンから直接、ユニットに命令を出すことができる。",
+      "translation": "이 아이콘에서 직접 유닛에게 명령을 내릴 수 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1608,
+          "length": 40,
+          "key": 4145311685,
+          "original": "このアイコンから直接、ユニットに命令を出"
+        },
+        {
+          "offset": 1656,
+          "length": 16,
+          "key": 4145311685,
+          "original": "すことができる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0007",
+      "context": {
+        "voice": "GEL0007.ogg"
+      },
+      "original": "次は、ユニットアイコンパネルの見方と使い方についてだ。",
+      "translation": "다음은 유닛 아이콘 패널의 보는 법과 사용법이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1840,
+          "length": 40,
+          "key": 4145311685,
+          "original": "次は、ユニットアイコンパネルの見方と使い"
+        },
+        {
+          "offset": 1888,
+          "length": 14,
+          "key": 4145311685,
+          "original": "方についてだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0008",
+      "context": {
+        "voice": "GEL0008.ogg"
+      },
+      "original": "ユニットアイコンパネルには、そのマップ内に存在するユニットの状態が簡易表示されている。",
+      "translation": "유닛 아이콘 패널에는 맵 내에 존재하는 유닛의 상태가 간략히 표시되어 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2164,
+          "length": 40,
+          "key": 4145311685,
+          "original": "ユニットアイコンパネルには、そのマップ内"
+        },
+        {
+          "offset": 2212,
+          "length": 40,
+          "key": 4145311685,
+          "original": "に存在するユニットの状態が簡易表示されて"
+        },
+        {
+          "offset": 2260,
+          "length": 6,
+          "key": 4145311685,
+          "original": "いる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0009",
+      "context": {
+        "voice": "GEL0009.ogg"
+      },
+      "original": "それぞれのユニットはその機体の種別を示すアイコンと、現在の状態を示す３つのゲージによって表されている。",
+      "translation": "각 유닛은 기체 종별을 나타내는 아이콘과 현재 상태를 나타내는 ３개의 게이지로 표현된다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2380,
+          "length": 40,
+          "key": 4145311685,
+          "original": "それぞれのユニットはその機体の種別を示す"
+        },
+        {
+          "offset": 2428,
+          "length": 40,
+          "key": 4145311685,
+          "original": "アイコンと、現在の状態を示す３つのゲージ"
+        },
+        {
+          "offset": 2476,
+          "length": 22,
+          "key": 4145311685,
+          "original": "によって表されている。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0010",
+      "context": {
+        "voice": "GEL0010.ogg"
+      },
+      "original": "「Ｈ」のゲージは耐久力（ＨＰ）。「Ｅ」がエネルギー（ＥＮ）。「Ｓ」が気力（ＳＰ）を表している。",
+      "translation": "「Ｈ」 게이지는 내구력（ＨＰ）, 「Ｅ」는 에너지（ＥＮ）, 「Ｓ」는 기력（ＳＰ）을 나타낸다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2612,
+          "length": 32,
+          "key": 4145311685,
+          "original": "「Ｈ」のゲージは耐久力（ＨＰ）。"
+        },
+        {
+          "offset": 2652,
+          "length": 28,
+          "key": 4145311685,
+          "original": "「Ｅ」がエネルギー（ＥＮ）。"
+        },
+        {
+          "offset": 2688,
+          "length": 34,
+          "key": 4145311685,
+          "original": "「Ｓ」が気力（ＳＰ）を表している。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0011",
+      "context": {
+        "voice": "GEL0011.ogg"
+      },
+      "original": "アイコンの表示とユニットの状態の関係は、このようになっている。",
+      "translation": "아이콘 표시와 유닛 상태의 관계는 다음과 같다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2956,
+          "length": 40,
+          "key": 4145311685,
+          "original": "アイコンの表示とユニットの状態の関係は、"
+        },
+        {
+          "offset": 3004,
+          "length": 22,
+          "key": 4145311685,
+          "original": "このようになっている。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0012",
+      "context": {
+        "voice": "GEL0012.ogg"
+      },
+      "original": "このアイコンが赤く点滅しているときは、耐久力が低下して撃墜寸前ということだ。見逃さないように注意しろよ。",
+      "translation": "이 아이콘이 붉게 점멸할 때는 내구력이 저하되어 격추 직전이라는 뜻이다. 놓치지 않도록 주의해라.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3140,
+          "length": 40,
+          "key": 4145311685,
+          "original": "このアイコンが赤く点滅しているときは、耐"
+        },
+        {
+          "offset": 3188,
+          "length": 40,
+          "key": 4145311685,
+          "original": "久力が低下して撃墜寸前ということだ。見逃"
+        },
+        {
+          "offset": 3236,
+          "length": 24,
+          "key": 4145311685,
+          "original": "さないように注意しろよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0013",
+      "context": {
+        "voice": "GEL0013.ogg"
+      },
+      "original": "また、紋章機だけは、気力（ＳＰ）ゲージが１００パーセントになるとアイコンが緑色に点滅する。",
+      "translation": "또한, 문장기만은 기력（ＳＰ） 게이지가 １００퍼센트가 되면 아이콘이 녹색으로 점멸한다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3372,
+          "length": 40,
+          "key": 4145311685,
+          "original": "また、紋章機だけは、気力（ＳＰ）ゲージが"
+        },
+        {
+          "offset": 3420,
+          "length": 40,
+          "key": 4145311685,
+          "original": "１００パーセントになるとアイコンが緑色に"
+        },
+        {
+          "offset": 3468,
+          "length": 10,
+          "key": 4145311685,
+          "original": "点滅する。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0014",
+      "context": {
+        "voice": "GEL0014.ogg"
+      },
+      "original": "アイコンの点滅中は、各機体特有の「必殺技」が使えるようになる。うまく使いこなせば、戦闘を有利に進められるだろう。",
+      "translation": "아이콘 점멸 중에는 각 기체 특유의 「필살기」를 쓸 수 있다. 잘 활용하면 전투를 유리하게 이끌 것이다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3592,
+          "length": 42,
+          "key": 4145311685,
+          "original": "アイコンの点滅中は、各機体特有の「必殺技」"
+        },
+        {
+          "offset": 3644,
+          "length": 40,
+          "key": 4145311685,
+          "original": "が使えるようになる。うまく使いこなせば、"
+        },
+        {
+          "offset": 3692,
+          "length": 30,
+          "key": 4145311685,
+          "original": "戦闘を有利に進められるだろう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0015",
+      "context": {
+        "voice": "GEL0015.ogg"
+      },
+      "original": "方向キーの左右を押すことで、パネルに表示されるユニットの陣営を選択できる。",
+      "translation": "방향키 좌우를 누르면 패널에 표시된 유닛의 진영을 선택할 수 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4076,
+          "length": 40,
+          "key": 4145311685,
+          "original": "方向キーの左右を押すことで、パネルに表示"
+        },
+        {
+          "offset": 4124,
+          "length": 34,
+          "key": 4145311685,
+          "original": "されるユニットの陣営を選択できる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0016",
+      "context": {
+        "voice": "GEL0016.ogg"
+      },
+      "original": "青色のユニットがエルシオールとエンジェル隊。緑色は味方の皇国軍艦隊。",
+      "translation": "청색 유닛은 에르시올과 엔젤대. 녹색은아군인 황국 군함대입니다.",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4364,
+          "length": 40,
+          "key": 4145311685,
+          "original": "青色のユニットがエルシオールとエンジェル"
+        },
+        {
+          "offset": 4412,
+          "length": 28,
+          "key": 4145311685,
+          "original": "隊。緑色は味方の皇国軍艦隊。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0017",
+      "context": {
+        "voice": "GEL0017.ogg"
+      },
+      "original": "黄色は中立ユニット。そして赤色は敵ユニットと、それぞれ表示を切り替えることができる。",
+      "translation": "노란색은 중립 유닛, 빨간색은 적 유닛으로 각각 표시를 전환할 수 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4552,
+          "length": 40,
+          "key": 4145311685,
+          "original": "黄色は中立ユニット。そして赤色は敵ユニッ"
+        },
+        {
+          "offset": 4600,
+          "length": 40,
+          "key": 4145311685,
+          "original": "トと、それぞれ表示を切り替えることができ"
+        },
+        {
+          "offset": 4648,
+          "length": 4,
+          "key": 4145311685,
+          "original": "る。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0018",
+      "context": {
+        "voice": "GEL0018.ogg"
+      },
+      "original": "選択した陣営のユニット数が８つ以上のときは、方向キー上下でスクロールさせればいい。",
+      "translation": "선택한 진영의 유닛 수가 ８개 이상일 때는 방향키 상하로 스크롤하면 된다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5096,
+          "length": 40,
+          "key": 4145311685,
+          "original": "選択した陣営のユニット数が８つ以上のとき"
+        },
+        {
+          "offset": 5144,
+          "length": 42,
+          "key": 4145311685,
+          "original": "は、方向キー上下でスクロールさせればいい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0019",
+      "context": {
+        "voice": "GEL0019.ogg"
+      },
+      "original": "アイコンにカーソルを合わせて○ボタンを押すと、そのユニットが選択され、カメラの視点が移る。",
+      "translation": "아이콘에 커서를 맞추고 ○ 버튼을 누르면 해당 유닛이 선택되며 카메라 시점이 이동한다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5364,
+          "length": 40,
+          "key": 4145311685,
+          "original": "アイコンにカーソルを合わせて○ボタンを押"
+        },
+        {
+          "offset": 5412,
+          "length": 40,
+          "key": 4145311685,
+          "original": "すと、そのユニットが選択され、カメラの視"
+        },
+        {
+          "offset": 5460,
+          "length": 10,
+          "key": 4145311685,
+          "original": "点が移る。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0020",
+      "context": {
+        "voice": "GEL0020.ogg"
+      },
+      "original": "ユニットを選択した状態で○ボタンを押すと、ユニットメニューを呼び出す事ができる。",
+      "translation": "유닛을 선택한 상태에서 ○ 버튼을 누르면 유닛 메뉴를 호출할 수 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5676,
+          "length": 42,
+          "key": 4145311685,
+          "original": "ユニットを選択した状態で○ボタンを押すと、"
+        },
+        {
+          "offset": 5728,
+          "length": 38,
+          "key": 4145311685,
+          "original": "ユニットメニューを呼び出す事ができる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0021",
+      "context": {
+        "voice": "GEL0021.ogg"
+      },
+      "original": "では次に、画面表示や情報の表示について説明するぞ。",
+      "translation": "그럼 다음으로 화면 및 정보 표시를 설명하겠다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6020,
+          "length": 40,
+          "key": 4145311685,
+          "original": "では次に、画面表示や情報の表示について説"
+        },
+        {
+          "offset": 6068,
+          "length": 10,
+          "key": 4145311685,
+          "original": "明するぞ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0022",
+      "context": {
+        "voice": "GEL0022.ogg"
+      },
+      "original": "画面の表示状態は、カメラから見た視点のカメラビューと、ステージ全体の様子がわかるマップビューの２種類から選べる。",
+      "translation": "화면 표시 상태는 카메라 시점의 카메라 뷰와 스테이지 전체를 알 수 있는 맵 뷰 두 종류 중 선택할 수 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6192,
+          "length": 40,
+          "key": 4145311685,
+          "original": "画面の表示状態は、カメラから見た視点のカ"
+        },
+        {
+          "offset": 6240,
+          "length": 40,
+          "key": 4145311685,
+          "original": "メラビューと、ステージ全体の様子がわかる"
+        },
+        {
+          "offset": 6288,
+          "length": 32,
+          "key": 4145311685,
+          "original": "マップビューの２種類から選べる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0023",
+      "context": {
+        "voice": "GEL0023.ogg"
+      },
+      "original": "これは、△ボタンで切り替えることができる。",
+      "translation": "이것은 △ 버튼으로 전환할 수 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6504,
+          "length": 42,
+          "key": 4145311685,
+          "original": "これは、△ボタンで切り替えることができる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0024",
+      "context": {
+        "voice": "GEL0024.ogg"
+      },
+      "original": "これがマップビュー、",
+      "translation": "이것이 맵 뷰,",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6756,
+          "length": 20,
+          "key": 4145311685,
+          "original": "これがマップビュー、"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0025",
+      "context": {
+        "voice": "GEL0025.ogg"
+      },
+      "original": "これがカメラビューだ。",
+      "translation": "이것이 카메라 뷰다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6984,
+          "length": 22,
+          "key": 4145311685,
+          "original": "これがカメラビューだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0026",
+      "context": {
+        "voice": "GEL0026.ogg"
+      },
+      "original": "なお、カメラビューでＬ３ボタンを押すとオートカメラモードに切り替わり、もう一度押すとコックピットビューになる。",
+      "translation": "참고로 카메라 뷰에서 Ｌ３ 버튼을 누르면 오토 카메라 모드로 전환되며, 다시 누르면 콕핏 뷰가 된다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7280,
+          "length": 40,
+          "key": 4145311685,
+          "original": "なお、カメラビューでＬ３ボタンを押すとオ"
+        },
+        {
+          "offset": 7328,
+          "length": 40,
+          "key": 4145311685,
+          "original": "ートカメラモードに切り替わり、もう一度押"
+        },
+        {
+          "offset": 7376,
+          "length": 30,
+          "key": 4145311685,
+          "original": "すとコックピットビューになる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0027",
+      "context": {
+        "voice": "GEL0027.ogg"
+      },
+      "original": "□ボタンは、画面内のユニット情報の表示状態を切り替えるボタンだ。",
+      "translation": "□ 버튼은 화면 내 유닛 정보의 표시 상태를 전환하는 버튼이다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7740,
+          "length": 40,
+          "key": 4145311685,
+          "original": "□ボタンは、画面内のユニット情報の表示状"
+        },
+        {
+          "offset": 7788,
+          "length": 24,
+          "key": 4145311685,
+          "original": "態を切り替えるボタンだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0028",
+      "context": {
+        "voice": "GEL0028.ogg"
+      },
+      "original": "ユニット情報表示は、「選択ユニットのみ表示」、「全て表示」、「全て非表示」の３種類から選べる。",
+      "translation": "유닛 정보는 「선택 유닛만 표시」, 「모두 표시」, 「모두 비표시」 ３종류 중 선택 가능하다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7924,
+          "length": 40,
+          "key": 4145311685,
+          "original": "ユニット情報表示は、「選択ユニットのみ表"
+        },
+        {
+          "offset": 7972,
+          "length": 40,
+          "key": 4145311685,
+          "original": "示」、「全て表示」、「全て非表示」の３種"
+        },
+        {
+          "offset": 8020,
+          "length": 14,
+          "key": 4145311685,
+          "original": "類から選べる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0029",
+      "context": {
+        "voice": "GEL0029.ogg"
+      },
+      "original": "次にカメラの操作についてだ。",
+      "translation": "다음은 카메라조작에대해서다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8224,
+          "length": 28,
+          "key": 4145311685,
+          "original": "次にカメラの操作についてだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0030",
+      "context": {
+        "voice": "GEL0030.ogg"
+      },
+      "original": "左スティックを動かすと、カメラの向きを変えることができる。",
+      "translation": "왼쪽 스틱을 움직이면 카메라의 방향을 바꿀 수 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8476,
+          "length": 40,
+          "key": 4145311685,
+          "original": "左スティックを動かすと、カメラの向きを変"
+        },
+        {
+          "offset": 8524,
+          "length": 18,
+          "key": 4145311685,
+          "original": "えることができる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0031",
+      "context": {
+        "voice": "GEL0031.ogg"
+      },
+      "original": "右スティックを動かすと、カメラの中心位置を変えることができる。",
+      "translation": "오른쪽 스틱을 움직이면 카메라의 중심 위치를 바꿀 수 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8740,
+          "length": 40,
+          "key": 4145311685,
+          "original": "右スティックを動かすと、カメラの中心位置"
+        },
+        {
+          "offset": 8788,
+          "length": 22,
+          "key": 4145311685,
+          "original": "を変えることができる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0032",
+      "context": {
+        "voice": "GEL0032.ogg"
+      },
+      "original": "画面の拡大・縮小を行うにはＲ２・Ｌ２ボタンを押してくれ。",
+      "translation": "화면을 확대・축소하려면 Ｒ２・Ｌ２ 버튼을 눌러줘.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9008,
+          "length": 40,
+          "key": 4145311685,
+          "original": "画面の拡大・縮小を行うにはＲ２・Ｌ２ボタ"
+        },
+        {
+          "offset": 9056,
+          "length": 16,
+          "key": 4145311685,
+          "original": "ンを押してくれ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0033",
+      "context": {
+        "voice": "GEL0033.ogg"
+      },
+      "original": "そしてＲ１ボタン・Ｌ１ボタン。このボタンを押すたびに、選択中のユニットが次々に切り替わる。",
+      "translation": "그리고 Ｒ１ 버튼・Ｌ１ 버튼. 이 버튼을 누를 때마다, 선택 중인 유닛이 차례로 바뀐다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9268,
+          "length": 40,
+          "key": 4145311685,
+          "original": "そしてＲ１ボタン・Ｌ１ボタン。このボタン"
+        },
+        {
+          "offset": 9316,
+          "length": 40,
+          "key": 4145311685,
+          "original": "を押すたびに、選択中のユニットが次々に切"
+        },
+        {
+          "offset": 9364,
+          "length": 10,
+          "key": 4145311685,
+          "original": "り替わる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0034",
+      "context": {
+        "voice": "GEL0034.ogg"
+      },
+      "original": "タイトル画面に戻りたい場合などには、ＳＥＬＥＣＴボタンを押してくれ。",
+      "translation": "타이틀 화면으로 돌아가고 싶을 때 등에는 ＳＥＬＥＣＴ 버튼을 눌러라.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9572,
+          "length": 40,
+          "key": 4145311685,
+          "original": "タイトル画面に戻りたい場合などには、ＳＥ"
+        },
+        {
+          "offset": 9620,
+          "length": 28,
+          "key": 4145311685,
+          "original": "ＬＥＣＴボタンを押してくれ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0035",
+      "context": {
+        "voice": "GEL0035.ogg"
+      },
+      "original": "ただし、戦闘中にタイトル画面に戻っても、データのセーブは行われないから注意しろよ。",
+      "translation": "단, 전투 중에 타이틀 화면으로 돌아가도 데이터는 저장되지 않으니 주의해라.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9816,
+          "length": 40,
+          "key": 4145311685,
+          "original": "ただし、戦闘中にタイトル画面に戻っても、"
+        },
+        {
+          "offset": 9864,
+          "length": 42,
+          "key": 4145311685,
+          "original": "データのセーブは行われないから注意しろよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0036",
+      "context": {
+        "voice": "GEL0036.ogg"
+      },
+      "original": "では続いて、ユニットへの命令の仕方を説明する。",
+      "translation": "이어서유닛에게 명령을 내리는 법을 설명하겠다.",
+      "state": "slot-aligned",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10020,
+          "length": 40,
+          "key": 4145311685,
+          "original": "では続いて、ユニットへの命令の仕方を説明"
+        },
+        {
+          "offset": 10068,
+          "length": 6,
+          "key": 4145311685,
+          "original": "する。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0037",
+      "context": {
+        "voice": "GEL0037.ogg"
+      },
+      "original": "命令を出せるユニットは、エルシオールとエンジェル隊、それに味方ユニットの皇国軍艦隊だ。当然ながら、敵には命令できない。",
+      "translation": "명령을 내릴 수 있는 유닛은 에르시올과 엔젤대, 그리고 아군 유닛인 황국군 함대다. 당연히 적에게는 명령할 수 없다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10264,
+          "length": 40,
+          "key": 4145311685,
+          "original": "命令を出せるユニットは、エルシオールとエ"
+        },
+        {
+          "offset": 10312,
+          "length": 40,
+          "key": 4145311685,
+          "original": "ンジェル隊、それに味方ユニットの皇国軍艦"
+        },
+        {
+          "offset": 10360,
+          "length": 38,
+          "key": 4145311685,
+          "original": "隊だ。当然ながら、敵には命令できない。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0038",
+      "context": {
+        "voice": "GEL0038.ogg"
+      },
+      "original": "命令を出したいときは、ユニットのアイコンを選択し、○ボタンを押すんだ。",
+      "translation": "명령을 내리고 싶을 때는 유닛 아이콘을 선택하고 ○ 버튼을 누르는 거다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10584,
+          "length": 40,
+          "key": 4145311685,
+          "original": "命令を出したいときは、ユニットのアイコン"
+        },
+        {
+          "offset": 10632,
+          "length": 30,
+          "key": 4145311685,
+          "original": "を選択し、○ボタンを押すんだ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0039",
+      "context": {
+        "voice": "GEL0039.ogg"
+      },
+      "original": "すると、このようなユニットメニューが表示される。",
+      "translation": "그러면 이런 유닛 메뉴가 표시된다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10984,
+          "length": 40,
+          "key": 4145311685,
+          "original": "すると、このようなユニットメニューが表示"
+        },
+        {
+          "offset": 11032,
+          "length": 8,
+          "key": 4145311685,
+          "original": "される。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0040",
+      "context": {
+        "voice": "GEL0040.ogg"
+      },
+      "original": "白い文字で表示されているメニューが現在選択できる行動だ。この中から、指示したい行動を選んで決定する。",
+      "translation": "흰색 글자로 표시된 메뉴가 현재 선택 가능한 행동이다. 이 중에서 지시할 행동을 골라 결정한다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11152,
+          "length": 40,
+          "key": 4145311685,
+          "original": "白い文字で表示されているメニューが現在選"
+        },
+        {
+          "offset": 11200,
+          "length": 40,
+          "key": 4145311685,
+          "original": "択できる行動だ。この中から、指示したい行"
+        },
+        {
+          "offset": 11248,
+          "length": 20,
+          "key": 4145311685,
+          "original": "動を選んで決定する。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0041",
+      "context": {
+        "voice": "GEL0041.ogg"
+      },
+      "original": "初期設定では、「移動」「攻撃」「必殺技」「護衛」「修理」を選択すると、画面表示がマップビューに切り替わる。",
+      "translation": "초기 설정에서 「이동」「공격」「필살기」「호위」「수리」를 선택하면 맵 뷰로 전환된다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11504,
+          "length": 40,
+          "key": 4145311685,
+          "original": "初期設定では、「移動」「攻撃」「必殺技」"
+        },
+        {
+          "offset": 11552,
+          "length": 40,
+          "key": 4145311685,
+          "original": "「護衛」「修理」を選択すると、画面表示が"
+        },
+        {
+          "offset": 11600,
+          "length": 26,
+          "key": 4145311685,
+          "original": "マップビューに切り替わる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0042",
+      "context": {
+        "voice": "GEL0042.ogg"
+      },
+      "original": "このマップ上で、移動させたい場所や、目標とするユニットを選択して、行動を決定する。",
+      "translation": "이 맵 위에서 이동시키고 싶은 장소나 목표 유닛을 선택해 행동을 결정한다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11740,
+          "length": 40,
+          "key": 4145311685,
+          "original": "このマップ上で、移動させたい場所や、目標"
+        },
+        {
+          "offset": 11788,
+          "length": 42,
+          "key": 4145311685,
+          "original": "とするユニットを選択して、行動を決定する。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0043",
+      "context": {
+        "voice": "GEL0043.ogg"
+      },
+      "original": "最後にポーズ画面について教えておこう。",
+      "translation": "마지막으로 포즈 화면에 대해알려두겠다.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12052,
+          "length": 38,
+          "key": 4145311685,
+          "original": "最後にポーズ画面について教えておこう。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0044",
+      "context": {
+        "voice": "GEL0044.ogg"
+      },
+      "original": "戦闘中に、ＳＴＡＲＴボタンを押すことで、ゲームの進行を一時停止できる。",
+      "translation": "전투 중에 ＳＴＡＲＴ 버튼을 누르면 게임 진행을 일시 정지할 수 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12204,
+          "length": 40,
+          "key": 4145311685,
+          "original": "戦闘中に、ＳＴＡＲＴボタンを押すことで、"
+        },
+        {
+          "offset": 12252,
+          "length": 30,
+          "key": 4145311685,
+          "original": "ゲームの進行を一時停止できる。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0045",
+      "context": {
+        "voice": "GEL0045.ogg"
+      },
+      "original": "一時停止中でも、通常と同じように命令やユニット情報の確認といった操作は可能だから、落ち着いて考えながら行動できるぞ。",
+      "translation": "일시 정지 중에도 평소처럼 명령이나 유닛 정보 확인 등의 조작이 가능하므로, 차분히 생각하며 행동할 수 있다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12452,
+          "length": 40,
+          "key": 4145311685,
+          "original": "一時停止中でも、通常と同じように命令やユ"
+        },
+        {
+          "offset": 12500,
+          "length": 42,
+          "key": 4145311685,
+          "original": "ニット情報の確認といった操作は可能だから、"
+        },
+        {
+          "offset": 12552,
+          "length": 34,
+          "key": 4145311685,
+          "original": "落ち着いて考えながら行動できるぞ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0046",
+      "context": {
+        "voice": "GEL0046.ogg"
+      },
+      "original": "とりあえず、指揮システムの操作方法については、こんなところだな。",
+      "translation": "우선 지휘 시스템 조작법은 이 정도군.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12772,
+          "length": 40,
+          "key": 4145311685,
+          "original": "とりあえず、指揮システムの操作方法につい"
+        },
+        {
+          "offset": 12820,
+          "length": 24,
+          "key": 4145311685,
+          "original": "ては、こんなところだな。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0047",
+      "context": {
+        "voice": "GCf00046.ogg"
+      },
+      "original": "どうだ、タクト。ちゃんと思い出せたか？",
+      "translation": "어때, 택트. 제대로 기억해냈나？\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13028,
+          "length": 38,
+          "key": 4145311685,
+          "original": "どうだ、タクト。ちゃんと思い出せたか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0048",
+      "context": {
+        "voice": "GCf00046.ogg"
+      },
+      "original": "えーと……。",
+      "translation": "음…….",
+      "state": "reused",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13140,
+          "length": 12,
+          "key": 4145311685,
+          "original": "えーと……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0049",
+      "context": {
+        "voice": null
+      },
+      "original": "いや、もう一度説明してくれないか",
+      "translation": "아니, 한 번 더 설명해 주겠어",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13188,
+          "length": 32,
+          "key": 4145311685,
+          "original": "いや、もう一度説明してくれないか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0050",
+      "context": {
+        "voice": null
+      },
+      "original": "もう大丈夫だよ",
+      "translation": "이제 괜찮아",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13228,
+          "length": 14,
+          "key": 4145311685,
+          "original": "もう大丈夫だよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0051",
+      "context": {
+        "voice": "GCf00046.ogg"
+      },
+      "original": "いや、悪いけど、もう一度説明してくれないか。",
+      "translation": "미안하지만, 다시 한번 설명해 주겠나.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13364,
+          "length": 40,
+          "key": 4145311685,
+          "original": "いや、悪いけど、もう一度説明してくれない"
+        },
+        {
+          "offset": 13412,
+          "length": 4,
+          "key": 4145311685,
+          "original": "か。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0052",
+      "context": {
+        "voice": "GCf00047.ogg"
+      },
+      "original": "まだ寝ぼけてるのか？　もう一度言うから、ちゃんと聞いていろよ。",
+      "translation": "아직 잠이 덜 깼나？ 다시 말할 테니 제대로 듣고 있어라.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13564,
+          "length": 40,
+          "key": 4145311685,
+          "original": "まだ寝ぼけてるのか？　もう一度言うから、"
+        },
+        {
+          "offset": 13612,
+          "length": 22,
+          "key": 4145311685,
+          "original": "ちゃんと聞いていろよ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0053",
+      "context": {
+        "voice": "GCf00047.ogg"
+      },
+      "original": "もう大丈夫だよ。いけると思う。",
+      "translation": "이제 괜찮아. 할 수 있을것같아.",
+      "state": "shortened",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13752,
+          "length": 16,
+          "key": 4145311685,
+          "original": "もう大丈夫だよ。"
+        },
+        {
+          "offset": 13776,
+          "length": 14,
+          "key": 4145311685,
+          "original": "いけると思う。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e3000:isb:0054",
+      "context": {
+        "voice": "GCf00048.ogg"
+      },
+      "original": "じゃあ、しっかり頼むぞ。",
+      "translation": "그럼, 잘 부탁한다.\n",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13940,
+          "length": 24,
+          "key": 4145311685,
+          "original": "じゃあ、しっかり頼むぞ。"
+        }
+      ]
+    }
+  ]
+}
