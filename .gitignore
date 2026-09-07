@@ -17,6 +17,7 @@ assets/image_extraction/**/*.zip
 # Build and release outputs (release artifacts go to GitHub Releases)
 build/
 build_*/
+movie/
 release/
 cache/
 *.iso

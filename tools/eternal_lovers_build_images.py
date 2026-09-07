@@ -130,6 +130,13 @@ def main() -> None:
         "--output-elf", str(patched_elf),
         "--map-output", str(build / "font_map.json"),
     ])
+    run([
+        sys.executable, "-u",
+        str(ROOT / "tools/eternal_lovers_patch_saveload_elf_strings.py"),
+        "--elf", str(patched_elf),
+        "--encoding-map", str(build / "font_map.json"),
+        "--report", str(build / "saveload_elf_strings_report.json"),
+    ])
 
     run([
         sys.executable, "-u", str(ROOT / "tools/eternal_lovers_patch_isb.py"),
@@ -174,6 +181,7 @@ def main() -> None:
         "--image-manifest", str(images / "GADAT032/manifest.json"),
         "--resource-manifest", str(full / "GADAT032/manifest.json"),
         "--runtime-container", "ADV",
+        "--runtime-container", "GAEL",
         "--report", str(build / "gadat032_image_patch_report.json"),
         "--cache-dir", str(build / "image_cache_gadat032"),
     ])
@@ -248,6 +256,18 @@ def main() -> None:
         "--iso", str(output),
         "--project", str(PROJECT),
         "--report", str(build / "battle_bank_images_report.json"),
+    ])
+    # ADV is repacked by the remaining-text/runtime passes above, so image-patch
+    # byte offsets are stale by this point.  Rescan the finished FSTS layout by
+    # translated TEX raw hashes and repair compressed-size records only now.
+    run([
+        sys.executable, "-u",
+        str(ROOT / "tools/eternal_lovers_sync_adv_image_fsts.py"),
+        "--iso", str(output),
+        "--image-report", str(build / "gadat030_image_patch_report.json"),
+        "--image-report", str(build / "gadat032_image_patch_report.json"),
+        "--image-report", str(build / "slg_image_patch_report.json"),
+        "--report", str(build / "adv_image_fsts_sync_report.json"),
     ])
     # Rebuild the expected fixed-slot bytes from the immutable Japanese ISO and the current
     # translation inputs, then verify every SLGRES/SLGSTAGE copy on the finished artifact so a

@@ -1,4 +1,72 @@
 # Galaxy Angel - Eternal Lovers (PS2) 한글화 진행 상태
+
+## 2026-09-08 v0.1 재배포 완료 — 5950 정식 PSS
+
+실기에서 정상 재생이 확인된 `ga_ml_5950` 조건을 전체 자막 영상에 적용해 PSS/ISO와 v0.1 배포 파일을 다시 만들었다.
+
+- 자막 타임라인: 39개 ASS 중 실제 자막 24편 / Dialogue 113개를 +1.00초 보정 전 상태로 원상복구한 것을 사용했다.
+- 정식 영상 인코딩: MPEG-2 `b:v=5950k`, `minrate=5950k`, `maxrate=6000k`, B-frame 2, VBV `1,835,008` bytes, 원본 프레임레이트 유지.
+- mux는 `ga_ml_5950` 실기 정상판과 동일하게 Galaxy Angel/Moonlit 기본 `mux()` 경로를 사용했고 PS2STR/원본-rate template/추가 prefetch·lead 보정은 사용하지 않았다.
+- 자막 PSS 24편 재생성 및 picture count/mux 검증: **24/24 PASS**.
+- 빈 ASS 15편은 v18 ISO의 기존 PSS를 그대로 유지했고 readback **15/15 PASS**.
+- ISO 내부 교체 PSS readback: **24/24 PASS**.
+- 새 PSS 용량 증가로 `GADAT101`, `103`, `110`, `114`, `120`, `121`, `137` 7편을 ISO 끝으로 재배치하고 ISO9660 LBA/size를 갱신했다.
+- UI 누락 수정도 최종 ISO에 다시 적용했다: ADV FSTS 417개 동기화 및 2,039 리소스 strict 검증, `GAEL.DAT` Pause 이미지 17/17 패치·검증, 저장/불러오기 ELF 문자열 3개 패치.
+- 최종 ISO: `build/Galaxy_Angel_Eternal_Lovers_KO_v0.1_RELEASE.iso`
+  - 크기: `5,182,930,944 bytes`
+  - MD5: `eb915b1fc2b278a8575e236954dbbdf1`
+  - SHA-1: `df8e3ac6fd0db34bfa4e209fbe83cae37460ffaf`
+  - SHA-256: `91e131cb5bd0178ac75eee1bd77e935f7a5f28d7deaca0506e7dc075979fd7d3`
+- v0.1 XDelta: `release/galaxy_angel_eternal_lovers_ps2_kr_v0.1.xdelta`
+  - 크기: `843,088,039 bytes`
+  - SHA-256: `1b9b435b162c7055d3fbdb1cacffa18dbe5f5e0ad5e3745cc22dd8d7cf438074`
+- 일본판 원본 ISO에 새 v0.1 XDelta를 실제 적용해 위 최종 ISO와 SHA-256 완전 일치: **PASS**.
+- `release/README.txt`, `release/SHA256SUMS.txt`, `release/release.json`도 새 값으로 갱신했다.
+
+## 2026-09-08 영상 자막 +1.00초 보정 취소
+
+후속 실기/구조 분석 결과, 이전에 자막 싱크 문제로 판단해 적용했던 **+1.00초 이동은 취소**한다. 32~34초 부근 정지/스킵 문제는 자막 타임라인 자체가 아니라 5.95Mbps 인코딩 및 PSS/PS2STR 호환성 쪽으로 좁혀졌다.
+
+- `movie/subtitles/GADAT100~138.ko.ass` 39개 중 실제 `Dialogue:`가 있는 **24편 / 113개 이벤트**의 시작·종료 시간을 모두 **-1.00초** 원상복구했다.
+- 0초보다 앞설 수 있는 이벤트는 `0:00:00.00`으로 유지했으며, 음수 타임코드는 **0개**다.
+- 빈 ASS 15편은 변경하지 않았다.
+- 자막 문구/스타일/색상은 변경하지 않았다.
+- 이후 위 `2026-09-08 v0.1 재배포 완료 — 5950 정식 PSS` 단계에서 실기 정상 `ga_ml_5950` 방식으로 PSS/ISO와 배포 파일까지 다시 생성했다.
+
+## 2026-09-07 영상 자막 +1.00초 보정 및 최종 ISO 반영
+
+실기 기준으로 영상 자막이 약 1초 빠르게 보이는 문제를 Moonlit Lovers와 같은 방식으로
+보정했다. `movie/subtitles/GADAT100~138.ko.ass` 39개 중 실제 `Dialogue:`가 있는 24편,
+총 113개 이벤트의 시작/종료 시간을 모두 **+1.00초** 이동했다. 빈 ASS 15편은 그대로 유지했다.
+
+자막이 있는 24편만 다시 MPEG-2/PSS로 만들었다. Eternal Lovers의 원본 영상은 평균 약
+3.85~4.10Mbps이므로 Moonlit용 5.95Mbps 고정값을 그대로 쓰면 ISO가 5.13GB까지 커졌다.
+최종본은 각 원본 M2V의 실제 평균 비트레이트를 목표값으로 사용해 원본 화질·용량 설계에
+맞췄고, 24편 모두 새 PSS가 기존 슬롯보다 작아져 **기존 LBA를 전부 보존**했다. ISO9660의
+파일 size만 실제 새 PSS 크기로 갱신했다.
+
+- PSS 빌드: 24/24 PASS
+  - 소스/인코드 picture count 일치
+  - video elementary stream readback exact
+  - PCM SS stream readback exact
+  - 16KiB pack alignment exact
+- ISO 내부 교체 PSS readback: 24/24 SHA-256 PASS
+- 빈 ASS 15편: v18 ISO의 기존 PSS와 byte-identical 15/15 PASS
+- PSS 재배치: 0편, 기존 LBA 24/24 유지
+- 최종 ISO 크기: `4,674,766,848` bytes (v18과 동일)
+- 최종 ISO: `build/Galaxy_Angel_Eternal_Lovers_KO_v0.1_SUBTITLED.iso`
+  - MD5 `8f51cc5507304044a7c87c7059f10abb`
+  - SHA-1 `7e341177885adb644922f9985cd375cddfa07c8e`
+  - SHA-256 `45445c0a71d6cca9b04db034157b88a9ab1b7a878698da8ae9d688360ad29700`
+- 검증 보고서:
+  - `build/eternal_lovers_subtitled_pss_report.json`
+  - `build/eternal_lovers_movies_iso_patch.json`
+
+배포 `release/`의 기존 v0.1 XDelta는 아직 갱신하지 않았다. 새 XDelta는 일본판 원본 ISO
+(SHA-256 `31cb2a0b6a219323ea8fc451050a75f06fc0947fb0ff33b182835adf7b6da25d`)가 필요하지만,
+현재 Codex가 접근 가능한 `D:\trans\translation-assistant` 범위에는 해당 ISO가 없다.
+따라서 기존 릴리즈 파일을 잘못된 대상으로 덮어쓰지 않고 그대로 보존했다.
+
 갱신: 2026-09-04 (진행 정지 원인 규명과 v1.5 재빌드)
 
 ## 2026-09-04 초반 정지 원인과 선택지·화자·브리핑 수정 (v1.5)
