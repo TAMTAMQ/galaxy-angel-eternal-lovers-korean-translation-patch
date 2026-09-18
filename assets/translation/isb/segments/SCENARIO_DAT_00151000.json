@@ -48,7 +48,7 @@
         "voice": null
       },
       "original": "やあ、ミント。絶好調かな？",
-      "translation": "안녕, 민트. 컨디션은어때？",
+      "translation": "안녕, 민트. 컨디션은 어때?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -156,7 +156,7 @@
         "voice": "GC375002.ogg"
       },
       "original": "まあまあ。",
-      "translation": "허허, 참.\n",
+      "translation": "어머어머.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -234,7 +234,7 @@
         "voice": "GC375004.ogg"
       },
       "original": "なんですの、タクトさん。藪から棒に？",
-      "translation": "무슨 일인가요, 택트 씨. 갑자기？",
+      "translation": "무슨 일인가요, 택트 씨. 갑자기?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -474,7 +474,7 @@
         "voice": "GC375009.ogg"
       },
       "original": "ミントの表情だよ。表情。",
-      "translation": "민트의 표정 말이야.표정.",
+      "translation": "민트 표정 말이야. 표정.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -492,7 +492,7 @@
         "voice": "GC375010.ogg"
       },
       "original": "そんなに複雑な表情をしてました。",
-      "translation": "그렇게 복잡한표정을짓고있었나요.",
+      "translation": "그렇게 복잡한 표정이었나요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -552,7 +552,7 @@
         "voice": "GC375011.ogg"
       },
       "original": "うん、そうとも言う。",
-      "translation": "응, 그렇게도 보이지.",
+      "translation": "응, 그렇게도 말하지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -600,7 +600,7 @@
         "voice": "GC375012.ogg"
       },
       "original": "え？　どこから？　やっぱり耳からかなあ。",
-      "translation": "에？ 어디서？ 역시 귀에서인가？\n",
+      "translation": "어? 어디서? 역시 귀에서인가?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -618,7 +618,7 @@
         "voice": "GC375013.ogg"
       },
       "original": "それはもう、穴という穴から……。",
-      "translation": "그건 말이죠, 구멍이란구멍은…….",
+      "translation": "그건, 구멍이란 구멍은…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -684,7 +684,7 @@
         "voice": "GC375014.ogg"
       },
       "original": "さしずめ、タクト２（ツー）ということで。そのときはよろしく。",
-      "translation": "말하자면, 택트 ２（투）라는 거지. 그때는 잘 부탁해.\n",
+      "translation": "말하자면, 택트 2（투）라는 거지. 그때는 잘 부탁해.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -780,7 +780,7 @@
         "voice": "GC375016.ogg"
       },
       "original": "誰だって気になるさ。それが普通の反応だよ。",
-      "translation": "누구라도 신경 쓰이지.그게정상적인반응이야.",
+      "translation": "누구든 신경 쓰이지. 그게 정상이지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -954,7 +954,7 @@
         "voice": "GC375021.ogg"
       },
       "original": "わかってくれるかな、ミント？",
-      "translation": "이해해 줄 수 있겠어, 민트？\n",
+      "translation": "이해해 줄 수 있겠어, 민트?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -972,7 +972,7 @@
         "voice": "GC375022.ogg"
       },
       "original": "あの……信じるだけでよろしいんですか？",
-      "translation": "저기…… 믿는 것만으로도 괜찮은가요？\n",
+      "translation": "저기…… 믿는 것만으로도 괜찮은가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -990,7 +990,7 @@
         "voice": "GC375022.ogg"
       },
       "original": "え？　いやまあ、いろいろバックアップしてもらえると助かるかな。",
-      "translation": "에？ 아니 뭐, 여러모로 백업해 주면 도움이 될 것 같아.\n",
+      "translation": "어? 아니 뭐, 여러모로 백업해 주면 도움이 될 것 같아.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1056,7 +1056,7 @@
         "voice": "GC375024.ogg"
       },
       "original": "他には？",
-      "translation": "그외엔？",
+      "translation": "그 외엔?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1230,7 +1230,7 @@
         "voice": "GC375101.ogg"
       },
       "original": "奇遇ですわね。私もちょうど甘い物でもいただこうと思っていましたの。",
-      "translation": "기우네요. 저도 마침 단것이라도 먹으려던 참이었어요.\n",
+      "translation": "공교롭네요. 저도 마침 단것이라도 먹으려던 참이었어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1272,7 +1272,7 @@
         "voice": "GC375102.ogg"
       },
       "original": "それでタクトさんは何を召し上がるおつもりなんですの？",
-      "translation": "그래서 택트 씨는 무엇을 드실 생각인가요？\n",
+      "translation": "그래서 택트 씨는 무엇을 드실 생각인가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1320,7 +1320,7 @@
         "voice": "GC375103.ogg"
       },
       "original": "あら、またまた奇遇ですわ。私も今日は、とてもメロンパンという気分になっておりまして、ほらこの通り。",
-      "translation": "어머, 또 기우네요. 저도 오늘은 정말 메론빵을 먹고 싶은 기분이라서요, 보세요 이대로.\n",
+      "translation": "어머, 또 공교롭네요. 저도 오늘은 정말 메론빵이 당겨서요. 보세요, 여기 있잖아요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1440,7 +1440,7 @@
         "voice": "GC375105.ogg"
       },
       "original": "他の菓子パンはあるんだけど、メロンパンだけないんだ。店員さん、メロンパンは？",
-      "translation": "다른 빵은 있는데 메론빵만 없네. 점원분, 메론빵은요？\n",
+      "translation": "다른 빵은 있는데 메론빵만 없네. 점원 씨, 메론빵은요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1494,7 +1494,7 @@
         "voice": "GC375106.ogg"
       },
       "original": "ええ！　本当に？　在庫もないの？",
-      "translation": "에엣！ 정말로？ 재고도 없어？\n",
+      "translation": "에엣! 정말로? 재고도 없어?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1614,7 +1614,7 @@
         "voice": "GC375110.ogg"
       },
       "original": "メロンパンを諦めてしまわれるんですか？",
-      "translation": "메론빵을 포기하시려는 건가요？\n",
+      "translation": "메론빵을 포기하시려는 건가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1656,7 +1656,7 @@
         "voice": "GC375111.ogg"
       },
       "original": "あのタクトさん？",
-      "translation": "저기, 택트 씨？\n",
+      "translation": "저기, 택트 씨?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1716,7 +1716,7 @@
         "voice": "GC375112.ogg"
       },
       "original": "そういうわけにはいかないよ、ミント。店員さんがいってたとおり、当分メロンパンは食べられないんだから。",
-      "translation": "그럴 수는 없어, 민트. 점원분이 말한 대로 당분간 메론빵은 못 먹으니까.\n",
+      "translation": "그럴 수는 없어, 민트. 점원 씨가 말한 대로 당분간 메론빵은 못 먹으니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1902,7 +1902,7 @@
         "voice": "GC375116.ogg"
       },
       "original": "ええ！　でもそれじゃあミントに悪いよ。",
-      "translation": "에엣！ 하지만그러면민트한테미안하잖아.",
+      "translation": "에엣! 그럼 민트한테 미안하잖아.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1920,7 +1920,7 @@
         "voice": "GC375117.ogg"
       },
       "original": "私がいいと言っているのですから、いいじゃありませんか。このままではせっかくのメロンパンが、宙に浮いてしまいますわ。",
-      "translation": "제가 괜찮다고 했으니 괜찮지 않나요. 이대로라면 아까운 메론빵이 공중에 떠버리고 말 거예요.\n",
+      "translation": "제가 괜찮다고 했으니 괜찮지 않나요. 이대로라면 아까운 메론빵이 갈 곳을 잃잖아요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1968,7 +1968,7 @@
         "voice": "GC375118.ogg"
       },
       "original": "食べたいときに食べたいものが食べられないというのは、それはそれは悲しいことですのよ。",
-      "translation": "먹고 싶을 때 먹고 싶은 걸 못 먹는다는 건, 정말이지 슬픈 일이라구요.\n",
+      "translation": "먹고 싶을 때 먹고 싶은 걸 못 먹는다는 건, 정말이지 슬픈 일이라고요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

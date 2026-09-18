@@ -595,7 +595,7 @@
         "voice": "GC510012.ogg"
       },
       "original": "クールダラス副司令がそんなことを……。",
-      "translation": "쿨다라스 부사령관님이 그런 일을…….\n",
+      "translation": "쿨다라스 부사령관이 그런 일을…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -799,7 +799,7 @@
         "voice": "GC510017.ogg"
       },
       "original": "仕方ないよ。特別休暇とはいえ、３０日ものんきに休んでたんだから。仕事もたまるさ。",
-      "translation": "어쩔수 없지. 특별 휴가라 해도 ３０일이나 느긋하게 쉬었으니. 일은쌓이기마련이야.",
+      "translation": "어쩔 수 없지. 특별 휴가라 해도 30일이나 느긋하게 쉬었으니. 일은 쌓이기 마련이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1201,7 +1201,7 @@
         "voice": "GC510023.ogg"
       },
       "original": "ただひとつ、調査艦隊が残した手がかりといえば……。",
-      "translation": "단 하나, 조사 함대가 남긴 단이라고 하면……",
+      "translation": "단 하나, 조사 함대가 남긴 단서라면…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1225,7 +1225,7 @@
         "voice": "GC510023.ogg"
       },
       "original": "消息を絶つ寸前に、第３方面軍司令部に送ってきた、この映像だけさ。",
-      "translation": "소식이 끊기기 직전에 제３방면군 사령부에 보내온 이 영상뿐이야.",
+      "translation": "소식이 끊기기 직전에 제3방면군 사령부에 보내온 이 영상뿐이야.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1657,7 +1657,7 @@
         "voice": "GC510036.ogg"
       },
       "original": "そ……それは、おなかを冷やさなくて実にいいねえ……。",
-      "translation": "그…… 그건 배를 따뜻하게 해줘서 정말 좋겠네요…….\n",
+      "translation": "그…… 그건 배를 따뜻하게 해줘서 정말 좋네…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1789,7 +1789,7 @@
         "voice": "GC510040.ogg"
       },
       "original": "タクトさん。私、肩を叩きます。",
-      "translation": "택트 씨. 어깨을주물러드릴게요.",
+      "translation": "택트 씨. 어깨 두드릴게요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2587,7 +2587,7 @@
         "voice": "GC510103.ogg"
       },
       "original": "夢……ですか。",
-      "translation": "꿈…… 인가요.",
+      "translation": "꿈……인가요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2743,7 +2743,7 @@
         "voice": "GC510200.ogg"
       },
       "original": "……はい。こう……ですか？",
-      "translation": "……네. 이렇게……인가요？",
+      "translation": "……네. 이렇게……인가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2881,7 +2881,7 @@
         "voice": "GC510203.ogg"
       },
       "original": "ほら……こうして、触れ合えるところにいますから。",
-      "translation": "봐요…… 이렇게, 닿을 수 있는 곳에 있을 테니까.",
+      "translation": "봐요…… 이렇게 닿을 곳에 있으니까.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3061,7 +3061,7 @@
         "voice": "GC510208.ogg"
       },
       "original": "クールダラス副司令が、タクトさんをお呼びのようです。",
-      "translation": "쿨다라스 부사령관님이 택트 씨를 부르시는 것같습니다.",
+      "translation": "쿨다라스 부사령관이 택트 씨를 부르시는 것 같습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3337,7 +3337,7 @@
         "voice": "GC510213.ogg"
       },
       "original": "ほらほら、早く～。",
-      "translation": "자자, 빨리～\\.\n",
+      "translation": "자자, 빨리～.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3505,7 +3505,7 @@
         "voice": "GC510218.ogg"
       },
       "original": "あのー……ヴァニラ？",
-      "translation": "저기…… 바닐라？\n",
+      "translation": "저기ー…… 바닐라?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -59,7 +59,7 @@
         "voice": "GC938000.ogg"
       },
       "original": "了解。",
-      "translation": "알았다",
+      "translation": "네.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -113,7 +113,7 @@
         "voice": "GC958003.ogg"
       },
       "original": "援護の友軍艦隊はこの位置にいる。",
-      "translation": "지원할 우군 함대는 이위치에있다.",
+      "translation": "지원 우군 함대는 이 위치에 있다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -299,7 +299,7 @@
         "voice": "GC978008.ogg"
       },
       "original": "以上だ。",
-      "translation": "이상이다",
+      "translation": "이상.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -335,7 +335,7 @@
         "voice": null
       },
       "original": "　強化型浮遊防塁×５　　重戦艦×２",
-      "translation": "　강화형 부유 방루×５　중전함×２",
+      "translation": "　강화형 부유 방루×5　중전함×2",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -353,7 +353,7 @@
         "voice": null
       },
       "original": "　巡洋艦×３　　　　　　駆逐艦×６",
-      "translation": "　순양함×３　　　　구축함×６",
+      "translation": "　순양함×3　　　　구축함×6",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -371,7 +371,7 @@
         "voice": null
       },
       "original": "　戦闘機×３　　　　　　攻撃機×３",
-      "translation": "　전투기×３　　　　공격기×３",
+      "translation": "　전투기×3　　　　공격기×3",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -407,7 +407,7 @@
         "voice": null
       },
       "original": "　強化型浮遊防塁の破壊",
-      "translation": "　강화형 부유 방루 파괴",
+      "translation": "　강화 부유 방루 파괴",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -479,7 +479,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "もう一度、作戦内容を確認するか？",
-      "translation": "다시 한번 작전 내용을 확인할까？",
+      "translation": "다시 한번 작전 내용을 확인할까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -497,7 +497,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "そうだなあ……。",
-      "translation": "글쎄...",
+      "translation": "글쎄…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -569,7 +569,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "いや、その必要はない。みんな、準備はいいな？",
-      "translation": "아니, 그럴 필요는 없다. 모두, 준비는 됐나？",
+      "translation": "아니, 그럴 필요는 없다. 모두, 준비는 됐나?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -593,7 +593,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "エンジェル隊、出撃！",
-      "translation": "엔젤대, 출격！",
+      "translation": "엔젤대, 출격!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -611,7 +611,7 @@
         "voice": "GC938006.ogg"
       },
       "original": "了解！",
-      "translation": "네！",
+      "translation": "네!",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [

@@ -100,7 +100,7 @@
         "voice": null
       },
       "original": "奪われた７番機",
-      "translation": "탈취된 ７번기\n",
+      "translation": "탈취된 7번기\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -214,7 +214,7 @@
         "voice": "GC940002.ogg"
       },
       "original": "マイヤーズ司令、ノアさんから通信です。緊急の要件みたいで……。",
-      "translation": "마이어스 사령관님, 노아 씨의 통신입니다. 긴급용건인듯해서…….",
+      "translation": "마이어스 사령관, 노아 씨의 통신입니다. 긴급용건인듯해서…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -292,7 +292,7 @@
         "voice": "GC940004.ogg"
       },
       "original": "えっ？　ヴァインとルシャーティのことかい？あのふたりが、どうかしたのか？",
-      "translation": "엣？ 바인과 루샤티 말인가？ 그 두 사람이 왜？\n",
+      "translation": "어? 바인과 루샤티 말인가? 그 두 사람이 왜?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -580,7 +580,7 @@
         "voice": "GC940013.ogg"
       },
       "original": "これは……えっ！？　この反応は……！",
-      "translation": "이건…… 엣！？ 이 반응은……！\n",
+      "translation": "이건…… 어!? 이 반응은……!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -658,7 +658,7 @@
         "voice": "GC940016.ogg"
       },
       "original": "早く追って！　７番機が奪われたわ！",
-      "translation": "빨리 쫓아가！ ７번기가 탈취됐어！\n",
+      "translation": "빨리 쫓아가！ 7번기가 탈취됐어！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -676,7 +676,7 @@
         "voice": "GC940016.ogg"
       },
       "original": "な……なんだって！？　７番機が！？",
-      "translation": "뭐…… 뭐라고！？ ７번기가！？\n",
+      "translation": "뭐…… 뭐라고！？ 7번기가！？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -694,7 +694,7 @@
         "voice": "GC940017.ogg"
       },
       "original": "……間違いありません。レーダーの故障でなければ、この反応は、７番機です！",
-      "translation": "……틀림없습니다. 레이더 고장이 아니라면, 이 반응은 ７번기입니다！\n",
+      "translation": "……틀림없습니다. 레이더 고장이 아니라면, 이 반응은 7번기입니다！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -736,7 +736,7 @@
         "voice": "GC940019.ogg"
       },
       "original": "説明は後！　とにかく７番機を取り返して！",
-      "translation": "설명은 나중에！ 어쨌든 ７번기를 되찾아！\n",
+      "translation": "설명은 나중에！ 어쨌든 7번기를 되찾아！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -772,7 +772,7 @@
         "voice": "GC940019.ogg"
       },
       "original": "説明は後！　とにかく７番機を取り返して！",
-      "translation": "설명은 나중에！ 어쨌든 ７번기를 되찾아！\n",
+      "translation": "설명은 나중에！ 어쨌든 7번기를 되찾아！\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -808,7 +808,7 @@
         "voice": "GC940019.ogg"
       },
       "original": "説明は後！　とにかく７番機を取り返して！",
-      "translation": "설명은 나중에！ 어쨌든 ７번기를 되찾아！\n",
+      "translation": "설명은 나중에！ 어쨌든 7번기를 되찾아！\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -844,7 +844,7 @@
         "voice": "GC940019.ogg"
       },
       "original": "説明は後！　とにかく７番機を取り返して！",
-      "translation": "설명은 나중에！ 어쨌든 ７번기를 되찾아！\n",
+      "translation": "설명은 나중에！ 어쨌든 7번기를 되찾아！\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -880,7 +880,7 @@
         "voice": "GC940019.ogg"
       },
       "original": "説明は後！　とにかく７番機を取り返して！",
-      "translation": "설명은 나중에！ 어쨌든 ７번기를 되찾아！\n",
+      "translation": "설명은 나중에！ 어쨌든 7번기를 되찾아！\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -916,7 +916,7 @@
         "voice": "GC940019.ogg"
       },
       "original": "説明は後！　とにかく７番機を取り返して！",
-      "translation": "설명은 나중에！ 어쨌든 ７번기를 되찾아！\n",
+      "translation": "설명은 나중에！ 어쨌든 7번기를 되찾아！\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1102,7 +1102,7 @@
         "voice": "GC140000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,７번기가누군가에게탈취된모양이야.",
+      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1126,7 +1126,7 @@
         "voice": "GC140001.ogg"
       },
       "original": "なんですって！？　７番機が！？",
-      "translation": "뭐라고！？ ７번기가！？\n",
+      "translation": "뭐라고！？ 7번기가！？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1234,7 +1234,7 @@
         "voice": "GC140000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,７번기가누군가에게탈취된모양이야.",
+      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1258,7 +1258,7 @@
         "voice": "GC240000.ogg"
       },
       "original": "７番機が！？",
-      "translation": "７번기가！？\n",
+      "translation": "7번기가！？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1366,7 +1366,7 @@
         "voice": "GC140000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,７번기가누군가에게탈취된모양이야.",
+      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1390,7 +1390,7 @@
         "voice": "GC240000.ogg"
       },
       "original": "７番機が！？",
-      "translation": "７번기가！？\n",
+      "translation": "7번기가！？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1498,7 +1498,7 @@
         "voice": "GC440000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,７번기가누군가에게탈취된모양이야.",
+      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1522,7 +1522,7 @@
         "voice": "GC140001.ogg"
       },
       "original": "なんですって！？　７番機が！？",
-      "translation": "뭐라고！？ ７번기가！？\n",
+      "translation": "뭐라고！？ 7번기가！？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1630,7 +1630,7 @@
         "voice": "GC140000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,７번기가누군가에게탈취된모양이야.",
+      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1654,7 +1654,7 @@
         "voice": "GC140001.ogg"
       },
       "original": "なんですって！？　７番機が！？",
-      "translation": "뭐라고！？ ７번기가！？\n",
+      "translation": "뭐라고！？ 7번기가！？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1762,7 +1762,7 @@
         "voice": "GC140000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,７번기가누군가에게탈취된모양이야.",
+      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1786,7 +1786,7 @@
         "voice": "GC140001.ogg"
       },
       "original": "なんですって！？　７番機が！？",
-      "translation": "뭐라고！？ ７번기가！？\n",
+      "translation": "뭐라고！？ 7번기가！？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1894,7 +1894,7 @@
         "voice": "GC640004.ogg"
       },
       "original": "ノア、シャトヤーン様、７番機が奪われたというのは、どういうことなんですか？",
-      "translation": "노아, 샤토얀 님, ７번기가 탈취됐다는 게 무슨 뜻인가요？\n",
+      "translation": "노아, 샤토얀 님, 7번기가 탈취됐다는 게 무슨 뜻인가요？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1984,7 +1984,7 @@
         "voice": "GC140007.ogg"
       },
       "original": "７番機とクロノ・ブレイク・キャノンが盗まれたのは厳然たる事実よ。反省したところで、戻ってくるわけじゃないんだから。",
-      "translation": "７번기와 크로노・브레이크・캐논이 도난당한 건 엄연한 사실이야. 반성한다고 해서 돌아오는 것도 아니니까.\n",
+      "translation": "7번기와 크로노・브레이크・캐논이 도난당한 건 엄연한 사실이야. 반성한다고 해서 돌아오는 것도 아니니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2056,7 +2056,7 @@
         "voice": "GC140009.ogg"
       },
       "original": "それで、７番機を奪った犯人はわかっているんですか？",
-      "translation": "그래서, ７번기를 탈취한 범인은 알고 있습니까？\n",
+      "translation": "그래서, 7번기를 탈취한 범인은 알고 있습니까？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2080,7 +2080,7 @@
         "voice": "GC440009.ogg"
       },
       "original": "それで、７番機を奪った犯人はわかっているんですか？",
-      "translation": "그래서, ７번기를 탈취한 범인은 알고 있습니까？\n",
+      "translation": "그래서, 7번기를 탈취한 범인은 알고 있습니까？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2146,7 +2146,7 @@
         "voice": "GC140012.ogg"
       },
       "original": "今、７番機に乗っているのは、ルシャーティさんとヴァインさんです。",
-      "translation": "지금 ７번기에 타고 있는 건, 루샤티 씨와 바인 씨입니다.\n",
+      "translation": "지금 7번기에 타고 있는 건, 루샤티 씨와 바인 씨입니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2188,7 +2188,7 @@
         "voice": "GC440014.ogg"
       },
       "original": "ルシャーティさんとヴァインさんが、７番機を奪っていったんですか！？",
-      "translation": "루샤티 씨와 바인 씨가 ７번기를 가져갔단 말입니까！？\n",
+      "translation": "루샤티 씨와 바인 씨가 7번기를 가져갔단 말입니까！？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2212,7 +2212,7 @@
         "voice": "GC140014.ogg"
       },
       "original": "ルシャーティさんとヴァインさんが、７番機を奪っていったんですか！？",
-      "translation": "루샤티 씨와 바인 씨가 ７번기를 가져갔단 말입니까！？\n",
+      "translation": "루샤티 씨와 바인 씨가 7번기를 가져갔단 말입니까！？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2488,7 +2488,7 @@
         "voice": "GC140022.ogg"
       },
       "original": "マイヤーズ司令がお考えの通りです。",
-      "translation": "마이어스 사령관님 말씀대로입니다.",
+      "translation": "마이어스 사령관 말씀대로입니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2704,7 +2704,7 @@
         "voice": "GC140029.ogg"
       },
       "original": "その後、ふたりは『白き月』の制御を諦めて、最深部で封印されていた７番機とクロノ・ブレイク・キャノンを持ち去ったのです。",
-      "translation": "그 후 두 사람은 『백색 달』 제어를 포기하고, 최심부의 ７번기와 크로노・브레이크・캐논을 가지고 사라졌습니다.",
+      "translation": "그 후 두 사람은 『백색 달』 제어를 포기하고, 최심부의 7번기와 크로노・브레이크・캐논을 가지고 사라졌습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3316,7 +3316,7 @@
         "voice": "GC140042.ogg"
       },
       "original": "どのみち、７番機とクロノ・ブレイク・キャノンを、このまま放置しておくわけにいかないだろ？",
-      "translation": "어차피 ７번기와 크로노・브레이크・캐논을 이대로 방치할 수는 없잖아？",
+      "translation": "어차피 7번기와 크로노・브레이크・캐논을 이대로 방치할 수는 없잖아？",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3364,7 +3364,7 @@
         "voice": "GC440043.ogg"
       },
       "original": "どのみち、７番機とクロノ・ブレイク・キャノンを、このまま放置しておくわけにいかないだろ？",
-      "translation": "어차피 ７번기와 크로노・브레이크・캐논을 이대로 방치할 수는 없잖아？",
+      "translation": "어차피 7번기와 크로노・브레이크・캐논을 이대로 방치할 수는 없잖아？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3418,7 +3418,7 @@
         "voice": "GC140044.ogg"
       },
       "original": "マイヤーズ司令。",
-      "translation": "마이어스사령관님",
+      "translation": "마이어스 사령관",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -3484,7 +3484,7 @@
         "voice": "GC140045.ogg"
       },
       "original": "もちろんです。７番機とクロノ・ブレイク・キャノンは、オレたちが必ず取り戻してまいります。",
-      "translation": "물론입니다. ７번기와 크로노・브레이크・캐논은 저희가 반드시 되찾아오겠습니다.",
+      "translation": "물론입니다. 7번기와 크로노・브레이크・캐논은 저희가 반드시 되찾아오겠습니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3958,7 +3958,7 @@
         "voice": "GC140083.ogg"
       },
       "original": "７番機追跡",
-      "translation": "７번기추격",
+      "translation": "7번기추격",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3994,7 +3994,7 @@
         "voice": "GC940100.ogg"
       },
       "original": "計算では、これで７番機に追いつけるはずなんだよね？",
-      "translation": "계산상으로는 이걸로 ７번기를 따라잡을 수있는거지？",
+      "translation": "계산상으로는 이걸로 7번기를 따라잡을 수있는거지？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4018,7 +4018,7 @@
         "voice": "GC940101.ogg"
       },
       "original": "計算上では、な。アルモ、第２戦闘配備だ。紋章機の出撃準備を急がせろ。",
-      "translation": "계산상으로는말이지. 아르모, 제２전투배치다. 문장기 출격을 서둘러라.",
+      "translation": "계산상으로는말이지. 아르모, 제2전투배치다. 문장기 출격을 서둘러라.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4060,7 +4060,7 @@
         "voice": "GC940103.ogg"
       },
       "original": "本艦は間もなくドライヴ・アウトします。ドライヴ・アウト後、第２戦闘配備へ。エンジェル隊は出撃準備お願いします。",
-      "translation": "본함은 곧 드라이브・아웃합니다. 드라이브・아웃 후, 제２전투배치로. 엔젤대는 출격 준비 부탁합니다.",
+      "translation": "본함은 곧 드라이브・아웃합니다. 드라이브・아웃 후, 제2전투배치로. 엔젤대는 출격 준비 부탁합니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4282,7 +4282,7 @@
         "voice": "GC940105.ogg"
       },
       "original": "それだけの影響力を持つからこその、エースパイロットだろ？",
-      "translation": "그렇다고 해도, 에이스 파일럿이 사기 저하될 건 없잖아？",
+      "translation": "그만큼 영향력이 있으니 에이스 파일럿인 거잖아?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4552,7 +4552,7 @@
         "voice": "GC940111.ogg"
       },
       "original": "エンジェル隊にはああ言ったものの、７番機自体はそれほど脅威に思ってないんだ。",
-      "translation": "엔젤대에게는 그렇게 말했지만, ７번기 자체는 그리 위협적이라 생각 안 해.",
+      "translation": "엔젤대에게는 그렇게 말했지만, 7번기 자체는 그리 위협적이라 생각 안 해.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4594,7 +4594,7 @@
         "voice": "GC940112.ogg"
       },
       "original": "紋章機の強みは、戦艦級の火力と戦闘機なみの機動性を兼ね備えてることにある。だが、あの７番機は……。",
-      "translation": "문장기의 강점은 전함급 화력과 전투기급 기동성을 겸비했다는 데 있어. 하지만 저 ７번기는…….",
+      "translation": "문장기의 강점은 전함급 화력과 전투기급 기동성을 겸비했다는 데 있어. 하지만 저 7번기는…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4624,7 +4624,7 @@
         "voice": "GC940113.ogg"
       },
       "original": "そうか……他の紋章機と違って、あの７番機には……。",
-      "translation": "그렇군…… 다른 문장기와 달리, 저 ７번기에는…….",
+      "translation": "그렇군…… 다른 문장기와 달리, 저 7번기에는…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4648,7 +4648,7 @@
         "voice": "GC940113.ogg"
       },
       "original": "ああ。クロノ・ブレイク・キャノンっていう巨大な砲身をぶら下げてる以上、７番機の機動性はかなり損なわれるはずだ。",
-      "translation": "그래. 크로노・브레이크・캐논이라는 거대한 포신을 달고 있는 이상, ７번기의 기동성은 상당히 저하될 거야.",
+      "translation": "그래. 크로노・브레이크・캐논이라는 거대한 포신을 달고 있는 이상, 7번기의 기동성은 상당히 저하될 거야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4732,7 +4732,7 @@
         "voice": "GC940114.ogg"
       },
       "original": "つまり、紋章機に翼が現れるほどテンションを高めない限り、７番機はクロノ・ブレイク・キャノンを撃てない……ということか。",
-      "translation": "즉, 문장기에 날개가 나타날 정도로 텐션을 높이지 않는 한, ７번기는 크로노・브레이크・캐논을 쏠 수 없다는 건가.",
+      "translation": "즉, 문장기에 날개가 나타날 정도로 텐션을 높이지 않는 한, 7번기는 크로노・브레이크・캐논을 쏠 수 없다는 건가.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4786,7 +4786,7 @@
         "voice": "GC940114.ogg"
       },
       "original": "７番機を奪ったのがあのヴァインなら、そんなことに気づいてないはずがないんだ。",
-      "translation": "７번기를 빼앗은 게 저 바인이라면, 그런 걸 눈치채지 못했을 리가 없어.",
+      "translation": "7번기를 빼앗은 게 저 바인이라면, 그런 걸 눈치채지 못했을 리가 없어.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4924,7 +4924,7 @@
         "voice": "GC940118.ogg"
       },
       "original": "周辺宙域の調査と索敵急げ！",
-      "translation": "주변 우역 수색 서둘러！",
+      "translation": "주변 공역 수색 서둘러!",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [
@@ -4996,7 +4996,7 @@
         "voice": "GC940121.ogg"
       },
       "original": "２時方向に機影確認！　距離８０００、７番機と思われます！",
-      "translation": "２시 방향 기영 확인！ 거리 ８０００,７번기로추정됩니다！",
+      "translation": "2시 방향 기영 확인！ 거리 8000,7번기로추정됩니다！",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5146,7 +5146,7 @@
         "voice": "GC140200.ogg"
       },
       "original": "それは、今から頼んでみるよ。お互い急ぎの身だから、時間が取れるといいんだけどね。アルモ、７番機に通信頼む。",
-      "translation": "그건 지금부터 물어볼게. 서로 바쁜 몸이니까 시간이 나면 좋겠네. 아르모, ７번기에 통신 부탁해.",
+      "translation": "그건 지금부터 물어볼게. 서로 바쁜 몸이니까 시간이 나면 좋겠네. 아르모, 7번기에 통신 부탁해.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5176,7 +5176,7 @@
         "voice": "GC140200.ogg"
       },
       "original": "アルモ、７番機に通信頼む。",
-      "translation": "아르모,７번기에통신부탁해.",
+      "translation": "아르모,7번기에통신부탁해.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5194,7 +5194,7 @@
         "voice": "GC140201.ogg"
       },
       "original": "……あっ、マイヤーズ司令！　７番機の方から通信が入ってきました！",
-      "translation": "……앗, 마이어스 사령관님！ ７번기 쪽에서 통신이 왔습니다！",
+      "translation": "……앗, 마이어스 사령관！ 7번기 쪽에서 통신이 왔습니다！",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5278,7 +5278,7 @@
         "voice": "GC140201.ogg"
       },
       "original": "……あっ、マイヤーズ司令！　７番機の方から通信が入ってきました！",
-      "translation": "……앗, 마이어스 사령관님！ ７번기 쪽에서 통신이 왔습니다！",
+      "translation": "……앗, 마이어스 사령관！ 7번기 쪽에서 통신이 왔습니다！",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5932,7 +5932,7 @@
         "voice": "GC140215.ogg"
       },
       "original": "気になりますか、『姉さん』のことが？　ええ、『姉さん』ならいますよ、ここに。",
-      "translation": "『언니』가 궁금한 건가요？ 네, 『언니』라면 여기 있어요.\n",
+      "translation": "『누나』가 궁금한 건가요？ 네, 『누나』라면 여기 있어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6214,7 +6214,7 @@
         "voice": "GC140220.ogg"
       },
       "original": "同じ人間に向かって、人形はひどいんじゃないですか？　間違いなく、皆さんが知っている『姉さん』ですよ。",
-      "translation": "같은 인간을 두고 인형이라니 너무하잖아요？ 틀림없이 여러분이 아는 『언니』예요.\n",
+      "translation": "같은 인간을 두고 인형이라니 너무하잖아요？ 틀림없이 여러분이 아는 『누나』예요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6244,7 +6244,7 @@
         "voice": "GC140221.ogg"
       },
       "original": "そうだよね……『姉さん』？",
-      "translation": "그렇지……？ 『언니』？\n",
+      "translation": "그렇지……？ 『누나』？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6304,7 +6304,7 @@
         "voice": "GC140223.ogg"
       },
       "original": "……えっ！？",
-      "translation": "……엣！？\n",
+      "translation": "……어!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6322,7 +6322,7 @@
         "voice": "GC140224.ogg"
       },
       "original": "ほら、『姉さん』でしょう？　こうして、ちゃんと笑ってるじゃないですか。",
-      "translation": "봐요, 『언니』잖아요？ 이렇게 제대로 웃고 있잖아요.\n",
+      "translation": "봐요, 『누나』잖아요？ 이렇게 제대로 웃고 있잖아요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6526,7 +6526,7 @@
         "voice": "GC140229.ogg"
       },
       "original": "どうやら、お気に召さないようですね。『姉さん』、もういいよ。",
-      "translation": "아무래도, 마음에 들지 않나 보군요. 『언니』, 이제 됐어.",
+      "translation": "아무래도, 마음에 들지 않나 보군요. 『누나』, 이제 됐어.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6574,7 +6574,7 @@
         "voice": "GC140232.ogg"
       },
       "original": "どうです、タクトさん？　『姉さん』のどんな表情がお好みですか？",
-      "translation": "어때요, 택트 씨？ 『언니』의 어떤 표정이 취향인가요？",
+      "translation": "어때요, 택트 씨？ 『누나』의 어떤 표정이 취향인가요？",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6982,7 +6982,7 @@
         "voice": "GC140243.ogg"
       },
       "original": "僕は、ぜひともそれをこの目で見たかった。そのために必要だったのが……『姉さん』さ。大事に扱わないわけがないでしょう？",
-      "translation": "전 꼭 그것을 직접 보고 싶었습니다. 그러기 위해 필요했던 것이 바로… 『언니』예요. 소중히 다루지 않을리가없잖아요？",
+      "translation": "전 꼭 그것을 직접 보고 싶었습니다. 그러기 위해 필요했던 것이 바로… 『누나』예요. 소중히 다루지 않을리가없잖아요？",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7168,7 +7168,7 @@
         "voice": "GC140248.ogg"
       },
       "original": "その結果が、７番機とクロノ・ブレイク・キャノンの強奪か……。",
-      "translation": "그 결과가 ７번기와 크로노・브레이크・캐논의 탈취인가…….\n",
+      "translation": "그 결과가 7번기와 크로노・브레이크・캐논의 탈취인가…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8296,7 +8296,7 @@
         "voice": "GC340211.ogg"
       },
       "original": "参考までに……ふふふ、タクトさんは、どの『姉さん』がお好みでしたか？",
-      "translation": "참고로…… 후후후, 택트 씨는 어떤 『언니』가 좋으셨나요？",
+      "translation": "참고로…… 후후후, 택트 씨는 어떤 『누나』가 좋으셨나요？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9736,7 +9736,7 @@
         "voice": "GC440274.ogg"
       },
       "original": "……たった１機の紋章機で、アタシたち全員を相手にしようってわけ？",
-      "translation": "……고작 １기의 문장기로 우리 모두를 상대하겠다는 거야？\n",
+      "translation": "……고작 1기의 문장기로 우리 모두를 상대하겠다는 거야？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9760,7 +9760,7 @@
         "voice": "GC140273.ogg"
       },
       "original": "はっ、余裕じゃないか。たった１機の紋章機で、あたしら全員を相手にしようってのかい？",
-      "translation": "핫, 여유 넘치는데. 고작 １기의 문장기로 우리 전부를 상대하겠다는 거냐고？\n",
+      "translation": "핫, 여유 넘치는데. 고작 1기의 문장기로 우리 전부를 상대하겠다는 거냐고？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10384,7 +10384,7 @@
         "voice": "GC140286.ogg"
       },
       "original": "えっ！？",
-      "translation": "엣！？",
+      "translation": "어!?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -10420,7 +10420,7 @@
         "voice": "GC140288.ogg"
       },
       "original": "エルシオールの後方１５０００の距離に、多数のドライヴ・アウト反応！　『ヴァル・ファスク』艦隊です！！",
-      "translation": "에르시올 후방 １５,０００ 거리에서 다수의 드라이브・아웃 반응！ 『발・파스크』 함대입니다！！\n",
+      "translation": "에르시올 후방 15,000 거리에서 다수의 드라이브・아웃 반응！ 『발・파스크』 함대입니다！！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10558,7 +10558,7 @@
         "voice": "GC140292.ogg"
       },
       "original": "はい。ロウィルが用意した分艦隊は、５つではなく、６つだった……どうやら、僕は勘違いしていたようです。",
-      "translation": "네. 로윌이 준비한 분함대는 ５개가 아니라 ６개였습니다…… 아무래도 제가 착각했던 모양이군요.\n",
+      "translation": "네. 로윌이 준비한 분함대는 5개가 아니라 6개였습니다…… 아무래도 제가 착각했던 모양이군요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10672,7 +10672,7 @@
         "voice": "GC140294.ogg"
       },
       "original": "いつでもＯＫさ。",
-      "translation": "언제든 ＯＫ야.\n",
+      "translation": "언제든 OK야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10756,7 +10756,7 @@
         "voice": "GC140296.ogg"
       },
       "original": "７番機はいかがいたしましょうか？",
-      "translation": "７번기는 어떻게 할까요？\n",
+      "translation": "7번기는 어떻게 할까요？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10774,7 +10774,7 @@
         "voice": "GC140296.ogg"
       },
       "original": "今の状態の７番機なら、クロノ・ブレイク・キャノンは撃てないはずだから、牽制するだけでいい。",
-      "translation": "지금 상태의 ７번기라면 크로노・브레이크・캐논은 못 쏠 테니까, 견제만 하면 돼.\n",
+      "translation": "지금 상태의 7번기라면 크로노・브레이크・캐논은 못 쏠 테니까, 견제만 하면 돼.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10804,7 +10804,7 @@
         "voice": "GC240214.ogg"
       },
       "original": "７番機はどうしましょう……？",
-      "translation": "７번기는 어떻게 하죠……？\n",
+      "translation": "7번기는 어떻게 하죠……？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10822,7 +10822,7 @@
         "voice": "GC240214.ogg"
       },
       "original": "今の状態の７番機なら、クロノ・ブレイク・キャノンは撃てないはずだから、牽制するだけでいい。",
-      "translation": "지금 상태의 ７번기라면 크로노・브레이크・캐논은 못 쏠 테니까, 견제만 하면 돼.\n",
+      "translation": "지금 상태의 7번기라면 크로노・브레이크・캐논은 못 쏠 테니까, 견제만 하면 돼.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11140,7 +11140,7 @@
         "voice": "GC140304.ogg"
       },
       "original": "翼を出現させる７番機",
-      "translation": "날개를 펼치는 ７번기",
+      "translation": "날개를 펼치는 7번기",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11212,7 +11212,7 @@
         "voice": "GC140402.ogg"
       },
       "original": "７番機に……光の翼が……。",
-      "translation": "７번기에… 빛의 날개가….",
+      "translation": "7번기에… 빛의 날개가….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11548,7 +11548,7 @@
         "voice": "GC140408.ogg"
       },
       "original": "まずいぞタクト。これで７番機に不利な条件は消えた。今のエンジェル隊の状態では……。",
-      "translation": "위험해 택트. 이걸로 ７번기의 불리한 조건은 사라졌어. 지금의 엔젤대 상태로는…….\n",
+      "translation": "위험해 택트. 이걸로 7번기의 불리한 조건은 사라졌어. 지금의 엔젤대 상태로는…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11572,7 +11572,7 @@
         "voice": "GC140409.ogg"
       },
       "original": "７番機に……勝てない……！？",
-      "translation": "７번기에게…… 못 이겨……！",
+      "translation": "7번기에게…… 못 이겨……！",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11980,7 +11980,7 @@
         "voice": "GC340303.ogg"
       },
       "original": "黙って人の心を探るのは、あまり感心できませんね、と。",
-      "translation": "몰래남의 마음을 탐내는 건 별로 권장할 만하지않군요.",
+      "translation": "몰래 남의 마음을 들여다보는 건 별로 좋지 않군요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -13612,7 +13612,7 @@
         "voice": "GC140509.ogg"
       },
       "original": "マイヤーズ司令、７番機より通信です。",
-      "translation": "마이어스 사령관님, ７번기통신입니다.",
+      "translation": "마이어스 사령관, 7번기통신입니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13894,7 +13894,7 @@
         "voice": "GC140517.ogg"
       },
       "original": "タクト、７番機を見て！",
-      "translation": "택트, ７번기를 봐！",
+      "translation": "택트, 7번기를 봐！",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13912,7 +13912,7 @@
         "voice": "GC240404.ogg"
       },
       "original": "タクトさん、７番機を見てください！",
-      "translation": "택트 씨, ７번기를 보세요！",
+      "translation": "택트 씨, 7번기를 보세요！",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14230,7 +14230,7 @@
         "voice": "GC140527.ogg"
       },
       "original": "さて……もうそろそろ精神が焼き切れる頃合いかな？　どうだい、『姉さん』？",
-      "translation": "자…… 슬슬 정신이 타버릴 때가 됐나？ 어때, 『언니』？",
+      "translation": "자…… 슬슬 정신이 타버릴 때가 됐나？ 어때, 『누나』？",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14314,7 +14314,7 @@
         "voice": "GC140529.ogg"
       },
       "original": "任務のためとはいえ、人間の女を『姉』などと呼んだこと。そればかりか君も、この女を僕の『姉』と言う。",
-      "translation": "임무 때문이라지만 인간 여자를 『언니』라 부른 것. 게다가 너도 이 여자를 내 『언니』라고 불러.",
+      "translation": "임무 때문이라지만 인간 여자를 『누나』라 부른 것. 게다가 너도 이 여자를 내 『누나』라고 불러.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14452,7 +14452,7 @@
         "voice": "GC140533.ogg"
       },
       "original": "この女が壊れれば、僕の怒りはおさまる。そのあと、君たちが僕をなぶり殺しにしたとしても、それだけで十分満足なんだ。",
-      "translation": "이 여자가 부서지면 내 분노는 가라앉는다. 그 후 너희가 나를 죽게 내버려 둔다 해도, 그것만으로 충분히 만족해.",
+      "translation": "이 여자가 부서지면 내 분노는 가라앉는다. 그 뒤 너희가 날 괴롭혀 죽여도, 그것만으로 충분히 만족해.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15922,7 +15922,7 @@
         "voice": "GC440574.ogg"
       },
       "original": "確かに、ここをなんとかしないと、７番機どころじゃないわね……。",
-      "translation": "확실히, 여기를 어떻게든 하지 않으면 ７번기는커녕…….",
+      "translation": "확실히, 여기를 어떻게든 하지 않으면 7번기는커녕…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15946,7 +15946,7 @@
         "voice": "GC540569.ogg"
       },
       "original": "確かに、ここをなんとかしないと、７番機どころじゃないですね……。",
-      "translation": "확실히, 여기를 해결 못 하면 ７번기 수준이 아니겠네요…….",
+      "translation": "확실히, 여기를 해결 못 하면 7번기 수준이 아니겠네요…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16330,7 +16330,7 @@
         "voice": "GC140606.ogg"
       },
       "original": "７番機の正面から離れるんだーーーー！！",
-      "translation": "７번기 정면에서 떨어져라ーーーー！！\n",
+      "translation": "7번기 정면에서 떨어져라ーーーー！！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16714,7 +16714,7 @@
         "voice": "GC140619.ogg"
       },
       "original": "まさかクロノ・ブレイク・キャノンが、自分たちに向けて撃たれるとは思っていませんでしたわ……。",
-      "translation": "설마 크로노・브레이크・캐논이, 저희를 향해 발사될 줄은 생각지도 못했습니다와…….\n",
+      "translation": "설마 크로노・브레이크・캐논이 저희를 향해 발사될 줄은 생각지도 못했어요…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16846,7 +16846,7 @@
         "voice": "GC140622.ogg"
       },
       "original": "敵艦隊と７番機の両方から距離を取るんだ！エンジェル隊は、エルシオールのそばへ！体勢を立て直す！",
-      "translation": "적 함대와 ７번기 양쪽 모두에서 거리를 둬라！ 엔젤대는 에르시올 근처로！ 태세를 재정비한다！\n",
+      "translation": "적 함대와 7번기 양쪽 모두에서 거리를 둬라！ 엔젤대는 에르시올 근처로！ 태세를 재정비한다！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16954,7 +16954,7 @@
         "voice": "GC140901.ogg"
       },
       "original": "こちら第１１艦隊旗艦、ペンローズ。エルシオール、ご無事ですか？",
-      "translation": "여기는 제１１함대 기함, 펜로즈. 에르시올, 무사한가？\n",
+      "translation": "여기는 제11함대 기함, 펜로즈. 에르시올, 무사한가？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17080,7 +17080,7 @@
         "voice": "GC140903.ogg"
       },
       "original": "ありがとう。第１１艦隊に心から感謝する。",
-      "translation": "고맙다. 제１１함대에 진심으로 감사한다.\n",
+      "translation": "고맙다. 제11함대에 진심으로 감사한다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17122,7 +17122,7 @@
         "voice": "GC140905.ogg"
       },
       "original": "第１１艦隊、『ヴァル・ファスク』艦隊と交戦開始！　押してます！",
-      "translation": "제１１함대, 『발・파스크』함대와교전개시！밀어붙이고있습니다！",
+      "translation": "제11함대, 『발・파스크』함대와교전개시！밀어붙이고있습니다！",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17260,7 +17260,7 @@
         "voice": "GC140909.ogg"
       },
       "original": "オレも、心からそう思うよ……。ルフト将軍にも、シャトヤーン様にも、もう絶対頭が上がらないな。",
-      "translation": "나도 그래……. 루프트 장군과 샤토얀 님께 정말 면목이 없겠어.",
+      "translation": "나도 그래……. 루프트 장군과 샤토얀 님께 이제 고개를 못 들겠어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18616,7 +18616,7 @@
         "voice": "GC140921.ogg"
       },
       "original": "７番機もクロノ・ブレイク・キャノンも取り戻せなかった……。",
-      "translation": "７번기도 크로노・브레이크・캐논도 되찾지 못했어…….\n",
+      "translation": "7번기도 크로노・브레이크・캐논도 되찾지 못했어…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -19012,7 +19012,7 @@
         "voice": "GC140925.ogg"
       },
       "original": "進路をブリス星系へ。これより、『白き月』に帰還する。",
-      "translation": "진로를 블리스 성계로. 이제 『백색 달』로 귀환한다.",
+      "translation": "진로를 브리스 성계로. 이제 『백색 달』로 귀환한다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19198,7 +19198,7 @@
         "voice": "GC140926.ogg"
       },
       "original": "ヴァインはオレたちを探りにきた『ヴァル・ファスク』で、ルシャーティはそのヴァインに操られていたらしい……。",
-      "translation": "바인은 우리를 찾으러 온 『발・파스크』에서, 루샤티는 그 바인에게 조종당하고 있었던 모양이다…….\n",
+      "translation": "바인은 우리를 탐색하러 온 『발・파스크』였고, 루샤티는 그 바인에게 조종당하고 있었던 모양이다…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20518,7 +20518,7 @@
         "voice": "GC141002.ogg"
       },
       "original": "ごめん、ノア……。７番機も、クロノ・ブレイク・キャノンも取り戻すことができなかった……。",
-      "translation": "미안해, 노아……. ７번기랑 크로노・브레이크・캐논도 되찾지 못했어…….\n",
+      "translation": "미안해, 노아……. 7번기랑 크로노・브레이크・캐논도 되찾지 못했어…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

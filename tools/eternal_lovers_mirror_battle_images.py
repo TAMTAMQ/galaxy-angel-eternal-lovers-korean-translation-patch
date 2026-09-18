@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Mirror the translated battle textures into the per-stage resource banks.
 
-``SLGRES`` and ``SLGSTAGE`` carry their own copies of the ``dat/slg/2dparts`` textures — the
-same picture, stored again inside each stage's bank.  Patching only ``SLG`` therefore leaves
-those copies Japanese, and the game loads them during a battle.
+``SLGRES``, ``SLGSTAGE`` and ``ADV`` carry their own copies of the ``dat/slg/2dparts`` textures —
+the same picture, stored again inside runtime banks. Patching only ``SLG`` therefore leaves
+some copies Japanese, and the game can load those stale copies during a battle.
 
 The image patcher can chase a copy through ``--runtime-container``, but only when the copy's
 *compressed* bytes are identical to the primary's.  Around 140 of these banks re-compressed
@@ -20,7 +20,7 @@ import shutil
 from pathlib import Path
 
 
-MIRROR_CONTAINERS = ("SLGRES", "SLGSTAGE")
+MIRROR_CONTAINERS = ("SLGRES", "SLGSTAGE", "ADV")
 
 
 def load_resources(project: Path, container: str) -> list[dict]:

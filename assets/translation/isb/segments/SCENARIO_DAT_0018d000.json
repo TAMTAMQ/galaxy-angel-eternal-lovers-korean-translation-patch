@@ -645,7 +645,7 @@
         "voice": "GC460010.ogg"
       },
       "original": "頑張ってください、マイヤーズ司令。",
-      "translation": "힘내세요, 마이어스 사령님.\n",
+      "translation": "힘내세요, 마이어스 사령관.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -705,7 +705,7 @@
         "voice": "GC160037.ogg"
       },
       "original": "フォルテを見守るタクトたち",
-      "translation": "포르테를 지켜보는 택트일행",
+      "translation": "포르테를 보는 택트 일행",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1449,7 +1449,7 @@
         "voice": "GC460116.ogg"
       },
       "original": "え！　フォルテ、ちょっと！",
-      "translation": "에！ 포르테, 잠깐！\n",
+      "translation": "엣! 포르테, 잠깐!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1593,7 +1593,7 @@
         "voice": "GC460120.ogg"
       },
       "original": "へ？",
-      "translation": "헤？\n",
+      "translation": "어?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2235,7 +2235,7 @@
         "voice": "GC460139.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "엣?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3141,7 +3141,7 @@
         "voice": "GC460162.ogg"
       },
       "original": "え！　今からまた訓練を……！？",
-      "translation": "에！ 지금 다시 훈련을……！？\n",
+      "translation": "엣! 지금 다시 훈련을……!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3207,7 +3207,7 @@
         "voice": "GC460163.ogg"
       },
       "original": "ひたむきに訓練を続けるフォルテ",
-      "translation": "한결같이 훈련을 계속하는포르테",
+      "translation": "한결같이 훈련하는 포르테",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4179,7 +4179,7 @@
         "voice": "GC460221.ogg"
       },
       "original": "うーん…………。そうか。なんとかならないかなぁ。やっぱり、７番機を取り戻して、そのＨ．Ａ．Ｌ．Ｏ．に頼るしかないか……。",
-      "translation": "으음………… 그렇구나. 어떻게 안 될까. 역시 ７번기를 되찾아서 그 Ｈ.Ａ.Ｌ.Ｏ.에 의지할 수밖에 없나…….\n",
+      "translation": "으음………… 그렇구나. 어떻게 안 될까. 역시 7번기를 되찾아서 그 H.A.L.O.에 의지할 수밖에 없나…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4281,7 +4281,7 @@
         "voice": "GC460224.ogg"
       },
       "original": "ああ。だとしたら永遠に７番機は戻ってこないからね。",
-      "translation": "아아. 그렇다면 영원히 ７번기는 돌아오지 않으니까.\n",
+      "translation": "아아. 그렇다면 영원히 7번기는 돌아오지 않으니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4737,7 +4737,7 @@
         "voice": "GC460236.ogg"
       },
       "original": "そうですか……やっぱり、７番機がないとダメなのか……。",
-      "translation": "그렇군요…… 역시 ７번기가 없으면 안 되는 건가…….\n",
+      "translation": "그렇군요…… 역시 7번기가 없으면 안 되는 건가…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5145,7 +5145,7 @@
         "voice": "GC160400.ogg"
       },
       "original": "おはようございます、マイヤーズ司令。",
-      "translation": "좋은 아침입니다, 마이어스 사령관님.",
+      "translation": "좋은 아침입니다, 마이어스 사령관.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5223,7 +5223,7 @@
         "voice": "GC160403.ogg"
       },
       "original": "強いて言えば、このＥＤＥＮに来るまで、ずっとブリッジで仕事をしていたマイヤーズ司令が一番変わったことだったかと。",
-      "translation": "굳이 말하자면, 이 EDEN에 오기 전까지 계속 함교에서 일만 하던 마이어스 사령관님이 가장 바뀐 점일까요.",
+      "translation": "굳이 말하자면, EDEN에 오기 전까지 계속 함교에서 일만 하던 마이어스 사령관이 가장 바뀐 점일까요.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5337,7 +5337,7 @@
         "voice": "GC160406.ogg"
       },
       "original": "今日はスカイパレス全域の視察、あと、ＥＤＥＮ暫定評議会の要人の方々との会食が３件ほど入ってます。",
-      "translation": "오늘은 스카이팔레스 전역 시찰과 EDEN 잠정 평의회 요인들과의 회식이 ３건 있습니다.",
+      "translation": "오늘은 스카이팔레스 전역 시찰과 EDEN 잠정 평의회 요인들과의 회식이 3건 있습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5487,7 +5487,7 @@
         "voice": "GC460246.ogg"
       },
       "original": "それよりマイヤーズ司令、フォルテさんはどうなんですか？　あの、調子の方は……。",
-      "translation": "그보다 마이어스 사령관님, 포르테 씨는 어떤가요？ 저기, 상태는…….\n",
+      "translation": "그보다 마이어스 사령관, 포르테 씨는 어떤가요? 저기, 상태는…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5673,7 +5673,7 @@
         "voice": "GC460251.ogg"
       },
       "original": "フォルテさんもそうですけど、無理はよくないですよ。マイヤーズ司令。",
-      "translation": "포르테 씨도 그렇지만 무리는 좋지 않아요, 마이어스 사령관님.\n",
+      "translation": "포르테 씨도 그렇지만 무리는 좋지 않아요, 마이어스 사령관.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6099,7 +6099,7 @@
         "voice": "GC460260.ogg"
       },
       "original": "結局、１時間近くか……。うーん、フォルテつらそうだったな……。どうしたらいいんだろう……。",
-      "translation": "결국, １시간 가까이인가……. 음, 포르테 괴로워 보였는데…… 어떻게 해야 할까…….\n",
+      "translation": "결국, 1시간 가까이인가……. 음, 포르테 괴로워 보였는데…… 어떻게 해야 할까…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6129,7 +6129,7 @@
         "voice": "GC160506.ogg"
       },
       "original": "は～、やっぱり『白き月』は落ち着くわね。",
-      "translation": "하아～ 역시『백색달』은마음이편안해지네.",
+      "translation": "하아～, 역시 『백색 달』은 편안하네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6261,7 +6261,7 @@
         "voice": "GC160510.ogg"
       },
       "original": "だってさ。",
-      "translation": "라나래.\n",
+      "translation": "그렇대.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6687,7 +6687,7 @@
         "voice": "GC160561.ogg"
       },
       "original": "先輩方がそうおっしゃるなら、私に異論はありません。",
-      "translation": "선배님들이그렇게 말씀하신다면,저도이견은없습니다.",
+      "translation": "선배들이 그렇다면, 저도 이견은 없습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6843,7 +6843,7 @@
         "voice": "GC160569.ogg"
       },
       "original": "議長閣下がぜひに、とのことです。マイヤーズ司令。",
-      "translation": "의장각하께서 꼭 오라 하십니다,마이어스사령관님.",
+      "translation": "의장 각하께서 꼭 오라 하십니다, 마이어스 사령관.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7563,7 +7563,7 @@
         "voice": "GC460420.ogg"
       },
       "original": "えぇっ！？　じゃあ、タクトもパーティーを",
-      "translation": "에엣！？ 그럼, 택트도 파티를\n",
+      "translation": "네!? 그럼, 택트도 파티를\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7599,7 +7599,7 @@
         "voice": "GC460421.ogg"
       },
       "original": "そ、そんな……。",
-      "translation": "그, 그럴수가……",
+      "translation": "그, 그런…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8217,7 +8217,7 @@
         "voice": "GC460510.ogg"
       },
       "original": "あ……タクト……。だ、大丈夫さ……。ちょっと、立ちくらみで倒れただけ……。",
-      "translation": "아…… 택트……. 개, 괜찮아……. 그냥, 빈혈로 쓰러진 것뿐이야…….\n",
+      "translation": "아…… 택트……. 괘, 괜찮아……. 그냥, 현기증으로 쓰러졌을 뿐이야…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9201,7 +9201,7 @@
         "voice": "GC460532.ogg"
       },
       "original": "え……！　フォルテ、起きて……！？",
-      "translation": "에……！ 포르테, 일어나 봐……！？\n",
+      "translation": "엣……! 포르테, 일어나 봐……!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9369,7 +9369,7 @@
         "voice": "GC460536.ogg"
       },
       "original": "ほえ……？　あぁ、あのままオレも寝ちゃったんだ……。ん？　毛布がかかってる……。",
-      "translation": "호에……？ 아, 그대로 나도 잠들어 버렸구나……. 응？ 담요가 덮여 있어…….\n",
+      "translation": "어……? 아, 그대로 나도 잠들어 버렸구나……. 응? 담요가 덮여 있어…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9501,7 +9501,7 @@
         "voice": "GC460538.ogg"
       },
       "original": "寝ぼすけな司令官どのだね、寝ぐせがついてるよ。ほらほら。",
-      "translation": "잠꾸러기 사령관님이라니까, 머리가 뻗쳤어. 자, 자.\n",
+      "translation": "잠꾸러기 사령관나리라니까, 머리가 뻗쳤어. 자, 자.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9819,7 +9819,7 @@
         "voice": "GC460546.ogg"
       },
       "original": "さっさと会場に行け！　みんなお待ちかねだぞ！",
-      "translation": "얼른 회장으로 가자！ 다들 기다리고 있다고！\n",
+      "translation": "얼른 행사장으로 가! 다들 기다리고 있어!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10017,7 +10017,7 @@
         "voice": "GC460603.ogg"
       },
       "original": "え……！",
-      "translation": "에……！\n",
+      "translation": "엣……!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10755,7 +10755,7 @@
         "voice": "GC160740.ogg"
       },
       "original": "乱暴な発想ね。",
-      "translation": "무모한발상이네",
+      "translation": "거친 발상이네",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -10839,7 +10839,7 @@
         "voice": "GC160744.ogg"
       },
       "original": "そんなわけで、タクトにもうひとつ宿題。７番機とクロノ・ブレイク・キャノンはもとより、ルシャーティも必ず救助するのよ。",
-      "translation": "그런 이유로 택트에게 숙제 하나 더. ７번기와 크로노・브레이크・캐논은 물론이고, 루샤티도 반드시 구출해야 해.\n",
+      "translation": "그런 이유로 택트에게 숙제 하나 더. 7번기와 크로노・브레이크・캐논은 물론이고, 루샤티도 반드시 구출해야 해.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -10917,7 +10917,7 @@
         "voice": "GC160746.ogg"
       },
       "original": "あたしも今、クロノ・クェイクのかわりに、Ｈ．Ａ．Ｌ．Ｏ．関連を優先的に調べてるから。",
-      "translation": "나도 지금 크로노・퀘이크 대신 Ｈ.Ａ.Ｌ.Ｏ. 관련을 우선적으로 조사하고 있으니까.\n",
+      "translation": "나도 지금 크로노・퀘이크 대신 H.A.L.O. 관련을 우선 조사하고 있으니까.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11085,7 +11085,7 @@
         "voice": "GC460621.ogg"
       },
       "original": "フォルテ、あとで踊る約束、忘れてないよね。",
-      "translation": "포르테, 나중에 춤추기로 한 약속, 안잊었지?",
+      "translation": "포르테, 춤 약속 안 잊었지?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11517,7 +11517,7 @@
         "voice": "GC460708.ogg"
       },
       "original": "え？　なにを？",
-      "translation": "에？ 뭘？",
+      "translation": "엣? 뭘?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11655,7 +11655,7 @@
         "voice": "GC460712.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "엣……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12723,7 +12723,7 @@
         "voice": "GC460900.ogg"
       },
       "original": "結局、７番機なしであの障害を克服することができた……そういうことなわけ？",
-      "translation": "결국 ７번기 없이 그 장애를 극복할 수 있었다……는 건가？\n",
+      "translation": "결국 7번기 없이 그 장애를 극복할 수 있었다……는 건가?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12789,7 +12789,7 @@
         "voice": "GC460902.ogg"
       },
       "original": "ノアにも心配かけたね。",
-      "translation": "노아에게도 걱정끼쳤네.",
+      "translation": "노아도 걱정시켰네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12903,7 +12903,7 @@
         "voice": "GC460906.ogg"
       },
       "original": "なんか、ほんっとうに愛の力ってかんじだよね～。",
-      "translation": "왠지 정말 사랑의 힘이라는 느낌이네～\\.\n",
+      "translation": "왠지 정말 사랑의 힘이라는 느낌이네～.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13401,7 +13401,7 @@
         "voice": "GC161030.ogg"
       },
       "original": "あと残された問題は、クロノ・ブレイク・キャノンと７番機だけですわね。",
-      "translation": "남은 문제는 크로노・브레이크・캐논과 ７번기뿐이겠네요.\n",
+      "translation": "남은 문제는 크로노・브레이크・캐논과 7번기뿐이겠네요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13845,7 +13845,7 @@
         "voice": "GC161130.ogg"
       },
       "original": "タ、タクトさん……。",
-      "translation": "택, 택트 씨…….\n",
+      "translation": "타, 택트 씨…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13863,7 +13863,7 @@
         "voice": "GC461001.ogg"
       },
       "original": "みんなお疲れさん。それで、７番機のパイロットは……？",
-      "translation": "다들 수고했어. 그래서, ７번기의 파일럿은……？\n",
+      "translation": "다들 수고했어. 그래서, 7번기의 파일럿은……?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15657,7 +15657,7 @@
         "voice": "GC461206.ogg"
       },
       "original": "じゃあ、７番機で『ヴァル・ファスク』から逃げてきたことも……。",
-      "translation": "그럼, ７번기로 『발・파스크』에서 도망쳐 온 것도…….\n",
+      "translation": "그럼, 7번기로 『발・파스크』에서 도망쳐 온 것도…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15903,7 +15903,7 @@
         "voice": "GC161319.ogg"
       },
       "original": "言わないで……ください……。",
-      "translation": "말하지 말아... 주세요...\n",
+      "translation": "말하지 말아…… 주세요…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -16011,7 +16011,7 @@
         "voice": "GC161323.ogg"
       },
       "original": "いつしか、あの人を追い越してしまった私を見上げる、少し寂しげな瞳……。",
-      "translation": "언제부턴가, 그 사람을 앞질러 버린 나를올려다보는,조금쓸쓸한눈동자…….",
+      "translation": "언제부턴가 그를 앞질러 버린 나를 올려다보는, 조금 쓸쓸한 눈동자…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17481,7 +17481,7 @@
         "voice": "GC161822.ogg"
       },
       "original": "私たちにできることをやるだけです……。",
-      "translation": "저희가 할 수 있는 일을 할뿐입니다…….",
+      "translation": "저희는 할 일을 할 뿐입니다…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18141,7 +18141,7 @@
         "voice": "GC460603.ogg"
       },
       "original": "え……！",
-      "translation": "에……！\n",
+      "translation": "엣……!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -18879,7 +18879,7 @@
         "voice": "GC160740.ogg"
       },
       "original": "乱暴な発想ね。",
-      "translation": "무모한발상이네",
+      "translation": "거친 발상이네",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -18963,7 +18963,7 @@
         "voice": "GC160744.ogg"
       },
       "original": "そんなわけで、タクトにもうひとつ宿題。７番機とクロノ・ブレイク・キャノンはもとより、ルシャーティも必ず救助するのよ。",
-      "translation": "그런 이유로 택트에게 숙제 하나 더. ７번기와 크로노・브레이크・캐논은 물론이고, 루샤티도 반드시 구출해야 해.\n",
+      "translation": "그런 이유로 택트에게 숙제 하나 더. 7번기와 크로노・브레이크・캐논은 물론이고, 루샤티도 반드시 구출해야 해.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19041,7 +19041,7 @@
         "voice": "GC160746.ogg"
       },
       "original": "あたしも今、クロノ・クェイクのかわりに、Ｈ．Ａ．Ｌ．Ｏ．関連を優先的に調べてるから。",
-      "translation": "나도 지금 크로노・퀘이크 대신 Ｈ.Ａ.Ｌ.Ｏ. 관련을 우선적으로 조사하고 있으니까.\n",
+      "translation": "나도 지금 크로노・퀘이크 대신 H.A.L.O. 관련을 우선 조사하고 있으니까.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19209,7 +19209,7 @@
         "voice": "GC460621.ogg"
       },
       "original": "フォルテ、あとで踊る約束、忘れてないよね。",
-      "translation": "포르테, 나중에 춤추기로 한 약속, 안잊었지?",
+      "translation": "포르테, 춤 약속 안 잊었지?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

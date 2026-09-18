@@ -30,7 +30,7 @@
         "voice": null
       },
       "original": "格納庫・フォルテがＥＤＥＮ姉弟に紋章機を紹介",
-      "translation": "격납고・포르테가 EDEN 남매에게문장기소개",
+      "translation": "격납고・포르테가 EDEN 남매에게 문장기 소개",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -546,7 +546,7 @@
         "voice": "GC425017.ogg"
       },
       "original": "え？　何か言い忘れたことがあったかな。",
-      "translation": "에？ 내가 말 안 한 게 있었나.\n",
+      "translation": "어? 내가 말 안 한 게 있었나.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -582,7 +582,7 @@
         "voice": "GC425018.ogg"
       },
       "original": "ええと……。",
-      "translation": "어라…….",
+      "translation": "음…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -642,7 +642,7 @@
         "voice": "GC425019.ogg"
       },
       "original": "えー？　それじゃあのシャトヤーン様とか？それともノア？",
-      "translation": "에이～ 그럼 그 샤토얀 님이라든가？ 아니면 노아？\n",
+      "translation": "어ー? 그럼 샤토얀 님이라든가? 아니면 노아?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -666,7 +666,7 @@
         "voice": "GC425019.ogg"
       },
       "original": "シヴァ様にもお世話になっているし。大穴でルフト先生とか。",
-      "translation": "시바 님께도 신세를 지고 있고, 루프트 선생님 같은 분도.",
+      "translation": "시바 님께도 신세졌고, 의외로 루프트 선생님이라든가.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -690,7 +690,7 @@
         "voice": "GC425020.ogg"
       },
       "original": "やれやれ、一番の大事な人間を忘れるんだから、タクトも間が抜けてるよ。",
-      "translation": "이런이런, 가장 중요한 인물을 잊어버리다니 택트도 한참 모자라네.\n",
+      "translation": "이런이런, 가장 중요한 사람을 잊다니 택트도 참 덜렁댄다니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -714,7 +714,7 @@
         "voice": "GC425020.ogg"
       },
       "original": "えー、誰なんだい？　オレにはさっぱりわからないよ。",
-      "translation": "에이～ 누구 말이야？ 난 전혀 모르겠는데.\n",
+      "translation": "에ー, 누구 말이야? 난 전혀 모르겠는데.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -762,7 +762,7 @@
         "voice": "GC425021.ogg"
       },
       "original": "え？　オレ？",
-      "translation": "에？ 나？\n",
+      "translation": "어? 나?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -780,7 +780,7 @@
         "voice": "GC425022.ogg"
       },
       "original": "そうさ。どんなにやばいときでも的確な指揮で判断を下す。一見頼りなさそうで、実はねばり強い。",
-      "translation": "그래. 어떤 위기에도 정확한 지휘를 내리지. 언뜻 의지할 수 없어 보여도 사실은 끈기 있어.",
+      "translation": "그래. 어떤 위기에도 정확히 판단하고 지휘하지. 언뜻 못 미더워 보여도 사실은 끈기 있어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1014,7 +1014,7 @@
         "voice": "GC425027.ogg"
       },
       "original": "射撃訓練場・フォルテがＥＤＥＮ姉弟に銃を紹介",
-      "translation": "사격 훈련장・포르테가 EDEN남매에게총소개",
+      "translation": "사격 훈련장・포르테가 EDEN 남매에게 총 소개",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1080,7 +1080,7 @@
         "voice": "GC425100.ogg"
       },
       "original": "そうだね。確かにここではよくフォルテを見かけるよ。",
-      "translation": "그렇네요. 확실히 여기서 포르테 씨를 자주 봐요.",
+      "translation": "그렇네. 확실히 여기서 포르테를 자주 봐.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1530,7 +1530,7 @@
         "voice": "GC425116.ogg"
       },
       "original": "えー、でもオレ、自信ないし。",
-      "translation": "에이～ 그래도 나,자신없는데.",
+      "translation": "에ー, 그래도 나 자신 없는데.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1614,7 +1614,7 @@
         "voice": "GC425118.ogg"
       },
       "original": "は……はい！",
-      "translation": "하... 넵！\n",
+      "translation": "네…… 네!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1692,7 +1692,7 @@
         "voice": "GC425120.ogg"
       },
       "original": "ひ……引き金も固い……。",
-      "translation": "트... 트리거도 뻑뻑해...\n",
+      "translation": "바…… 방아쇠도 뻑뻑해.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1728,7 +1728,7 @@
         "voice": "GC425121.ogg"
       },
       "original": "よ……よーし。",
-      "translation": "요... 좋아.\n",
+      "translation": "조…… 좋아.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1818,7 +1818,7 @@
         "voice": "GC425124.ogg"
       },
       "original": "どわぁ！",
-      "translation": "콰앙！\n",
+      "translation": "으악!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1836,7 +1836,7 @@
         "voice": "GC425125.ogg"
       },
       "original": "だ……大丈夫ですか、タクトさん？",
-      "translation": "괘... 괜찮으세요, 택트 씨？\n",
+      "translation": "괘, 괜찮으세요, 택트 씨?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

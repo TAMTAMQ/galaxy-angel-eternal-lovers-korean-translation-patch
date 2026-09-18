@@ -300,7 +300,7 @@
         "voice": "GC610005.ogg"
       },
       "original": "タクトさんはいつも手を抜いておられるように見えますが、その実、誰よりも熱心に職務を遂行されていることを私は知っています。",
-      "translation": "택트 씨는 항상 빈틈이 있어 보이지만, 사실 누구보다 열성적으로 직무를 수행하고 계시다는 걸 저는 알고 있어요.\n",
+      "translation": "택트 씨는 늘 농땡이치는 것처럼 보여도, 사실 누구보다 열심히 직무를 수행하신다는 걸 저는 알아요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -432,7 +432,7 @@
         "voice": "GC610007.ogg"
       },
       "original": "特別休暇とはいえ、３０日ものんきに休んでたんだからさ。当然、その間の仕事が終わってるわけもないからね。",
-      "translation": "특별 휴가라고는 해도 ３０일이나 느긋하게 쉬었으니까 말이야. 당연히 그동안의 일이 끝나 있을 리도 없지.\n",
+      "translation": "특별 휴가라고는 해도 30일이나 느긋하게 쉬었으니까 말이야. 당연히 그동안의 일이 끝나 있을 리도 없지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -804,7 +804,7 @@
         "voice": "GC610012.ogg"
       },
       "original": "ただひとつ、調査艦隊が残した手がかりといえば……。",
-      "translation": "단 하나, 조사 함대가 남긴 단이라고 하면……",
+      "translation": "단 하나, 조사 함대가 남긴 단서라고 하면……",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -828,7 +828,7 @@
         "voice": "GC610012.ogg"
       },
       "original": "消息を絶つ寸前に、第３方面軍司令部に送ってきた、この映像だけさ。",
-      "translation": "소식이 끊기기 직전에 제３방면군 사령부에 보내온 이 영상뿐이야.",
+      "translation": "소식이 끊기기 직전에 제3방면군 사령부에 보내온 이 영상뿐이야.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1170,7 +1170,7 @@
         "voice": "GC610024.ogg"
       },
       "original": "え～～～～～～～～～～っ！",
-      "translation": "에～～～～～～～～～～！",
+      "translation": "어～～～～～～～～～～!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1368,7 +1368,7 @@
         "voice": "GC610028.ogg"
       },
       "original": "え～～～～～～～～～～っ！",
-      "translation": "에에～～～～～～～～～～！",
+      "translation": "어어～～～～～～～～～～!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1788,7 +1788,7 @@
         "voice": "GC610040.ogg"
       },
       "original": "え、ええ。",
-      "translation": "에, 에에.\n",
+      "translation": "어, 으응.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2220,7 +2220,7 @@
         "voice": "GC610052.ogg"
       },
       "original": "茶柱？　お茶に浮いているこれのことかい？",
-      "translation": "차기둥？ 차에 떠 있는 이거 말이야？\n",
+      "translation": "찻잎 줄기? 차에 떠 있는 이거 말이야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2238,7 +2238,7 @@
         "voice": "GC610053.ogg"
       },
       "original": "はい。私の故郷では、この茶柱が立つと縁起がいいと言われているんです。",
-      "translation": "네. 제 고향에서는 이 차기둥이 서면 운이 좋다고 여겨진대요.\n",
+      "translation": "네. 제 고향에서는 찻잎 줄기가 서면 운이 좋다고 해요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3036,7 +3036,7 @@
         "voice": "GC610113.ogg"
       },
       "original": "それより、タクトさん……。さっきは、ひどくうなされていたみたいですけど……。",
-      "translation": "그보다, 택트 씨……. 아까는 무척 괴로워 보이셨는데…….\n",
+      "translation": "그보다 택트 씨……. 아까 악몽에 시달리시던데요…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3318,7 +3318,7 @@
         "voice": "GC610119.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3576,7 +3576,7 @@
         "voice": "GC610203.ogg"
       },
       "original": "って、えぇぇぇぇええーーーーーっ！？",
-      "translation": "라니, 에에에에에엑―――！？\n",
+      "translation": "라니, 어어어어어억ーーー!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4062,7 +4062,7 @@
         "voice": "GC610215.ogg"
       },
       "original": "そ、そんな、クールダラス副司令が私をっ！？困ります、私は……私は……！",
-      "translation": "그, 그럴 수가, 쿨다라스부사령관님이저를！？곤란해요,저는…저는……！",
+      "translation": "그, 그럴 수가, 쿨다라스 부사령관이 저를!? 곤란해요, 저는…… 저는……!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4188,7 +4188,7 @@
         "voice": "GC610218.ogg"
       },
       "original": "あの、タ、タクトさん！",
-      "translation": "저기, 택, 택트 씨！\n",
+      "translation": "저기, 타, 택트 씨!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -59,7 +59,7 @@
         "voice": "GC938000.ogg"
       },
       "original": "了解。",
-      "translation": "알았다",
+      "translation": "네.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -113,7 +113,7 @@
         "voice": "GC958003.ogg"
       },
       "original": "援護の友軍艦隊はこの位置にいる。",
-      "translation": "지원할 우군 함대는 이위치에있다.",
+      "translation": "지원 우군 함대는 이 위치에 있다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -227,7 +227,7 @@
         "voice": "GC178006.ogg"
       },
       "original": "全艦へ連絡。作戦目標は、敵旗艦の破壊。",
-      "translation": "전 함대 연락. 작전 목표는 적 기함파괴.",
+      "translation": "전 함대에 전달. 목표는 적 기함 파괴.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -245,7 +245,7 @@
         "voice": "GC178007.ogg"
       },
       "original": "了解！　作戦目標、敵旗艦の破壊！",
-      "translation": "네！ 작전 목표, 적 기함 파괴！",
+      "translation": "네! 작전 목표, 적 기함 파괴!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -305,7 +305,7 @@
         "voice": null
       },
       "original": "　ゲルン戦艦×１　　　戦闘母艦×２",
-      "translation": "　게른 전함×１　전투 모함×２",
+      "translation": "　게른 전함×1　전투 모함×2",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -323,7 +323,7 @@
         "voice": null
       },
       "original": "　重戦艦×４　　　　　重巡洋艦×４",
-      "translation": "　중전함×４　　중순양함×４",
+      "translation": "　중전함×4　　중순양함×4",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -341,7 +341,7 @@
         "voice": null
       },
       "original": "　駆逐艦×４　　　　　攻撃機×８",
-      "translation": "　구축함×４　　　공격기×８",
+      "translation": "　구축함×4　　　공격기×8",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -449,7 +449,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "もう一度、作戦内容を確認するか？",
-      "translation": "다시 작전 내용을 확인할까？",
+      "translation": "다시 작전 내용을 확인할까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -467,7 +467,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "そうだなあ……。",
-      "translation": "글쎄...",
+      "translation": "글쎄…….",
       "state": "reused",
       "use_translation": true,
       "storage": [

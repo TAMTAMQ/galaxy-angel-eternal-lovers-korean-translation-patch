@@ -221,7 +221,7 @@
         "voice": "GC140053.ogg"
       },
       "original": "ひとつだけ……ああ。",
-      "translation": "하나뿐이라니… 아아.",
+      "translation": "하나뿐…… 아아.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -257,7 +257,7 @@
         "voice": "GC140055.ogg"
       },
       "original": "ＥＤＥＮ……か。",
-      "translation": "EDEN…인가.",
+      "translation": "EDEN……인가.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -293,7 +293,7 @@
         "voice": "GC140056.ogg"
       },
       "original": "はい。航跡をトレースした結果、７番機はＥＤＥＮ方面に向かっているようです。",
-      "translation": "네. 궤적 추적 결과, ７번기는 EDEN 방면으로 향하고 있습니다.",
+      "translation": "네. 궤적 추적 결과, 7번기는 EDEN 방면으로 향하고 있습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -335,7 +335,7 @@
         "voice": "GC140056.ogg"
       },
       "original": "不幸中の幸いといってはなんだけど、封印されていた７番機のエネルギー残量は、さほどでもないはずだ。",
-      "translation": "불행 중 다행이라고 해야 할지, 봉인되어 있던 ７번기의 에너지 잔량은 그리 많지 않을 거야.\n",
+      "translation": "불행 중 다행이라고 해야 할지, 봉인되어 있던 7번기의 에너지 잔량은 그리 많지 않을 거야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -413,7 +413,7 @@
         "voice": "GC140057.ogg"
       },
       "original": "覚悟……ですか？",
-      "translation": "각오…말인가요？",
+      "translation": "각오……인가요?",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -473,7 +473,7 @@
         "voice": "GC140059.ogg"
       },
       "original": "……戦う……。",
-      "translation": "…싸운다…….",
+      "translation": "……싸운다……",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -509,7 +509,7 @@
         "voice": "GC140060.ogg"
       },
       "original": "理由はわからないけど……ここまでのことをした以上、彼らが素直に７番機を引き渡すとは思えない。",
-      "translation": "이유는 모르겠지만…… 여기까지 온 이상, 그들이 순순히 ７번기를 넘겨줄 것 같지는 않아.\n",
+      "translation": "이유는 모르겠지만…… 여기까지 온 이상, 그들이 순순히 7번기를 넘겨줄 것 같지는 않아.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -803,7 +803,7 @@
         "voice": "GC140070.ogg"
       },
       "original": "相手が紋章機だろうが、７番機だろうが、相手にとって不足はないわ。",
-      "translation": "상대가 문장기든 ７번기든, 상대에게 부족함은 없어.\n",
+      "translation": "상대가 문장기든 7번기든, 상대로 부족함은 없어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -851,7 +851,7 @@
         "voice": "GC140070.ogg"
       },
       "original": "オレたちみんなの力で、７番機とクロノ・ブレイク・キャノンを取り戻そう！",
-      "translation": "우리 모두의 힘으로, ７번기와 크로노・브레이크・캐논을 되찾자！\n",
+      "translation": "우리 모두의 힘으로, 7번기와 크로노・브레이크・캐논을 되찾자!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -899,7 +899,7 @@
         "voice": "GC140071.ogg"
       },
       "original": "よし、クロノ・ドライヴ開始だ。可能な限り急いで、７番機に追いつくぞ。",
-      "translation": "좋아, 크로노・드라이브 개시다. 가능한 한 서둘러 ７번기를 따라잡는다.\n",
+      "translation": "좋아, 크로노・드라이브 개시다. 가능한 한 서둘러 7번기를 따라잡는다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -923,7 +923,7 @@
         "voice": "GC140072.ogg"
       },
       "original": "了解。クロノ・ドライヴに入ります！",
-      "translation": "네. 크로노・드라이브진입！",
+      "translation": "네. 크로노・드라이브 진입!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -971,7 +971,7 @@
         "voice": "GC140073.ogg"
       },
       "original": "計算では、あと２回ほどで追いつくと思われます。",
-      "translation": "계산상, 앞으로 ２번 정도면 따라잡을 듯합니다.",
+      "translation": "계산상, 앞으로 2번 정도면 따라잡을 듯합니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1415,7 +1415,7 @@
         "voice": "GC140109.ogg"
       },
       "original": "考えてることは皆同じ、さ。",
-      "translation": "생각하는 건 다똑같아,그치?",
+      "translation": "생각하는 건 다 똑같아.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2195,7 +2195,7 @@
         "voice": "GC140132.ogg"
       },
       "original": "マイヤーズ司令、ブリッジにお戻りください。",
-      "translation": "마이어스 사령관님, 함교로 복귀하십시오.\n",
+      "translation": "마이어스 사령관, 함교로 복귀하십시오.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -2273,7 +2273,7 @@
         "voice": "GC140134.ogg"
       },
       "original": "７番機の足取りが、もっと詳しくつかめるかもしれないね。",
-      "translation": "７번기의 행방을 더 자세히 알 수 있을지도 모르겠네.\n",
+      "translation": "7번기의 행방을 더 자세히 알 수 있을지도 모르겠네.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2441,7 +2441,7 @@
         "voice": "GC140134.ogg"
       },
       "original": "なんとか勝てたか……。７番機の様子は？",
-      "translation": "어떻게든 이겼나……. ７번기의 상태는？\n",
+      "translation": "어떻게든 이겼나……. 7번기의 상태는?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2507,7 +2507,7 @@
         "voice": "GC140501.ogg"
       },
       "original": "了解。７番機を確保します。",
-      "translation": "네. ７번기를 확보한다.",
+      "translation": "네. 7번기를 확보한다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2585,7 +2585,7 @@
         "voice": "GC140504.ogg"
       },
       "original": "ああ、あとはあれを回収して『白き月』に戻るだけだ。",
-      "translation": "아아,남은건저걸회수해『백색달』로돌아가는것뿐이다",
+      "translation": "아아, 저걸 회수해 『백색 달』로 돌아가면 끝이다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2633,7 +2633,7 @@
         "voice": "GC140506.ogg"
       },
       "original": "７番機はともかくとして、あのレベルの艦隊ぐらい、普段のエンジェル隊ならあそこまで苦戦しないはずだ。",
-      "translation": "７번기는 차치하고서라도, 저 정도 레벨의 함대라면 평소의 엔젤대라면 그렇게 고전하지 않았을 텐데.\n",
+      "translation": "7번기는 차치해도, 저 정도 함대라면 평소 엔젤대가 그렇게 고전하진 않았을 텐데.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2909,7 +2909,7 @@
         "voice": "GC140704.ogg"
       },
       "original": "オレたちを特別ボーナスが待ってるぞ！",
-      "translation": "우리에게 특별 보너스가 기다린다！",
+      "translation": "특별 보너스가 우릴 기다린다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2963,7 +2963,7 @@
         "voice": "GC140707.ogg"
       },
       "original": "このような状況なのに……冗談にしても不謹慎ですわ。",
-      "translation": "이런 상황인데…… 농담이라도 불경하네요.\n",
+      "translation": "이런 상황인데…… 농담이라도 경솔하네요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3125,7 +3125,7 @@
         "voice": "GC140712.ogg"
       },
       "original": "『白き月』は私たちの家ですわ。絶対に、帰ります！",
-      "translation": "『백색 달』은우리의집이에요.반드시돌아갈거예요！",
+      "translation": "『백색 달』은 우리 집이에요. 꼭 돌아갈 거예요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3173,7 +3173,7 @@
         "voice": "GC140714.ogg"
       },
       "original": "この敵を倒したら、すぐに帰ります……。",
-      "translation": "이 적을 쓰러뜨리면 바로돌아갈게요…….",
+      "translation": "이 적을 쓰러뜨리면 바로 돌아갈게요……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3365,7 +3365,7 @@
         "voice": "GC140804.ogg"
       },
       "original": "右舷被弾！　Ｃブロック中破！　火災発生、隔壁閉じます！",
-      "translation": "우현피격！ Ｃ블록 중파！ 화재 발생, 격벽 폐쇄합니다！",
+      "translation": "우현 피격! C블록 중파! 화재 발생, 격벽 폐쇄합니다!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3389,7 +3389,7 @@
         "voice": "GC140805.ogg"
       },
       "original": "損傷率４５パーセント！　危険領域です！",
-      "translation": "손상률 ４５퍼센트！ 위험 영역입니다！\n",
+      "translation": "손상률 45퍼센트! 위험 영역입니다!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3407,7 +3407,7 @@
         "voice": "GC140806.ogg"
       },
       "original": "損傷が激しい箇所にシールドを集中させろ！５から９エリアまではもうダメだ、乗組員の避難を確認次第、船体から切り離せ！",
-      "translation": "손상이 심한 곳에 실드를 집중시켜라！ ５에서 ９ 에어리어는 이제 안 돼, 승무원 피난 확인되는 대로 선체에서 분리해！\n",
+      "translation": "손상이 심한 곳에 실드를 집중시켜라! 5에서 9 에어리어는 이제 안 돼, 승무원 피난 확인되는 대로 선체에서 분리해!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3491,7 +3491,7 @@
         "voice": "GC140808.ogg"
       },
       "original": "フライヤーが３つ落とされましたわ。これ以上、戦闘を継続するのは困難です！",
-      "translation": "플라이어가 ３개 격추되었습니다. 이 이상 전투를 지속하는 건 어렵습니다！\n",
+      "translation": "플라이어가 3개 격추되었습니다. 이 이상 전투를 지속하는 건 어렵습니다!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3965,7 +3965,7 @@
         "voice": "GC140821.ogg"
       },
       "original": "７時方向より、多数の艦隊接近……！",
-      "translation": "７시 방향, 다수의 함대 접근……！",
+      "translation": "7시 방향, 다수의 함대 접근……!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4109,7 +4109,7 @@
         "voice": "GC140826.ogg"
       },
       "original": "新手の艦隊の所属確認……。",
-      "translation": "신형 함대의 소속 확인…….\n",
+      "translation": "새 함대 소속 확인…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4127,7 +4127,7 @@
         "voice": "GC140827.ogg"
       },
       "original": "だ、第３方面軍、第１１艦隊……味方です！",
-      "translation": "제,제３방면군,제１１함대……아군입니다！",
+      "translation": "제, 제3방면군, 제11함대…… 아군입니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4361,7 +4361,7 @@
         "voice": "GC141012.ogg"
       },
       "original": "ほっ……。",
-      "translation": "훗…….\n",
+      "translation": "휴…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4469,7 +4469,7 @@
         "voice": "GC141017.ogg"
       },
       "original": "身体的な異常は何もなかったから、今は普通の部屋に泊めてるわ。Ｄ４ブロックの一番端。",
-      "translation": "신체적인 이상은 없어서, 지금은 일반 병실에 머물고 있어. Ｄ４ 블록 맨 끝.\n",
+      "translation": "신체적인 이상은 없어서, 지금은 일반 방에 머물고 있어. D4 블록 맨 끝.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4697,7 +4697,7 @@
         "voice": "GC141028.ogg"
       },
       "original": "タクト、どうしたの？　あんたは行かないの？",
-      "translation": "택트, 왜 그래？ 당신은 안 가？",
+      "translation": "택트, 왜 그래? 너는 안 가?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5165,7 +5165,7 @@
         "voice": "GC141111.ogg"
       },
       "original": "ミルフィーさんがご無事ならそれだけで十分です。",
-      "translation": "밀피 씨이 무사하시다면 그것만으로 충분합니다.",
+      "translation": "밀피 씨가 무사하시다면 그것만으로 충분합니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5363,7 +5363,7 @@
         "voice": "GC141119.ogg"
       },
       "original": "おっ、真打ち登場だね。",
-      "translation": "오, 주인공 등장네.",
+      "translation": "오, 주역 등장인가.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5381,7 +5381,7 @@
         "voice": "GC141120.ogg"
       },
       "original": "えっ、えーと……。",
-      "translation": "에,에그러니까…….",
+      "translation": "어, 그러니까…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5681,7 +5681,7 @@
         "voice": "GC141131.ogg"
       },
       "original": "ああ、思い出した思い出した。確か言ってたわね、そんなこと。",
-      "translation": "아아, 생각났다 생각해냈다. 확실히 말했었지, 그런 거.",
+      "translation": "아아, 생각났어, 생각났어. 분명 그런 말을 했지.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5933,7 +5933,7 @@
         "voice": "GC141141.ogg"
       },
       "original": "この人……誰ですか？",
-      "translation": "이사람……누구예요？",
+      "translation": "이 사람……누구예요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6095,7 +6095,7 @@
         "voice": "GC141150.ogg"
       },
       "original": "タクトさん……っておっしゃるんですか？",
-      "translation": "택트 씨……라고 부르시는 건가요？",
+      "translation": "택트 씨……라고 하시나요?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6323,7 +6323,7 @@
         "voice": "GC141159.ogg"
       },
       "original": "……ごめんなさい。本当にわからないんです。",
-      "translation": "……미안해. 정말 모르겠어.",
+      "translation": "……미안해요. 정말 모르겠어요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6341,7 +6341,7 @@
         "voice": "GC141159.ogg"
       },
       "original": "そ……そんな……。",
-      "translation": "그… 그럴 리가….",
+      "translation": "그…… 그런…….",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -6455,7 +6455,7 @@
         "voice": "GC141162.ogg"
       },
       "original": "ノアから症状の治療法を聞く",
-      "translation": "노아에게증상치료법을듣는다",
+      "translation": "노아에게 치료법을 듣는다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6533,7 +6533,7 @@
         "voice": "GC141202.ogg"
       },
       "original": "お気持ちお察しいたします、マイヤーズ司令。",
-      "translation": "심정을 이해하겠습니다, 마이어스 사령관님.",
+      "translation": "심정은 이해합니다, 마이어스 사령관.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6593,7 +6593,7 @@
         "voice": "GC141204.ogg"
       },
       "original": "マイヤーズ司令のことだけが、記憶からスッポリと抜け落ちていたのですから。",
-      "translation": "마이어스 사령관님에 대한 기억만 쏙 빠져 있었으니까요.",
+      "translation": "마이어스 사령관에 대한 기억만 쏙 빠져 있었으니까요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6743,7 +6743,7 @@
         "voice": "GC141208.ogg"
       },
       "original": "操縦不能にすると同時に、Ｈ．Ａ．Ｌ．Ｏ．システムを暴走させて、パイロットの精神に大きな負荷がかかるようにしたみたい。",
-      "translation": "조종 불능과 동시에 Ｈ.Ａ.Ｌ.Ｏ. 시스템을 폭주시켜서, 파일럿의 정신에 큰 부하가 걸리게 만든 모양이야.",
+      "translation": "조종 불능과 동시에 H.A.L.O. 시스템을 폭주시켜서, 파일럿의 정신에 큰 부하가 걸리게 만든 모양이야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6815,7 +6815,7 @@
         "voice": "GC141210.ogg"
       },
       "original": "ミルフィーユがマイヤーズ司令のことを忘れてしまったのは……。",
-      "translation": "밀피유가 마이어스 사령관님을 잊어버린 것은…….",
+      "translation": "밀피유가 마이어스 사령관을 잊어버린 것은…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6863,7 +6863,7 @@
         "voice": "GC141212.ogg"
       },
       "original": "それは……マイヤーズ司令には申し上げにくいのですが、その……。",
-      "translation": "그건…… 마이어스 사령관님께 말씀드리기 어렵습니다만,그게…….",
+      "translation": "그건…… 마이어스 사령관께 말씀드리기 어렵습니다만, 그게…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7001,7 +7001,7 @@
         "voice": "GC141216.ogg"
       },
       "original": "それが記憶喪失になった、もうひとつの原因よ。",
-      "translation": "그게 기억상실이 된 또 하나의 원인야.\n",
+      "translation": "그게 기억상실이 된 또 하나의 원인이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7067,7 +7067,7 @@
         "voice": "GC141218.ogg"
       },
       "original": "それら全ての感情が、異常をきたしたＨ．Ａ．Ｌ．Ｏ．の中でぶつかり合い、変質し、ひとつの形となって逆流してきた……。",
-      "translation": "그 모든 감정이 이상이 생긴 Ｈ.Ａ.Ｌ.Ｏ. 안에서 충돌하고 변질되어, 하나의 형태가 되어 역류해 온 거야…….\n",
+      "translation": "그 모든 감정이 이상이 생긴 H.A.L.O. 안에서 충돌하고 변질되어, 하나의 형태가 되어 역류해 온 거야…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7487,7 +7487,7 @@
         "voice": "GC141231.ogg"
       },
       "original": "いいとこ、他の５人の平均値と同等か、それ以下ね。はっきり言って、戦力としては……。",
-      "translation": "잘해야 다른 ５명의 평균치 정도, 아니 그 이하야. 솔직히 전력으로서는…….\n",
+      "translation": "잘해야 다른 5명의 평균치 정도, 아니 그 이하야. 솔직히 전력으로서는…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7655,7 +7655,7 @@
         "voice": "GC141236.ogg"
       },
       "original": "理論的には可能よ。Ｈ．Ａ．Ｌ．Ｏ．によって生じた異常は、Ｈ．Ａ．Ｌ．Ｏ．で治す。",
-      "translation": "이론적으로는 가능해. Ｈ.Ａ.Ｌ.Ｏ.로 생긴 이상은 Ｈ.Ａ.Ｌ.Ｏ.로 고친다.\n",
+      "translation": "이론적으로는 가능해. H.A.L.O.로 생긴 이상은 H.A.L.O.로 고친다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7679,7 +7679,7 @@
         "voice": "GC141237.ogg"
       },
       "original": "彼女と、彼女のテンションの源であるマイヤーズ司令……あなた方ふたりをＨ．Ａ．Ｌ．Ｏ．に接続し、心を同調させるのです。",
-      "translation": "그녀와, 그녀의 텐션의 근원인 마이어스 사령관…… 당신들 둘을 Ｈ.Ａ.Ｌ.Ｏ.에 접속시켜 마음을 동조시키는 거야.\n",
+      "translation": "그녀와, 그녀의 텐션의 근원인 마이어스 사령관…… 당신들 둘을 H.A.L.O.에 접속시켜 마음을 동조시키는 거야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7775,7 +7775,7 @@
         "voice": "GC141239.ogg"
       },
       "original": "今は……？",
-      "translation": "지금은…？",
+      "translation": "지금은…?",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -7793,7 +7793,7 @@
         "voice": "GC141240.ogg"
       },
       "original": "ふたり分の精神を完全にリンクさせるには、複座式のように、あらかじめそういう目的で作られたＨ．Ａ．Ｌ．Ｏ．でないとムリなの。",
-      "translation": "두 사람의 정신을 완전히 링크하려면, 복좌식처럼 미리 그런 목적으로 만들어진 Ｈ.Ａ.Ｌ.Ｏ.가 아니면 무리야.\n",
+      "translation": "두 사람의 정신을 완전히 링크하려면, 복좌식처럼 미리 그런 목적으로 만들어진 H.A.L.O.가 아니면 무리야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7841,7 +7841,7 @@
         "voice": "GC141241.ogg"
       },
       "original": "あ……そうか、複座式の７番機は、今……。",
-      "translation": "아…… 그렇군, 복좌식 ７번기는 지금…….\n",
+      "translation": "아…… 그렇군, 복좌식 7번기는 지금…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7913,7 +7913,7 @@
         "voice": "GC141243.ogg"
       },
       "original": "じゃあ……７番機を取り戻せば、ミルフィーの記憶も戻るんですね？",
-      "translation": "그럼…… ７번기를 되찾으면 밀피의 기억도 돌아온다는 거군요？\n",
+      "translation": "그럼…… 7번기를 되찾으면 밀피의 기억도 돌아온다는 거군요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7955,7 +7955,7 @@
         "voice": "GC141245.ogg"
       },
       "original": "あんたにできる？　一度は逃げられ、叩きのめされた相手から、７番機を取り返すことが。",
-      "translation": "너희가 할 수 있어？ 한 번은 도망치고 패배했던 상대에게서 ７번기를 되찾는 걸.\n",
+      "translation": "네가 할 수 있어? 한 번은 놓치고 당했던 상대에게서 7번기를 되찾는 걸.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8021,7 +8021,7 @@
         "voice": "GC141245.ogg"
       },
       "original": "絶対に……絶対だ！",
-      "translation": "반드시……반드시！",
+      "translation": "반드시…… 반드시!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

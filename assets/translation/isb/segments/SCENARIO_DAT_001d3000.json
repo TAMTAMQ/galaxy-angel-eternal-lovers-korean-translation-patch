@@ -170,7 +170,7 @@
         "voice": "GC550001.ogg"
       },
       "original": "そうですよ。ヴァニラさん、ナノマシンが制御できなくなったそうじゃないですか。",
-      "translation": "맞아요. 바닐라 씨, 나노마신을 제어할 수 없게 되었다면서요.",
+      "translation": "맞아요. 바닐라 씨, 나노머신을 제어할 수 없게 되었다면서요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -194,7 +194,7 @@
         "voice": "GC150002.ogg"
       },
       "original": "それで、しばらくは紋章機にも乗せられないって……マイヤーズ司令は心配じゃないんですか？",
-      "translation": "그래서 한동안은 문장기에도 태울 수 없다고…… 마이어스 사령관님은 걱정되지 않으세요？",
+      "translation": "그래서 한동안은 문장기에도 태울 수 없다고…… 마이어스 사령관은 걱정되지 않으세요?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -224,7 +224,7 @@
         "voice": "GC150002.ogg"
       },
       "original": "そんなの心配にきまってるじゃないか。そもそもオレは、ナノマシンに押しつぶされそうになった当人なんだから。",
-      "translation": "그건 걱정되지 않겠나. 애초에 난 나노마신에 깔릴 뻔한 당사자니까.",
+      "translation": "그건 걱정되지 않겠나. 애초에 난 나노머신에 깔릴 뻔한 당사자니까.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -464,7 +464,7 @@
         "voice": "GC550017.ogg"
       },
       "original": "ヴァニラさんに会いに行くんですか？　マイヤーズ司令。",
-      "translation": "바닐라 씨를 만나러 가시나요？ 마이어스 사령관님.",
+      "translation": "바닐라 씨를 만나러 가시나요? 마이어스 사령관.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -506,7 +506,7 @@
         "voice": "GC550018.ogg"
       },
       "original": "ヴァニラさん、マイヤーズ司令に相談に乗ってほしいんじゃないですか？　ちゃんと聞いてあげてくださいね。",
-      "translation": "바닐라 씨, 마이어스 사령관님께 상담하고 싶은 거 아니에요？ 제대로 들어주세요.",
+      "translation": "바닐라 씨, 마이어스 사령관께 상담하고 싶은 거 아니에요? 제대로 들어주세요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -638,7 +638,7 @@
         "voice": "GC550101.ogg"
       },
       "original": "あれ？　でも、約束の時間にはまだ３０分も早いな。",
-      "translation": "어라？ 하지만 약속 시간보다 ３０분이나 빠른데.",
+      "translation": "어라? 하지만 약속 시간보다 30분이나 빠른데.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1022,7 +1022,7 @@
         "voice": "GC550115.ogg"
       },
       "original": "ナノマシンが暴走するなんて、本来ならば考えられないことです。",
-      "translation": "나노마신이 폭주하는 건, 본래 있을 수 없는 일입니다.",
+      "translation": "나노머신이 폭주하는 건, 본래 있을 수 없는 일입니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1112,7 +1112,7 @@
         "voice": "GC550117.ogg"
       },
       "original": "違うんだ。あれはＨ．Ａ．Ｌ．Ｏ.システムが暴走したせいなんだから、ヴァニラが苦しむ必要はないんだよ。",
-      "translation": "아니야. 그건 Ｈ.Ａ.Ｌ.Ｏ. 시스템이 폭주한 탓이니까, 바닐라가 괴로워할 필요는 없어.",
+      "translation": "아니야. 그건 H.A.L.O. 시스템이 폭주한 탓이니까, 바닐라가 괴로워할 필요는 없어.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1142,7 +1142,7 @@
         "voice": "GC550118.ogg"
       },
       "original": "でも、またナノマシンが暴走したら、今度こそ取り返しのつかないことになる可能性があります。",
-      "translation": "하지만다시 나노마신이 폭주하면, 이번에야말로 돌이킬 수 없는 일이 될 가능성이 있습니다.",
+      "translation": "하지만 다시 나노머신이 폭주하면, 이번에야말로 돌이킬 수 없는 일이 될 가능성이 있습니다",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1424,7 +1424,7 @@
         "voice": "GC550126.ogg"
       },
       "original": "そんなに自分を責めないでくれ。原因はＨ．Ａ．Ｌ．Ｏ．の暴走なんだから、そのうちきっと解決できるさ。",
-      "translation": "그렇게 자책하지 마. 원인은 Ｈ.Ａ.Ｌ.Ｏ.의 폭주니까, 머지않아 분명 해결할 수 있을 거야.",
+      "translation": "그렇게 자책하지 마. 원인은 H.A.L.O.의 폭주니까, 머지않아 분명 해결할 수 있을 거야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1454,7 +1454,7 @@
         "voice": "GC550127.ogg"
       },
       "original": "いいえ。Ｈ．Ａ．Ｌ．Ｏ.システムが暴走した原因は、私にあるんです。",
-      "translation": "아니요. Ｈ.Ａ.Ｌ.Ｏ. 시스템이 폭주한 원인은 저에게 있어요.",
+      "translation": "아니요. H.A.L.O. 시스템이 폭주한 원인은 저에게 있어요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1868,7 +1868,7 @@
         "voice": "GC550205.ogg"
       },
       "original": "ええっ！？　タクトさん。まさか、そんなはずないですよね。",
-      "translation": "에엣！？ 택트 씨. 설마, 그럴 리 없겠죠.\n",
+      "translation": "어!? 택트 씨. 설마, 그럴 리 없겠죠.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2180,7 +2180,7 @@
         "voice": "GC550217.ogg"
       },
       "original": "ええっ！？",
-      "translation": "에엣！？",
+      "translation": "어!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3062,7 +3062,7 @@
         "voice": "GC550248.ogg"
       },
       "original": "『白き月』に、ね。",
-      "translation": "『백색 달』에서.",
+      "translation": "『백색 달』로.",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [
@@ -3752,7 +3752,7 @@
         "voice": "GC550265.ogg"
       },
       "original": "えっ、なんで？　あんなにひどいことを言ったのに。",
-      "translation": "엣, 왜？ 그렇게 심한 말을 했는데.\n",
+      "translation": "어, 왜? 그렇게 심한 말을 했는데.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4418,7 +4418,7 @@
         "voice": "GC550309.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5582,7 +5582,7 @@
         "voice": "GC550400.ogg"
       },
       "original": "あら、マイヤーズ司令。どうしたの、そんなにあわてて。",
-      "translation": "어머, 마이어스 사령관님. 왜 그렇게 서둘러 오셨나요?",
+      "translation": "어머, 마이어스 사령관. 왜 그렇게 서둘러 오셨나요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5780,7 +5780,7 @@
         "voice": "GC550406.ogg"
       },
       "original": "マイヤーズ司令のためにって、夜なべをして編んでいたのよ。",
-      "translation": "마이어스 사령관님을 위해서라며 밤새워 뜨고 있었지.\n",
+      "translation": "마이어스 사령관을 위해서라며 밤새워 뜨고 있었지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5846,7 +5846,7 @@
         "voice": "GC550408.ogg"
       },
       "original": "楽しそうなヴァニラの横顔を見ていると、こんなにも想われているマイヤーズ司令がちょっぴりうらやましかったわ。",
-      "translation": "즐거워 보이는 바닐라의 옆얼굴을 보고 있으면, 이렇게나 사랑받는 마이어스 사령관님이 조금 부러웠어.\n",
+      "translation": "즐거워 보이는 바닐라의 옆얼굴을 보고 있으면, 이렇게나 사랑받는 마이어스 사령관이 조금 부러웠어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5972,7 +5972,7 @@
         "voice": "GC550410.ogg"
       },
       "original": "マイヤーズ司令の考えはよくわかるけど、編み物って、思っているほど簡単じゃないのよ。",
-      "translation": "마이어스 사령관님의 생각은 알겠지만, 뜨개질이란 생각만큼 쉽지 않아요.\n",
+      "translation": "마이어스 사령관의 생각은 알겠지만, 뜨개질이란 생각만큼 쉽지 않아요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6020,7 +6020,7 @@
         "voice": "GC550412.ogg"
       },
       "original": "マイヤーズ司令は、司令官としての職務もあるでしょう。仕事と編み物。両立できるものかしら？",
-      "translation": "마이어스 사령관님은 사령관으로서의 직무도 있을 텐데. 일과 뜨개질, 양립할 수 있을까？\n",
+      "translation": "마이어스 사령관은 사령관으로서의 직무도 있을 텐데. 일과 뜨개질, 양립할 수 있을까?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6068,7 +6068,7 @@
         "voice": "GC550413.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6182,7 +6182,7 @@
         "voice": "GC550415.ogg"
       },
       "original": "……わかったわ。それじゃマイヤーズ司令に編み物の極意を伝授してあげる。",
-      "translation": "……알았어. 그럼 마이어스 사령관님에게 뜨개질의 비결을 전수해 줄게.\n",
+      "translation": "……알았어. 그럼 마이어스 사령관에게 뜨개질의 비결을 전수해 줄게.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6830,7 +6830,7 @@
         "voice": "GC550427.ogg"
       },
       "original": "ええっ！　違うのですか。",
-      "translation": "에엣！ 아닌가요?\n",
+      "translation": "어! 아닌가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7148,7 +7148,7 @@
         "voice": "GC550435.ogg"
       },
       "original": "さきほどフォルテ先輩あてにヴァニラ先輩から、これからエルシオールに戻るという通信が入ったそうです。",
-      "translation": "조금 전 포르테 선배님께 바닐라 선배님이 곧 에르시올로 돌아온다는 통신이 왔다고 합니다.\n",
+      "translation": "조금 전 포르테 선배께 바닐라 선배가 곧 에르시올로 돌아온다는 통신이 왔다고 합니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7322,7 +7322,7 @@
         "voice": "GC550438.ogg"
       },
       "original": "それで、ミルフィー先輩が、ヴァニラ先輩の帰還祝いをするってはりきっていまして。",
-      "translation": "그래서 밀피 선배님이 바닐라 선배님의 귀환 축하 파티를 한다며 들떠 계셔서요.\n",
+      "translation": "그래서 밀피 선배가 바닐라 선배의 귀환 축하 파티를 한다며 들떠 계셔서요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7472,7 +7472,7 @@
         "voice": "GC550441.ogg"
       },
       "original": "あー、テステス。えーと、マイク入ってますかあ。",
-      "translation": "아―,테스트 테스트. 에―토, 마이크들리나요오.",
+      "translation": "아ー, 테스트 테스트. 저기, 마이크 들리나요오.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7514,7 +7514,7 @@
         "voice": "GC550442.ogg"
       },
       "original": "お知らせします。タクトさん……じゃなかった。マイヤーズ司令は、至急倉庫にお願いします。",
-      "translation": "알려드립니다. 택트 씨……가 아니라. 마이어스 사령관님은, 지금 즉시 창고로 와주십시오.\n",
+      "translation": "알려드립니다. 택트 씨……가 아니라. 마이어스 사령관은, 지금 즉시 창고로 와주십시오.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7754,7 +7754,7 @@
         "voice": "GC550501.ogg"
       },
       "original": "や、やあ。奇遇だね。こんなところで。",
-      "translation": "여, 여어. 기우네. 이런 곳에서.\n",
+      "translation": "여, 여어. 공교롭네. 이런 곳에서.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7958,7 +7958,7 @@
         "voice": "GC550505.ogg"
       },
       "original": "え！？　エルシオールに戻ってきてくれたんじゃないのかい。",
-      "translation": "에！？ 에르시올로 돌아온 게 아니었던 거야？\n",
+      "translation": "어!? 에르시올로 돌아온 게 아니었던 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8174,7 +8174,7 @@
         "voice": "GC550511.ogg"
       },
       "original": "またナノマシンの暴走が起こる可能性があります。念のため、私から最低３メートルは離れてください。",
-      "translation": "나노머신 폭주 가능성이 있습니다. 만약을 위해 저에게서 최소 ３미터는 떨어져 주세요.",
+      "translation": "나노머신 폭주 가능성이 있습니다. 만약을 위해 저에게서 최소 3미터는 떨어져 주세요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8432,7 +8432,7 @@
         "voice": "GC550517.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -10580,7 +10580,7 @@
         "voice": "GC550621.ogg"
       },
       "original": "えっ……。",
-      "translation": "엣…….",
+      "translation": "어…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11684,7 +11684,7 @@
         "voice": "GC550742.ogg"
       },
       "original": "ブリッジに？　わかった、すぐに行くよ。",
-      "translation": "함교에？ 알았어, 금방 갈게.",
+      "translation": "함교에? 알았어, 금방 갈게.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -12146,7 +12146,7 @@
         "voice": "GC150416.ogg"
       },
       "original": "ああ。シヴァ様の言葉じゃないけど、悠長にやっている場合じゃない。５日だの１週間だの、そんなの今やナンセンスだ。",
-      "translation": "아아. 시바 님의 말씀처럼, 느긋하게 있을 때가 아니야. ５일이니 １주일이니 하는 건 이제 무의미해.\n",
+      "translation": "아아. 시바 님의 말씀처럼, 느긋하게 있을 때가 아니야. 5일이니 1주일이니 하는 건 이제 무의미해.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12416,7 +12416,7 @@
         "voice": "GC150434.ogg"
       },
       "original": "手ぐすね引いて我々を待っている『ヴァル・ファスク』の方々に、余計な時間を与えるわけにはいかない……と。",
-      "translation": "손을 씻고 우리를 기다리는 『발・파스크』 일행에게, 불필요한 시간을 줄 수는 없으니까……라고.\n",
+      "translation": "단단히 벼르고 우리를 기다리는 『발・파스크』 일행에게, 불필요한 시간을 줄 수는 없으니까……라고.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12740,7 +12740,7 @@
         "voice": "GC150603.ogg"
       },
       "original": "惑星ジュノー到着・７番機と対峙",
-      "translation": "행성 주노 도착・７번기와 대치\n",
+      "translation": "행성 주노 도착・7번기와 대치\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12800,7 +12800,7 @@
         "voice": "GC551101.ogg"
       },
       "original": "あれから３日か……。ヴァインとしても、いつ来るかわからないオレたちを相手に、細かい細工をしてる余裕はないと思う。",
-      "translation": "그로부터 ３일인가……. 바인 입장에서도 언제 올지 모르는 우리를 상대로 세세한 공작을 할 여유는 없을 거야.\n",
+      "translation": "그로부터 3일인가……. 바인 입장에서도 언제 올지 모르는 우리를 상대로 세세한 공작을 할 여유는 없을 거야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13424,7 +13424,7 @@
         "voice": "GC151360.ogg"
       },
       "original": "７番機に、また光の翼が出現しました！",
-      "translation": "７번기에다시빛의날개가나타났습니다！",
+      "translation": "7번기에 또 빛의 날개가 나타났습니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14402,7 +14402,7 @@
         "voice": "GC551307.ogg"
       },
       "original": "５番機が発進しているだと！？　バカな！",
-      "translation": "５번기가 발진했다고！？ 말도 안 돼！",
+      "translation": "5번기가 발진했다고!? 말도 안 돼!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14498,7 +14498,7 @@
         "voice": "GC551310.ogg"
       },
       "original": "だが、まだだ。僕にはまだ７番機がある。決着をつけようじゃないか、タクト・マイヤーズ！",
-      "translation": "하지만 아직이다. 나에겐 아직 ７번기가 있다. 결판을 내자, 택트・마이어스！\n",
+      "translation": "하지만 아직이다. 나에겐 아직 7번기가 있다. 결판을 내자, 택트・마이어스!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14594,7 +14594,7 @@
         "voice": "GC551402.ogg"
       },
       "original": "ＭＶＰは、なんてったってヴァニラよね。",
-      "translation": "ＭＶＰ는 역시 바닐라네.\n",
+      "translation": "MVP는 역시 바닐라네.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14828,7 +14828,7 @@
         "voice": "GC151513.ogg"
       },
       "original": "７番機と……。",
-      "translation": "７번기와……\n",
+      "translation": "7번기와……\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -14972,7 +14972,7 @@
         "voice": "GC151520.ogg"
       },
       "original": "この女によって僕の紋章機の力は１００パーセント、いや、それ以上の力を発揮できたはずだ……。なのに、なぜ……。",
-      "translation": "이 여자 덕분에 내 문장기의 힘은 １００퍼센트, 아니 그 이상의 힘을 발휘할 수 있었을 터다…… 그런데 왜…….\n",
+      "translation": "이 여자 덕분에 내 문장기의 힘은 100퍼센트, 아니 그 이상의 힘을 발휘할 수 있었을 터다…… 그런데 왜…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15044,7 +15044,7 @@
         "voice": "GC551420.ogg"
       },
       "original": "ＧＡ００５……ヴァニラ・Ｈ……！",
-      "translation": "ＧＡ００５…… 바닐라・H……！\n",
+      "translation": "GA005…… 바닐라・H……!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15086,7 +15086,7 @@
         "voice": "GC551422.ogg"
       },
       "original": "ナノマシンの制御を失い、エルシオールを去ったはずではなかったのか。",
-      "translation": "나노마신의 제어를 잃고 에르시올을 떠났어야 했을 텐데.\n",
+      "translation": "나노머신의 제어를 잃고 에르시올을 떠났어야 했을 텐데.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15110,7 +15110,7 @@
         "voice": "GC551423.ogg"
       },
       "original": "いや、仮に出撃できたとしても、Ｈ．Ａ．Ｌ．Ｏ．の暴走による影響から、そうたやすく回復できているはずがない。",
-      "translation": "아니, 설령 출격할 수 있다 해도 Ｈ.Ａ.Ｌ.Ｏ.의 폭주 영향 때문에 그렇게 쉽게 회복했을 리가 없어.\n",
+      "translation": "아니, 설령 출격할 수 있다 해도 H.A.L.O.의 폭주 영향 때문에 그렇게 쉽게 회복했을 리가 없어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15254,7 +15254,7 @@
         "voice": "GC551430.ogg"
       },
       "original": "その願いがある限り、ナノマシンを使うことができるのです。",
-      "translation": "그 소원이 있는 한, 나노마신을 사용할 수 있습니다.\n",
+      "translation": "그 소원이 있는 한, 나노머신을 사용할 수 있습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15278,7 +15278,7 @@
         "voice": "GC551431.ogg"
       },
       "original": "バカな。願いでナノマシンが使えるだって。そんな……そんな非論理的なことがあってたまるものか！",
-      "translation": "말도 안 돼. 소원으로 나노마신을 쓸 수 있다고? 그런…… 그런 비논리적인 일이 있을 리가 없다！\n",
+      "translation": "말도 안 돼. 소원으로 나노머신을 쓸 수 있다고? 그런…… 그런 비논리적인 일이 있을 리가 없다!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -153,7 +153,7 @@
         "voice": "GC930000.ogg"
       },
       "original": "……マイヤーズ司令、お休みのところすいませんが……。",
-      "translation": "…마이어스 사령관님, 쉬고 계신데 죄송합니다만…….",
+      "translation": "…마이어스 사령관, 쉬고 계신데 죄송합니다만…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -177,7 +177,7 @@
         "voice": "GC930001.ogg"
       },
       "original": "マイヤーズ司令？　もしもーし？　起きてくださーい。",
-      "translation": "마이어스 사령관님？ 여보세요～？ 일어나세요～.",
+      "translation": "마이어스 사령관? 여보세요～? 일어나세요～.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -237,7 +237,7 @@
         "voice": "GC930002.ogg"
       },
       "original": "ルフト将軍から通信が入っています。至急、ブリッジまでお願いします。",
-      "translation": "루프트 장군님으로부터 통신이 왔습니다. 급히 함교로 와 주십시오.",
+      "translation": "루프트 장군으로부터 통신이 왔습니다. 급히 함교로 와 주십시오.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -387,7 +387,7 @@
         "voice": "GC930003.ogg"
       },
       "original": "ルフト将軍からの通信か……。まあ、なんとなく用件は予想できるけど。",
-      "translation": "루프트 장군님의 통신인가…… 뭐, 대충 용건은 예상되지만.",
+      "translation": "루프트 장군의 통신인가…… 뭐, 대충 용건은 예상되지만.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -465,7 +465,7 @@
         "voice": "GC930006.ogg"
       },
       "original": "あ、あの……私の顔に何か……？",
-      "translation": "아저기…제얼굴에뭐묻었나요…？",
+      "translation": "저, 저기…… 얼굴에 뭐가……?",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -483,7 +483,7 @@
         "voice": "GC930006.ogg"
       },
       "original": "えっ？　……ああ、いや、なんでもないよ。",
-      "translation": "엣？ ……아아, 아니, 아무것도 아니야.",
+      "translation": "어? ……아아, 아니, 아무것도 아니야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -975,7 +975,7 @@
         "voice": "GC930100.ogg"
       },
       "original": "ルフト将軍からの知らせは、ふたつある。が、まずはこっちから済ませておくとするか。",
-      "translation": "루프트 장군님의 소식은 두 가지다. 하지만 우선 이쪽부터 끝내두기로 할까.",
+      "translation": "루프트 장군의 소식은 두 가지다. 하지만 우선 이쪽부터 끝내두기로 할까.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1239,7 +1239,7 @@
         "voice": "GC930108.ogg"
       },
       "original": "……姉さん。",
-      "translation": "……언니.",
+      "translation": "……누나.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1689,7 +1689,7 @@
         "voice": "GC930121.ogg"
       },
       "original": "えっ、オレ？　オレは別に何も……。",
-      "translation": "엣, 나？ 난 딱히 별로…….",
+      "translation": "어, 나? 난 딱히 별로…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2199,7 +2199,7 @@
         "voice": "GC930137.ogg"
       },
       "original": "シヴァ様じきじきの命令？　そいつは心して聞かないといけないな。",
-      "translation": "시바 님 직속 명령？ 그건 마음가짐을 단단히 하고 들어야겠군.",
+      "translation": "시바 님이 직접 내린 명령? 그건 각오하고 들어야겠군.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2319,7 +2319,7 @@
         "voice": "GC930140.ogg"
       },
       "original": "やれやれ、オレたちも偉くなったもんだな。……で、なんでルフト将軍は、そんな大事なことを直接オレに言わないのかな？",
-      "translation": "이런 이런, 우리도 출세했네. ……그런데 왜 루프트 장군님은 그런 중요한 일을 직접 나한테 안 말해주는 걸까？",
+      "translation": "이런 이런, 우리도 출세했네. ……그런데 왜 루프트 장군은 그런 중요한 일을 직접 나한테 안 말해주는 걸까?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2367,7 +2367,7 @@
         "voice": "GC930141.ogg"
       },
       "original": "……さすがはルフト将軍。食えない人だなぁ。",
-      "translation": "……역시 루프트 장군님.속을알수없는분이네.",
+      "translation": "……역시 루프트 장군. 만만치 않은 분이네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2955,7 +2955,7 @@
         "voice": "GC930156.ogg"
       },
       "original": "ルフト将軍もシヴァ様も、人が悪いなあ。そんなにオレを驚かしたいのか？",
-      "translation": "루프트장군님도 시바 님도 참 못됐네. 그렇게 나를놀라게하고싶은거야？",
+      "translation": "루프트 장군도 시바 님도 참 못됐네. 그렇게 날 놀라게 하고 싶은 거야?",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3357,7 +3357,7 @@
         "voice": "GC930164.ogg"
       },
       "original": "ああ～、ひどいです、クールダラス副司令。マイヤーズ司令は……。",
-      "translation": "아아～ 너무해요, 쿨다라스 부사령관님. 마이어스 사령관님은…….\n",
+      "translation": "아아～ 너무해요, 쿨다라스 부사령관. 마이어스 사령관은…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3411,7 +3411,7 @@
         "voice": "GC930166.ogg"
       },
       "original": "最高です、クールダラス副司令。",
-      "translation": "최고예요, 쿨다라스 부사령관님.\n",
+      "translation": "최고예요, 쿨다라스 부사령관.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4077,7 +4077,7 @@
         "voice": "GC930213.ogg"
       },
       "original": "それに、今や君は、トランスバールのＶＩＰ。なんだってお世話させていただきますよ。",
-      "translation": "게다가 지금 당신은 트랜스벌의 ＶＩＰ. 무엇이든 대접해 드려야죠.\n",
+      "translation": "게다가 지금 당신은 트랜스벌의 VIP. 무엇이든 대접해 드려야죠.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4407,7 +4407,7 @@
         "voice": "GC930223.ogg"
       },
       "original": "ここに来るまで想像していたマイヤーズ司令よりも、今こうして目の前にいるタクトさんの方が、私はいいです。",
-      "translation": "여기 오기 전까지 상상했던 마이어스 사령관님보다, 지금 이렇게 눈앞에 계신 택트 씨가 더 좋아요.\n",
+      "translation": "여기 오기 전까지 상상했던 마이어스 사령관보다, 지금 이렇게 눈앞에 계신 택트 씨가 더 좋아요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4707,7 +4707,7 @@
         "voice": "GC930228.ogg"
       },
       "original": "……えっ？",
-      "translation": "……엣？",
+      "translation": "……어?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -4869,7 +4869,7 @@
         "voice": "GC930302.ogg"
       },
       "original": "お聞かせください、マイヤーズ司令。",
-      "translation": "들려주십시오, 마이어스 사령관님.\n",
+      "translation": "들려주십시오, 마이어스 사령관.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5403,7 +5403,7 @@
         "voice": "GC930314.ogg"
       },
       "original": "あ、すみません、マイヤーズ司令。でも……。",
-      "translation": "아,죄송합니다,마이어스사령관님.하지만…….",
+      "translation": "죄송합니다, 마이어스 사령관. 하지만…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5439,7 +5439,7 @@
         "voice": "GC930315.ogg"
       },
       "original": "えっ？",
-      "translation": "엣？",
+      "translation": "어?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5721,7 +5721,7 @@
         "voice": "GC930323.ogg"
       },
       "original": "……相手は、６００年前、ＥＤＥＮですら倒すことのできなかった相手よ。",
-      "translation": "……상대는 ６００년 전, EDEN조차 쓰러뜨리지 못했던 상대야.",
+      "translation": "……상대는 600년 전, EDEN조차 쓰러뜨리지 못했던 상대야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5925,7 +5925,7 @@
         "voice": "GC930329.ogg"
       },
       "original": "まだ７番機に取りつけられたままですが、必要とあらばすぐにでも取り外し可能です。",
-      "translation": "아직 ７번기에 장착된 상태입니다만, 필요하다면 즉시 탈거 가능합니다.\n",
+      "translation": "아직 7번기에 장착된 상태입니다만, 필요하다면 즉시 탈거 가능합니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6255,7 +6255,7 @@
         "voice": "GC930339.ogg"
       },
       "original": "よろしくお願いします、マイヤーズ司令。",
-      "translation": "잘 부탁드립니다, 마이어스 사령관님.",
+      "translation": "잘 부탁드립니다, 마이어스 사령관.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7005,7 +7005,7 @@
         "voice": "GC930420.ogg"
       },
       "original": "そんなことしたら、軍法会議ものですので覚悟してくださいね★",
-      "translation": "그런 짓을 하면 군사회의감 대상이니까 각오하세요★\n",
+      "translation": "그런 짓을 하면 군법회의감이니까 각오하세요★\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7191,7 +7191,7 @@
         "voice": "GC930424.ogg"
       },
       "original": "マイヤーズ司令、こちらをご覧ください。",
-      "translation": "마이어스 사령관님, 여기를 봐주십시오.\n",
+      "translation": "마이어스 사령관, 여기를 봐주십시오.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7821,7 +7821,7 @@
         "voice": "GC930438.ogg"
       },
       "original": "『白き月』と全乗組員に通達。エルシオールは明後日をもって、第３戦闘配備に移行する。",
-      "translation": "『백색 달』과 전 승무원에게 통지. 에르시올은 내일모레부로 제３ 전투배치에이행한다.",
+      "translation": "『백색 달』과 전 승무원에게 통지. 에르시올은 내일모레부로 제3 전투배치에 이행한다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8019,7 +8019,7 @@
         "voice": "GC930503.ogg"
       },
       "original": "よし、ここから先は通常航行で目的地へ向かう。乗組員は第２戦闘配備を維持。レーダー、警戒怠るな。",
-      "translation": "좋아, 이제부터는 통상 항행으로목적지로향한다승무원은제２전투배치유지.레이더,경계를늦추지마라.",
+      "translation": "좋아, 이제 통상 항행으로 목적지로 간다. 승무원은 제2전투배치 유지. 레이더, 경계 늦추지 마라.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8337,7 +8337,7 @@
         "voice": "GC930512.ogg"
       },
       "original": "マイヤーズ司令、『白き月』とつながりました。メインモニターに出します。",
-      "translation": "마이어스 사령관님, 『백색 달』과연결되었습니다.메인모니터로송출합니다.",
+      "translation": "마이어스 사령관, 『백색 달』 연결됐습니다. 메인 모니터로 송출합니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8361,7 +8361,7 @@
         "voice": "GC930513.ogg"
       },
       "original": "……マイヤーズ司令、そちらはご無事ですか？",
-      "translation": "……마이어스 사령관님,그쪽은무사하십니까？",
+      "translation": "……마이어스 사령관, 그쪽은 무사하십니까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8679,7 +8679,7 @@
         "voice": "GC930520.ogg"
       },
       "original": "はい。皇国の英雄マイヤーズ司令とロウィル将軍の戦いは、さぞかし見ごたえがありそうですから。",
-      "translation": "네. 황국의 영웅 마이어스 사령관님과 로윌 장군의 싸움은 분명 볼만할 테니까요.",
+      "translation": "네. 황국의 영웅 마이어스 사령관과 로윌 장군의 싸움은 분명 볼만할 테니까요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8709,7 +8709,7 @@
         "voice": "GC930520.ogg"
       },
       "original": "え……。",
-      "translation": "에…….\n",
+      "translation": "어…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9045,7 +9045,7 @@
         "voice": "GC930529.ogg"
       },
       "original": "英雄タクト・マイヤーズのお言葉ですからね、褒め言葉と受け取っておきます。",
-      "translation": "영웅 택트・마이어스 님의 말씀이니, 칭찬으로 받아들이겠습니다.",
+      "translation": "영웅 택트・마이어스의 말씀이니, 칭찬으로 받아들이겠습니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9387,7 +9387,7 @@
         "voice": "GC930537.ogg"
       },
       "original": "えっ？　あっ、ごめん、なんでもないんだ。",
-      "translation": "에？ 아, 미안, 아무것도 아니야.",
+      "translation": "어? 아, 미안, 아무것도 아니야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9933,7 +9933,7 @@
         "voice": "GC930609.ogg"
       },
       "original": "５方向より、こちらに近づいてくる艦隊を確認しました！",
-      "translation": "５방향에서 이쪽으로 접근 중인 함대를 확인했습니다！",
+      "translation": "5방향에서 이쪽으로 접근 중인 함대를 확인했습니다!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9957,7 +9957,7 @@
         "voice": "GC930610.ogg"
       },
       "original": "５つだと？　分艦隊がもう引き返してきたということか……！　交戦圏内への到達時間は？",
-      "translation": "５개라고？ 분함대가 벌써 되돌아왔다는 건가……！ 교전권 내 도달 시간은？",
+      "translation": "5개라고? 분함대가 벌써 되돌아왔다는 건가……! 교전권 내 도달 시간은?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9981,7 +9981,7 @@
         "voice": "GC930611.ogg"
       },
       "original": "お……およそ１０分です！",
-      "translation": "약…… 약 １０분입니다！",
+      "translation": "약…… 약 10분입니다!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9999,7 +9999,7 @@
         "voice": "GC930611.ogg"
       },
       "original": "１０分でロウィルの旗艦を撃破……か。",
-      "translation": "１０분 만에로윌의기함을격파……인가.",
+      "translation": "10분에 로윌의 기함을 격파……인가.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10143,7 +10143,7 @@
         "voice": "GC930616.ogg"
       },
       "original": "わかった。総員、第１戦闘配備！",
-      "translation": "알았다. 전원, 제１전투배치！",
+      "translation": "알았다. 전원, 제1전투배치!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10779,7 +10779,7 @@
         "voice": "GC930722.ogg"
       },
       "original": "『ヴァル・ファスク』は、同胞意識など皆無といっていいでしょう。裏切り裏切られは、当たり前のことにすぎません。",
-      "translation": "『발・파스크』는 동료 의식 따위는 전무하다고 해도 무방하죠. 배신과 배신은 당연한 일에 불과합니다.\n",
+      "translation": "『발・파스크』는 동료 의식 따윈 전무하죠. 서로 배신하고 배신당하는 건 당연한 일입니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10953,7 +10953,7 @@
         "voice": "GC930727.ogg"
       },
       "original": "えっ……？",
-      "translation": "엣……？",
+      "translation": "어……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12519,7 +12519,7 @@
         "voice": "GC931501.ogg"
       },
       "original": "外部酸素濃度、気圧チェック……すべて異常なし。右舷第４、第１２ハッチ、開放します。",
-      "translation": "외부 산소 농도, 기압 체크…… 모두 이상 없음. 우현 제４, 제１２ 해치, 개방합니다.\n",
+      "translation": "외부 산소 농도, 기압 체크…… 모두 이상 없음. 우현 제4, 제12 해치, 개방합니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12591,7 +12591,7 @@
         "voice": "GC931503.ogg"
       },
       "original": "マイヤーズ司令、シャトヤーン様たちから通信です。",
-      "translation": "마이어스사령관님,샤토얀님일행으로부터통신입니다",
+      "translation": "마이어스 사령관, 샤토얀 님 일행의 통신입니다",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -12633,7 +12633,7 @@
         "voice": "GC931504.ogg"
       },
       "original": "お疲れ様でした、マイヤーズ司令。",
-      "translation": "수고하셨습니다,마이어스사령관님.",
+      "translation": "수고하셨습니다, 마이어스 사령관.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12969,7 +12969,7 @@
         "voice": "GC931515.ogg"
       },
       "original": "こちらへ来る途中、ルフト将軍に援軍の派遣を重ねてお願いしてきました。いずれそちらにもお返事が行くかと思います。",
-      "translation": "오는 도중 루프트 장군님께 증원 파견을 거듭 부탁드렸습니다. 조만간 그쪽에도 답변이 갈 겁니다.",
+      "translation": "오는 도중 루프트 장군에게 증원 파견을 거듭 부탁드렸습니다. 조만간 그쪽에도 답변이 갈 겁니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13119,7 +13119,7 @@
         "voice": "GC931518.ogg"
       },
       "original": "あっ、司令。今度はルフト将軍からです。",
-      "translation": "앗, 사령관님. 이번엔 루프트장군입니다.",
+      "translation": "앗, 사령관. 이번엔 루프트 장군입니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13605,7 +13605,7 @@
         "voice": "GC931530.ogg"
       },
       "original": "はっはっは、ワシも陛下もおまえたちの勝利を信じておったからな。",
-      "translation": "핫핫핫, 나도 폐하께서도 너희의 승리를 믿고 있었으니까.\n",
+      "translation": "핫핫핫, 나도 폐하도 너희의 승리를 믿고 있었으니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13659,7 +13659,7 @@
         "voice": "GC931531.ogg"
       },
       "original": "むろん、防衛してもらわねば困る。まだ敵の艦隊が一部残っておるのじゃろう？",
-      "translation": "물론이다, 방어를 해줘야 곤란하니까. 아직 적 함대가 일부 남아있지 않나？\n",
+      "translation": "물론이다. 방어해 줘야지. 아직 적 함대가 일부 남아 있지 않나?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13833,7 +13833,7 @@
         "voice": "GC931536.ogg"
       },
       "original": "なんにせよ、シヴァ様の出番はもう少し先ですね。",
-      "translation": "어쨌든 시바 님의 차례는 좀 더 나중겠군요.\n",
+      "translation": "어쨌든 시바 님의 차례는 좀 더 나중이겠군요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13881,7 +13881,7 @@
         "voice": "GC931537.ogg"
       },
       "original": "そういうことです。ではルフト将軍、増援の件、くれぐれもよろしくお願いします。",
-      "translation": "그렇군요. 그럼 루프트 장군님, 증원 건은 부디 잘 부탁드립니다.\n",
+      "translation": "그렇군요. 그럼 루프트 장군, 증원 건은 부디 잘 부탁드립니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14217,7 +14217,7 @@
         "voice": "GC931547.ogg"
       },
       "original": "ヴァインさんって民間人なのに、マイヤーズ司令よりも軍人っぽいですね。",
-      "translation": "바인 씨는 민간인인데도 마이어스 사령관님보다 군인 같네요.\n",
+      "translation": "바인 씨는 민간인인데도 마이어스 사령관보다 군인 같네요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14265,7 +14265,7 @@
         "voice": "GC931548.ogg"
       },
       "original": "どうせ俺はヘラヘラしてますよーだ。",
-      "translation": "어차피전빈둥거리고있을뿐이지만요～",
+      "translation": "어차피 전 실실거릴 뿐이지만요～",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14301,7 +14301,7 @@
         "voice": "GC931550.ogg"
       },
       "original": "マイヤーズ司令はマイヤーズ司令で、民間人っぽい軍人ってことで頼りにしてます。",
-      "translation": "마이어스 사령관님은 사령관님대로, 민간인 같은 군인으로서 의지가 되니까요.\n",
+      "translation": "마이어스 사령관은 사령관대로, 민간인 같은 군인으로서 의지가 되니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15429,7 +15429,7 @@
         "voice": "GC931618.ogg"
       },
       "original": "ふっふっふ、司令、まだまだですね～。",
-      "translation": "훗훗훗, 사령관님도 아직 멀었네요～.\n",
+      "translation": "훗훗훗, 사령관도 아직 멀었네요～.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15519,7 +15519,7 @@
         "voice": "GC931620.ogg"
       },
       "original": "よ、よく見てるね……って、確か整備班はあの美少年人気アイドルのリッキー君とやらにお熱じゃなかったっけ？",
-      "translation": "여, 여긴 정말 잘 보는구나…… 그보다 정비반은 미소년 아이돌 리키 군에게 빠져있지 않았나？",
+      "translation": "자, 자세히도 보네…… 그보다 정비반은 미소년 아이돌 리키 군에게 빠져 있지 않았나?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15849,7 +15849,7 @@
         "voice": "GC931629.ogg"
       },
       "original": "無表情なくせに、お姉さんを大事に思ってる気持ちだけは、隠すのが下手みたいで。",
-      "translation": "무표정한 주제에, 언니를 소중히 여기는 마음만큼은 숨기는 게 서툰 것 같아서.\n",
+      "translation": "무표정한 주제에, 누나를 소중히 여기는 마음만큼은 숨기는 게 서툰 것 같아서.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16017,7 +16017,7 @@
         "voice": "GC931631.ogg"
       },
       "original": "えっ？　それは、その……。",
-      "translation": "엣？ 그건, 그러니까…….\n",
+      "translation": "어? 그건, 그러니까…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16155,7 +16155,7 @@
         "voice": "GC131000.ogg"
       },
       "original": "えっ？　い、いや、誰もいないかな～、とか思って。",
-      "translation": "엣？ 아, 아니, 아무도 없나～ 싶어서.\n",
+      "translation": "어? 아, 아니, 아무도 없나～ 싶어서.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16239,7 +16239,7 @@
         "voice": "GC330800.ogg"
       },
       "original": "えっ？　い、いや、そんなことはないよ。",
-      "translation": "엣？ 아, 아니, 그런 건 아니야.\n",
+      "translation": "어? 아, 아니, 그런 건 아니야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16383,7 +16383,7 @@
         "voice": "GC330803.ogg"
       },
       "original": "えっ？　あっ、いやいや、なんでもないんだ。",
-      "translation": "엣？ 아, 아니아니, 아무것도 아니야.\n",
+      "translation": "어? 아, 아니아니, 아무것도 아니야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16587,7 +16587,7 @@
         "voice": "GC131005.ogg"
       },
       "original": "えっ、そ、そうかなあ……？",
-      "translation": "엣, 그, 그런가……？\n",
+      "translation": "어, 그, 그런가……?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16881,7 +16881,7 @@
         "voice": "GC330806.ogg"
       },
       "original": "本当に、私にはすぎた弟です。それに比べて私は、姉らしいことなんて、何ひとつしてあげられなくて……。",
-      "translation": "정말, 저에게는 과분한 동생이에요. 그에 비해 저는 언니다운 짓은 하나도 해주지 못해서…….\n",
+      "translation": "정말, 저에게는 과분한 동생이에요. 그에 비해 저는 누나답게 해준 게 하나도 없어서…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17139,7 +17139,7 @@
         "voice": "GC931701.ogg"
       },
       "original": "ああ、この間の戦いでは現れなかった５つの分艦隊と見ていいだろう。今、こちらに向かっている。",
-      "translation": "아아, 지난 전투엔 없던 ５개 분함대로군. 지금 이쪽으로 오고 있다.",
+      "translation": "아아, 지난 전투엔 없던 5개 분함대로군. 지금 이쪽으로 오고 있다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17229,7 +17229,7 @@
         "voice": "GC931703.ogg"
       },
       "original": "かなりの速度で接近中ですので、およそ２０分前後かと思われます。",
-      "translation": "상당한 속도로 접근 중이므로, 대략 ２０분 전후로 예상됩니다.\n",
+      "translation": "상당한 속도로 접근 중이므로, 대략 20분 전후로 예상됩니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17253,7 +17253,7 @@
         "voice": "GC931703.ogg"
       },
       "original": "さすがに早いな……。よし、今すぐ出撃準備！１０分で『白き月』を出る！",
-      "translation": "역시 빠르군…… 좋아, 즉시 출격 준비！１０분내로『백색달』을나간다！",
+      "translation": "역시 빠르군…… 좋아, 즉시 출격 준비! 10분 내 『백색 달』을 나간다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17277,7 +17277,7 @@
         "voice": "GC931704.ogg"
       },
       "original": "もう指示は出してある。５分でなんとかなる。",
-      "translation": "이미 지시는 내려놨다. ５분이면 충분해.",
+      "translation": "이미 지시는 내려놨다. 5분이면 충분해.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17427,7 +17427,7 @@
         "voice": "GC931708.ogg"
       },
       "original": "第１戦闘配備発令！　エンジェル隊を紋章機に搭乗させろ！",
-      "translation": "제１전투배치 발령！ 엔젤대를 문장기에 탑승시켜라！\n",
+      "translation": "제1전투배치 발령! 엔젤대를 문장기에 탑승시켜라!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17451,7 +17451,7 @@
         "voice": "GC931709.ogg"
       },
       "original": "了解。第１戦闘配備発令します！",
-      "translation": "네. 제１전투배치 발령！",
+      "translation": "네. 제1전투배치 발령!",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [
@@ -17649,7 +17649,7 @@
         "voice": "GC931800.ogg"
       },
       "original": "マイヤーズ司令、『白き月』への接舷、終わりました。",
-      "translation": "마이어스 사령관님, 『백색 달』 접선 완료했습니다.\n",
+      "translation": "마이어스 사령관, 『백색 달』 접선 완료했습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17763,7 +17763,7 @@
         "voice": "GC931804.ogg"
       },
       "original": "あとはこっちでやっておきますから、司令は大事な人のそばに、ついててあげてください。",
-      "translation": "나머지는 저희가 처리할 테니, 사령관님은 소중한 사람 곁에 있어 주세요.\n",
+      "translation": "나머지는 저희가 처리할 테니, 사령관은 소중한 사람 곁에 있어 주세요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

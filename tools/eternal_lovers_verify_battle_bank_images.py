@@ -54,12 +54,14 @@ def expected_raw_and_stream(
     codec: str,
 ) -> tuple[bytes, bytes, bool]:
     images_root = project / "assets/image_extraction/japanese_images" / entry["container"]
-    translated_path = images_root / "mirror_png" / entry["translated_png"]
+    translated_path = bank_patcher.authoritative_png_path(
+        project, "eternal", entry["container"], images_root, "mirror_png", entry
+    )
     with Image.open(translated_path) as opened:
         replacement = opened.convert("RGBA")
 
     if bank_patcher.pixel_hash(decode_tex(original_raw)) == bank_patcher.pixel_hash(replacement):
-        return original_raw, resources.encode_stored(original_raw) if codec == "stored_xor" else b"", False
+        return original_raw, bank_patcher.encode_resource(original_raw, codec), False
 
     try:
         rebuilt, compressed, _colours = bank_patcher.compress_to_fit(
@@ -67,7 +69,8 @@ def expected_raw_and_stream(
         )
         return rebuilt, compressed, False
     except ValueError:
-        # Mirrors take the same refit path as the patcher, so the two agree.
+        # Keep the original fixed slot.  If palette re-quantization is still not enough,
+        # reproduce the same per-copy refit fallback used by the patcher.
         rebuilt, compressed = bank_patcher.refit(
             project, entry, original_raw, capacity, codec
         )
@@ -133,6 +136,11 @@ def main() -> None:
             original_map = merged_resources(original_container, stem)
             final_map = merged_resources(final_container, stem)
             boundaries = sorted(original_map)
+            final_by_record = {
+                record: resource
+                for resource in final_map.values()
+                for record in resource.record_positions
+            }
             verified = 0
             refitted = 0
 
@@ -141,9 +149,14 @@ def main() -> None:
                 entry["container"] = stem
                 offset = int(entry["resource_offset"])
                 original_resource = original_map.get(offset)
-                final_resource = final_map.get(offset)
-                if original_resource is None or final_resource is None:
-                    raise SystemExit(f"missing FSTS resource: {stem}:{offset:#x}")
+                if original_resource is None:
+                    raise SystemExit(f"missing source FSTS resource: {stem}:{offset:#x}")
+                final_resource = final_by_record.get(original_resource.record_positions[0])
+                if final_resource is None:
+                    raise SystemExit(
+                        f"missing final FSTS resource by stable record: "
+                        f"{stem}:{offset:#x} record={original_resource.record_positions[0]:#x}"
+                    )
 
                 index = boundaries.index(offset)
                 end = boundaries[index + 1] if index + 1 < len(boundaries) else len(original_container)
@@ -166,7 +179,7 @@ def main() -> None:
 
                 final_raw = resources.decompress_resource(
                     final_container,
-                    offset,
+                    final_resource.offset,
                     final_resource.raw_size,
                     final_resource.compressed_size,
                 )
@@ -187,17 +200,25 @@ def main() -> None:
                         f"battle-bank codec changed: {stem}:{entry['png']} "
                         f"{original_resource.codec}->{final_resource.codec}"
                     )
-                if final_resource.compressed_size > capacity:
+                final_offsets = sorted(final_map)
+                final_index = final_offsets.index(final_resource.offset)
+                final_end = (
+                    final_offsets[final_index + 1]
+                    if final_index + 1 < len(final_offsets)
+                    else len(final_container)
+                )
+                if final_resource.compressed_size > final_end - final_resource.offset:
                     raise SystemExit(
-                        f"battle-bank stream exceeds source slot: {stem}:{entry['png']} "
-                        f"{final_resource.compressed_size}>{capacity}"
+                        f"battle-bank stream exceeds final slot: {stem}:{entry['png']} "
+                        f"{final_resource.compressed_size}>{final_end - final_resource.offset}"
                     )
                 tail = final_container[
-                    offset + final_resource.compressed_size : end
+                    final_resource.offset + final_resource.compressed_size : final_end
                 ]
                 if any(tail):
                     raise SystemExit(
-                        f"battle-bank protected padding changed: {stem}:{entry['png']} {offset:#x}"
+                        f"battle-bank protected padding changed: {stem}:{entry['png']} "
+                        f"{final_resource.offset:#x}"
                     )
 
                 # Every duplicate FSTS record for this physical stream must expose the

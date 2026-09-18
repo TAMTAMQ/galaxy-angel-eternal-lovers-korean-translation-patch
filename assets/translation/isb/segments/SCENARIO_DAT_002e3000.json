@@ -227,7 +227,7 @@
         "voice": "GEL0009.ogg"
       },
       "original": "それぞれのユニットはその機体の種別を示すアイコンと、現在の状態を示す３つのゲージによって表されている。",
-      "translation": "각 유닛은 기체 종별을 나타내는 아이콘과 현재 상태를 나타내는 ３개의 게이지로 표현된다.\n",
+      "translation": "각 유닛은 기체 종별을 나타내는 아이콘과 현재 상태를 나타내는 3개의 게이지로 표현된다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -257,7 +257,7 @@
         "voice": "GEL0010.ogg"
       },
       "original": "「Ｈ」のゲージは耐久力（ＨＰ）。「Ｅ」がエネルギー（ＥＮ）。「Ｓ」が気力（ＳＰ）を表している。",
-      "translation": "「Ｈ」 게이지는 내구력（ＨＰ）, 「Ｅ」는 에너지（ＥＮ）, 「Ｓ」는 기력（ＳＰ）을 나타낸다.\n",
+      "translation": "「H」 게이지는 내구력(HP), 「E」는 에너지(EN), 「S」는 기력(SP)을 나타낸다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -341,7 +341,7 @@
         "voice": "GEL0013.ogg"
       },
       "original": "また、紋章機だけは、気力（ＳＰ）ゲージが１００パーセントになるとアイコンが緑色に点滅する。",
-      "translation": "또한, 문장기만은 기력（ＳＰ） 게이지가 １００퍼센트가 되면 아이콘이 녹색으로 점멸한다.\n",
+      "translation": "또한, 문장기만은 기력(SP) 게이지가 100퍼센트가 되면 아이콘이 녹색으로 점멸한다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -425,7 +425,7 @@
         "voice": "GEL0016.ogg"
       },
       "original": "青色のユニットがエルシオールとエンジェル隊。緑色は味方の皇国軍艦隊。",
-      "translation": "청색 유닛은 에르시올과 엔젤대. 녹색은아군인 황국 군함대입니다.",
+      "translation": "청색 유닛은 에르시올과 엔젤대. 녹색은 아군 황국군 함대다.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -479,7 +479,7 @@
         "voice": "GEL0018.ogg"
       },
       "original": "選択した陣営のユニット数が８つ以上のときは、方向キー上下でスクロールさせればいい。",
-      "translation": "선택한 진영의 유닛 수가 ８개 이상일 때는 방향키 상하로 스크롤하면 된다.\n",
+      "translation": "선택한 진영의 유닛 수가 8개 이상일 때는 방향키 상하로 스크롤하면 된다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -665,7 +665,7 @@
         "voice": "GEL0026.ogg"
       },
       "original": "なお、カメラビューでＬ３ボタンを押すとオートカメラモードに切り替わり、もう一度押すとコックピットビューになる。",
-      "translation": "참고로 카메라 뷰에서 Ｌ３ 버튼을 누르면 오토 카메라 모드로 전환되며, 다시 누르면 콕핏 뷰가 된다.\n",
+      "translation": "참고로 카메라 뷰에서 L3 버튼을 누르면 오토 카메라 모드로 전환되며, 다시 누르면 콕핏 뷰가 된다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -719,7 +719,7 @@
         "voice": "GEL0028.ogg"
       },
       "original": "ユニット情報表示は、「選択ユニットのみ表示」、「全て表示」、「全て非表示」の３種類から選べる。",
-      "translation": "유닛 정보는 「선택 유닛만 표시」, 「모두 표시」, 「모두 비표시」 ３종류 중 선택 가능하다.",
+      "translation": "유닛 정보는 「선택 유닛만 표시」, 「모두 표시」, 「모두 비표시」 3종류 중 선택 가능하다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -749,7 +749,7 @@
         "voice": "GEL0029.ogg"
       },
       "original": "次にカメラの操作についてだ。",
-      "translation": "다음은 카메라조작에대해서다.",
+      "translation": "다음은 카메라 조작 설명이다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -815,7 +815,7 @@
         "voice": "GEL0032.ogg"
       },
       "original": "画面の拡大・縮小を行うにはＲ２・Ｌ２ボタンを押してくれ。",
-      "translation": "화면을 확대・축소하려면 Ｒ２・Ｌ２ 버튼을 눌러줘.",
+      "translation": "화면을 확대・축소하려면 R2・L2 버튼을 눌러줘.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -839,7 +839,7 @@
         "voice": "GEL0033.ogg"
       },
       "original": "そしてＲ１ボタン・Ｌ１ボタン。このボタンを押すたびに、選択中のユニットが次々に切り替わる。",
-      "translation": "그리고 Ｒ１ 버튼・Ｌ１ 버튼. 이 버튼을 누를 때마다, 선택 중인 유닛이 차례로 바뀐다.\n",
+      "translation": "그리고 R1 버튼・L1 버튼. 이 버튼을 누를 때마다 선택 중인 유닛이 차례로 바뀐다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -869,7 +869,7 @@
         "voice": "GEL0034.ogg"
       },
       "original": "タイトル画面に戻りたい場合などには、ＳＥＬＥＣＴボタンを押してくれ。",
-      "translation": "타이틀 화면으로 돌아가고 싶을 때 등에는 ＳＥＬＥＣＴ 버튼을 눌러라.\n",
+      "translation": "타이틀 화면으로 돌아가고 싶을 때 등에는 SELECT 버튼을 눌러라.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -917,7 +917,7 @@
         "voice": "GEL0036.ogg"
       },
       "original": "では続いて、ユニットへの命令の仕方を説明する。",
-      "translation": "이어서유닛에게 명령을 내리는 법을 설명하겠다.",
+      "translation": "이어서 유닛에게 명령을 내리는 법을 설명하겠다",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1103,7 +1103,7 @@
         "voice": "GEL0043.ogg"
       },
       "original": "最後にポーズ画面について教えておこう。",
-      "translation": "마지막으로 포즈 화면에 대해알려두겠다.",
+      "translation": "마지막으로 포즈 화면을 설명하겠다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1121,7 +1121,7 @@
         "voice": "GEL0044.ogg"
       },
       "original": "戦闘中に、ＳＴＡＲＴボタンを押すことで、ゲームの進行を一時停止できる。",
-      "translation": "전투 중에 ＳＴＡＲＴ 버튼을 누르면 게임 진행을 일시 정지할 수 있다.\n",
+      "translation": "전투 중에 START 버튼을 누르면 게임 진행을 일시 정지할 수 있다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1199,7 +1199,7 @@
         "voice": "GCf00046.ogg"
       },
       "original": "どうだ、タクト。ちゃんと思い出せたか？",
-      "translation": "어때, 택트. 제대로 기억해냈나？\n",
+      "translation": "어때, 택트. 제대로 기억해냈나?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1295,7 +1295,7 @@
         "voice": "GCf00047.ogg"
       },
       "original": "まだ寝ぼけてるのか？　もう一度言うから、ちゃんと聞いていろよ。",
-      "translation": "아직 잠이 덜 깼나？ 다시 말할 테니 제대로 듣고 있어라.\n",
+      "translation": "아직 잠이 덜 깼나? 다시 말할 테니 제대로 듣고 있어라.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1319,7 +1319,7 @@
         "voice": "GCf00047.ogg"
       },
       "original": "もう大丈夫だよ。いけると思う。",
-      "translation": "이제 괜찮아. 할 수 있을것같아.",
+      "translation": "이제 괜찮아. 할 수 있을 듯해.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

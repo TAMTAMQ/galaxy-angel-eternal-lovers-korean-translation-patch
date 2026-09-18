@@ -1,5 +1,21 @@
 # Galaxy Angel - Eternal Lovers (PS2) 한글화 진행 상태
 
+## 2026-09-18 v0.2 — 대사 줄 재배분, 누락 이미지, UI 패널
+
+- **대사 줄바꿈**: ISB 대사는 한 줄이 원문 일본어 줄 길이로 고정된 문자열 레코드라, 한국어가 `멍하니 서 있 | 는 거야?`처럼 어절 중간에서 끊겼다(여러 줄 대사 17,538개 중 4,475곳). 한 대사의 레코드가 메모리상 연속이고 길이 필드가 평문임을 확인한 뒤, `eternal_lovers_patch_isb.py`가 대사 전체 크기를 바이트 단위로 유지하면서 줄마다 길이를 재배분하도록 했다(39칸, 띄어쓰기 우선, 빈 줄 금지). 16,648개 대사에 적용해 어절 중간 분할 4,475 → 434. 남은 434곳은 한국어가 일본어 바이트 예산보다 길어 번역을 줄여야만 해결된다. 실기 확인 완료.
+- **누락 이미지**: SLG `ggmenu_btn01`(이동), `ggmenu_btn30~35`, `guname_face202`, `help_01`, GADAT032 `gybtn00f`/`gybtn02`를 추출 목록에 추가하고 번역본을 만들었다. SLGRES 미러는 287 → 302.
+- **gybtn01~06**: 18장을 다시 만들었다. 기체 그림이 겹친 캐릭터는 b 변형에서 복원한 패널을 기준으로 일본어·글로우를 걷어내고, 원본에서 측정한 글로우 모델로 한글을 합성했다.
+- **저장/불러오기 패널**: `gfwin03`에 구워진 `データ削除 △`를 지워 `gfbtn03` 버튼과 겹치지 않게 했다.
+- 최종 ISO: `build/Galaxy_Angel_Eternal_Lovers_KO_uifix_20260918_SUBTITLED.iso` (자막 영상 24편은 v0.1_RELEASE와 동일)
+- v0.2 XDelta: `release/galaxy_angel_eternal_lovers_ps2_kr_v0.2.xdelta`, 원본 역적용 일치 PASS
+
+## 2026-09-15 SaveLabel 공백 호환 감사
+
+- 1편/문릿 러버즈의 저장 문자열 잘림 선례를 기준으로 Eternal Lovers의 ISL title 토큰 `af0e22af`를 전수 확인했다. 세이브/불러오기 설명에 쓰이는 title 계열은 **591유닛**, 전부 번역되어 있고 그중 **480유닛**의 한국어 번역에 일반 띄어쓰기가 있다.
+- Eternal Lovers는 기존 `eternal_lovers_patch_isb.py`가 일반 ASCII 공백 `0x20`을 이미 parser-safe half-space `0xA0`으로 인코딩하므로 Moonlit의 `밀피와의 → 뒤 잘림`과 같은 회귀가 현재 v0.1에는 없다. `Galaxy_Angel_Eternal_Lovers_KO_v0.1_RELEASE.iso` 실 ISO readback에서도 title 591/591의 ASCII `0x20` 위반 **0건**을 확인했다.
+- 재발 방지로 title 토큰을 명시 상수화하고 `eternal_lovers_verify_savelabel_titles.py`를 추가했다. 빌드 ISB와 최종 ISO 양쪽에서 SaveLabel/title의 ASCII 공백을 검사하며 한 건이라도 생기면 빌드를 실패시킨다. 빌드 파이프라인에도 두 단계 검사를 연결했다.
+- 현재 진행 중인 번역 전수검수 작업본으로 `eternal_lovers_patch_isb.py`를 재실행하면 별도의 기존 용량 초과 **33건**이 남아 있어 전체 새 ISO 빌드는 아직 하지 않았다. SaveLabel 공백 감사 자체는 **591/591, 위반 0**으로 통과한다.
+
 ## 2026-09-08 v0.1 재배포 완료 — 5950 정식 PSS
 
 실기에서 정상 재생이 확인된 `ga_ml_5950` 조건을 전체 자막 영상에 적용해 PSS/ISO와 v0.1 배포 파일을 다시 만들었다.

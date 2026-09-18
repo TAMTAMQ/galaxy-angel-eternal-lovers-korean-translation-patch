@@ -1560,7 +1560,7 @@
         "voice": "GC945209.ogg"
       },
       "original": "ルシャーティなんか同じお姉さん同士で、すごく気が合いそうだったのに……。",
-      "translation": "루샤티 씨 같은 똑같은 언니 사이라면 정말 잘 맞을 것 같았는데…….\n",
+      "translation": "루샤티와는 같은 누나끼리라 정말 잘 맞을 것 같았는데…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1644,7 +1644,7 @@
         "voice": "GC945211.ogg"
       },
       "original": "タクトのせいじゃないでしょ。みんなあのふたりが悪いんじゃない。『ヴァル・ファスク』が悪いんじゃない！",
-      "translation": "택트 탓이 아니잖아. 모두 그 두 사람이 잘못한 거지, 『발・파스크』가 잘못한 게 아니야！\n",
+      "translation": "택트 탓이 아니잖아. 그 두 사람이 나쁜 게 아니라 『발・파스크』가 나쁜 거잖아!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1818,7 +1818,7 @@
         "voice": "GC945214.ogg"
       },
       "original": "紋章機の『Ｈ．Ａ．Ｌ．Ｏ．』は心の動きがそのまま反映されるシステムだ。いまのままのランファはとても乗せられないよ。",
-      "translation": "문장기의 『Ｈ．Ａ．Ｌ．Ｏ．』는 마음이 그대로 반영되는 시스템이야. 지금 상태의 란파로는 도저히 태울 수 없어.",
+      "translation": "문장기의 『H.A.L.O.』는 마음이 그대로 반영되는 시스템이야. 지금 상태의 란파로는 도저히 태울 수 없어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2298,7 +2298,7 @@
         "voice": "GC945306.ogg"
       },
       "original": "ミントの部屋・７番機について話す",
-      "translation": "민트의방・７번기에대해이야기하다",
+      "translation": "민트의 방・7번기 이야기",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2850,7 +2850,7 @@
         "voice": "GC945412.ogg"
       },
       "original": "……ところでタクトさん、盗まれた７番機の方は見つかりそうですの？",
-      "translation": "……그런데 택트 씨, 도난당한 ７번기는 찾을 수 있을 것 같나요？\n",
+      "translation": "……그런데 택트 씨, 도난당한 7번기는 찾을 수 있을 것 같나요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3090,7 +3090,7 @@
         "voice": "GC945501.ogg"
       },
       "original": "え？　なんでだい？",
-      "translation": "에？ 왜？\n",
+      "translation": "어? 왜?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3318,7 +3318,7 @@
         "voice": "GC945506.ogg"
       },
       "original": "ともかく７番機の奪還に集中しよう。うまくいったら、またおいしいハーブティーで乾杯だ。",
-      "translation": "어쨌든 ７번기 탈환에 집중하자. 잘 풀리면 다시 맛있는 허브티로 건배하는 거야.\n",
+      "translation": "어쨌든 7번기 탈환에 집중하자. 잘 풀리면 다시 맛있는 허브티로 건배하는 거야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4218,7 +4218,7 @@
         "voice": "GC945701.ogg"
       },
       "original": "そうさ。見てなタクト。あたしたちにかかりゃあ、７番機なんてあっという間に奪還できるさ。",
-      "translation": "그래. 두고 봐, 택트. 우리라면 ７번기 따위 순식간에 탈환할 수 있어.\n",
+      "translation": "그래. 두고 봐, 택트. 우리라면 7번기 따위 순식간에 탈환할 수 있어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4356,7 +4356,7 @@
         "voice": "GC945703.ogg"
       },
       "original": "圧倒的な紋章機の数さ。",
-      "translation": "압도적인 문장기의수지.",
+      "translation": "압도적인 문장기 수지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4398,7 +4398,7 @@
         "voice": "GC945704.ogg"
       },
       "original": "え、そうかい？",
-      "translation": "에, 그래？\n",
+      "translation": "어, 그래?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4662,7 +4662,7 @@
         "voice": "GC945801.ogg"
       },
       "original": "え？　まさか……？",
-      "translation": "에？ 설마……？\n",
+      "translation": "어? 설마……?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4776,7 +4776,7 @@
         "voice": "GC945804.ogg"
       },
       "original": "はい、これはルシャーティさんとヴァインさんのカルテです……。",
-      "translation": "네, 이건 루샤티 씨와 바인 씨의 카르테입니다…….\n",
+      "translation": "네, 이건 루샤티 씨와 바인 씨의 차트입니다…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4818,7 +4818,7 @@
         "voice": "GC945804.ogg"
       },
       "original": "そうか、ふたりのカルテか。それで、なにか新しいことでも見つけたのかい？",
-      "translation": "그런가, 두 사람의 카르테인가. 그래서, 뭔가 새로운 거라도 찾아냈어？\n",
+      "translation": "그런가, 두 사람의 차트인가. 그래서, 뭔가 새로운 거라도 찾아냈어?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5742,7 +5742,7 @@
         "voice": "GC945909.ogg"
       },
       "original": "冷たい言い方かもしれないけど、これはふたりの選択だから、責任を取ってもらうしかないだろうね。",
-      "translation": "냉정한 말일지도 모르지만, 이건 두 사람의 선택이니까, 책임을 져야 할 수밖에 없겠지.\n",
+      "translation": "냉정한 말일지 몰라도, 두 사람의 선택이니 책임을 져야겠지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6882,7 +6882,7 @@
         "voice": "GC946105.ogg"
       },
       "original": "え？　そうかい？",
-      "translation": "에？ 그래？\n",
+      "translation": "어? 그래?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7092,7 +7092,7 @@
         "voice": "GC946216.ogg"
       },
       "original": "……マイヤーズ司令、あたしたち紋章機と戦わなければならないんですよね。",
-      "translation": "……마이어스 사령관님, 저희 문장기와 싸워야 하는 거죠.\n",
+      "translation": "……마이어스 사령관, 저희 문장기와 싸워야 하는 거죠.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7116,7 +7116,7 @@
         "voice": "GC946216.ogg"
       },
       "original": "そうだね。７番機は何が何でも奪還しなければならないところだよ。",
-      "translation": "그래. ７번기는 어떻게 해서든 탈환해야 할 상황이야.\n",
+      "translation": "그래. 7번기는 어떻게 해서든 탈환해야 할 상황이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7140,7 +7140,7 @@
         "voice": "GC946217.ogg"
       },
       "original": "いままでは、いろいろ危ない目に遭ってきましたけど、でも紋章機が味方にいるからって、あたし全然怖いって思ったことはないんです。",
-      "translation": "지금까지는 여러 위험한 일도 있었지만, 문장기가 아군에 있다고 해서 무서운 적은 없었어요.\n",
+      "translation": "지금까지 위험한 일도 많았지만, 문장기가 아군이라 전혀 무섭다고 생각한 적 없어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7446,7 +7446,7 @@
         "voice": "GC946223.ogg"
       },
       "original": "副司令……。",
-      "translation": "부사령관님…",
+      "translation": "부사령관…",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -7512,7 +7512,7 @@
         "voice": "GC946226.ogg"
       },
       "original": "は、はい、副司令。",
-      "translation": "네, 네,부사령관님.",
+      "translation": "네, 네, 부사령관.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7584,7 +7584,7 @@
         "voice": "GC946229.ogg"
       },
       "original": "他人事じゃないぞ、タクト。ふたりでさえこの状態だ。エンジェル隊自身が落ち込むようなことにでもなれば冗談じゃすまんぞ。",
-      "translation": "남 일 같지 않아, 택트. 둘뿐인 이 상태라니. 엔젤대 스스로가 낙담하는 일이라도 생기면 곤란하다고.\n",
+      "translation": "남 일 아니야, 택트. 저 둘조차 저 상태다. 엔젤대까지 낙담하면 큰일이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7692,7 +7692,7 @@
         "voice": "GC946231.ogg"
       },
       "original": "食堂・『おみやげ作戦』発令",
-      "translation": "식당・『오미야게작전』발령",
+      "translation": "식당・『선물 작전』 발령",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7734,7 +7734,7 @@
         "voice": "GC946300.ogg"
       },
       "original": "そうなんだよ司令さん。あたしも困ってるんだけどねえ。",
-      "translation": "맞아요 사령관님. 저도 고민이라니까요.\n",
+      "translation": "맞아요, 사령관 씨. 저도 고민이라니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7914,7 +7914,7 @@
         "voice": "GC946304.ogg"
       },
       "original": "時間は不規則になるし、食べるものも偏るだろうし、あたしゃ心配なんだよ、司令さん。",
-      "translation": "시간도 불규칙해지고 음식도 편식하게 될 테니 걱정이야, 사령관님.\n",
+      "translation": "시간도 불규칙해지고 음식도 편식하게 될 테니 걱정이야, 사령관 씨.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7962,7 +7962,7 @@
         "voice": "GC946305.ogg"
       },
       "original": "こういうときこそ、ちゃんと食べてもらわないとねえ……。司令さん、なにかいい知恵はないかい？",
-      "translation": "이럴 때일수록 제대로 먹어야 할 텐데…… 사령관님, 좋은 아이디어 없나요？\n",
+      "translation": "이럴 때일수록 제대로 먹어야 할 텐데…… 사령관 씨, 좋은 아이디어 없나요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8016,7 +8016,7 @@
         "voice": "GC946306.ogg"
       },
       "original": "ええ？　うちがお弁当を出すのかい？",
-      "translation": "에？ 우리 쪽에서 도시락을 판다고？\n",
+      "translation": "어? 우리 쪽에서 도시락을 판다고?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8082,7 +8082,7 @@
         "voice": "GC946307.ogg"
       },
       "original": "いや、食堂にきた連中に弁当を複数個持って帰らせて持ち場で配らせるんですよ。",
-      "translation": "아니,식당에온사람들에게도시락을여러개들려보내서각자위치에서먹게하는거예요",
+      "translation": "아니, 식당 손님에게 도시락을 여럿 들려 보내 근무지에 나눠주게 하는 거예요",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8178,7 +8178,7 @@
         "voice": "GC946308.ogg"
       },
       "original": "そこでおにぎりからおばさんの味を思い出してもらうわけです。おいしい物が食べたいって気持ちになれば、もうイチコロですよ。",
-      "translation": "거기서 주먹밥을 통해 어머니의 맛을 떠올리게 하는 겁니다. 맛있는 게 먹고 싶어지면 바로 넘어오게 되어 있어요.\n",
+      "translation": "거기서 주먹밥을 통해 아주머니의 맛을 떠올리게 하는 겁니다. 맛있는 게 먹고 싶어지면 바로 넘어오게 돼요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8208,7 +8208,7 @@
         "voice": "GC946309.ogg"
       },
       "original": "はあ、なるほどねえ。うまく考えるもんだねえ司令さん。",
-      "translation": "하아, 그렇군요. 머리를 잘 쓰네요, 사령관님.\n",
+      "translation": "하아, 그렇군요. 머리를 잘 쓰네요, 사령관 씨.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8280,7 +8280,7 @@
         "voice": "GC946310.ogg"
       },
       "original": "オレもおばさんのご飯をみんなに食べてもらって、英気を養ってもらいたいですしね。",
-      "translation": "저도 다들 어머니의 밥을 먹고 기운을 차렸으면 좋겠으니까요.\n",
+      "translation": "저도 다들 아주머니의 밥을 먹고 기운을 차렸으면 좋겠으니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8304,7 +8304,7 @@
         "voice": "GC946311.ogg"
       },
       "original": "そうだ。せっかくだから司令さんに作戦名でもつけてもらおうかね？",
-      "translation": "그래. 이왕 하는 거 사령관님이 작전명이라도 지어주지 않을래？\n",
+      "translation": "그래. 이왕 하는 거 사령관 씨가 작전명이라도 지어주지 않을래?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8370,7 +8370,7 @@
         "voice": "GC946312.ogg"
       },
       "original": "うーん。それじゃあ、『おみやげ作戦』ってのはどうです？",
-      "translation": "음. 그럼 『오미야게 작전』은 어때요？\n",
+      "translation": "음. 그럼 『선물 작전』은 어때요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8394,7 +8394,7 @@
         "voice": "GC946313.ogg"
       },
       "original": "うん、いいね。じゃあさっそく『おみやげ作戦』開始だよ！",
-      "translation": "응, 좋네. 그럼 당장 『오미야게 작전』 개시다！\n",
+      "translation": "응, 좋네. 그럼 당장 『선물 작전』 개시다!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

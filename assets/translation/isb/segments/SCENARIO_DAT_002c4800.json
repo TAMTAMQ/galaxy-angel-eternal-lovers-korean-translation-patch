@@ -197,7 +197,7 @@
         "voice": "GC968007.ogg"
       },
       "original": "現在この空域内には、３基の機動爆雷が進入している。",
-      "translation": "현재 이 공역에 기동 폭뢰 ３기가 진입 중이다.",
+      "translation": "현재 이 공역에 기동 폭뢰 3기가 진입 중이다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -317,7 +317,7 @@
         "voice": null
       },
       "original": "　機動爆雷×３　　　　重巡洋艦×１",
-      "translation": "　기동 폭뢰×３　중순양함×１",
+      "translation": "　기동 폭뢰×3　중순양함×1",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -335,7 +335,7 @@
         "voice": null
       },
       "original": "　突撃艦×２　　　　　駆逐艦×２",
-      "translation": "　돌격함×２　　　구축함×２",
+      "translation": "　돌격함×2　　　구축함×2",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -353,7 +353,7 @@
         "voice": null
       },
       "original": "　戦闘機×４　　　　　攻撃機×４",
-      "translation": "　전투기×４　　　공격기×４",
+      "translation": "　전투기×4　　　공격기×4",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -425,7 +425,7 @@
         "voice": null
       },
       "original": "　機動爆雷の目標地点到達",
-      "translation": "　기동 폭뢰 목표지점 도달",
+      "translation": "　기동폭뢰 목표지점 도달",
       "state": "draft",
       "use_translation": true,
       "storage": [

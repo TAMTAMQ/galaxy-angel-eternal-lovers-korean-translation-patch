@@ -59,7 +59,7 @@
         "voice": "GC938000.ogg"
       },
       "original": "了解。",
-      "translation": "알았다",
+      "translation": "네.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -77,7 +77,7 @@
         "voice": "GC938001.ogg"
       },
       "original": "これが現在の状況だ。",
-      "translation": "이것이 현재상황이다.",
+      "translation": "현재 상황은 이렇다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -131,7 +131,7 @@
         "voice": "GC938004.ogg"
       },
       "original": "タクト、どうする？",
-      "translation": "택트, 어떡할거야？",
+      "translation": "택트, 어떡할 거야?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -191,7 +191,7 @@
         "voice": "GC148106.ogg"
       },
       "original": "先ほどの戦闘で受けた損傷の応急処置も終わっていませんので……５０パーセントぐらいの耐久力と考えてください。",
-      "translation": "방금 전 전투에서 입은 손상의 응급처치도 끝나지 않았기에…… 내구력을 ５０퍼센트 정도로 생각하십시오.\n",
+      "translation": "방금 전 전투에서 입은 손상의 응급처치도 끝나지 않았기에…… 내구력을 50퍼센트 정도로 생각하십시오.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -377,7 +377,7 @@
         "voice": null
       },
       "original": "　戦闘母艦×２　　　　巡洋艦×２",
-      "translation": "　전투 모함×２　　순양함×２",
+      "translation": "　전투 모함×2　　순양함×2",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -395,7 +395,7 @@
         "voice": null
       },
       "original": "　駆逐艦×４　　　　　戦闘機×４",
-      "translation": "　구축함×４　　　전투기×４",
+      "translation": "　구축함×4　　　전투기×4",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -413,7 +413,7 @@
         "voice": null
       },
       "original": "　攻撃機×４",
-      "translation": "　공격기×４",
+      "translation": "　공격기×4",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -139,7 +139,7 @@
         "voice": "GC325001.ogg"
       },
       "original": "なんだい？　これからお茶をはじめるのかい？ちょっと豪勢な感じだけど。",
-      "translation": "뭐지？ 이제 차를 마시려는 건가？ 좀 호화로운 느낌인데.\n",
+      "translation": "뭐지? 이제 차를 마시려는 건가? 좀 호화로운 느낌인데.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -217,7 +217,7 @@
         "voice": "GC325004.ogg"
       },
       "original": "あのミントさん。お皿はこちらに並べるのでよいのでしょうか？",
-      "translation": "저기, 민트 씨. 접시는 이쪽에 나열하면 될까요？\n",
+      "translation": "저기, 민트 씨. 접시는 이쪽에 놓으면 될까요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -313,7 +313,7 @@
         "voice": "GC325008.ogg"
       },
       "original": "姉さん。ミントさんもああ言ってくださっていることだし。",
-      "translation": "언니. 민트 씨도 저렇게 말씀하시고.\n",
+      "translation": "누나. 민트 씨도 저렇게 말씀하시고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -337,7 +337,7 @@
         "voice": "GC325009.ogg"
       },
       "original": "そうね、ヴァイン。……では、お言葉に甘えさせていただきます。",
-      "translation": "그렇네, 바인. ……그럼, 호의를 받아들일게.\n",
+      "translation": "그렇네, 바인. ……그럼, 말씀대로 신세 좀 질게요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -493,7 +493,7 @@
         "voice": "GC325014.ogg"
       },
       "original": "あ、あたしタルト焼いてきたんだけど、一緒に並べてもいい？",
-      "translation": "아, 나 타르트 구워왔는데 같이 놓아도 돼？\n",
+      "translation": "나, 나 타르트 구워왔는데 같이 놓아도 돼?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -517,7 +517,7 @@
         "voice": "GC325015.ogg"
       },
       "original": "どうぞどうぞ、ミルフィーさんのお菓子でしたらいつでも大歓迎ですわ。",
-      "translation": "어서 오세요, 밀피 씨의 과자라면 언제든 대환영이에요.\n",
+      "translation": "그럼요, 그럼요. 밀피 씨 과자라면 언제든 대환영이에요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -589,7 +589,7 @@
         "voice": "GC325018.ogg"
       },
       "original": "オッケー。うーん、とってもいい香り。",
-      "translation": "오케이. 음～ 정말 좋은 향기다.\n",
+      "translation": "오케이. 으음ー 정말 좋은 향기다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -607,7 +607,7 @@
         "voice": "GC325019.ogg"
       },
       "original": "みなさん、手慣れていらっしゃいますね。よくお茶会を開かれるのですか？",
-      "translation": "여러분, 아주 능숙하시네요. 다과회를 자주 여시나요？\n",
+      "translation": "여러분, 아주 능숙하시네요. 다과회를 자주 여시나요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -685,7 +685,7 @@
         "voice": "GC325022.ogg"
       },
       "original": "はい！　おいしいものがあるとお茶会が盛りあがるんです。だからいつもなにか作っていかなくっちゃって思うんですよ。",
-      "translation": "네！ 맛있는 게 있으면 다과회가 활기차지거든요. 그래서 항상 뭔가를 만들어 가야겠다고 생각해요.\n",
+      "translation": "네! 맛있는 게 있으면 다과회가 활기차지거든요. 그래서 항상 뭔가를 만들어 가야겠다고 생각해요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -745,7 +745,7 @@
         "voice": "GC325024.ogg"
       },
       "original": "えへへ、そう？　うれしいなあ。",
-      "translation": "에헤헤, 그래？ 기쁘네.\n",
+      "translation": "에헤헤, 그래? 기쁘네.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -763,7 +763,7 @@
         "voice": "GC325025.ogg"
       },
       "original": "アタシもなんだか待ちきれなくなってきちゃった。ミント、まだあ？",
-      "translation": "나도 왠지 기다리기 힘들어졌어. 민트, 아직이야？\n",
+      "translation": "나도 이제 못 기다리겠어. 민트, 아직이야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -883,7 +883,7 @@
         "voice": "GC325030.ogg"
       },
       "original": "じゃあみんな、お茶でかんぱいだね！　かんぱーい！",
-      "translation": "자 그럼 다들, 차로 건배하자！ 건배～！\n",
+      "translation": "자, 그럼 다들 차로 건배하자! 건배～!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -907,7 +907,7 @@
         "voice": "GC325030.ogg"
       },
       "original": "ス……スプリンクラーは大丈夫かな……？",
-      "translation": "스…… 스프링클러는 괜찮을까……？\n",
+      "translation": "스…… 스프링클러는 괜찮을까……?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1009,7 +1009,7 @@
         "voice": "GC325035.ogg"
       },
       "original": "はい、いただきます。",
-      "translation": "네, 잘 먹겠습니다.",
+      "translation": "네, 주세요.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1045,7 +1045,7 @@
         "voice": "GC325037.ogg"
       },
       "original": "ありがとうございます！　他にももっとおいしいお菓子がありますから、今度作ってきますね！",
-      "translation": "감사합니다！ 다른 더 맛있는 과자도 있으니까 다음에 만들어 올게요！\n",
+      "translation": "감사합니다! 더 맛있는 과자도 있으니까 다음에 만들어 올게요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1075,7 +1075,7 @@
         "voice": "GC325038.ogg"
       },
       "original": "ランファさん、お茶のお代わりは？",
-      "translation": "란파 씨, 차 더 드릴까요？\n",
+      "translation": "란파 씨, 차 더 드릴까요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1129,7 +1129,7 @@
         "voice": "GC325040.ogg"
       },
       "original": "ええ、お茶会作戦、大成功ですわ！",
-      "translation": "네, 다과회 작전, 대성공이에요！\n",
+      "translation": "네, 다과회 작전, 대성공이에요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1147,7 +1147,7 @@
         "voice": "GC325041.ogg"
       },
       "original": "ミントさん、こんな立派なお茶会を開いていただいて、なんだかもったいないです。",
-      "translation": "민트 씨, 이런 훌륭한 다과회를 열어주시다니 좀 아까울 정도예요.\n",
+      "translation": "민트 씨, 이렇게 훌륭한 다과회를 열어주시다니 황송할 정도예요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1345,7 +1345,7 @@
         "voice": "GC325048.ogg"
       },
       "original": "それを見事に実現したのが、ここにいるタクトさんです。",
-      "translation": "그것을 멋지게 실현한 분이 바로 여기 계신 택트씨예요.",
+      "translation": "그걸 멋지게 해낸 분이 바로 여기 계신 택트 씨예요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1369,7 +1369,7 @@
         "voice": "GC325048.ogg"
       },
       "original": "まあ、それもエンジェル隊の実力があればこそだよ。",
-      "translation": "뭐,그것도 엔젤대의 실력이 있었기에가능한일이지.",
+      "translation": "뭐, 그것도 엔젤대의 실력이 있었기에 가능했지.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1441,7 +1441,7 @@
         "voice": "GC325050.ogg"
       },
       "original": "うーん、期待されちゃうと、弱いんだよなあ。",
-      "translation": "으음, 기대를 받으면 약해진단 말이지.\n",
+      "translation": "으음, 기대받으면 거절을 못 한단 말이지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1459,7 +1459,7 @@
         "voice": "GC325051.ogg"
       },
       "original": "お手並み拝見ですね。",
-      "translation": "실력을 보여줄때군요.",
+      "translation": "그럼 실력 좀 볼까요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1477,7 +1477,7 @@
         "voice": "GC325051.ogg"
       },
       "original": "うん。そういうことにしといてくれるかな。それじゃあ、オレは見回りに戻るよ。お茶、ごちそうさま。",
-      "translation": "응. 그렇게 해두라고. 그럼 난 순찰하러 돌아갈게. 차 잘 마셨어.\n",
+      "translation": "응. 그렇게 생각해 줄래? 그럼 난 순찰하러 돌아갈게. 차 잘 마셨어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1507,7 +1507,7 @@
         "voice": "GC325052.ogg"
       },
       "original": "はい。お粗末様でした。",
-      "translation": "네.대접이부족했습니다.",
+      "translation": "네. 별것 아니었습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1543,7 +1543,7 @@
         "voice": "GC325052.ogg"
       },
       "original": "おや？　みんな揃って何を買っているんだい？",
-      "translation": "어라？ 다들 모여서 뭘 사고 있는 거니？\n",
+      "translation": "어라? 다들 모여서 뭘 사고 있는 거니?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1633,7 +1633,7 @@
         "voice": "GC325101.ogg"
       },
       "original": "好みの問題？",
-      "translation": "취향의문제？",
+      "translation": "취향의 문제?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1981,7 +1981,7 @@
         "voice": "GC325113.ogg"
       },
       "original": "例えばこのクリアブルーの歯ブラシ。この澄んだ青が見るからに引き締まると思いませんか？",
-      "translation": "예를 들어 이 클리어 블루 칫솔. 이 투명한 파란색이 보기만 해도 정신이번쩍들지않나요？",
+      "translation": "예를 들어 이 클리어 블루 칫솔. 이 맑은 파란색이 보기만 해도 정신이 번쩍 들지 않나요",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2029,7 +2029,7 @@
         "voice": "GC325115.ogg"
       },
       "original": "あるいは赤などもいいですわね。一生懸命に磨こうって気にさせてくれます。",
-      "translation": "아니면빨간색 등도 좋겠네요. 열심히닦아야겠다는의욕을불러일으키니까요.",
+      "translation": "아니면 빨간색도 좋겠네요. 열심히 닦아야겠다는 의욕이 생기니까요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2053,7 +2053,7 @@
         "voice": "GC325116.ogg"
       },
       "original": "そうそう、白というのも捨てがたいですわね。白さは歯の美しさの基本ですから。笑うときれいというのは理想ですわ。",
-      "translation": "맞아요, 하얀색도 빼놓을 수 없죠. 하얀 것은 치아 미백의 기본이니까요. 웃었을 때 깨끗한 것이 이상적이에요.\n",
+      "translation": "맞아요, 하얀색도 빼놓을 수 없죠. 하얀 치아는 아름다움의 기본이니까요. 웃을 때 깨끗하면 이상적이죠.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2125,7 +2125,7 @@
         "voice": "GC325119.ogg"
       },
       "original": "あ……あの……。",
-      "translation": "아…… 저기…….\n",
+      "translation": "저, 저기…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2161,7 +2161,7 @@
         "voice": "GC325120.ogg"
       },
       "original": "姉さん。これあたりがいいんじゃない。",
-      "translation": "언니. 이게 적당하지 않을까?\n",
+      "translation": "누나. 이게 적당하지 않을까?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2179,7 +2179,7 @@
         "voice": "GC325121.ogg"
       },
       "original": "柄が透明のスタンダードタイプで、毛先が柔らかいタイプですわね。まあ、無難な選択ですが、よろしいのではないでしょうか。",
-      "translation": "손잡이가 투명한 스탠다드 타입에 모가 부드러운 타입네요. 뭐, 무난한 선택이지만 괜찮을 것 같아요.\n",
+      "translation": "손잡이가 투명한 표준형에 모가 부드러운 타입이네요. 뭐, 무난한 선택이지만 괜찮을 것 같아요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2209,7 +2209,7 @@
         "voice": "GC325122.ogg"
       },
       "original": "そうね、それでいいと思います。",
-      "translation": "그래, 그걸로 된 것 같아.\n",
+      "translation": "응, 그걸로 좋을 것 같아.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2269,7 +2269,7 @@
         "voice": "GC325125.ogg"
       },
       "original": "チューブ選びはやはり味ですわ。粗塩の入ったつぶつぶもありますが、バナナやフルーツ味もありますわね。",
-      "translation": "치약선택은 역시 맛이에요. 거친 소금이 들어간 알갱이 형태도 있지만, 바나나구나 과일 맛도 있답니다.",
+      "translation": "치약 선택은 역시 맛이에요. 소금 알갱이도 있지만, 바나나나 과일 맛도 있답니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2347,7 +2347,7 @@
         "voice": "GC325128.ogg"
       },
       "original": "姉さん、これがいいんじゃない？",
-      "translation": "언니, 이게 좋지 않을까？\n",
+      "translation": "누나, 이게 좋지 않을까?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2365,7 +2365,7 @@
         "voice": "GC325129.ogg"
       },
       "original": "これは三色チューブですわね。堅実ですわ、ヴァインさん。",
-      "translation": "이건 삼색 치약이네요. 아주 확실하군요, 바인 씨.\n",
+      "translation": "이건 삼색 치약이네요. 무난하네요, 바인 씨.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2605,7 +2605,7 @@
         "voice": "GC325136.ogg"
       },
       "original": "それは味付きイカのくんせいです。噛めば噛むほど味が出るお得な駄菓子ですわ。せっかくですから一緒に買ってしまいましょう。",
-      "translation": "그건맛이 든 오징어 훈제예요. 씹으면 씹을수록 맛이 나는 가성비 좋은 군것질거리랍니다. 기왕 이렇게 된 거 같이 사버리죠.",
+      "translation": "그건 양념 오징어 훈제예요. 씹을수록 맛이 나는 가성비 좋은 군것질거리죠. 기왕 이렇게 된 거 같이 사요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2635,7 +2635,7 @@
         "voice": "GC325136.ogg"
       },
       "original": "ミント、日用品を買うんじゃなかったのかい？",
-      "translation": "민트, 생필품을 사러 온 게 아니었니？",
+      "translation": "민트, 생필품을 사러 온 게 아니었니?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2653,7 +2653,7 @@
         "voice": "GC325137.ogg"
       },
       "original": "両方同時にやれば、時間を節約できますわ。あ、これも新製品ですわね。",
-      "translation": "양쪽을 동시에 하면 시간을 절약할 수 있어요. 아, 이것도 신제품네요.",
+      "translation": "둘 다 하면 시간을 아낄 수 있어요. 아, 이것도 신제품이네요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2785,7 +2785,7 @@
         "voice": "GC325141.ogg"
       },
       "original": "ゲストルーム・駄菓子を試すミントとＥＤＥＮ姉弟",
-      "translation": "게스트룸・군것질을 시험하는 민트와EDEN남매",
+      "translation": "게스트룸・군것질을 맛보는 민트와 EDEN 남매",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2803,7 +2803,7 @@
         "voice": "GC325141.ogg"
       },
       "original": "おや？　ルシャーティもヴァインもゲストルームに戻ってるのかな？",
-      "translation": "어라？ 루샤티랑 바인도 게스트룸으로 돌아간 건가？",
+      "translation": "어라? 루샤티랑 바인도 게스트룸으로 돌아간 건가?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3091,7 +3091,7 @@
         "voice": "GC325206.ogg"
       },
       "original": "ひと通り揃えてみたんだ。",
-      "translation": "한바탕 골라봤어.",
+      "translation": "한 종류씩 다 골라봤구나.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3241,7 +3241,7 @@
         "voice": "GC325211.ogg"
       },
       "original": "それは中に梅の実が入っていてすっぱいのですわ。実もおいしく食べられましてよ。",
-      "translation": "그건 안에 매실이 들어있어서 신 거예요. 알도 맛있게 드실 수 있답니다.",
+      "translation": "그건 안에 매실이 들어 있어서 신 거예요. 매실도 맛있게 드실 수 있답니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3283,7 +3283,7 @@
         "voice": "GC325213.ogg"
       },
       "original": "ほとんどのものがひとつから選べるというのも駄菓子の特徴ですわ。",
-      "translation": "대부분 하나씩 고를 수 있다는 점도 불량식품의 특징이에요.",
+      "translation": "대부분 하나씩 고를 수 있다는 점도 군것질거리의 특징이에요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3475,7 +3475,7 @@
         "voice": "GC325219.ogg"
       },
       "original": "おせんべいは塗る物や挟む物でいろいろな味を楽しめる、とても便利な駄菓子なんですの。",
-      "translation": "전병은 바르거나 끼우는 것에 따라 다양한 맛을즐길수있는,아주편리한군것질거리랍니다.",
+      "translation": "전병은 바르거나 끼우는 것에 따라 여러 맛을 즐길 수 있는 편리한 군것질거리랍니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3529,7 +3529,7 @@
         "voice": "GC325220.ogg"
       },
       "original": "そうですわ！　タクトさんもなかなか通でいらっしゃいますわね。",
-      "translation": "맞아요！ 택트 씨도 제법 고수시네요.",
+      "translation": "맞아요! 택트 씨도 제법 고수시네요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3709,7 +3709,7 @@
         "voice": "GC325225.ogg"
       },
       "original": "うーん、ルシャーティが作る創作駄菓子には興味があるなあ。",
-      "translation": "으음, 루샤티가 만드는 창작 불량식품에는 흥미가 있네.\n",
+      "translation": "으음, 루샤티가 만드는 창작 군것질거리에는 흥미가 있네.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3781,7 +3781,7 @@
         "voice": "GC325227.ogg"
       },
       "original": "はい、わかりましたわ！",
-      "translation": "네, 알겠습니다！",
+      "translation": "네, 알겠습니다!",
       "state": "draft",
       "use_translation": true,
       "storage": [

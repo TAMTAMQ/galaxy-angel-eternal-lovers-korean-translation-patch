@@ -6,16 +6,22 @@ from __future__ import annotations
 import argparse
 import hashlib
 import mmap
+import os
 import shutil
 import subprocess
 import sys
 from pathlib import Path
 
+
+PROJECT = Path(__file__).resolve().parents[1]
+ROOT = PROJECT
+SHARED_ROOT = PROJECT.parents[1]
+SHARED_TOOLS = SHARED_ROOT / "tools"
+if str(SHARED_TOOLS) not in sys.path:
+    sys.path.append(str(SHARED_TOOLS))
+
 import galaxy_angel_build as iso_builder
-
-
-ROOT = Path(__file__).resolve().parents[1]
-PROJECT = ROOT / "work/galaxy_angel_eternal_lovers"
+import galaxy_angel_patch_gadat032_images as image_patcher
 ORIGINAL_SHA256 = "31cb2a0b6a219323ea8fc451050a75f06fc0947fb0ff33b182835adf7b6da25d"
 
 
@@ -29,7 +35,49 @@ def sha256(path: Path) -> str:
 
 def run(command: list[str]) -> None:
     print("+", subprocess.list2cmdline(command), flush=True)
-    subprocess.run(command, cwd=ROOT, check=True)
+    env = os.environ.copy()
+    pythonpath = [str(ROOT / "tools"), str(SHARED_TOOLS)]
+    if env.get("PYTHONPATH"):
+        pythonpath.append(env["PYTHONPATH"])
+    env["PYTHONPATH"] = os.pathsep.join(pythonpath)
+    subprocess.run(command, cwd=ROOT, env=env, check=True)
+
+
+def translated_png_state() -> dict[str, str]:
+    """Hash every hand-approved translated_png; these files are the image authority."""
+    root = PROJECT / "assets/image_extraction"
+    return {
+        path.relative_to(PROJECT).as_posix(): hashlib.sha256(path.read_bytes()).hexdigest()
+        for path in sorted(root.rglob("translated_png/*.png"))
+    }
+
+
+def write_png_list(images_dir: Path, original_dir: Path, output: Path) -> Path:
+    """List only translated_png files whose pixels differ from the Japanese source."""
+    paths = image_patcher.changed_pngs(images_dir, original_dir)
+    total = len(list(images_dir.glob("*.png")))
+    print(
+        f"translated_png authority inputs: {images_dir.parent.name} "
+        f"changed={len(paths)} unchanged={total - len(paths)} total={total}",
+        flush=True,
+    )
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text("\n".join(str(path.resolve()) for path in paths) + "\n", encoding="utf-8")
+    return output
+
+
+def assert_translated_png_unchanged(baseline: dict[str, str], stage: str) -> None:
+    current = translated_png_state()
+    missing = sorted(set(baseline) - set(current))
+    added = sorted(set(current) - set(baseline))
+    changed = sorted(
+        path for path in set(baseline) & set(current) if baseline[path] != current[path]
+    )
+    if missing or added or changed:
+        raise SystemExit(
+            "translated_png authority changed during build: "
+            f"stage={stage} missing={len(missing)} added={len(added)} changed={len(changed)}"
+        )
 
 
 def patch_elf(iso_path: Path, elf_path: Path) -> None:
@@ -66,6 +114,11 @@ def main() -> None:
     parser.add_argument("--allow-unverified-original", action="store_true")
     parser.add_argument("--regenerate-images", action="store_true",
                         help="Explicitly redraw translated PNGs; default preserves approved images")
+    parser.add_argument(
+        "--stop-before-remaining",
+        action="store_true",
+        help="Build a clean checkpoint ISO through image/ELF patching, then stop before remaining-text repacking",
+    )
     args = parser.parse_args()
 
     original_digest = sha256(args.original_iso)
@@ -73,6 +126,7 @@ def main() -> None:
         raise SystemExit(
             f"original ISO SHA-256 mismatch: {original_digest} != {ORIGINAL_SHA256}"
         )
+    image_authority_baseline = None if args.regenerate_images else translated_png_state()
 
     output = args.output_iso.resolve()
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -107,28 +161,41 @@ def main() -> None:
         ):
             run([sys.executable, "-u", str(ROOT / "tools" / renderer),
                  "--project", str(PROJECT)])
-    # After the candidate renderer, which owns gfwin03.tex and would otherwise
-    # overwrite it: the four copies of the save-card delete label are drawn once,
-    # with one design, onto the box the Japanese occupied.
-    run([
-        sys.executable, "-u", str(ROOT / "tools/eternal_lovers_redraw_delete_labels.py"),
-        "--project", str(PROJECT),
-        "--report", str(build / "delete_label_report.json"),
-    ])
+        # This renderer writes translated_png, so it is regeneration-only too.
+        run([
+            sys.executable, "-u", str(ROOT / "tools/eternal_lovers_redraw_delete_labels.py"),
+            "--project", str(PROJECT),
+            "--report", str(build / "delete_label_report.json"),
+        ])
+    elif image_authority_baseline is not None:
+        print(
+            f"preserving {len(image_authority_baseline)} translated_png authority files",
+            flush=True,
+        )
     run([
         sys.executable, "-u", str(ROOT / "tools/eternal_lovers_mirror_battle_images.py"),
         "--project", str(PROJECT),
     ])
 
+    reviewed_remaining = build / "remaining_candidates_reviewed.json"
+    run([
+        sys.executable, "-u",
+        str(ROOT / "tools/eternal_lovers_merge_remaining_review.py"),
+        "--index", str(PROJECT / "assets/translation/remaining/remaining_candidates.json"),
+        "--overrides", str(PROJECT / "assets/translation/remaining/review_overrides.json"),
+        "--output", str(reviewed_remaining),
+    ])
+
     run([
         sys.executable, "-u", str(ROOT / "tools/eternal_lovers_font.py"), "build",
-        "--translations", str(
-            PROJECT / "assets/translation/remaining/remaining_candidates.json"
-        ),
+        "--translations", str(reviewed_remaining),
         "--translations", str(PROJECT / "assets/translation/isb"),
         "--input-elf", str(PROJECT / "source/SLPM_658.78"),
         "--output-elf", str(patched_elf),
         "--map-output", str(build / "font_map.json"),
+        "--font", str(
+            SHARED_ROOT / "vendor/pretendard/packages/pretendard/dist/public/static/alternative/Pretendard-Bold.ttf"
+        ),
     ])
     run([
         sys.executable, "-u",
@@ -146,6 +213,14 @@ def main() -> None:
         "--encoding-map", str(build / "font_map.json"),
         "--report", str(build / "isb_patch_report.json"),
     ])
+    run([
+        sys.executable, "-u",
+        str(ROOT / "tools/eternal_lovers_verify_savelabel_titles.py"),
+        "--source-dir", str(PROJECT / "source/scenario"),
+        "--assets", str(PROJECT / "assets/translation/isb"),
+        "--built-dir", str(build / "isb_scenario"),
+        "--report", str(build / "savelabel_title_space_build_report.json"),
+    ])
     # Everything below edits this copy in place.
     shutil.copyfile(args.original_iso, output)
 
@@ -162,49 +237,18 @@ def main() -> None:
         "--region", str(build / "backing_region.json"),
     ])
 
-    run([
-        sys.executable, "-u", str(patcher),
-        "--iso", str(output),
-        "--primary-container", "GADAT030",
-        "--images-dir", str(images / "GADAT030/translated_png"),
-        "--original-png-dir", str(images / "GADAT030/png"),
-        "--runtime-container", "ADV",
-        "--report", str(build / "gadat030_image_patch_report.json"),
-        "--cache-dir", str(build / "image_cache_gadat030"),
-    ])
-    run([
-        sys.executable, "-u", str(patcher),
-        "--iso", str(output),
-        "--primary-container", "GADAT032",
-        "--images-dir", str(images / "GADAT032/translated_png"),
-        "--original-png-dir", str(images / "GADAT032/png"),
-        "--image-manifest", str(images / "GADAT032/manifest.json"),
-        "--resource-manifest", str(full / "GADAT032/manifest.json"),
-        "--runtime-container", "ADV",
-        "--runtime-container", "GAEL",
-        "--report", str(build / "gadat032_image_patch_report.json"),
-        "--cache-dir", str(build / "image_cache_gadat032"),
-    ])
-    run([
-        sys.executable, "-u", str(patcher),
-        "--iso", str(output),
-        "--primary-container", "SLG",
-        "--images-dir", str(images / "SLG/translated_png"),
-        "--original-png-dir", str(images / "SLG/png"),
-        "--image-manifest", str(images / "SLG/manifest.json"),
-        "--resource-manifest", str(full / "SLG/manifest.json"),
-        "--runtime-container", "ADV",
-        "--report", str(build / "slg_image_patch_report.json"),
-        "--cache-dir", str(build / "image_cache_slg"),
-    ])
+    # Install the font before the text/container rebuilds. Images are intentionally
+    # applied later: the remaining-text pass repacks SLG/ADV and can otherwise
+    # overwrite an earlier image patch with the pristine Japanese resource.
     patch_elf(output, patched_elf)
+    if args.stop_before_remaining:
+        print(f"built pre-remaining checkpoint {output} sha256={sha256(output)}")
+        return
     run([
         sys.executable, "-u",
         str(ROOT / "tools/eternal_lovers_patch_remaining.py"),
         "--iso", str(output),
-        "--translations", str(
-            PROJECT / "assets/translation/remaining/remaining_candidates.json"
-        ),
+        "--translations", str(reviewed_remaining),
         "--encoding-map", str(build / "font_map.json"),
         "--report", str(build / "remaining_patch_report.json"),
         "--cache-dir", str(build / "remaining_compressed_cache"),
@@ -236,11 +280,53 @@ def main() -> None:
         "--original-iso", str(args.original_iso.resolve()),
         "--source-scenario", str(PROJECT / "source/scenario"),
         "--built-scenario", str(build / "isb_scenario"),
-        "--candidates", str(
-            PROJECT / "assets/translation/remaining/remaining_candidates.json"
-        ),
+        "--candidates", str(reviewed_remaining),
         "--encoding-map", str(build / "font_map.json"),
         "--report", str(build / "adv_runtime_report.json"),
+    ])
+
+    # All container/text repacks are complete. Apply every authoritative translated_png
+    # only now so no later rebuild can restore an older Japanese texture. Keep every existing
+    # PIDX/FSTS offset and slot fixed; the image patcher may re-quantize to fit those slots.
+    png_lists = {
+        name: write_png_list(
+            images / name / "translated_png",
+            images / name / "png",
+            build / f"{name.lower()}_authority_pngs.txt",
+        )
+        for name in ("GADAT030", "GADAT032", "SLG")
+    }
+    run([
+        sys.executable, "-u", str(patcher),
+        "--iso", str(output),
+        "--primary-container", "GADAT030",
+        "--png-list", str(png_lists["GADAT030"]),
+        "--runtime-container", "ADV",
+        "--report", str(build / "gadat030_image_patch_report.json"),
+        "--cache-dir", str(build / "image_cache_gadat030"),
+    ])
+    run([
+        sys.executable, "-u", str(patcher),
+        "--iso", str(output),
+        "--primary-container", "GADAT032",
+        "--png-list", str(png_lists["GADAT032"]),
+        "--image-manifest", str(images / "GADAT032/manifest.json"),
+        "--resource-manifest", str(full / "GADAT032/manifest.json"),
+        "--runtime-container", "ADV",
+        "--runtime-container", "GAEL",
+        "--report", str(build / "gadat032_image_patch_report.json"),
+        "--cache-dir", str(build / "image_cache_gadat032"),
+    ])
+    run([
+        sys.executable, "-u", str(patcher),
+        "--iso", str(output),
+        "--primary-container", "SLG",
+        "--png-list", str(png_lists["SLG"]),
+        "--image-manifest", str(images / "SLG/manifest.json"),
+        "--resource-manifest", str(full / "SLG/manifest.json"),
+        "--runtime-container", "ADV",
+        "--report", str(build / "slg_image_patch_report.json"),
+        "--cache-dir", str(build / "image_cache_slg"),
     ])
 
     # SLGRES and SLGSTAGE are FSTS-indexed, which the PIDX image patcher cannot address, and
@@ -255,6 +341,9 @@ def main() -> None:
         sys.executable, "-u", str(ROOT / "tools/eternal_lovers_patch_battle_bank_images.py"),
         "--iso", str(output),
         "--project", str(PROJECT),
+        "--container", "SLGRES",
+        "--container", "SLGSTAGE",
+        "--container", "ADV",
         "--report", str(build / "battle_bank_images_report.json"),
     ])
     # ADV is repacked by the remaining-text/runtime passes above, so image-patch
@@ -278,8 +367,23 @@ def main() -> None:
         "--original-iso", str(args.original_iso.resolve()),
         "--iso", str(output),
         "--project", str(PROJECT),
+        "--container", "SLGRES",
+        "--container", "SLGSTAGE",
+        "--container", "ADV",
         "--report", str(build / "battle_bank_images_verify_report.json"),
     ])
+    run([
+        sys.executable, "-u",
+        str(ROOT / "tools/eternal_lovers_verify_savelabel_titles.py"),
+        "--source-dir", str(PROJECT / "source/scenario"),
+        "--assets", str(PROJECT / "assets/translation/isb"),
+        "--built-dir", str(build / "isb_scenario"),
+        "--original-iso", str(args.original_iso.resolve()),
+        "--iso", str(output),
+        "--report", str(build / "savelabel_title_space_iso_report.json"),
+    ])
+    if image_authority_baseline is not None:
+        assert_translated_png_unchanged(image_authority_baseline, "final")
     print(f"built {output} sha256={sha256(output)}")
 
 

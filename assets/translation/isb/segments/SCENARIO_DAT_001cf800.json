@@ -48,7 +48,7 @@
         "voice": "GC545000.ogg"
       },
       "original": "ほーら、おまえたち。ついたぞー。",
-      "translation": "자, 너희들. 도착했다─.\n",
+      "translation": "자, 너희들. 도착했다ー.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -204,7 +204,7 @@
         "voice": "GC545004.ogg"
       },
       "original": "え、なにかやっかいなことになってるのかい？",
-      "translation": "에, 뭔가 골치 아픈 일이 생긴 거야？\n",
+      "translation": "어, 뭔가 골치 아픈 일이 생긴 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -510,7 +510,7 @@
         "voice": "GC545014.ogg"
       },
       "original": "はーい、宇宙バニーちゃんたち、お元気でちゅか？",
-      "translation": "하-이, 우주 버니쨩들, 잘 지내고 있나용？\n",
+      "translation": "하ー이, 우주 버니쨩들, 잘 지내고 있나용?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -948,7 +948,7 @@
         "voice": "GC545104.ogg"
       },
       "original": "えー？　ランファ、いまあたしのこと呼んだあ？",
-      "translation": "에-？ 란파, 지금 내 이름 불렀어？\n",
+      "translation": "어ー? 란파, 지금 내 이름 불렀어?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1242,7 +1242,7 @@
         "voice": "GC545116.ogg"
       },
       "original": "えー、そうなの？　それしかないの？",
-      "translation": "에, 정말？ 그것뿐이야？\n",
+      "translation": "어, 정말? 그것뿐이야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1314,7 +1314,7 @@
         "voice": "GC545118.ogg"
       },
       "original": "え、そうなんだ。それじゃあ、ほっとくしかないわけ？",
-      "translation": "에, 그래？ 그럼 그냥 내버려 둘 수밖에 없는 거야？\n",
+      "translation": "어, 그래? 그럼 그냥 내버려 둘 수밖에 없는 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1758,7 +1758,7 @@
         "voice": "GC545204.ogg"
       },
       "original": "はい！　私たちヴァニラ先輩に一日でも早く回復していただきたいと思っているんです。",
-      "translation": "네！ 저희는 바닐라 선배님이 하루라도 빨리 회복하시길 바라고 있어요.\n",
+      "translation": "네! 저희는 바닐라 선배가 하루라도 빨리 회복하시길 바라고 있어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1926,7 +1926,7 @@
         "voice": "GC545209.ogg"
       },
       "original": "がんばりましょう、ミルフィー先輩、ミント先輩！",
-      "translation": "힘내자, 밀피 선배님, 민트 선배님！\n",
+      "translation": "힘내자, 밀피 선배, 민트 선배!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2190,7 +2190,7 @@
         "voice": "GC545220.ogg"
       },
       "original": "え？　どすこいだいすきさん？",
-      "translation": "에？ 도스쿠이 다이스키상？\n",
+      "translation": "어? 도스코이 다이스키 씨?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2208,7 +2208,7 @@
         "voice": "GC545221.ogg"
       },
       "original": "ドコサヘキサエン酸ですわ、ＤＨＡとも言われてますわね。とても体にいいんですのよ。",
-      "translation": "도코사헥사엔산이에요, ＤＨＡ라고도 불리죠. 몸에 아주 좋답니다.\n",
+      "translation": "도코사헥사엔산이에요, DHA라고도 불리죠. 몸에 아주 좋답니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2772,7 +2772,7 @@
         "voice": "GC545300.ogg"
       },
       "original": "そうですね！　お魚料理をお見舞いで持っていって、どすこいだいすきさんの力を試してみます！",
-      "translation": "그렇네요！생선 요리를 위문 선물로 가져가서, 도스코이 다이스키 님의 힘을 시험해 볼게요！",
+      "translation": "그렇네요! 생선 요리를 위문 선물로 가져가서, 도스코이 다이스키 씨의 힘을 시험해 볼게요!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3102,7 +3102,7 @@
         "voice": "GC545309.ogg"
       },
       "original": "そのときはぜひご協力いただきますわ。",
-      "translation": "그때는 꼭 협력해 드릴게요.",
+      "translation": "그때는 꼭 협력해 주세요.",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -403,7 +403,7 @@
         "voice": "GC625013.ogg"
       },
       "original": "そして、こちらがいつもブリッジにつめていらっしゃるクールダラス副司令です。",
-      "translation": "그리고 이쪽은 항상 함교에 상주하시는 쿨다라스 부사령관님입니다.\n",
+      "translation": "그리고 이쪽은 항상 함교에 상주하시는 쿨다라스 부사령관입니다.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -517,7 +517,7 @@
         "voice": "GC625018.ogg"
       },
       "original": "とんでもないです。副司令がいなければエルシオールは動かないと思います。クールダラス副司令は軍人の鑑です。",
-      "translation": "천만의말씀입니다. 부사령관님이 없으면 에르시올은 움직이지않습니다.쿨다라스부사령관님은군인의귀감입니다.",
+      "translation": "천만의 말씀입니다. 부사령관 없이는 에르시올이 움직이지 않습니다. 쿨다라스 부사령관은 군인의 귀감입니다",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -823,7 +823,7 @@
         "voice": "GC625029.ogg"
       },
       "original": "えー、タクトさんは。……えーとタクトさんはですね。",
-      "translation": "에— 택트 씨는... 에— 그러니까 택트 씨는 말이죠.\n",
+      "translation": "어ー, 택트 씨는…… 그러니까 택트 씨는 말이죠.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1447,7 +1447,7 @@
         "voice": "GC625112.ogg"
       },
       "original": "えええええ！　じょ……女皇陛下！",
-      "translation": "에에에엑！ 여... 여황 폐하！\n",
+      "translation": "어어어억! 여…… 여황 폐하!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1525,7 +1525,7 @@
         "voice": "GC625114.ogg"
       },
       "original": "え？　軽い冗談？",
-      "translation": "네？농담인가요？",
+      "translation": "어? 농담인가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1633,7 +1633,7 @@
         "voice": "GC625116.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2407,7 +2407,7 @@
         "voice": "GC625211.ogg"
       },
       "original": "あー、それはまだ途中の書類で。",
-      "translation": "아―,그건아직작성중인서류라서.",
+      "translation": "아ー, 그건 아직 작성 중이라서.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2467,7 +2467,7 @@
         "voice": "GC625213.ogg"
       },
       "original": "……けっこうたまってますね、タクトさん。クールダラス副司令に怒られませんか？",
-      "translation": "……꽤 쌓여 있네요, 택트 씨. 쿨다라스 부사령관님께 혼나지 않을까요？\n",
+      "translation": "……꽤 쌓여 있네요, 택트 씨. 쿨다라스 부사령관께 혼나지 않을까요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2677,7 +2677,7 @@
         "voice": "GC625217.ogg"
       },
       "original": "え、本当に？　がーん！",
-      "translation": "에, 정말로？ 으아앙！\n",
+      "translation": "어, 정말? 으아앙!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2767,7 +2767,7 @@
         "voice": "GC625219.ogg"
       },
       "original": "いやそんな。書類の不備はオレの責任だから。とほほほ。",
-      "translation": "아니, 그럴 리가. 서류 미비는 내 책임이니까.토호호호.",
+      "translation": "아니, 서류 미비는 내 책임이니까. 이런…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [

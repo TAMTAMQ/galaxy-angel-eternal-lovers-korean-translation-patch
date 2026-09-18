@@ -105,7 +105,7 @@
         "voice": "GC170002.ogg"
       },
       "original": "え、ええと、あの……。",
-      "translation": "에, 에토, 저기…….\n",
+      "translation": "저, 저기…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1737,7 +1737,7 @@
         "voice": "GC570207.ogg"
       },
       "original": "使う……そう思うよ。",
-      "translation": "쓸 거야…… 그럴게.",
+      "translation": "쓸 거야…… 분명.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2073,7 +2073,7 @@
         "voice": "GC570216.ogg"
       },
       "original": "それを守るため……ですね。",
-      "translation": "그것을 지키기위해……군요.",
+      "translation": "그걸 지키기 위해……군요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2139,7 +2139,7 @@
         "voice": "GC570218.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3297,7 +3297,7 @@
         "voice": "GC570249.ogg"
       },
       "original": "小さな希望を守るために",
-      "translation": "작은 희망을 지키기위해",
+      "translation": "작은 희망 지키기",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4293,7 +4293,7 @@
         "voice": "GC570410.ogg"
       },
       "original": "光の中へ",
-      "translation": "빛속으로",
+      "translation": "빛 속에",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4833,7 +4833,7 @@
         "voice": "GC170522.ogg"
       },
       "original": "マイヤーズ司令！　……その、ご無事で。",
-      "translation": "마이어스 사령관님！ ……그,무사하시길.",
+      "translation": "마이어스 사령관! ……그, 무사하시길.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5325,7 +5325,7 @@
         "voice": "GC170541.ogg"
       },
       "original": "そんな、無茶です！　フォルテ先輩だってもう限界じゃありませんか！",
-      "translation": "그럴 순 없어요！ 포르테 선배님도 이미 한계잖아요！\n",
+      "translation": "그럴 순 없어요! 포르테 선배도 이미 한계잖아요!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6633,7 +6633,7 @@
         "voice": "GC170632.ogg"
       },
       "original": "遅くなってすまぬ……アナザースペースの解析作業に手間取ってな。",
-      "translation": "늦어서 미안하다…… 애너서 스페이스 해석에 시간이걸려서말이야.",
+      "translation": "늦어서 미안하다…… 어나더 스페이스 해석에 좀 걸렸어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

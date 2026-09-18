@@ -720,7 +720,7 @@
         "voice": "GC645018.ogg"
       },
       "original": "タクトさんの鑑定眼を拝見させていただきますわ。",
-      "translation": "택트 씨의 감정안을 확인해 보겠습니다.\n",
+      "translation": "택트 씨의 안목을 확인해 보겠습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2148,7 +2148,7 @@
         "voice": "GC645213.ogg"
       },
       "original": "……通常の１６分の１サイズです。この方がスペースを取らないと思いまして……。",
-      "translation": "...통상의 １/１６ 사이즈입니다. 이 편이 공간을 덜 차지할 것 같아서…….",
+      "translation": "...통상의 1/16 크기입니다. 이 편이 공간을 덜 차지할 것 같아서…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2172,7 +2172,7 @@
         "voice": "GC645213.ogg"
       },
       "original": "思わず目が寄っちゃうなあ。",
-      "translation": "나도 모르게눈이가까워지네.",
+      "translation": "나도 모르게 눈이 몰리네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2400,7 +2400,7 @@
         "voice": "GC645219.ogg"
       },
       "original": "あ、それはコンビニの店員さんから、余ったチラシをわけてもらったんです。",
-      "translation": "아, 그건 편의점 점원분께 남는 전단지를 받은 거예요.\n",
+      "translation": "아, 그건 편의점 점원 씨에게 남는 전단지를 받은 거예요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

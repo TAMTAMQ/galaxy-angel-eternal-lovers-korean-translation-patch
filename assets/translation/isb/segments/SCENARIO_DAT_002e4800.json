@@ -51,7 +51,7 @@
         "voice": null
       },
       "original": "痛いの痛いのとんでけ～、だろ？",
-      "translation": "아픈 거 날아가라～, 맞지？",
+      "translation": "아픈 거 아픈 거 날아가～ 맞지?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -69,7 +69,7 @@
         "voice": null
       },
       "original": "悪い子はいねえが～！　だろ？",
-      "translation": "나쁜 아이 없느냐～！ 맞지？",
+      "translation": "나쁜 아이 없느냐～! 맞지?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -681,7 +681,7 @@
         "voice": null
       },
       "original": "弟君たち次第じゃないかな？",
-      "translation": "동생들에게 달린 거 아냐？",
+      "translation": "동생들에게 달린 거 아냐?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -699,7 +699,7 @@
         "voice": null
       },
       "original": "筋肉マッチョになるんじゃない？",
-      "translation": "근육질이 되지 않을까？",
+      "translation": "근육질이 되지 않을까?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -771,7 +771,7 @@
         "voice": null
       },
       "original": "マイスィートハニー！",
-      "translation": "마이 스위트 허니！",
+      "translation": "마이 스위트 허니!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -807,7 +807,7 @@
         "voice": null
       },
       "original": "もう一度火と水につかってこようか？",
-      "translation": "다시 불과 물에 담그고 올까？",
+      "translation": "다시 불과 물에 담그고 올까?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -933,7 +933,7 @@
         "voice": null
       },
       "original": "甘い物欲しがってるって知ってた？",
-      "translation": "단 거 먹고 싶어하는 거 알았어？",
+      "translation": "단 거 먹고 싶어하는 거 알았어?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -951,7 +951,7 @@
         "voice": null
       },
       "original": "これ、ヴァニラのおやつかい？",
-      "translation": "이거, 바닐라 간식이야？",
+      "translation": "이거, 바닐라 간식이야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -969,7 +969,7 @@
         "voice": null
       },
       "original": "苦いやつだったりするのかな",
-      "translation": "쓴 거이거나 하려나",
+      "translation": "쓴 거거나 하려나",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1239,7 +1239,7 @@
         "voice": null
       },
       "original": "人間、あきらめが肝心",
-      "translation": "인간, 포기가 중요해",
+      "translation": "포기도 중요해",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1383,7 +1383,7 @@
         "voice": null
       },
       "original": "いつものポジティブさで頼む",
-      "translation": "평소의 긍정으로 부탁해",
+      "translation": "평소처럼 긍정적으로 부탁해",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1473,7 +1473,7 @@
         "voice": null
       },
       "original": "お願いします、姉御！",
-      "translation": "부탁합니다, 누님！",
+      "translation": "부탁합니다, 누님!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1509,7 +1509,7 @@
         "voice": null
       },
       "original": "君がいれば紋章機が壊れても平気だ",
-      "translation": "네가 있으면 문장기가 망가져도 돼",
+      "translation": "네가 있으면 문장기 고장도 괜찮아",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1545,7 +1545,7 @@
         "voice": null
       },
       "original": "下手な矢も数射りゃ当たる！",
-      "translation": "많이 쏘면 맞는 법！",
+      "translation": "서툰 화살도 많이 쏘면 맞아",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1653,7 +1653,7 @@
         "voice": null
       },
       "original": "辛い、というか痛い",
-      "translation": "맵다, 아니 아프다",
+      "translation": "맵다기보다 아파",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1725,7 +1725,7 @@
         "voice": null
       },
       "original": "フォルテの案に賛成だ",
-      "translation": "포르테 안에 찬성이야",
+      "translation": "포르테 의견에 찬성해",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1743,7 +1743,7 @@
         "voice": null
       },
       "original": "レスターの案に賛成だ",
-      "translation": "레스터 안에 찬성이야",
+      "translation": "레스터 의견에 찬성해",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1761,7 +1761,7 @@
         "voice": null
       },
       "original": "オレの案を聞いてみない？",
-      "translation": "내 안을 들어볼래？",
+      "translation": "내 의견을 들어볼래?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1779,7 +1779,7 @@
         "voice": null
       },
       "original": "オレがかわりにやるよ",
-      "translation": "내가 대신 할게",
+      "translation": "내가 대신할게",
       "state": "draft",
       "use_translation": true,
       "storage": [

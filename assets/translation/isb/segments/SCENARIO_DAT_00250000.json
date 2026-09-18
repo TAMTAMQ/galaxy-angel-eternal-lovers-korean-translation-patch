@@ -69,7 +69,7 @@
         "voice": "GC670000.ogg"
       },
       "original": "えっ？",
-      "translation": "엣？",
+      "translation": "어？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -105,7 +105,7 @@
         "voice": "GC170002.ogg"
       },
       "original": "え、ええと、あの……。",
-      "translation": "에, 에토, 저기…….\n",
+      "translation": "저, 저기, 그게…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2115,7 +2115,7 @@
         "voice": "GC670207.ogg"
       },
       "original": "きれいな星空ですね……。",
-      "translation": "아름다운 별자리네요…….\n",
+      "translation": "밤하늘이 예쁘네요…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2211,7 +2211,7 @@
         "voice": "GC670209.ogg"
       },
       "original": "よく気がついたね。これは、ヴァル・ヴァロス星系の星空だよ。",
-      "translation": "잘 알아챘네. 이건 발・바로스 성계의 별이야.\n",
+      "translation": "잘 알아챘네. 이건 발・바로스 성계의 밤하늘이야.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2265,7 +2265,7 @@
         "voice": "GC670210.ogg"
       },
       "original": "じゃあ、『ヴァル・ファスク』の人たちもこの星空を見てるんですね。",
-      "translation": "그럼 『발・파스크』 사람들도 이 별빛을 보고 있겠네요.\n",
+      "translation": "그럼 『발・파스크』 사람들도 이 밤하늘을 보고 있겠네요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2307,7 +2307,7 @@
         "voice": "GC670211.ogg"
       },
       "original": "不思議な気分ですね……。行ったこともない場所の星空がこうして見られるんですから。",
-      "translation": "신기한 기분이네요……. 가본 적도 없는 장소의 별빛을 이렇게 볼 수 있다니.\n",
+      "translation": "신기한 기분이네요……. 가본 적도 없는 곳의 밤하늘을 이렇게 볼 수 있다니.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2427,7 +2427,7 @@
         "voice": "GC670216.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3093,7 +3093,7 @@
         "voice": "GC670233.ogg"
       },
       "original": "えっ！？",
-      "translation": "엣！？",
+      "translation": "어！？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3555,7 +3555,7 @@
         "voice": "GC670245.ogg"
       },
       "original": "ありがとうございます……。タクトさん。最高のほめ言葉です……。",
-      "translation": "감사합니다…… 택트 씨. 최고의 찬사에요…….\n",
+      "translation": "감사합니다…… 택트 씨. 최고의 찬사예요…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4113,7 +4113,7 @@
         "voice": "GC170414.ogg"
       },
       "original": "ならば今、こいつにかけましょう。あなたの最高の教え子で、俺の最高の親友である、この男に。",
-      "translation": "그렇다면 지금 이 녀석에게 걸겠습니다. 당신의 최고의 제자이자 나의 친구인, 이 남자에게.",
+      "translation": "그렇다면 지금 이 녀석에게 걸겠습니다. 당신의 최고 제자이자 내 최고의 친구인 이 남자에게",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4461,7 +4461,7 @@
         "voice": "GC170500.ogg"
       },
       "original": "ぶっ壊れろおっ！　アンカァァクローーッ！",
-      "translation": "다 부숴버려라！ 앙카클로～！\n",
+      "translation": "다 부숴버려라！ 앵커 클로ーー！\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -4653,7 +4653,7 @@
         "voice": "GC670409.ogg"
       },
       "original": "ふう、驚かすない。おおかた補給にでも戻ったんだろうさ。それじゃ、ちとせが戻るまで気張るよ！",
-      "translation": "후우, 놀라지 마. 아마 보급이라도 하러 갔겠지. 그럼 치토세가 올 때까지 힘내자고！",
+      "translation": "후우, 놀라게 하지 마. 아마 보급이라도 하러 갔겠지. 치토세가 올 때까지 힘내자고！",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5151,7 +5151,7 @@
         "voice": "GC170520.ogg"
       },
       "original": "俺たちも、この銀河に住む全ての人々も、おまえたちふたりに借りこそあれ、貸しはない。",
-      "translation": "우리도, 이 은하에 사는 모든 사람들도 너희 둘에게 빚은 있어도, 신세 진 건 없다.\n",
+      "translation": "우리도, 이 은하의 모두도 너희 둘에게 신세를 졌지, 너희가 우리에게 빚진 건 없어.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5223,7 +5223,7 @@
         "voice": "GC170522.ogg"
       },
       "original": "マイヤーズ司令！　……その、ご無事で。",
-      "translation": "마이어스 사령관님！……부디무사하시길.",
+      "translation": "마이어스 사령관！……부디 무사하시길.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5517,7 +5517,7 @@
         "voice": "GC670417.ogg"
       },
       "original": "本当かい？　それはよかった。",
-      "translation": "정말니？ 그거 다행이다.\n",
+      "translation": "정말이니？ 그거 다행이다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6039,7 +6039,7 @@
         "voice": "GC170320.ogg"
       },
       "original": "えっ……？",
-      "translation": "엣……？",
+      "translation": "어……？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6519,7 +6519,7 @@
         "voice": "GC670444.ogg"
       },
       "original": "えっ……。",
-      "translation": "엣…….",
+      "translation": "어…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6573,7 +6573,7 @@
         "voice": "GC670447.ogg"
       },
       "original": "ふぅー……はぁー……。深呼吸をして……と。",
-      "translation": "후우―……하아―…….심호흡을하고……라고.",
+      "translation": "후우ー……하아ー……. 심호흡하고…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6651,7 +6651,7 @@
         "voice": "GC670500.ogg"
       },
       "original": "……ここが、アナザースペースなのですね。",
-      "translation": "……여기가, 애나더 스페이스군요.",
+      "translation": "……여기가, 어나더 스페이스군요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6801,7 +6801,7 @@
         "voice": "GC670504.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6891,7 +6891,7 @@
         "voice": "GC670506.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7467,7 +7467,7 @@
         "voice": "GC170632.ogg"
       },
       "original": "遅くなってすまぬ……アナザースペースの解析作業に手間取ってな。",
-      "translation": "늦어서 미안하다…… 애너서 스페이스 해석에 시간이 좀 걸렸어.",
+      "translation": "늦어서 미안하다…… 어나더 스페이스 해석에 시간이 좀 걸렸어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

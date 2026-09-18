@@ -733,7 +733,7 @@
         "voice": "GC950018.ogg"
       },
       "original": "７番機ばかりかクロノ・ブレイク・キャノンまで『ヴァル・ファスク』に奪われたのは、そなたらしくもない失態であったな。",
-      "translation": "７번기뿐만 아니라 크로노・브레이크・캐논까지 『발・파스크』에게 빼앗긴 건 너답지 않은 실수였다.\n",
+      "translation": "7번기뿐만 아니라 크로노・브레이크・캐논까지 『발・파스크』에게 빼앗긴 건 너답지 않은 실수였다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -877,7 +877,7 @@
         "voice": "GC950022.ogg"
       },
       "original": "いえ、弁明することなど何もありません。責任の所在は全てこのオレ、タクト・マイヤーズにあります。",
-      "translation": "아니요, 변명할 것은 아무것도 없습니다. 책임의 소재는 모두 이 저, 택트・마이어스에게 있습니다.\n",
+      "translation": "아니요, 변명할 것은 없습니다. 모든 책임은 저, 택트・마이어스에게 있습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1171,7 +1171,7 @@
         "voice": "GC950030.ogg"
       },
       "original": "（そんなことない、とは思いたいけど……７番機やクロノ・ブレイク・キャノンをとられたのは確かだし……）",
-      "translation": "（그럴 리 없다고 생각하고 싶지만…… ７번기랑 크로노・브레이크・캐논을 빼앗긴 건 사실이니까……）\n",
+      "translation": "（그럴 리 없다고 생각하고 싶지만…… 7번기랑 크로노・브레이크・캐논을 빼앗긴 건 사실이니까……）\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1333,7 +1333,7 @@
         "voice": "GC950037.ogg"
       },
       "original": "えっ……。",
-      "translation": "엣…….",
+      "translation": "어…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1417,7 +1417,7 @@
         "voice": "GC950039.ogg"
       },
       "original": "温情に感謝します。",
-      "translation": "은혜에 감사해요.",
+      "translation": "온정에 감사합니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2143,7 +2143,7 @@
         "voice": "GC950062.ogg"
       },
       "original": "７番機とクロノ・ブレイク・キャノン……ですね。",
-      "translation": "７번기와 크로노・브레이크・캐논…… 말이죠.\n",
+      "translation": "7번기와 크로노・브레이크・캐논…… 말이죠.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2623,7 +2623,7 @@
         "voice": "GC950104.ogg"
       },
       "original": "わかった。３０分くれ。全部目を通すから。",
-      "translation": "알았어. ３０분만 줘. 전부 읽어볼 테니까.\n",
+      "translation": "알았어. 30분만 줘. 전부 읽어볼 테니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2707,7 +2707,7 @@
         "voice": "GC950107.ogg"
       },
       "original": "おっ、届いた届いた。ええと、増援は第８と第１３の混成艦隊と……。",
-      "translation": "오, 왔다 왔다. 어디 보자, 증원은 제８과 제１３ 혼성 함대와…….\n",
+      "translation": "오, 왔다 왔다. 어디 보자, 증원은 제8과 제13 혼성 함대와…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3091,7 +3091,7 @@
         "voice": "GC150024.ogg"
       },
       "original": "これなら１週間……いや、５日もあれば万全な状態でＥＤＥＮに発てるぞ。",
-      "translation": "이 정도면 １주일…아니,５일이면만전의상태로EDEN에출격할수있어.",
+      "translation": "이 정도면 1주일…아니,5일이면만전의상태로EDEN에출격할수있어.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3913,7 +3913,7 @@
         "voice": "GC150406.ogg"
       },
       "original": "……つくづくやってくれるね、彼は。",
-      "translation": "……정말이지, 그는 대단하네.\n",
+      "translation": "……정말이지, 제대로 해놨네.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4423,7 +4423,7 @@
         "voice": "GC150502.ogg"
       },
       "original": "そうそう、ゴングと同時にダッシュして一発ＫＯよ！",
-      "translation": "맞아 맞아,공이울림과동시에대시해서한방에ＫＯ야！",
+      "translation": "맞아 맞아, 종이 울리자마자 대시해서 한 방 KO야!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4801,7 +4801,7 @@
         "voice": "GC150510.ogg"
       },
       "original": "おやおや、ずいぶんと不甲斐ないことを言ってくれるじゃないの、うちの司令官は。",
-      "translation": "어머나, 우리 사령관님이 꽤나 한심한 소리를 하시는걸요.\n",
+      "translation": "어머나, 우리 사령관이 꽤나 한심한 소리를 하시는걸요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5023,7 +5023,7 @@
         "voice": "GC150517.ogg"
       },
       "original": "ちょ、ちょっと待った！　そ、それは困る！",
-      "translation": "잠, 잠깐 기다려！ 그, 그건 곤란해！\n",
+      "translation": "자, 잠깐 기다려! 그, 그건 곤란해!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5161,7 +5161,7 @@
         "voice": "GC150803.ogg"
       },
       "original": "とはいえ、それでも出撃可能なのは艦隊の７割が限界だ。残る３割は、必然的に後続部隊ってことになる。",
-      "translation": "그렇다 해도 출격 가능한 건 함대의 ７할이 한계야. 남은 ３할은 필연적으로 후속 부대가 되겠지.",
+      "translation": "그렇다 해도 출격 가능한 건 함대의 7할이 한계야. 남은 3할은 필연적으로 후속 부대가 되겠지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5329,7 +5329,7 @@
         "voice": "GC150807.ogg"
       },
       "original": "前と違って、今度はこっちが『ヴァル・ファスク』の懐に飛び込むんだ。そうでなけりゃやってられんさ。",
-      "translation": "전과는 달리 이번엔 이쪽이 『발・파스크』의 품으로 뛰어드는 거야. 안 그러면 재미없으니까.",
+      "translation": "전과 달리 이번엔 이쪽이 『발・파스크』의 품으로 뛰어드는 거야. 그 정도 아니면 감당 못 해.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5473,7 +5473,7 @@
         "voice": "GC150810.ogg"
       },
       "original": "マイヤーズ司令、各艦より通信。出撃準備完了、いつでもいけるとのことです。",
-      "translation": "마이어스 사령관님, 각 함선 통신. 출격 준비 완료, 언제든 가능합니다.",
+      "translation": "마이어스 사령관, 각 함선 통신. 출격 준비 완료, 언제든 가능합니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5677,7 +5677,7 @@
         "voice": "GC150816.ogg"
       },
       "original": "ジュノー……確か、ＥＤＥＮの本星であったな。今なお、多くの民が『ヴァル・ファスク』に支配されているというが……。",
-      "translation": "쥬노…… 분명, EDEN의 본성이지. 지금도 많은 민족이 『발・파스크』에게 지배당하고 있다고 하지만…….",
+      "translation": "주노…… 분명 EDEN의 본성이지. 지금도 많은 사람들이 『발・파스크』에게 지배당하고 있다지만…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5833,7 +5833,7 @@
         "voice": "GC150819.ogg"
       },
       "original": "も、もちろんさ。ミルフィーの記憶を取り戻すために必要な７番機、そして、最強の破壊力を持つ、クロノ・ブレイク・キャノン。",
-      "translation": "모, 물론이지. 밀피의 기억을 되찾기 위해 필요한 ７번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
+      "translation": "모, 물론이지. 밀피의 기억을 되찾기 위해 필요한 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5887,7 +5887,7 @@
         "voice": "GC150819.ogg"
       },
       "original": "も、もちろんさ。ランファの治療に必要な７番機、そして、最強の破壊力を持つクロノ・ブレイク・キャノン。",
-      "translation": "모, 물론이지. 란파의 치료에 필요한 ７번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
+      "translation": "모, 물론이지. 란파의 치료에 필요한 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5941,7 +5941,7 @@
         "voice": "GC150819.ogg"
       },
       "original": "も、もちろんさ。ミントを治すために必要な７番機、そして、最強の破壊力を持つ、クロノ・ブレイク・キャノン。",
-      "translation": "모, 물론이지. 민트를 고치기 위해 필요한 ７번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
+      "translation": "모, 물론이지. 민트를 고치기 위해 필요한 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5995,7 +5995,7 @@
         "voice": "GC150819.ogg"
       },
       "original": "も、もちろんさ。７番機、そして、最強の破壊力を持つ、クロノ・ブレイク・キャノンのことだろ。",
-      "translation": "물, 물론이지. ７번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논 말이야.",
+      "translation": "물, 물론이지. 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논 말이야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6049,7 +6049,7 @@
         "voice": "GC150819.ogg"
       },
       "original": "も、もちろんさ。ヴァインに奪われた７番機、そして、最強の破壊力を持つ、クロノ・ブレイク・キャノン。",
-      "translation": "물, 물론이지. 바인이 빼앗은 ７번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.",
+      "translation": "물, 물론이지. 바인이 빼앗은 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6103,7 +6103,7 @@
         "voice": "GC150819.ogg"
       },
       "original": "も、もちろんさ。ちとせのために必要な７番機、そして、最強の破壊力を持つ、クロノ・ブレイク・キャノン。",
-      "translation": "물, 물론이지. 치토세를 위해 필요한 ７번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.",
+      "translation": "물, 물론이지. 치토세를 위해 필요한 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6823,7 +6823,7 @@
         "voice": "GC151317.ogg"
       },
       "original": "わかってますって、副司令どの。",
-      "translation": "알고 있다니까요, 부사령관님.",
+      "translation": "알고 있다니까요, 부사령관나리.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6967,7 +6967,7 @@
         "voice": "GC151319.ogg"
       },
       "original": "１０時の方向に『ヴァル・ファスク』艦隊を発見！　距離１５０００です！",
-      "translation": "１０시 방향에서 『발・파스크』 함대 발견！ 거리는 １５０００입니다！",
+      "translation": "10시 방향에서 『발・파스크』 함대 발견！ 거리는 15000입니다！",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7081,7 +7081,7 @@
         "voice": "GC151322.ogg"
       },
       "original": "マイヤーズ司令、７番機です！　『ヴァル・ファスク』艦隊の中に、７番機を確認しました！",
-      "translation": "마이어스 사령관님, ７번기입니다！ 『발・파스크』 함대 안에서 ７번기를 확인했습니다！",
+      "translation": "마이어스 사령관, 7번기입니다! 『발・파스크』 함대 안에서 7번기를 확인했습니다!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7207,7 +7207,7 @@
         "voice": "GC151328.ogg"
       },
       "original": "……君も、人を食った態度は変わらないね。",
-      "translation": "……너도 사람을업신여기는태도는여전하군.",
+      "translation": "……너도 약 올리는 태도는 여전하군.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8521,7 +8521,7 @@
         "voice": "GC151356.ogg"
       },
       "original": "心というものが、僕に……『ヴァル・ファスク』にとっては、とるにたらないただの道具にすぎないことを証明するんだ！",
-      "translation": "마음이라는 것이, 나에게…… 『발・파스크』에게는 하찮은 도구에 불과하다는 것을 증명하겠다！",
+      "translation": "마음이 나에게…… 『발・파스크』에게는 하찮은 도구에 불과함을 증명해 보여라!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8605,7 +8605,7 @@
         "voice": "GC151593.ogg"
       },
       "original": "高エネルギー反応確認！　エネルギー源は前方の……７番機です！",
-      "translation": "고에너지 반응 확인！ 에너지원은 전방의…… ７번기입니다！",
+      "translation": "고에너지 반응 확인！ 에너지원은 전방의…… 7번기입니다！",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8845,7 +8845,7 @@
         "voice": "GC151602.ogg"
       },
       "original": "マイヤーズ司令！　エンジェル隊が、エルシオールと７番機の間に！",
-      "translation": "마이어스 사령관님！ 엔젤대가 에르시올과 ７번기 사이에！\n",
+      "translation": "마이어스 사령관! 엔젤대가 에르시올과 7번기 사이에!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9787,7 +9787,7 @@
         "voice": "GC251372.ogg"
       },
       "original": "完全に制御し、自在に操ることで、１００パーセント全てを引き出した『心』の力の、さらに上をいく力……。",
-      "translation": "완전히 제어하고 자유자재로 다룸으로써, １００퍼센트 전부를 끌어낸 『마음』의 힘을 능가하는 힘…….\n",
+      "translation": "완전히 제어하고 자유자재로 다룸으로써, 100퍼센트 전부를 끌어낸 『마음』의 힘을 능가하는 힘…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9955,7 +9955,7 @@
         "voice": "GC151632.ogg"
       },
       "original": "７番機、当宙域より離脱。クロノ・ドライヴに入りました。",
-      "translation": "７번기, 해당 구역 이탈. 크로노・드라이브 진입.",
+      "translation": "7번기, 해당 구역 이탈. 크로노・드라이브 진입.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10039,7 +10039,7 @@
         "voice": "GC151634.ogg"
       },
       "original": "いいのか？　７番機は……。",
-      "translation": "괜찮은 건가？７번기는…….",
+      "translation": "괜찮은 건가？7번기는…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [

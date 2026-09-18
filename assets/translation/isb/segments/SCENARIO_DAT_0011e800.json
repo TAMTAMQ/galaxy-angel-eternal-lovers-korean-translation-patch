@@ -270,7 +270,7 @@
         "voice": "GC345004.ogg"
       },
       "original": "そ……その……タクトさんが、ふ……ふた……フタマタかけてただなんて……。",
-      "translation": "그…… 그게…… 택트 씨가, 양…… 양다리를 걸치고 있었다니…….\n",
+      "translation": "그…… 그게…… 택트 씨가, 야…… 양…… 양다리를 걸치고 있었다니…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -330,7 +330,7 @@
         "voice": "GC345005.ogg"
       },
       "original": "ええぇ！！　それ、誰が言ってたの？",
-      "translation": "에에！！ 그거 누가 말한 거야？\n",
+      "translation": "에에엑!! 그거 누가 말한 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1572,7 +1572,7 @@
         "voice": "GC345107.ogg"
       },
       "original": "食堂・食べ物断ちの願掛け",
-      "translation": "식당・음식을 끊는 기원\n",
+      "translation": "식당・음식 끊고 소원빌기\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1632,7 +1632,7 @@
         "voice": "GC345200.ogg"
       },
       "original": "やあ。ヴァニラも食事かい？",
-      "translation": "안녕. 바닐라도식사중이야？",
+      "translation": "안녕. 바닐라도 밥 먹어?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1794,7 +1794,7 @@
         "voice": "GC345205.ogg"
       },
       "original": "ところで、タクトさん。「願掛け」ってやったことあります？",
-      "translation": "그런데, 택트 씨. 「기원」이라는 거 해본 적 있어요？\n",
+      "translation": "그런데, 택트 씨. 「소원 빌기」 해본 적 있어요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1884,7 +1884,7 @@
         "voice": "GC345207.ogg"
       },
       "original": "あたし、それをやろうと思っているんです。",
-      "translation": "저, 그걸 해보려고 해요.\n",
+      "translation": "저, 그걸 해보려고요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2052,7 +2052,7 @@
         "voice": "GC345211.ogg"
       },
       "original": "寂しいですけどちょっとお休みです。でもほんのしばらくの間ですから。",
-      "translation": "아쉬워요. 하지만 잠시뿐이니까요.\n",
+      "translation": "아쉽지만 잠시 쉬는 거예요. 그래도 잠깐뿐이니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2076,7 +2076,7 @@
         "voice": "GC345212.ogg"
       },
       "original": "自信があるんですね、ミルフィーさん……。",
-      "translation": "자신만만하네요, 밀피 씨…….\n",
+      "translation": "자신 있으시군요, 밀피 씨…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2160,7 +2160,7 @@
         "voice": "GC345215.ogg"
       },
       "original": "ふたり分の願掛けならパワー倍増よ！　ね、ミルフィー！",
-      "translation": "두사람분의 기원이라면 파워가배가될거야！그치,밀피！",
+      "translation": "둘이 소원을 빌면 효과도 두 배야! 그치, 밀피!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2226,7 +2226,7 @@
         "voice": "GC345217.ogg"
       },
       "original": "そうかあ、ヴァニラもヴァニラで願掛けをしてくれてるんだね。ところでおばさん、今日の日替わり定食ってなに？",
-      "translation": "그렇구나, 바닐라도 바닐라대로 소원을 빌고 있네. 그런데 아주머니, 오늘 일일 정식은 뭐야？\n",
+      "translation": "그렇구나, 바닐라도 나름 소원을 빌고 있네. 그런데 아주머니, 오늘의 정식은 뭐야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2256,7 +2256,7 @@
         "voice": "GC345218.ogg"
       },
       "original": "ああ、司令さん。今日はね、豚キムチと杏仁豆腐だよ。",
-      "translation": "아아, 사령관님. 오늘은 제육볶음이랑 안미두부야.",
+      "translation": "아아, 사령관 씨. 오늘은 돼지김치볶음과 행인두부야",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2298,7 +2298,7 @@
         "voice": "GC345220.ogg"
       },
       "original": "杏仁豆腐！？",
-      "translation": "안미두부！？\n",
+      "translation": "행인두부!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2340,7 +2340,7 @@
         "voice": "GC345222.ogg"
       },
       "original": "最初から試練です……。",
-      "translation": "처음부터시련이에요……",
+      "translation": "벌써 시련이에요…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2418,7 +2418,7 @@
         "voice": "GC345224.ogg"
       },
       "original": "デザートとおかずを交換したら？",
-      "translation": "디저트랑 반찬을 바꾸는건어때？",
+      "translation": "디저트랑 반찬을 바꾸면 어때?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2496,7 +2496,7 @@
         "voice": "GC345303.ogg"
       },
       "original": "はい、ランファ。名残惜しいけど、杏仁豆腐！",
-      "translation": "자, 란파. 아쉽지만 안미두부！\n",
+      "translation": "자, 란파. 아쉽지만 행인두부!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2514,7 +2514,7 @@
         "voice": "GC345304.ogg"
       },
       "original": "アタシもよミルフィー、愛しの豚キムチをあげるわね。",
-      "translation": "나도야 밀피, 사랑하는 돼지 김치볶음을 줄게.\n",
+      "translation": "나도야, 밀피. 사랑하는 돼지 김치볶음을 줄게.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2574,7 +2574,7 @@
         "voice": "GC345306.ogg"
       },
       "original": "今日の所は食べてしまえば？",
-      "translation": "오늘건그냥먹어버리면어때？",
+      "translation": "오늘 건 그냥 먹으면 어때?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2592,7 +2592,7 @@
         "voice": "GC345307.ogg"
       },
       "original": "でも、それじゃあせっかくの願掛けが、無駄になっちゃいますっ。",
-      "translation": "하지만 그러면 어렵게 빈 소원이 헛수고가 되어버려요.\n",
+      "translation": "하지만 그러면 모처럼 소원 빈 게 헛수고가 돼요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2640,7 +2640,7 @@
         "voice": "GC345308.ogg"
       },
       "original": "でもどうしたもんかなあ、今日の日替わり定食。",
-      "translation": "그렇지만 오늘 일일 정식은 어떻게 해야 할까.\n",
+      "translation": "그렇지만 오늘의 정식은 어떻게 해야 할까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2694,7 +2694,7 @@
         "voice": "GC345310.ogg"
       },
       "original": "ヴァニラ！　すごい名案！",
-      "translation": "바닐라！엄청난명안이야！",
+      "translation": "바닐라! 좋은 생각이야!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2736,7 +2736,7 @@
         "voice": "GC345312.ogg"
       },
       "original": "でも、まだ問題が残っています……。",
-      "translation": "하지만, 아직 문제가남아있어요…….",
+      "translation": "하지만 문제는 남아 있어요…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2754,7 +2754,7 @@
         "voice": "GC345313.ogg"
       },
       "original": "大丈夫よ、とりあえず交換しちゃえば万事解決よ！",
-      "translation": "괜찮아, 일단 바꾸기만 하면 만사 해결야！\n",
+      "translation": "괜찮아, 일단 바꾸기만 하면 만사 해결이야!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2850,7 +2850,7 @@
         "voice": "GC345317.ogg"
       },
       "original": "それじゃあ願掛けした意味がなくなっちゃいます！",
-      "translation": "그러면 소원을 빈 의미가 없어진다니까요！\n",
+      "translation": "그러면 소원 빈 의미가 없어진다니까요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2898,7 +2898,7 @@
         "voice": "GC345318.ogg"
       },
       "original": "それでどうするんだい？",
-      "translation": "그래서 어떻게 할거니？",
+      "translation": "그래서 어떻게 할 거야?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2982,7 +2982,7 @@
         "voice": "GC345322.ogg"
       },
       "original": "いえ、まだ問題が残っています……。",
-      "translation": "아니요, 아직 문제가남아있어요…….",
+      "translation": "아뇨, 문제는 남아 있어요…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3078,7 +3078,7 @@
         "voice": "GC345327.ogg"
       },
       "original": "……お、おかずがないわ。",
-      "translation": "...어, 어라 반찬이 없어.\n",
+      "translation": "……바, 반찬이 없어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3120,7 +3120,7 @@
         "voice": "GC345329.ogg"
       },
       "original": "だから……問題があるといいました。",
-      "translation": "그래서…… 문제가있다고말했습니다.",
+      "translation": "그래서…… 문제가 있다고 했습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3138,7 +3138,7 @@
         "voice": "GC345330.ogg"
       },
       "original": "こ……これは試練よ、ミントのためにこえなきゃいけない試練なんだから。",
-      "translation": "이... 이건 시련이야, 민트를 위해서 이겨내야 하는 시련인 거야.\n",
+      "translation": "이, 이건 시련이야. 민트를 위해 이겨내야 하는 시련이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

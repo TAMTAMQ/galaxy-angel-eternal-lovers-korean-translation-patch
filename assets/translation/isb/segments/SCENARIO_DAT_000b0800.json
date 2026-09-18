@@ -48,7 +48,7 @@
         "voice": null
       },
       "original": "やあ、ヴァニラにちとせ。異常はないかい？",
-      "translation": "야아, 바닐라에 치토세. 이상은 없니？",
+      "translation": "야, 바닐라, 치토세. 이상은 없니?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -66,7 +66,7 @@
         "voice": "GC245000.ogg"
       },
       "original": "あ、タクトさん……。",
-      "translation": "아, 택트 씨…….",
+      "translation": "아, 택트씨…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -84,7 +84,7 @@
         "voice": "GC245001.ogg"
       },
       "original": "見回りですか？",
-      "translation": "순찰인가요？",
+      "translation": "순찰인가요?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -102,7 +102,7 @@
         "voice": "GC245001.ogg"
       },
       "original": "うん、いつものね。それはそうとふたりしてなにをしているんだい？",
-      "translation": "응, 평소 그대로네. 그건 그렇고 둘이서 뭐 하고 있는 거야？",
+      "translation": "응, 평소처럼. 그건 그렇고 둘이서 뭐 하고 있는 거야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -126,7 +126,7 @@
         "voice": "GC245002.ogg"
       },
       "original": "実はランファ先輩に差し上げるのによさそうな物を部屋で見付けまして、ヴァニラ先輩にちょっと見てもらっていたんです。",
-      "translation": "실은 란파 선배에게 드릴 만한 게 방에서 발견되어서, 바닐라 선배에게 좀 봐달라고 하던 중이었어요.",
+      "translation": "실은 방에서 란파 선배에게 드릴 만한 물건을 찾아서, 바닐라 선배에게 좀 봐달라고 하던 중이었어요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -174,7 +174,7 @@
         "voice": "GC245003.ogg"
       },
       "original": "はい、どうぞ見てください！",
-      "translation": "네, 어서 보세요！",
+      "translation": "네, 어서 보세요!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -192,7 +192,7 @@
         "voice": "GC245003.ogg"
       },
       "original": "うっ、これはなんだい？",
-      "translation": "윽, 이건 뭐지？",
+      "translation": "윽, 이건 뭐지?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -228,7 +228,7 @@
         "voice": "GC245004.ogg"
       },
       "original": "すごい色と臭いだねえ。",
-      "translation": "엄청난 색과 냄새네.",
+      "translation": "색도 냄새도 굉장하네.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -276,7 +276,7 @@
         "voice": "GC245005.ogg"
       },
       "original": "へえ、ところでなにに効くんだい？",
-      "translation": "헤에, 그런데 어디에 듣는 거지？",
+      "translation": "헤에, 그런데 어디에 효과가 있어?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -294,7 +294,7 @@
         "voice": "GC245006.ogg"
       },
       "original": "はい、何にでも効くと聞いています。",
-      "translation": "네, 만병통치약이라고 들었어요.",
+      "translation": "네, 뭐든지 효과가 있다고 들었어요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -312,7 +312,7 @@
         "voice": "GC245006.ogg"
       },
       "original": "ええ？　それじゃあ万能薬なの？",
-      "translation": "에？ 그럼 만능약인 거야？",
+      "translation": "에? 그럼 만능약인 거야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -480,7 +480,7 @@
         "voice": "GC245011.ogg"
       },
       "original": "疲労回復、栄養補給って書いてありますね。",
-      "translation": "피로 회복, 영양 보급이라고 써 있네요.",
+      "translation": "피로 회복, 영양 보충이라고 써 있네요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -540,7 +540,7 @@
         "voice": "GC245012.ogg"
       },
       "original": "え、ヴァニラも飲んだことがあるのかい？",
-      "translation": "에, 바닐라도 마셔본 적이 있는 거야？",
+      "translation": "에, 바닐라도 마셔본 적이 있는 거야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -582,7 +582,7 @@
         "voice": "GC245014.ogg"
       },
       "original": "栄養ドリンクというのはおいしいのですか？",
-      "translation": "영양 드링크라는 건 맛있는 건가요？",
+      "translation": "영양 드링크라는 건 맛있는 건가요?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -648,7 +648,7 @@
         "voice": "GC245016.ogg"
       },
       "original": "それでタクトさん。相談なのですが、ランファ先輩にはどちらを持って行ったらいいと思います？",
-      "translation": "그래서 택트 씨. 상담인데요, 란파 선배에게는 어느 쪽을 가져가는 게 좋을까요？",
+      "translation": "그래서 택트씨. 상의드릴 게 있는데요, 란파 선배에게는 어느 쪽을 가져가는 게 좋을까요?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -678,7 +678,7 @@
         "voice": "GC245016.ogg"
       },
       "original": "そうだなあ……。",
-      "translation": "글쎄...",
+      "translation": "글쎄…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -696,7 +696,7 @@
         "voice": "GC245016.ogg"
       },
       "original": "ちとせの漢方薬とか効きそうじゃないか？",
-      "translation": "치토세의 한방약 같은게효과있지않을까？",
+      "translation": "치토세 한방약이 효과 있지 않을까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -714,7 +714,7 @@
         "voice": "GC245100.ogg"
       },
       "original": "はい！　なにしろ秘伝の漢方薬ですから！",
-      "translation": "네！ 어쨌든 비전의 한방약이니까요！",
+      "translation": "네! 비전의 한방약이니까요!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -780,7 +780,7 @@
         "voice": "GC245101.ogg"
       },
       "original": "うーん、飲み方もちゃんと伝わってるんだねえ。",
-      "translation": "으음, 복용법도 제대로 알고 있네.",
+      "translation": "으음, 복용법도 제대로 전해 내려오는구나.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -804,7 +804,7 @@
         "voice": "GC245101.ogg"
       },
       "original": "ヴァニラの栄養ドリンクの方が飲みやすいかな？",
-      "translation": "바닐라의 영양 드링크가 더 마시기 편하려나？",
+      "translation": "바닐라의 영양 드링크가 더 마시기 편하려나?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -846,7 +846,7 @@
         "voice": "GC245103.ogg"
       },
       "original": "そうだね、ランファには一日も早く元気になってもらいたいからね。",
-      "translation": "그렇겠네, 란파는 하루라도 빨리 기운을 차렸으면 하니까 말이야.",
+      "translation": "그렇지, 란파가 하루라도 빨리 기운을 차렸으면 하니까 말이야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -888,7 +888,7 @@
         "voice": "GC245104.ogg"
       },
       "original": "うーん、元気になりすぎちゃうかも？",
-      "translation": "으음, 너무 기운이 넘쳐버릴지도？",
+      "translation": "으음, 너무 기운이 넘쳐버릴지도?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -906,7 +906,7 @@
         "voice": "GC245104.ogg"
       },
       "original": "やっぱりお見舞いは薬じゃないほうがいいんじゃないかな？",
-      "translation": "역시 병문안은 약이 아닌 게 좋지 않을까？",
+      "translation": "역시 병문안은 약이 아닌 게 좋지 않을까?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -954,7 +954,7 @@
         "voice": "GC245106.ogg"
       },
       "original": "漢方薬、いい考えだと思ったんですけど……。",
-      "translation": "한방약이라니, 좋은 생각인 줄 알았는데…….",
+      "translation": "한방약이 좋은 생각인 줄 알았는데…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1020,7 +1020,7 @@
         "voice": "GC245108.ogg"
       },
       "original": "栄養ドリンクはまたの機会にします……。",
-      "translation": "영양 드링크는 다음 기회에 할게요…….",
+      "translation": "영양 드링크는 다음 기회로 할게요…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1038,7 +1038,7 @@
         "voice": "GC245108.ogg"
       },
       "original": "じゃあそろそろオレも見回りのほうに戻るよ。ふたりとも気遣いありがとう。",
-      "translation": "그럼 슬슬 나도 순찰을 돌아올게. 둘 다 신경 써줘서 고마워.",
+      "translation": "그럼 슬슬 나도 순찰로 돌아갈게. 둘 다 신경 써줘서 고마워.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1080,7 +1080,7 @@
         "voice": "GC245110.ogg"
       },
       "original": "なにかあれば言ってください。私、なんでもしますから！",
-      "translation": "무슨일 있으면 말씀해 주세요. 저, 뭐든 할 테니까요！",
+      "translation": "무슨 일 있으면 말씀해 주세요. 저, 뭐든 할 테니까요!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1122,7 +1122,7 @@
         "voice": "GC245110.ogg"
       },
       "original": "やあ、みんなでそろって買い物かい？",
-      "translation": "야아, 다 같이 쇼핑이니？",
+      "translation": "야, 다 같이 쇼핑이니?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1140,7 +1140,7 @@
         "voice": "GC245200.ogg"
       },
       "original": "あ、タクトさん。タクトさんもお買い物ですか？",
-      "translation": "아, 택트 씨. 택트 씨도 쇼핑인가요？",
+      "translation": "아, 택트씨. 택트씨도 쇼핑인가요?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1188,7 +1188,7 @@
         "voice": "GC245201.ogg"
       },
       "original": "おやあ、タクト。いい所に来たね。",
-      "translation": "어머나, 택트. 좋은 때에 왔군요.",
+      "translation": "오호, 택트. 마침 잘 왔네.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1224,7 +1224,7 @@
         "voice": "GC245202.ogg"
       },
       "original": "え、人手？",
-      "translation": "어, 일손？\n",
+      "translation": "어, 일손?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1260,7 +1260,7 @@
         "voice": "GC245203.ogg"
       },
       "original": "え、何？　オレ、荷物持ち？",
-      "translation": "어라？ 나, 짐꾼이야？\n",
+      "translation": "어, 뭐야? 나, 짐꾼이야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1278,7 +1278,7 @@
         "voice": "GC245204.ogg"
       },
       "original": "女の子である私たちに重い荷物を持たせまいと、自ら進んでお手伝いくださるなんて、さすがは私たちのタクトさんですわ。",
-      "translation": "여자아이인 저희에게 무거운 짐을 들게 하지 않으려고 스스로 나서서 도와주시다니, 역시 저희의 택트 씨이십니다.",
+      "translation": "여자인 저희에게 무거운 짐을 들게 하지 않으려고 스스로 나서서 도와주시다니, 역시 우리 택트씨예요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1308,7 +1308,7 @@
         "voice": "GC245205.ogg"
       },
       "original": "タクトさん、よろしくお願いしますね。",
-      "translation": "택트 씨, 잘 부탁해요.\n",
+      "translation": "택트씨, 잘 부탁해요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1344,7 +1344,7 @@
         "voice": "GC245205.ogg"
       },
       "original": "それで、これから何を買うの？",
-      "translation": "그래서, 이제 뭘 살 거야？\n",
+      "translation": "그래서, 이제 뭘 살 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1488,7 +1488,7 @@
         "voice": "GC245210.ogg"
       },
       "original": "人徳がおありですね、ランファさんは。",
-      "translation": "인덕가 있으시네요, 란파 씨는.\n",
+      "translation": "인덕이 있으시네요, 란파씨는.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1524,7 +1524,7 @@
         "voice": "GC245211.ogg"
       },
       "original": "おやおや、言うねえ、タクト。",
-      "translation": "이런, 말솜씨가대단한데,택트.",
+      "translation": "이런, 제법 말하는데, 택트.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1584,7 +1584,7 @@
         "voice": "GC245213.ogg"
       },
       "original": "それではまず……やはりお見舞いといえば、クッキーの詰め合わせが嬉しいですわよね。",
-      "translation": "그러면 우선…… 역시 병문안이라면 쿠키 세트가 기쁘겠죠.\n",
+      "translation": "그러면 우선…… 역시 병문안이라면 쿠키 세트가 좋겠죠.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1662,7 +1662,7 @@
         "voice": "GC245215.ogg"
       },
       "original": "なんだか３人ともバラバラだなあ。まあ、そのほうが誰からもらったのかわかりやすくていいかもしれないけれど。",
-      "translation": "왠지 세 사람 다 제각각이네. 뭐, 그 편이 누구에게 받았는지 알기 쉬워서 좋을지도 모르겠지만.\n",
+      "translation": "왠지 3명 다 제각각이네. 뭐, 그 편이 누구에게 받았는지 알기 쉬워서 좋을지도 모르겠지만.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1692,7 +1692,7 @@
         "voice": "GC245216.ogg"
       },
       "original": "ランファって映画スターの雑誌とかも好きなんですよね。格好いい俳優さんとかいろいろチェックしてるんですよ。",
-      "translation": "란파는 영화 스타 잡지 같은 것도 좋아하거든요. 멋진 배우분들을 여러 명 체크하고 있어요.\n",
+      "translation": "란파는 영화 스타 잡지 같은 것도 좋아하거든요. 멋진 배우씨들도 이것저것 체크하고 있어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1722,7 +1722,7 @@
         "voice": "GC245217.ogg"
       },
       "original": "まあ、このトリュフチョコに出会えるだなんて、ランファさんは運がいいですわ。中に入っている生チョコが、感動ものですわよ！",
-      "translation": "뭐, 이 트러플 초콜릿을 만나다니 란파 씨는 운이 좋네요. 안에 들어있는 생초콜릿이 감동적이라니까요！\n",
+      "translation": "뭐, 이 트러플 초콜릿을 만나다니 란파씨는 운이 좋네요. 안에 들어 있는 생초콜릿이 감동적이라니까요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1752,7 +1752,7 @@
         "voice": "GC245218.ogg"
       },
       "original": "ごらんタクト、通販でおなじみの圧縮バネ入り筋トレグッズだ。タクトも昔はこれで筋肉をつけようとした口なんじゃないのかい？",
-      "translation": "보렴 택트, 통신 판매로 유명한 압축 스프링 근력 운동 기구다. 택트도 옛날엔 이걸로 근육을 키우려 했던 거 아니냐？\n",
+      "translation": "봐, 택트. 통신 판매로 유명한 압축 스프링 근력 운동 기구다. 택트도 옛날엔 이걸로 근육을 키우려 했던 거 아니야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1782,7 +1782,7 @@
         "voice": "GC245218.ogg"
       },
       "original": "それも買うのかい、フォルテ？　結構かさばりそうだけど？",
-      "translation": "그것도 사는 거야, 포르테？ 꽤 부피가 클 것 같은데？\n",
+      "translation": "그것도 사는 거야, 포르테? 꽤 부피가 클 것 같은데?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1836,7 +1836,7 @@
         "voice": "GC245219.ogg"
       },
       "original": "なんだか趣旨が違う方向にいっているような",
-      "translation": "왠지 논점이 엉뚱한방향으로흐르는것같은데",
+      "translation": "왠지 취지가 엉뚱한 데로 가는 것 같은데",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1854,7 +1854,7 @@
         "voice": "GC245220.ogg"
       },
       "original": "これランファが読んでいてぽろぽろ泣いていたマンガです。ちょうど全巻セットがあるみたいですから、買っちゃいましょう！",
-      "translation": "이거 란파가 읽으면서 펑펑 울었던 만화예요. 마침 전권 세트가 있는 모양이니까, 사버리자고요！\n",
+      "translation": "이거 란파가 읽으면서 펑펑 울었던 만화예요. 마침 전권 세트가 있는 모양이니까, 사버리자고요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1884,7 +1884,7 @@
         "voice": "GC245221.ogg"
       },
       "original": "ああ、この限定品の「黄金色のカステーラ・千両箱型」を食べられるだなんて。ランファさん羨ましすぎですわ。",
-      "translation": "아아, 이 한정판 「황금색 카스텔라・센료바코형」을 먹을 수 있다니. 란파 씨 너무 부러워요.",
+      "translation": "아아, 이 한정판 「황금색 카스텔라・센료바코형」을 먹을 수 있다니. 란파씨 너무 부러워요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1944,7 +1944,7 @@
         "voice": "GC245222.ogg"
       },
       "original": "ち……ちょっとみなさん？　いくらなんでも多すぎじゃないかい？",
-      "translation": "자... 잠깐 여러분？ 아무리 그래도 너무 많지 않아？\n",
+      "translation": "자, 잠깐 여러분? 아무리 그래도 너무 많지 않아?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1968,7 +1968,7 @@
         "voice": "GC245223.ogg"
       },
       "original": "そうですか？　まだいろいろ買いたりない気がするんですけど……。",
-      "translation": "그런가요？ 아직 이것저것 더 사고 싶은 게 있는 것 같은데...\n",
+      "translation": "그런가요? 아직 이것저것 덜 산 것 같은데…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2094,7 +2094,7 @@
         "voice": "GC245226.ogg"
       },
       "original": "そうかい？　まあそこまで言うのなら考えてもいいけど。それでタクトはどうしたいんだい？",
-      "translation": "그래？뭐 그렇게까지 말한다면 생각해 봐도 되겠지만. 그래서 택트는 어떻게 하고 싶나？",
+      "translation": "그래? 뭐 그렇게까지 말한다면 생각해 봐도 되겠지만. 그래서 택트는 어떻게 하고 싶니?",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2124,7 +2124,7 @@
         "voice": "GC245226.ogg"
       },
       "original": "そうだなあ……。",
-      "translation": "글쎄...",
+      "translation": "글쎄…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2160,7 +2160,7 @@
         "voice": "GC245300.ogg"
       },
       "original": "はい！　ランファはいつも雑誌とマンガを楽しそうに読んでます。いっぱい元気をもらっているんです！",
-      "translation": "네！ 란파는 항상 잡지와 만화를 즐겁게 읽고 있어요. 잔뜩 기운을 얻고 있다고요！\n",
+      "translation": "네! 란파는 항상 잡지와 만화를 즐겁게 읽고 있어요. 잔뜩 기운을 얻고 있다고요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2214,7 +2214,7 @@
         "voice": "GC245301.ogg"
       },
       "original": "はい、もちろんです！",
-      "translation": "네, 물론이죠！",
+      "translation": "네, 물론이죠!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2250,7 +2250,7 @@
         "voice": "GC245302.ogg"
       },
       "original": "甘いお菓子で元気になるのが基本ですわよね。",
-      "translation": "달콤한 과자로 기운을 차리는게기본이니까요.",
+      "translation": "달콤한 과자로 기운 내는 게 기본이죠.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2268,7 +2268,7 @@
         "voice": "GC245302.ogg"
       },
       "original": "定番といえば果物の詰め合わせとかも定番だよね。",
-      "translation": "정석이라고 하면 과일 세트 같은 것도 정석이지.\n",
+      "translation": "정석이라면 과일 세트 같은 것도 빠질 수 없지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2292,7 +2292,7 @@
         "voice": "GC245303.ogg"
       },
       "original": "いっしょにお持ちしますか？",
-      "translation": "같이 들고 갈까요？\n",
+      "translation": "같이 들고 갈까요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2310,7 +2310,7 @@
         "voice": "GC245303.ogg"
       },
       "original": "いや、今回はお菓子だけにしておこう。",
-      "translation": "아니, 이번에는 과자만 하기로 하자.\n",
+      "translation": "아니, 이번엔 과자만 하자.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2400,7 +2400,7 @@
         "voice": "GC245305.ogg"
       },
       "original": "いっそのこと、タクトも少し体を鍛えていったらどうだい？",
-      "translation": "차라리 택트 군도 몸을 좀 단련하는 게 어때？",
+      "translation": "차라리 택트도 몸을 좀 단련하는 게 어때?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2424,7 +2424,7 @@
         "voice": "GC245305.ogg"
       },
       "original": "うーん、ちょっと考えてみようかな？",
-      "translation": "으음, 조금 생각해 볼까？",
+      "translation": "으음, 조금 생각해 볼까?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2472,7 +2472,7 @@
         "voice": "GC245306.ogg"
       },
       "original": "はい。ランファには早く元気になってもらわなくっちゃ、タクトさんもさみしいですしね。",
-      "translation": "네. 란파는 빨리 건강해져야 하니까요, 택트 씨도 외로울 테고요.",
+      "translation": "네. 란파는 빨리 건강해져야 하니까요, 택트씨도 외로울 테고요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2496,7 +2496,7 @@
         "voice": "GC245307.ogg"
       },
       "original": "そうですわ。それに、ランファさんにとって一番そばにいて欲しいのはタクトさんなんですから。",
-      "translation": "맞아요. 게다가 란파 씨에게 가장 곁에 있어 주길 바라는 사람은 택트 씨이니까요.",
+      "translation": "맞아요. 게다가 란파씨에게 가장 곁에 있어 주길 바라는 사람은 택트씨이니까요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2526,7 +2526,7 @@
         "voice": "GC245308.ogg"
       },
       "original": "ランファのこと、しっかり支えてやるんだよ、タクト。",
-      "translation": "란파를 잘 지탱해 줘야 해, 택트.",
+      "translation": "란파 곁을 든든히 지켜줘, 택트.",
       "state": "draft",
       "use_translation": true,
       "storage": [

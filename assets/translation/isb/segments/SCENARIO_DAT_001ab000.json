@@ -196,7 +196,7 @@
         "voice": "GC120001.ogg"
       },
       "original": "さすが、マイヤーズ司令。愛しい恋人を信じてますね～。",
-      "translation": "역시 마이어스 사령관님. 연인을 굳게 믿고 계시네요～",
+      "translation": "역시 마이어스 사령관. 연인을 굳게 믿고 계시네요～",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -838,7 +838,7 @@
         "voice": "GC120115.ogg"
       },
       "original": "いいのよ、仕事なんだから。でも、「徹底的に調べてくれ」だなんて、いつになく慎重なのね、マイヤーズ司令。",
-      "translation": "괜찮아요, 업무니까요. 하지만 「철저히 조사해 줘」라니, 평소답지 않게 신중하시네요, 마이어스 사령관님.\n",
+      "translation": "괜찮아요, 업무니까요. 하지만 「철저히 조사해 줘」라니, 평소답지 않게 신중하시네요, 마이어스 사령관.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1192,7 +1192,7 @@
         "voice": "GC120124.ogg"
       },
       "original": "え、ええと……。",
-      "translation": "에, 에토…….",
+      "translation": "저, 저기…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1384,7 +1384,7 @@
         "voice": "GC520125.ogg"
       },
       "original": "へっ！？",
-      "translation": "헤앗！？\n",
+      "translation": "엣!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1768,7 +1768,7 @@
         "voice": "GC520141.ogg"
       },
       "original": "え……はい。",
-      "translation": "에…… 네.\n",
+      "translation": "어…… 네.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1972,7 +1972,7 @@
         "voice": "GC120141.ogg"
       },
       "original": "……そうだね、姉さん。",
-      "translation": "……그렇네, 언니.",
+      "translation": "……그렇네, 누나.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2224,7 +2224,7 @@
         "voice": "GC120159.ogg"
       },
       "original": "ちょ、ちょっと！",
-      "translation": "잠, 잠깐만！",
+      "translation": "자, 잠깐만!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3196,7 +3196,7 @@
         "voice": "GC120154.ogg"
       },
       "original": "……姉さん。",
-      "translation": "……언니.",
+      "translation": "……누나.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3556,7 +3556,7 @@
         "voice": "GC120218.ogg"
       },
       "original": "わかりました。さあ、姉さん。",
-      "translation": "알겠습니다. 자, 언니.",
+      "translation": "알겠습니다. 자, 누나.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3616,7 +3616,7 @@
         "voice": "GC120221.ogg"
       },
       "original": "いえ、そんな……。",
-      "translation": "아니,그럴리가…….",
+      "translation": "아뇨, 그건…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3778,7 +3778,7 @@
         "voice": "GC520238.ogg"
       },
       "original": "いえ。そんな……。私は別に……。",
-      "translation": "아니요.그럴리가……저는딱히…….",
+      "translation": "아뇨, 전 딱히…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3850,7 +3850,7 @@
         "voice": "GC120300.ogg"
       },
       "original": "あー、ふたりともやっと来たー。",
-      "translation": "아ー, 둘 다 이제야 왔네─.",
+      "translation": "아ー, 둘 다 이제야 왔네ー.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3952,7 +3952,7 @@
         "voice": "GC120317.ogg"
       },
       "original": "……どうぞ。",
-      "translation": "…부탁합니다",
+      "translation": "……네.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -4114,7 +4114,7 @@
         "voice": "GC520309.ogg"
       },
       "original": "ここは、銀河展望公園と言います。",
-      "translation": "여기는 은하전망공원이라고합니다.",
+      "translation": "여긴 은하 전망 공원입니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4132,7 +4132,7 @@
         "voice": "GC520310.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "엣……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -4252,7 +4252,7 @@
         "voice": "GC120334.ogg"
       },
       "original": "姉さん……。",
-      "translation": "언니…….",
+      "translation": "누나…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -4792,7 +4792,7 @@
         "voice": "GC120361.ogg"
       },
       "original": "わ、わわわわわ、私は別にそんなわけでは全然なくて……！",
-      "translation": "아, 아아아아아아, 나는 딱히 그런 게 전혀아니고요……！",
+      "translation": "저, 저저저저, 저는 딱히 그런 게 아니고요……!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5110,7 +5110,7 @@
         "voice": "GC520345.ogg"
       },
       "original": "以上、総勢６名。彼女たちが銀河最強のエンジェル隊さ。",
-      "translation": "이상, 총 ６명. 그녀들이 은하 최강의 엔젤대야.",
+      "translation": "이상, 총 6명. 그녀들이 은하 최강의 엔젤대야.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5158,7 +5158,7 @@
         "voice": "GC120371.ogg"
       },
       "original": "へ～、ＥＤＥＮにまで知られてるなんて、アタシたちって、ちょっと有名人？　もう、まいったわね～。",
-      "translation": "헤～ EDEN에까지 알려져 있다니, 우리 좀 유명인인가？ 정말 못 말리겠네～\\.",
+      "translation": "헤～ EDEN에까지 알려져 있다니, 우리 좀 유명인인가? 정말 못 말리겠네～.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6274,7 +6274,7 @@
         "voice": "GC120468.ogg"
       },
       "original": "……いこう、姉さん。",
-      "translation": "...가자, 언니.",
+      "translation": "……가자, 누나.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6832,7 +6832,7 @@
         "voice": "GC120604.ogg"
       },
       "original": "あー、うん、確かに君はもう、立派なエンジェル隊のメンバーだよ、ははははは……。",
-      "translation": "아─ 응, 확실히 너는 이제 훌륭한 엔젤대 멤버네, 하하하하하...",
+      "translation": "아ー, 응, 확실히 너는 이제 훌륭한 엔젤대 멤버네, 하하하하하…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7294,7 +7294,7 @@
         "voice": "GC520517.ogg"
       },
       "original": "え？　いや、別になんでもないよ。",
-      "translation": "에？ 아니, 별거 아냐.\n",
+      "translation": "어? 아니, 별거 아냐.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7486,7 +7486,7 @@
         "voice": "GC520603.ogg"
       },
       "original": "先日は途中までだったので、今日はＡブロックをご案内します。",
-      "translation": "지난번엔 도중까지였으니, 오늘은 Ａ 블록을 안내하겠습니다.",
+      "translation": "지난번엔 도중까지였으니, 오늘은 A 블록을 안내하겠습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7552,7 +7552,7 @@
         "voice": "GC120754.ogg"
       },
       "original": "ええ、姉はまだ寝ています。色々ありすぎて、体に負担がかかっているのだと思います。",
-      "translation": "네, 언니는 아직 자고 있어요. 여러 일이 겹쳐서 몸에 무리가 간 것 같아요.\n",
+      "translation": "네, 누나는 아직 자고 있어요. 여러 일이 겹쳐서 몸에 무리가 간 것 같아요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7624,7 +7624,7 @@
         "voice": "GC120755.ogg"
       },
       "original": "はい……そこに、安らぎはなかったと姉は言っていました。",
-      "translation": "네…… 그곳에는 안식은 없었다고 언니가 말했어요.\n",
+      "translation": "네…… 그곳에는 안식은 없었다고 누나가 말했어요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7750,7 +7750,7 @@
         "voice": "GC520608.ogg"
       },
       "original": "あれ？　Ａブロックに行くなら反対側のエレベータを使ったほうが近いんじゃないか？",
-      "translation": "어라？ Ａ 블록에 가려면 반대쪽 엘리베이터를 쓰는 게 더 가깝지 않아？\n",
+      "translation": "어라? A 블록에 가려면 반대쪽 엘리베이터를 쓰는 게 더 가깝지 않아?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7774,7 +7774,7 @@
         "voice": "GC520609.ogg"
       },
       "original": "エレベータは保守点検で終日停止しています。昨日、クールダラス副司令から通達がありました。",
-      "translation": "엘리베이터는 점검으로 종일 정지 중입니다. 어제 쿨다라스 부사령관의 통달이 있었습니다.",
+      "translation": "엘리베이터는 점검으로 종일 정지 중입니다. 어제 쿨다라스 부사령관의 통지가 있었습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7882,7 +7882,7 @@
         "voice": "GC520612.ogg"
       },
       "original": "少々汚れが目立ってきたので、司令官室の掃除をしておきました。",
-      "translation": "조금 오염이 눈에 띄어서, 사령관실 청소를 해두었습니다.\n",
+      "translation": "조금 지저분해 보여서, 사령관실 청소를 해두었습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8500,7 +8500,7 @@
         "voice": "GC120766.ogg"
       },
       "original": "それでしたら、ご用のあとで構いませんので、姉に会ってもらえないでしょうか？",
-      "translation": "그렇다면 용무가 끝나신 뒤에라도 좋으니, 언니를 좀 만나주실 수 있을까요？\n",
+      "translation": "그렇다면 용무가 끝난 뒤라도 괜찮으니, 누나를 좀 만나주실 수 있을까요?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8542,7 +8542,7 @@
         "voice": "GC120767.ogg"
       },
       "original": "新しい環境に、まだ姉の心は完全にほぐれていないようでして……。",
-      "translation": "새로운 환경에 아직 언니의 마음이 완전히풀리지않은것같아서요…",
+      "translation": "새 환경이라 아직 누나 마음이 덜 풀린 것 같아서요…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8566,7 +8566,7 @@
         "voice": "GC120768.ogg"
       },
       "original": "その……エンジェル隊のバラエティーに富んだ女性陣を引きつけるタクトさんであれば、姉もきっと……と思いまして。",
-      "translation": "그게... 엔젤대의 다채로운 여성진을 매료시키는 택트 씨라면, 언니도 분명...\n",
+      "translation": "그게…… 엔젤대의 다양한 여성들을 끌어당기는 택트 씨라면, 누나도 분명…… 싶어서요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -10498,7 +10498,7 @@
         "voice": "GC521012.ogg"
       },
       "original": "いえ……そんな。",
-      "translation": "아뇨……천만에",
+      "translation": "아뇨…… 뭘요.",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [
@@ -10546,7 +10546,7 @@
         "voice": "GC521014.ogg"
       },
       "original": "どのようにと言われても……うまく説明できません。",
-      "translation": "어떻게라고 말씀하셔도… 잘 설명할 수 없습니다.",
+      "translation": "어떻게 하냐고 하셔도…… 잘 설명할 수 없습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -11260,7 +11260,7 @@
         "voice": "GC121102.ogg"
       },
       "original": "距離、およそ５０００。次々にドライヴ・アウトしてきます！",
-      "translation": "거리약 ５０００. 차례차례 드라이브・아웃하고 있습니다！",
+      "translation": "거리 약 5000. 차례차례 드라이브・아웃하고 있습니다!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -11746,7 +11746,7 @@
         "voice": "GC121128.ogg"
       },
       "original": "まあね。でも、やるしかない！",
-      "translation": "글쎄. 하지만 할 수밖에없어！",
+      "translation": "글쎄. 하지만 할 수밖에 없어!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11806,7 +11806,7 @@
         "voice": "GC121201.ogg"
       },
       "original": "……そんなっ！？",
-      "translation": "……그럴수가！？",
+      "translation": "……그럴 수가!?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11842,7 +11842,7 @@
         "voice": "GC121203.ogg"
       },
       "original": "ドライヴ・アウト反応確認！　敵……第２陣来ます！",
-      "translation": "드라이브・아웃 반응 확인！적……제２진이옵니다！",
+      "translation": "드라이브・아웃 반응 확인! 적…… 제2진이 옵니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11902,7 +11902,7 @@
         "voice": "GC121205.ogg"
       },
       "original": "先程とほぼ同等……いえ、それ以上に厚い陣容です！",
-      "translation": "방금 전과비슷……아니,그이상의두터운진형입니다！",
+      "translation": "방금 전과 비슷…… 아니, 더 두터운 진형입니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11962,7 +11962,7 @@
         "voice": "GC121207.ogg"
       },
       "original": "先ほどはあくまでも様子見だった、ということでしょうか……。",
-      "translation": "방금 전까지는 어디까지나상황을살피던것이라는뜻일까요……。",
+      "translation": "방금 전까지는 어디까지나 상황을 살피던 것일까요…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12010,7 +12010,7 @@
         "voice": "GC121209.ogg"
       },
       "original": "敵艦より通信です！",
-      "translation": "적함으로부터통신！",
+      "translation": "적함 통신입니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12046,7 +12046,7 @@
         "voice": "GC121211.ogg"
       },
       "original": "我が戦うに足る敵手と認め、お相手しよう。貴君らの勇戦を期待する。",
-      "translation": "싸울 가치가 있는적수로인정하여상대하겠다.그대들의용전을기대하지.",
+      "translation": "싸울 적수로 인정했다. 상대하겠다. 그대들의 용전을 기대하지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12070,7 +12070,7 @@
         "voice": "GC121212.ogg"
       },
       "original": "今度は司令官自らがお相手ですか……。『ヴァル・ファスク』にしては礼儀正しいお方ですわね。",
-      "translation": "이번엔 사령관님이 직접인가요……. 『발・파스크』치고는 예의 바른 분이네요.",
+      "translation": "이번엔 사령관이 직접 상대하나요……. 『발・파스크』치고는 예의 바른 분이네요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12142,7 +12142,7 @@
         "voice": "GC121213.ogg"
       },
       "original": "あー、聞こえるかい、みんな？",
-      "translation": "아─, 들리나, 모두？\n",
+      "translation": "아ー, 들리나, 모두?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12196,7 +12196,7 @@
         "voice": "GC121254.ogg"
       },
       "original": "さあ、どうすんだい、司令官どの？",
-      "translation": "자, 어쩔 건가요, 사령관님？\n",
+      "translation": "자, 어쩔 건가요, 사령관나리?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12700,7 +12700,7 @@
         "voice": "GC121270.ogg"
       },
       "original": "全紋章機の出力、急上昇！　これなら、全機戦えます！",
-      "translation": "전문장기출력급상승！이정도면전기체전투가능합니다！",
+      "translation": "전 문장기 출력 급상승! 전 기체 전투 가능합니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12766,7 +12766,7 @@
         "voice": "GC121271.ogg"
       },
       "original": "よし、戦闘準備！",
-      "translation": "좋아, 전투준비！",
+      "translation": "좋아, 전투 준비!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

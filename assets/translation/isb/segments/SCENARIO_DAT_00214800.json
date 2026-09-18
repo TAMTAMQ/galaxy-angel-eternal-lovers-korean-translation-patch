@@ -261,7 +261,7 @@
         "voice": "GC130007.ogg"
       },
       "original": "もう、クールダラス副司令ったら、本当に無粋なんですから。",
-      "translation": "정말이지, 쿨다라스 부사령관님은 정말 무심하시다니까요.",
+      "translation": "정말이지, 쿨다라스 부사령관은 정말 무심하시다니까요.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -345,7 +345,7 @@
         "voice": "GC630011.ogg"
       },
       "original": "いえ、あの、そうではないんです。今日はクールダラス副司令に相談がありまして、ここに参りました。",
-      "translation": "아니, 그게 아니라요. 오늘은 쿨다라스 부사령님께 상담할 게 있어서 왔습니다.\n",
+      "translation": "아니, 그게 아니라요. 오늘은 쿨다라스 부사령관께 상담할 게 있어서 왔습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -393,7 +393,7 @@
         "voice": "GC630013.ogg"
       },
       "original": "はい……ご迷惑でしょうか？",
-      "translation": "네…… 폐이 될까요？\n",
+      "translation": "네…… 폐가 될까요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -513,7 +513,7 @@
         "voice": "GC630019.ogg"
       },
       "original": "申し訳ございません。ご迷惑とは思ったのですが、タクトさんのことをよく知る、クールダラス副司令に是非と思いまして……。",
-      "translation": "죄송합니다. 폐이 될 것 같긴 하지만, 택트 씨를 잘 아시는 쿨다라스 부사령님께 꼭 여쭙고 싶어서…….\n",
+      "translation": "죄송합니다. 폐가 될 것 같긴 하지만, 택트 씨를 잘 아시는 쿨다라스 부사령관께 꼭 여쭙고 싶어서…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -579,7 +579,7 @@
         "voice": "GC630022.ogg"
       },
       "original": "クールダラス副司令にしてはずいぶん寛大なんですね？",
-      "translation": "쿨다라스 부사령님치고는 꽤 관대하시네요？\n",
+      "translation": "쿨다라스 부사령관치고는 꽤 관대하시네요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1095,7 +1095,7 @@
         "voice": "GC630049.ogg"
       },
       "original": "無理もないわ。この間の戦いから、マイヤーズ司令とはろくに会ってないって話だもん。",
-      "translation": "당연하지. 지난 전투 이후로 마이어스 사령관님과 제대로 만나지 못했다는이야기잖아.",
+      "translation": "당연하지. 지난 전투 이후로 마이어스 사령관과 제대로 만나지 못했다는 이야기잖아.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1119,7 +1119,7 @@
         "voice": "GC630050.ogg"
       },
       "original": "その上、さっきの話だとマイヤーズ司令、いまだに告白もしてないみたいだし……。",
-      "translation": "게다가 아까 얘기 들어보니 마이어스 사령관님, 아직 고백도 안 한 모양이고….",
+      "translation": "게다가 아까 얘기 들어보니 마이어스 사령관, 아직 고백도 안 한 모양이고…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1329,7 +1329,7 @@
         "voice": "GC130050.ogg"
       },
       "original": "りょーかい。はい、こちらエルシオール。",
-      "translation": "라져. 네, 여기 에르시올.",
+      "translation": "알겠습니다. 네, 여기 에르시올.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1347,7 +1347,7 @@
         "voice": "GC130051.ogg"
       },
       "original": "はい……はい……。クールダラス副司令、ルフト将軍からです。",
-      "translation": "네…… 네……. 쿨다라스 부사령관님, 루프트 장군님이십니다.",
+      "translation": "네…… 네……. 쿨다라스 부사령관, 루프트 장군이십니다.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1587,7 +1587,7 @@
         "voice": "GC630202.ogg"
       },
       "original": "えっ？　ちとせから……？",
-      "translation": "에？ 치토세가……？\n",
+      "translation": "어? 치토세가……?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1629,7 +1629,7 @@
         "voice": "GC630203.ogg"
       },
       "original": "え……。ちとせが本当にそう言ったのかい？",
-      "translation": "에…… 치토세가 정말 그렇게 말했어？\n",
+      "translation": "어…… 치토세가 정말 그렇게 말했어?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1725,7 +1725,7 @@
         "voice": "GC630206.ogg"
       },
       "original": "まったくげんきんな奴だな。そんなにちとせと会うのが嬉しいのか？",
-      "translation": "정말이지 활기찬 녀석이군. 그렇게나치토세를만나는게즐거운거냐？",
+      "translation": "정말이지 단순한 녀석이군. 그렇게 치토세 만나는 게 즐거운 거냐?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2541,7 +2541,7 @@
         "voice": "GC630302.ogg"
       },
       "original": "え？　ち、ちとせ？　ウソだよ、ウソ。そんな真剣に落ち込まないでよ……。",
-      "translation": "에？ 치, 치토세？ 거짓말이야, 거짓말. 그렇게 진지하게 낙담하지 마…….\n",
+      "translation": "어? 치, 치토세? 거짓말이야, 거짓말. 그렇게 진지하게 낙담하지 마…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2967,7 +2967,7 @@
         "voice": "GC630314.ogg"
       },
       "original": "え？　どうしたんだい？　突然。おだててもなにもでないぞ。",
-      "translation": "에？ 왜 그래？ 갑자기. 아부해 봤자 아무것도 안 나와.\n",
+      "translation": "어? 왜 그래? 갑자기. 아부해 봤자 아무것도 안 나와.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3375,7 +3375,7 @@
         "voice": "GC630330.ogg"
       },
       "original": "う、うーん……。そういうわけではないとは思うんだけど……。えーっと……。",
-      "translation": "으, 으음…… 그런 건 아니라고 생각하지만…… 에토…….\n",
+      "translation": "으, 으음…… 그런 건 아니라고 생각하지만…… 저기…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3489,7 +3489,7 @@
         "voice": "GC630334.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5469,7 +5469,7 @@
         "voice": "GC630430.ogg"
       },
       "original": "……って、えぇえ！？　ち、ちとせ！！",
-      "translation": "……라니, 으에엑！？ 치, 치토세！！\n",
+      "translation": "……라니, 어어억!? 치, 치토세!!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5613,7 +5613,7 @@
         "voice": "GC630436.ogg"
       },
       "original": "い、いえ、結構です。あ、あの、それに、タ、タクトさんの言われていたこと、気にしてませんっ……。",
-      "translation": "아, 아니요, 괜찮아요. 저기, 그리고 택, 택트 씨가 하신 말씀, 신경 안 써요…….\n",
+      "translation": "아, 아니요, 괜찮아요. 저기, 그리고 타, 택트 씨가 하신 말씀, 신경 안 써요…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7095,7 +7095,7 @@
         "voice": "GC630803.ogg"
       },
       "original": "え！？　ちょ、ちょっと待ってよ……。",
-      "translation": "에！？ 잠, 잠깐 기다려 봐……\n",
+      "translation": "어!? 자, 잠깐 기다려 봐……\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7329,7 +7329,7 @@
         "voice": "GC630810.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7389,7 +7389,7 @@
         "voice": "GC131037.ogg"
       },
       "original": "マイヤーズ司令、『白き月』より緊急連絡です。大至急ブリッジまでお戻りください。",
-      "translation": "마이어스 사령관님, 『백색 달』에서 긴급 연락입니다. 즉시 함교로복귀하십시오.",
+      "translation": "마이어스 사령관, 『백색 달』에서 긴급 연락입니다. 즉시 함교로 복귀하십시오.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7413,7 +7413,7 @@
         "voice": "GC131038.ogg"
       },
       "original": "なお、本艦はこれより第２戦闘配備に移行します。",
-      "translation": "또한, 본 함은 제２전투배치로 이행합니다.",
+      "translation": "또한, 본 함은 제2전투배치로 이행합니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7533,7 +7533,7 @@
         "voice": "GC131100.ogg"
       },
       "original": "マイヤーズ司令？　どうしたんですか、こんな時に。",
-      "translation": "마이어스 사령관님？ 이럴 때 왜 그러세요.",
+      "translation": "마이어스 사령관? 이럴 때 왜 그러세요.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7689,7 +7689,7 @@
         "voice": "GC131105.ogg"
       },
       "original": "……って、マイヤーズ司令？",
-      "translation": "…어라 마이어스 사령관님？",
+      "translation": "……어라, 마이어스 사령관?",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -8199,7 +8199,7 @@
         "voice": "GC131125.ogg"
       },
       "original": "姉と共に、ご健闘をお祈りしています。タクト……マイヤーズ司令。",
-      "translation": "누나와 함께 건투를 빕니다. 택트…… 마이어스 사령관님.",
+      "translation": "누나와 함께 건투를 빕니다. 택트…… 마이어스 사령관.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8595,7 +8595,7 @@
         "voice": "GC131303.ogg"
       },
       "original": "そんなでかい口たたくのは、１０００年早いんじゃないかい？",
-      "translation": "그렇게 큰소리치는 건, １０００년은 이르지 않았나？",
+      "translation": "그렇게 큰소리치는 건, 1000년은 이르지 않았나?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8853,7 +8853,7 @@
         "voice": "GC631103.ogg"
       },
       "original": "Ｈ．Ａ．Ｌ．Ｏ．暴走",
-      "translation": "Ｈ．Ａ．Ｌ．Ｏ．폭주",
+      "translation": "H.A.L.O. 폭주",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9021,7 +9021,7 @@
         "voice": "GC631108.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9423,7 +9423,7 @@
         "voice": "GC131328.ogg"
       },
       "original": "マイヤーズ司令！　た、大変です！",
-      "translation": "마이어스 사령！ 큰일입니다！",
+      "translation": "마이어스 사령관! 큰일입니다!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -10077,7 +10077,7 @@
         "voice": "GC131410.ogg"
       },
       "original": "そんな、マイヤーズ司令！？",
-      "translation": "세상에마이어스사령관님！？",
+      "translation": "세상에, 마이어스 사령관!?",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -10197,7 +10197,7 @@
         "voice": "GC131412.ogg"
       },
       "original": "全紋章機、エルシオールの射線から退避！",
-      "translation": "전 문장기, 에르시올의 사선에서 퇴피！\n",
+      "translation": "전 문장기, 에르시올의 사선에서 이탈!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -10287,7 +10287,7 @@
         "voice": "GC131414.ogg"
       },
       "original": "ごめん……ちとせーーーーーッ！",
-      "translation": "미안해…… 치토세～～～～～！",
+      "translation": "미안해…… 치토세ーーー!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10539,7 +10539,7 @@
         "voice": "GC631303.ogg"
       },
       "original": "こんなところで騒いでは、中のちとせさんに響きます。",
-      "translation": "이런 곳에서 소란 피우면, 치토세 씨에게 들립니다.",
+      "translation": "이런 곳에서 소란 피우면, 치토세 씨에게 방해돼요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10887,7 +10887,7 @@
         "voice": "GC131513.ogg"
       },
       "original": "元気を出して、マイヤーズ司令。命に別状はないんだから。",
-      "translation": "기운내세요, 마이어스 사령관님. 생명엔 지장없으니까요.",
+      "translation": "기운 내세요, 마이어스 사령관. 생명엔 지장 없으니까요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -11475,7 +11475,7 @@
         "voice": "GC131528.ogg"
       },
       "original": "紋章機とパイロットをリンクさせているＨ．Ａ．Ｌ．Ｏ．システムに、何か異常があったという可能性は……？",
-      "translation": "문장기와 파일럿을 링크하는 Ｈ.Ａ.Ｌ.Ｏ. 시스템에 어떤 이상이 있었을 가능성은……？",
+      "translation": "문장기와 파일럿을 링크하는 H.A.L.O. 시스템에 어떤 이상이 있었을 가능성은……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11523,7 +11523,7 @@
         "voice": "GC131529.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11625,7 +11625,7 @@
         "voice": "GC131533.ogg"
       },
       "original": "Ｈ．Ａ．Ｌ．Ｏ．……か。",
-      "translation": "Ｈ.Ａ.Ｌ.Ｏ.……인가.",
+      "translation": "H.A.L.O.……인가.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11667,7 +11667,7 @@
         "voice": "GC131533.ogg"
       },
       "original": "そのＨ．Ａ．Ｌ．Ｏ．が暴走したというなら、きっとその理由はパイロットの心にも……。",
-      "translation": "그 Ｈ.Ａ.Ｌ.Ｏ.가 폭주했다면, 분명 그 이유는 파일럿의 마음에도…….",
+      "translation": "그 H.A.L.O.가 폭주했다면, 분명 그 이유는 파일럿의 마음에도…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11751,7 +11751,7 @@
         "voice": "GC131537.ogg"
       },
       "original": "……マイヤーズ司令、そろそろ『白き月』に入港します。申し訳ありませんが、ブリッジまでお願いできますか？",
-      "translation": "……마이어스 사령관님, 곧 『백색 달』에 입항합니다. 죄송하지만 함교까지 부탁드려도 될까요？",
+      "translation": "……마이어스 사령관, 곧 『백색 달』에 입항합니다. 죄송하지만 함교까지 부탁드려도 될까요?",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -12153,7 +12153,7 @@
         "voice": "GC131549.ogg"
       },
       "original": "……と、その前にヴァインに会いにいくかな。",
-      "translation": "……아니, 그전에 바인에게 보러 갈까.",
+      "translation": "……아니, 그전에 바인을 보러 갈까.",
       "state": "reused",
       "use_translation": true,
       "storage": [

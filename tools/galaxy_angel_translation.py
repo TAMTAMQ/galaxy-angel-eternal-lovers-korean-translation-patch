@@ -21,6 +21,7 @@ JUMP_ANCHOR_BYTES_RE = re.compile(
 )
 SELECTION_BLOCK_RE = re.compile(r"(?ms)^@\(ss\r?\n.*?^@\)ss(?=\r?$)")
 MAX_FULLWIDTH_COLUMNS = 44
+DIALOGUE_RENDER_SAFE_COLUMNS = 43
 FORBIDDEN_LINE_START = frozenset(
     ",)]}\u3001\uff0c\u3009\u300b\u300d\u300f\u3011\u3015\u3017\u3019\u301b\u2019\u201d"
 )
@@ -30,29 +31,99 @@ def display_columns(line: str) -> int:
     return sum(1 if ord(char) < 0x80 else 2 for char in line)
 
 
-def reflow_translation_layout(text: str) -> str:
-    """Rewrap only over-wide dialogue lines without changing wording.
+def _rebalance_dialogue_lines(text: str, max_columns: int, max_lines: int = 3) -> str | None:
+    """Repartition a dialogue into at most three renderer-safe rows.
 
-    Existing line breaks are preserved unless a line exceeds the game's
-    44-column text box. Overflow is moved forward at the last whitespace that
-    still fits, cascading into the following line as needed. This keeps the
-    translation text intact while preventing layout-only validation failures.
+    Prefer breaks at ASCII spaces, then after punctuation, and only split an
+    eojeol when the Korean text cannot otherwise fit.  The original renderer
+    itself may wrap inside a word, so a controlled split is safer than letting
+    a 44th-column glyph create an unseen fourth row.
+    """
+    flat = " ".join(part.strip() for part in text.split("\n") if part.strip())
+    if not flat:
+        return None
+
+    from functools import lru_cache
+
+    punctuation_breaks = frozenset(",.!?…。！？")
+
+    @lru_cache(maxsize=None)
+    def solve(start: int, lines_left: int) -> tuple[int, tuple[str, ...]] | None:
+        while start < len(flat) and flat[start] == " ":
+            start += 1
+        if start >= len(flat):
+            return (0, ())
+        if lines_left <= 0:
+            return None
+
+        width = 0
+        best: tuple[int, tuple[str, ...]] | None = None
+        for end in range(start + 1, len(flat) + 1):
+            width += 1 if ord(flat[end - 1]) < 0x80 else 2
+            if width > max_columns:
+                break
+
+            line = flat[start:end].rstrip()
+            if not line:
+                continue
+            next_start = end
+            while next_start < len(flat) and flat[next_start] == " ":
+                next_start += 1
+            if next_start < len(flat) and flat[next_start] in FORBIDDEN_LINE_START:
+                continue
+
+            if next_start >= len(flat):
+                candidate = ((max_columns - display_columns(line)) ** 2, (line,))
+            else:
+                tail = solve(next_start, lines_left - 1)
+                if tail is None:
+                    continue
+                if end < len(flat) and flat[end] == " ":
+                    break_penalty = 0
+                elif line[-1] in punctuation_breaks:
+                    break_penalty = 25
+                else:
+                    break_penalty = 1000
+                candidate = (
+                    tail[0] + (max_columns - display_columns(line)) ** 2 + break_penalty,
+                    (line,) + tail[1],
+                )
+
+            if best is None or candidate[0] < best[0]:
+                best = candidate
+        return best
+
+    result = solve(0, max_lines)
+    if result is None or len(result[1]) > max_lines:
+        return None
+    return "\n".join(result[1])
+
+
+def reflow_translation_layout(text: str) -> str:
+    """Rewrap dialogue for the renderer's measured safe width without losing text.
+
+    Runtime testing shows that a nominal 44-column line renders its final glyph
+    on the next row.  Use 43 columns for normal dialogue. Existing breaks are
+    kept when possible; if forward-only overflow would create a fourth row, the
+    full dialogue is rebalanced across at most three rows at word boundaries.
     """
     terminal = "\n" if text.endswith("\n") else ""
     body = text.rstrip("\n")
     if not body:
         return terminal
     lines = body.split("\n")
-    if all(display_columns(line) <= MAX_FULLWIDTH_COLUMNS for line in lines):
-        return text
+
+    max_columns = DIALOGUE_RENDER_SAFE_COLUMNS
+    if all(display_columns(line) <= max_columns for line in lines):
+        return "\n".join(lines) + terminal
 
     index = 0
     while index < len(lines):
-        while display_columns(lines[index]) > MAX_FULLWIDTH_COLUMNS:
+        while display_columns(lines[index]) > max_columns:
             line = lines[index]
             split_at: int | None = None
             for pos, char in enumerate(line):
-                if display_columns(line[: pos + 1]) > MAX_FULLWIDTH_COLUMNS:
+                if display_columns(line[: pos + 1]) > max_columns:
                     break
                 if char == " ":
                     split_at = pos
@@ -61,7 +132,7 @@ def reflow_translation_layout(text: str) -> str:
                 split_at = 0
                 while (
                     split_at < len(line)
-                    and display_columns(line[: split_at + 1]) <= MAX_FULLWIDTH_COLUMNS
+                    and display_columns(line[: split_at + 1]) <= max_columns
                 ):
                     split_at += 1
                 left = line[:split_at]
@@ -80,6 +151,11 @@ def reflow_translation_layout(text: str) -> str:
             else:
                 lines.append(overflow)
         index += 1
+
+    if len(lines) > 3:
+        rebalanced = _rebalance_dialogue_lines(body, max_columns)
+        if rebalanced is not None:
+            return rebalanced + terminal
 
     return "\n".join(lines) + terminal
 
@@ -394,7 +470,8 @@ def validate(source_dir: Path, asset_dir: Path) -> list[tuple[dict, dict]]:
                 if int(unit.get("channel", 0)) != 0:
                     unit["translation"] = reflow_translation_layout(unit["translation"])
                 visible_lines = unit["translation"].rstrip("\n").split("\n")
-                if int(unit.get("channel", 0)) != 0 and len(visible_lines) > 3:
+                channel = int(unit.get("channel", 0))
+                if channel != 0 and len(visible_lines) > 3:
                     raise SystemExit(
                         f"dialogue has too many lines: {unit['id']}: "
                         f"{len(visible_lines)} > 3"
@@ -414,10 +491,11 @@ def validate(source_dir: Path, asset_dir: Path) -> list[tuple[dict, dict]]:
                             f"line {line_number}: {line[0]}"
                         )
                     columns = display_columns(line)
-                    if columns > MAX_FULLWIDTH_COLUMNS:
+                    max_columns = MAX_FULLWIDTH_COLUMNS if channel == 0 else DIALOGUE_RENDER_SAFE_COLUMNS
+                    if columns > max_columns:
                         raise SystemExit(
                             f"translation line too wide: {unit['id']} line {line_number}: "
-                            f"{columns} > {MAX_FULLWIDTH_COLUMNS} columns"
+                            f"{columns} > {max_columns} columns"
                         )
             original_tokens = RAW_TOKEN_RE.findall(unit["original"])
             translated_tokens = RAW_TOKEN_RE.findall(unit["translation"])

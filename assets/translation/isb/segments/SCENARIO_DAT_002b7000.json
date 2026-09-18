@@ -293,7 +293,7 @@
         "voice": "GC958010.ogg"
       },
       "original": "そして、７番機はここだ。",
-      "translation": "그리고, ７번기는 여기다.\n",
+      "translation": "그리고, 7번기는 여기다.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -329,7 +329,7 @@
         "voice": "GC958011.ogg"
       },
       "original": "タクト、どうする？　７番機を狙うか？",
-      "translation": "택트, 어떻게할거야？７번기를노릴까？",
+      "translation": "택트, 어쩔래? 7번기를 노릴까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -365,7 +365,7 @@
         "voice": "GC958011.ogg"
       },
       "original": "ＥＤＥＮを解放するためには、この宙域の敵を残らず片づける必要がある。作戦目標は敵艦隊の全滅とする。",
-      "translation": "EDEN 해방을 위해 이 우역의 적을 전멸시킨다. 작전 목표는 적 함대의 전멸이다.",
+      "translation": "EDEN 해방을 위해 이 공역의 적을 전멸시킨다. 작전 목표는 적 함대 전멸이다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -485,7 +485,7 @@
         "voice": null
       },
       "original": "　７番機×１　　　　　浮遊防塁×４",
-      "translation": "　７번기×１　　　부유 방루×４",
+      "translation": "　7번기×1　　　부유 방루×4",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -503,7 +503,7 @@
         "voice": null
       },
       "original": "　重巡洋艦×３　　　　駆逐艦×３",
-      "translation": "　중순양함×３　　구축함×３",
+      "translation": "　중순양함×3　　구축함×3",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -521,7 +521,7 @@
         "voice": null
       },
       "original": "　戦闘機×２",
-      "translation": "　전투기×２",
+      "translation": "　전투기×2",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -23,7 +23,7 @@
         "voice": null
       },
       "original": "いや、その必要はない。……始めよう。",
-      "translation": "아니, 그럴 필요 없다.…… 시작하지.",
+      "translation": "아니, 그럴 필요 없어. ……시작하자.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -77,7 +77,7 @@
         "voice": "GC178009.ogg"
       },
       "original": "……わかってるね？",
-      "translation": "……알고 있겠지？",
+      "translation": "……알고 있겠지?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -95,7 +95,7 @@
         "voice": "GC178010.ogg"
       },
       "original": "……はい。",
-      "translation": "...네.",
+      "translation": "……네.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -113,7 +113,7 @@
         "voice": "GC178011.ogg"
       },
       "original": "ああ、もう、なにふたりで通じ合ってるのよ、アンタたちは。",
-      "translation": "아아, 정말, 둘이서 아주 통했네, 당신들은.",
+      "translation": "아아, 정말, 둘이서 뭘 그렇게 통하는 거야, 너희들.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -137,7 +137,7 @@
         "voice": "GC178012.ogg"
       },
       "original": "いちゃつくんだったら、帰りにいくらでもできるだろう？",
-      "translation": "꽁냥거릴 거라면, 돌아가는 길에 실컷 하라고？",
+      "translation": "꽁냥거릴 거라면 돌아가는 길에 실컷 하라고?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -161,7 +161,7 @@
         "voice": "GC178013.ogg"
       },
       "original": "その時はいくらでも遊んでさしあげますので、今ぐらいはご遠慮くださいな。",
-      "translation": "그때는 얼마든지 놀아드릴 테니까, 지금만큼은 사양해 주세요.",
+      "translation": "그때는 얼마든지 놀아드릴 테니, 지금만큼은 자제해 주세요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -185,7 +185,7 @@
         "voice": "GC178014.ogg"
       },
       "original": "や、やだ、もう、みんなして～。",
-      "translation": "어머, 정말이지, 다들 왜이래～.",
+      "translation": "시, 싫어, 정말 다들～.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -203,7 +203,7 @@
         "voice": "GC178014.ogg"
       },
       "original": "そ、そうだよ。からかわないでくれよ。",
-      "translation": "그, 그래. 놀리지 말아줘.",
+      "translation": "그, 그래. 놀리지 말아 줘.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -221,7 +221,7 @@
         "voice": "GC178014.ogg"
       },
       "original": "……とにかく、司令官として、やるべきことは全てやったつもりだ。",
-      "translation": "……어쨌든, 사령관으로서 할 일은 모두 했다고 생각한다.",
+      "translation": "……어쨌든 사령관으로서 할 일은 다 했다고 생각해.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -245,7 +245,7 @@
         "voice": "GC178014.ogg"
       },
       "original": "あとは任せたよ、みんな！",
-      "translation": "남은 건 맡길게, 모두！\n",
+      "translation": "나머지는 맡길게, 다들!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -263,7 +263,7 @@
         "voice": "GC938006.ogg"
       },
       "original": "了解！",
-      "translation": "네！",
+      "translation": "확인!",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [

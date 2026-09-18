@@ -714,7 +714,7 @@
         "voice": "GC445018.ogg"
       },
       "original": "焦げ臭いねえ。あれ？　ミント、これおかしくない？",
-      "translation": "탄내가심하네. 어라？ 민트, 이거 이상하지 않아？",
+      "translation": "탄내가 심하네. 어라? 민트, 이거 이상하지 않아?",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1056,7 +1056,7 @@
         "voice": "GC445101.ogg"
       },
       "original": "私はポプリがおすすめだと思います……。",
-      "translation": "저는 포푸리가 추천이라고 생각해요…….",
+      "translation": "저는 포푸리를 추천해요…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1224,7 +1224,7 @@
         "voice": "GC445107.ogg"
       },
       "original": "私もそう思います……。",
-      "translation": "저도 그렇게생각해요….",
+      "translation": "저도 그렇게 봐요…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1302,7 +1302,7 @@
         "voice": "GC445108.ogg"
       },
       "original": "銀河展望公園・フォルテの不在を補うために",
-      "translation": "은하전망공원・포르테의부재를보완하기위해",
+      "translation": "은하 전망 공원・포르테 부재 보완",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1878,7 +1878,7 @@
         "voice": "GC445218.ogg"
       },
       "original": "大丈夫よ。だてに格闘戦最強の紋章機じゃないんだから。",
-      "translation": "괜찮아. 명색이 격투전 최강의 문장기는 아니니까.",
+      "translation": "괜찮아. 괜히 격투전 최강인 게 아니니까.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2124,7 +2124,7 @@
         "voice": "GC445223.ogg"
       },
       "original": "それでタクトさん、どの案がいいと思います？",
-      "translation": "그래서 택트 씨, 어떤안이좋다고생각하세요？",
+      "translation": "택트 씨, 어떤 안이 좋다고 생각하세요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2316,7 +2316,7 @@
         "voice": "GC445303.ogg"
       },
       "original": "うーん、まあタクトがそう言うんじゃしょうがないけど……。",
-      "translation": "으음, 뭐 택트 군이 그렇게 말한다면 어쩔 수 없지만…….\n",
+      "translation": "으음, 뭐 택트가 그렇게 말한다면 어쩔 수 없지만…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2460,7 +2460,7 @@
         "voice": "GC445307.ogg"
       },
       "original": "となると、あたしは２番手ですね。あたしもがんばりますよ！",
-      "translation": "그렇다면 저는 ２번이네요. 저도 열심히 할게요！\n",
+      "translation": "그렇다면 저는 2번이네요. 저도 열심히 할게요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2676,7 +2676,7 @@
         "voice": "GC445313.ogg"
       },
       "original": "先輩たちと力を合わせて全力で当たります！",
-      "translation": "선배님들과힘을합쳐전력으로맞서겠습니다！",
+      "translation": "선배들과 힘 합쳐 전력으로 맞서겠습니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

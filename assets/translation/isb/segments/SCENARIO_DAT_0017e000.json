@@ -174,7 +174,7 @@
         "voice": "GC450002.ogg"
       },
       "original": "紋章機にも乗れないって……マイヤーズ司令は心配じゃないんですか？",
-      "translation": "문장기에도 못 탄다니…… 마이어스 사령관님은 걱정되지 않으세요？\n",
+      "translation": "문장기에도 못 탄다니…… 마이어스 사령관은 걱정되지 않으세요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -216,7 +216,7 @@
         "voice": "GC450002.ogg"
       },
       "original": "結局、オレにも問題があったんだ。フォルテがああなったのも、７番機とクロノ・ブレイク・キャノンが奪われたのも。",
-      "translation": "결국, 나에게도 문제가 있었어. 포르테가 그렇게 된 것도, ７번기와 크로노・브레이크・캐논을 빼앗긴 것도.\n",
+      "translation": "결국, 나에게도 문제가 있었어. 포르테가 그렇게 된 것도, 7번기와 크로노・브레이크・캐논을 빼앗긴 것도.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -300,7 +300,7 @@
         "voice": "GC150009.ogg"
       },
       "original": "マイヤーズ司令、そこまでしっかりと考えてらっしゃったんですね……。",
-      "translation": "마이어스 사령관님, 그렇게까지 깊게 생각하고 계셨군요…….",
+      "translation": "마이어스 사령관, 그렇게까지 깊게 생각하고 계셨군요…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -360,7 +360,7 @@
         "voice": "GC450009.ogg"
       },
       "original": "マイヤーズ司令さえその気になれば、７番機もすぐに取り返して、フォルテさんも元に戻るに違いないですよ！",
-      "translation": "마이어스 사령관님만 마음먹으신다면, ７번기도 금방 되찾고 포르테 씨도 원래대로 돌아올 게 분명해요！\n",
+      "translation": "마이어스 사령관만 마음먹으신다면, 7번기도 금방 되찾고 포르테 씨도 원래대로 돌아올 게 분명해요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -390,7 +390,7 @@
         "voice": "GC450009.ogg"
       },
       "original": "そうだね……でも、オレはのん気に７番機が返ってくるのを待つつもりはないよ。",
-      "translation": "그렇겠지…… 하지만 나는 느긋하게 ７번기가 돌아오길 기다릴 생각은 없어.",
+      "translation": "그렇겠지…… 하지만 나는 느긋하게 7번기가 돌아오길 기다릴 생각은 없어.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -414,7 +414,7 @@
         "voice": "GC450010.ogg"
       },
       "original": "……？　でも、７番機のＨ．Ａ．Ｌ．Ｏ．が必要なんじゃないですか。",
-      "translation": "……？ 하지만 ７번기의 Ｈ.Ａ.Ｌ.Ｏ.가 필요한 거 아닌가요？\n",
+      "translation": "……? 하지만 7번기의 H.A.L.O.가 필요한 거 아닌가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -588,7 +588,7 @@
         "voice": "GC450014.ogg"
       },
       "original": "とにかく、そういうことさ。７番機が返ってくるのなんて、悠長に待っていられない。",
-      "translation": "어쨌든, 그런 거야. ７번기가 돌아오는 걸 느긋하게 기다릴 순 없어.\n",
+      "translation": "어쨌든, 그런 거야. 7번기가 돌아오는 걸 느긋하게 기다릴 순 없어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -894,7 +894,7 @@
         "voice": "GC450030.ogg"
       },
       "original": "フォルテさんに会いにいくんですね、マイヤーズ司令。",
-      "translation": "포르테 씨를 만나러 가시는군요, 마이어스 사령관님.\n",
+      "translation": "포르테 씨를 만나러 가시는군요, 마이어스 사령관.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -936,7 +936,7 @@
         "voice": "GC450031.ogg"
       },
       "original": "頑張ってくださいね、マイヤーズ司令。",
-      "translation": "힘내세요, 마이어스 사령관님.\n",
+      "translation": "힘내세요, 마이어스 사령관.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1092,7 +1092,7 @@
         "voice": "GC450102.ogg"
       },
       "original": "えぇ……。",
-      "translation": "에엣…….\n",
+      "translation": "네…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1134,7 +1134,7 @@
         "voice": "GC450104.ogg"
       },
       "original": "え！　射撃場……！？",
-      "translation": "에！ 사격장……！？\n",
+      "translation": "엣! 사격장……!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1458,7 +1458,7 @@
         "voice": "GC450115.ogg"
       },
       "original": "そんなぁ～……。",
-      "translation": "말도안돼～……。",
+      "translation": "말도 안 돼～……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1524,7 +1524,7 @@
         "voice": "GC450117.ogg"
       },
       "original": "え！",
-      "translation": "에！\n",
+      "translation": "엣!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1560,7 +1560,7 @@
         "voice": "GC450119.ogg"
       },
       "original": "そうなると、早いところ７番機を取り戻さなくてはなりませんわね。",
-      "translation": "그렇게 되면, 빨리 ７번기를 되찾아야겠네요.\n",
+      "translation": "그렇게 되면, 빨리 7번기를 되찾아야겠네요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1584,7 +1584,7 @@
         "voice": "GC450119.ogg"
       },
       "original": "７番機は取り戻す。でも、それを待ってなんかいられない。オレの……愛の力で、フォルテの障害をのりこえるんだ。",
-      "translation": "７번기는 되찾는다. 하지만 그걸 기다릴 여유는 없어. 나의…… 사랑의 힘으로 포르테의 장애를 이겨내는 거야.\n",
+      "translation": "7번기는 되찾는다. 하지만 그걸 기다릴 여유는 없어. 나의…… 사랑의 힘으로 포르테의 장애를 이겨내는 거야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1614,7 +1614,7 @@
         "voice": "GC450120.ogg"
       },
       "original": "あ、愛の力！？",
-      "translation": "아사랑의힘！？",
+      "translation": "사, 사랑의 힘?",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -1716,7 +1716,7 @@
         "voice": "GC450123.ogg"
       },
       "original": "でも、あの……お言葉を返すようですが、７番機なしで勝算はございますの？",
-      "translation": "하지만, 저기…… 말은 좀 그렇지만, ７번기 없이 승산이 있나요？\n",
+      "translation": "하지만, 저기…… 말은 좀 그렇지만, 7번기 없이 승산이 있나요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2730,7 +2730,7 @@
         "voice": "GC450152.ogg"
       },
       "original": "え……！？　一緒に……？",
-      "translation": "에……！？ 같이……？\n",
+      "translation": "엣……!? 같이……?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3342,7 +3342,7 @@
         "voice": "GC450167.ogg"
       },
       "original": "えぇ！　そうですとも！",
-      "translation": "에엣！ 그렇고말고요！",
+      "translation": "네! 그렇고말고요!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4698,7 +4698,7 @@
         "voice": "GC450226.ogg"
       },
       "original": "それじゃあ、本日のＢランチください。",
-      "translation": "그럼, 오늘의 Ｂ런치 주세요.",
+      "translation": "그럼, 오늘의 B런치 주세요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4830,7 +4830,7 @@
         "voice": "GC450230.ogg"
       },
       "original": "やっぱり、７番機じゃなきゃダメなのかな～？",
-      "translation": "역시, ７번기가 아니면 안 되는 걸까～\\？\n",
+      "translation": "역시, 7번기가 아니면 안 되는 걸까～?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5442,7 +5442,7 @@
         "voice": "GC450250.ogg"
       },
       "original": "ブリッジに？　わかった、すぐに行くよ。",
-      "translation": "함교에？ 알았어, 금방 갈게.",
+      "translation": "함교에? 알았어, 금방 갈게.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -6600,7 +6600,7 @@
         "voice": "GC150416.ogg"
       },
       "original": "ああ。シヴァ様の言葉じゃないけど、悠長にやっている場合じゃない。５日だの１週間だの、そんなの今やナンセンスだ。",
-      "translation": "아아. 시바 님의 말씀처럼, 느긋하게 있을 때가 아니야. ５일이니 １주일이니 하는 건 이제 무의미해.\n",
+      "translation": "아아. 시바 님의 말씀처럼, 느긋하게 있을 때가 아니야. 5일이니 1주일이니 하는 건 이제 무의미해.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7428,7 +7428,7 @@
         "voice": "GC450341.ogg"
       },
       "original": "ＥＤＥＮ解放艦隊の出発",
-      "translation": "EDEN해방함대의출발",
+      "translation": "EDEN 해방 함대의 출발",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7794,7 +7794,7 @@
         "voice": "GC150832.ogg"
       },
       "original": "可能な限り急がせてるからな。最短で３日ってところだろう。",
-      "translation": "가능한 한 서두르고 있으니까. 최단 ３일 정도겠지.",
+      "translation": "가능한 한 서두르고 있으니까. 최단 3일 정도겠지.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7818,7 +7818,7 @@
         "voice": "GC150832.ogg"
       },
       "original": "３日か……それぐらいなら許容範囲かな。",
-      "translation": "３일인가…… 그 정도라면 허용 범위네.",
+      "translation": "3일인가…… 그 정도라면 허용 범위네.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7968,7 +7968,7 @@
         "voice": "GC450435.ogg"
       },
       "original": "大丈夫ですよ。さしあたりフォルテさんの方は、司令官がなんとかしてくれるはずですから。",
-      "translation": "괜찮아요. 우선 포르테 씨 쪽은 사령관님이 어떻게든 해 주실 테니까요.",
+      "translation": "괜찮아요. 우선 포르테 씨 쪽은 사령관이 어떻게든 해 주실 테니까요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8022,7 +8022,7 @@
         "voice": "GC450436.ogg"
       },
       "original": "マイヤーズ司令にできなければ、誰にもできません。だって、愛の力が必要なんですから。",
-      "translation": "마이어스 사령관님이라도 못 하신다면 아무도 못 해요. 사랑의 힘이 필요하니까요.",
+      "translation": "마이어스 사령관도 못 하신다면 아무도 못 해요. 사랑의 힘이 필요하니까요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8142,7 +8142,7 @@
         "voice": "GC150839.ogg"
       },
       "original": "頑張ってください、マイヤーズ司令。",
-      "translation": "힘내세요, 마이어스 사령님.\n",
+      "translation": "힘내세요, 마이어스 사령관.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8484,7 +8484,7 @@
         "voice": "GC450505.ogg"
       },
       "original": "フォルテ先輩、なんだかお元気がないというか、とても無理されているように見受けられるのですが……。",
-      "translation": "포르테 선배님, 왠지 기운이 없다고 해야 할까, 너무 무리하고 계신 것처럼 보여서…….",
+      "translation": "포르테 선배, 왠지 기운이 없다고 해야 할까, 너무 무리하고 계신 것처럼 보여서…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9084,7 +9084,7 @@
         "voice": "GC450518.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "엣?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9294,7 +9294,7 @@
         "voice": "GC450523.ogg"
       },
       "original": "え？　なにを？",
-      "translation": "에？ 뭘？",
+      "translation": "엣? 뭘?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11016,7 +11016,7 @@
         "voice": "GC151255.ogg"
       },
       "original": "ああ、敵の待ち伏せが考えられる。至急、第２戦闘配備だ。オレもすぐブリッジに戻る。",
-      "translation": "그래, 적의 매복이 예상된다. 즉시 제２전투배치다. 나도 곧 함교로 돌아가겠다.\n",
+      "translation": "그래, 적의 매복이 예상된다. 즉시 제2전투 배치다. 나도 곧 함교로 돌아가겠다.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -11334,7 +11334,7 @@
         "voice": "GC450639.ogg"
       },
       "original": "まったく、げんきんなんだから。",
-      "translation": "정말이지, 활기차다니까.\n",
+      "translation": "정말이지, 참 단순하다니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11352,7 +11352,7 @@
         "voice": "GC450639.ogg"
       },
       "original": "ああ、げんきんさ。オレはフォルテのひと言で、いつだって一喜一憂するからね。",
-      "translation": "아아, 활기차지. 난 포르테의 말 한마디에 언제나 일희일비하니까.\n",
+      "translation": "그래, 단순하지. 난 포르테의 말 한마디에 언제나 일희일비하니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11436,7 +11436,7 @@
         "voice": "GC450641.ogg"
       },
       "original": "惑星ジュノー到着・７番機と対峙",
-      "translation": "행성 주노 도착・７번기와 대치\n",
+      "translation": "행성 주노 도착・7번기와 대치\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11508,7 +11508,7 @@
         "voice": "GC450701.ogg"
       },
       "original": "あー！",
-      "translation": "아─！\n",
+      "translation": "아ー!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12216,7 +12216,7 @@
         "voice": "GC151336.ogg"
       },
       "original": "……気に入らないな。",
-      "translation": "……마음에 안드는군.",
+      "translation": "……마음에 안 드네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12588,7 +12588,7 @@
         "voice": "GC151360.ogg"
       },
       "original": "７番機に、また光の翼が出現しました！",
-      "translation": "７번기에다시빛의날개가나타났습니다！",
+      "translation": "7번기에 또 빛의 날개가 나타났습니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12708,7 +12708,7 @@
         "voice": "GC151363.ogg"
       },
       "original": "心を意のままに操るなど、外道の所業！　私も、容赦いたしません！",
-      "translation": "마음을 조종하다니, 외도의 소행이다！ 나도 용서치 않겠다！",
+      "translation": "마음을 조종하다니, 비열한 짓입니다! 저도 용서하지 않겠습니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12984,7 +12984,7 @@
         "voice": "GC151379.ogg"
       },
       "original": "ＥＤＥＮはＥＤＥＮの民のもの……。",
-      "translation": "EDEN은 EDEN의백성의것…….",
+      "translation": "EDEN은 EDEN 백성의 것…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13140,7 +13140,7 @@
         "voice": "GC151404.ogg"
       },
       "original": "私にできる最大限の戦いを……。",
-      "translation": "내가 할수있는최선의싸움을…….",
+      "translation": "제가 할 최선의 싸움을…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13158,7 +13158,7 @@
         "voice": "GC151405.ogg"
       },
       "original": "正義は必ず勝つのです！",
-      "translation": "정의는반드시승리해요！",
+      "translation": "정의는 꼭 승리해요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13410,7 +13410,7 @@
         "voice": "GC450812.ogg"
       },
       "original": "よし、ＥＤＥＮ解放の始まりだ！",
-      "translation": "좋아, EDEN해방의시작이다！",
+      "translation": "좋아, EDEN 해방의 시작이다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13428,7 +13428,7 @@
         "voice": "GC450812.ogg"
       },
       "original": "心の力に困惑するヴァイン",
-      "translation": "마음의 힘에 당황하는바인",
+      "translation": "마음의 힘에 당황한 바인",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13794,7 +13794,7 @@
         "voice": "GC151513.ogg"
       },
       "original": "７番機と……。",
-      "translation": "７번기와……\n",
+      "translation": "7번기와……\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13938,7 +13938,7 @@
         "voice": "GC151520.ogg"
       },
       "original": "この女によって僕の紋章機の力は１００パーセント、いや、それ以上の力を発揮できたはずだ……。なのに、なぜ……。",
-      "translation": "이 여자 덕분에 내 문장기의 힘은 １００퍼센트, 아니 그 이상의 힘을 발휘할 수 있었을 터다…… 그런데 왜…….\n",
+      "translation": "이 여자 덕분에 내 문장기의 힘은 100퍼센트, 아니 그 이상의 힘을 발휘할 수 있었을 터다…… 그런데 왜…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15072,7 +15072,7 @@
         "voice": "GC451111.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "엣……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15456,7 +15456,7 @@
         "voice": "GC451125.ogg"
       },
       "original": "わぁ！　マイヤーズ司令って、恋人の前だと甘える方なんですか？",
-      "translation": "와아！ 마이어스 사령관님은 연인 앞에서어리광부리는편인가요？",
+      "translation": "와아! 마이어스 사령관은 연인 앞에서 어리광부리는 편인가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15624,7 +15624,7 @@
         "voice": "GC451129.ogg"
       },
       "original": "存在の役割・終了",
-      "translation": "존재의역할・종료",
+      "translation": "존재 역할・종료",
       "state": "shortened",
       "use_translation": true,
       "storage": [

@@ -23,7 +23,7 @@
         "voice": null
       },
       "original": "「７番機との戦い」ブリーフィング",
-      "translation": "「７번기와의 전투」 브리핑",
+      "translation": "「7번기와의 전투」 브리핑",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -113,7 +113,7 @@
         "voice": "GC148003.ogg"
       },
       "original": "７番機はこの位置にいる。",
-      "translation": "７번기는 이 위치에 있다.",
+      "translation": "7번기는 이 위치에 있다.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -179,7 +179,7 @@
         "voice": "GC148005.ogg"
       },
       "original": "７番機には自衛用に最低限の武装しか搭載されていない。エルシオールへの脅威という点では、他の戦闘艦の方が上だろう。",
-      "translation": "７번기엔 자위용 최소 무장뿐이다. 에르시올에 대한 위협은 다른 전투함이 더 높을 것이다.",
+      "translation": "7번기엔 자위용 최소 무장뿐이다. 에르시올에 대한 위협은 다른 전투함이 더 높을 것이다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -209,7 +209,7 @@
         "voice": "GC148005.ogg"
       },
       "original": "けれども、もちろん、７番機がエネルギーをチャージし終わる前に撃退しなれけばならない。",
-      "translation": "하지만, 물론, ７번기가 에너지를 충전하기 전에 격퇴해야만 한다.",
+      "translation": "하지만 물론, 7번기가 에너지를 충전하기 전에 격퇴해야 한다.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -239,7 +239,7 @@
         "voice": "GC148005.ogg"
       },
       "original": "エンジェル隊は、敵艦をエルシオールに近づけないよう牽制しつつ、７番機の対応に当たってくれ。",
-      "translation": "엔젤대는 적함이 에르시올에 접근하지 못하도록 견제하면서, ７번기에 대응해 줘.",
+      "translation": "엔젤대는 적함이 에르시올에 접근하지 못하도록 견제하면서, 7번기에 대응해 줘.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -269,7 +269,7 @@
         "voice": "GC148005.ogg"
       },
       "original": "７番機にはルシャーティも乗ってる。難しいとは思うが、あまり損害を与えずに動きを止めてほしい。",
-      "translation": "７번기엔 루샤티도 있다. 어렵겠지만 큰 손해 없이 움직임을 멈춰줘라.",
+      "translation": "7번기엔 루샤티도 타고 있다. 어렵겠지만 큰 피해 없이 움직임을 멈춰줘.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -335,7 +335,7 @@
         "voice": null
       },
       "original": "　７番機×１　　　　　巡洋艦×２",
-      "translation": "　７번기×１　　　순양함×２",
+      "translation": "　7번기×1　　　순양함×2",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -353,7 +353,7 @@
         "voice": null
       },
       "original": "　駆逐艦×３　　　　　突撃艦×４",
-      "translation": "　구축함×３　　　돌격함×４",
+      "translation": "　구축함×3　　　돌격함×4",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -389,7 +389,7 @@
         "voice": null
       },
       "original": "　７番機の撃退",
-      "translation": "　７번기 격퇴",
+      "translation": "　7번기 격퇴",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -461,7 +461,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "もう一度、作戦内容を確認するか？",
-      "translation": "다시 작전 내용을 확인할까？",
+      "translation": "다시 작전 내용을 확인할까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -479,7 +479,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "そうだなあ……。",
-      "translation": "글쎄...",
+      "translation": "글쎄…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -551,7 +551,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "いや、その必要はない。みんな、準備はいいな？",
-      "translation": "아니, 그럴 필요는 없다. 모두, 준비는 됐나？",
+      "translation": "아니, 그럴 필요는 없다. 모두, 준비는 됐나?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -575,7 +575,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "エンジェル隊、出撃！",
-      "translation": "엔젤대, 출격！",
+      "translation": "엔젤대, 출격!",
       "state": "reused",
       "use_translation": true,
       "storage": [

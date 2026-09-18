@@ -43,6 +43,36 @@ def pixel_hash(image: Image.Image) -> str:
     return digest.hexdigest()
 
 
+def authoritative_png_path(
+    project: Path,
+    layout: str,
+    stem: str,
+    images_root: Path,
+    translated_dir: str,
+    entry: dict,
+) -> Path:
+    """Resolve the real translated_png authority for a runtime image copy."""
+    mirror_source = entry.get("mirror_source_png")
+    if mirror_source:
+        if layout == "eternal":
+            path = (
+                project / "assets/image_extraction/japanese_images/SLG/translated_png"
+                / str(mirror_source)
+            )
+        else:
+            path = (
+                project / "assets/image_extraction/SLG/japanese_images/translated_png"
+                / str(mirror_source)
+            )
+    else:
+        path = images_root / translated_dir / str(entry["translated_png"])
+    if not path.is_file():
+        raise FileNotFoundError(
+            f"missing authoritative translated_png for {stem}:{entry.get('png')}: {path}"
+        )
+    return path
+
+
 def compress_to_fit(
     original: bytes,
     replacement: Image.Image,
@@ -60,7 +90,11 @@ def compress_to_fit(
     replacement_hash = pixel_hash(replacement) if require_exact_pixels else None
     attempts: list[int | None] = [None]
     if info.palette_colours:
-        attempts += [limit for limit in (256, 128, 64, 32, 16, 8, 4) if limit <= info.palette_colours]
+        # Keep the current translated_png as the image source and search every palette
+        # size before falling back to any re-render. A stream that misses its fixed slot
+        # by only a few bytes often fits at 255/254/... colours; jumping straight from
+        # 256 to 128 needlessly invokes the older renderer path.
+        attempts += list(range(info.palette_colours, 1, -1))
     best = None
     exact_pixel_candidate_seen = False
     for colours in attempts:
@@ -203,14 +237,20 @@ def main() -> None:
                     except Exception:  # noqa: BLE001 - the original error is the useful one
                         skipped.append({"png": entry["png"], "reason": str(error)})
                         continue
-                    with Image.open(images_root / translated_dir / entry["translated_png"]) as opened:
+                    replacement_path = authoritative_png_path(
+                        args.project, args.layout, stem, images_root, translated_dir, entry
+                    )
+                    with Image.open(replacement_path) as opened:
                         expected = opened.convert("RGBA")
                     if pixel_hash(decode_tex(recovered)) == pixel_hash(expected):
                         unchanged += 1
                         continue
                     skipped.append({"png": entry["png"], "reason": str(error)})
                     continue
-                with Image.open(images_root / translated_dir / entry["translated_png"]) as opened:
+                replacement_path = authoritative_png_path(
+                    args.project, args.layout, stem, images_root, translated_dir, entry
+                )
+                with Image.open(replacement_path) as opened:
                     replacement = opened.convert("RGBA")
                 if pixel_hash(decode_tex(original_raw)) == pixel_hash(replacement):
                     unchanged += 1
@@ -229,10 +269,6 @@ def main() -> None:
                             f"{stem}/{entry['png']}: current translated image cannot be "
                             f"stored losslessly in its bank slot: {error}"
                         ) from error
-                    # A mirror gets the same treatment as any other copy: refit()
-                    # re-renders it from the canonical SLG source with a smaller
-                    # label, so the picture stays the canonical one and only this
-                    # tight bank slot carries the shrunk draw.
                     rebuilt, compressed = refit(
                         args.project, entry, original_raw, capacity, resource.codec
                     )

@@ -157,7 +157,7 @@
         "voice": "GC260100.ogg"
       },
       "original": "……ん？　やあ、ミルフィー。みんな揃ってお茶会かな？",
-      "translation": "……응？ 안녕, 밀피. 다들 모여서 다과회라도 해？",
+      "translation": "……응? 안녕, 밀피. 다들 모여서 다과회라도 해?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -277,7 +277,7 @@
         "voice": "GC260104.ogg"
       },
       "original": "タクトさんもどうですか……？",
-      "translation": "택트 씨도 어떠신가요……？\n",
+      "translation": "택트 씨도 어떠신가요……?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -331,7 +331,7 @@
         "voice": "GC260106.ogg"
       },
       "original": "えっ……？",
-      "translation": "엣……？",
+      "translation": "엣……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -349,7 +349,7 @@
         "voice": "GC260107.ogg"
       },
       "original": "今ここに欠けてるメンバーがひとりいることを考えれば、答えはおのずと明らかになるだろ？",
-      "translation": "지금 여기에 빠진 멤버가 한 명 있다는 걸 생각하면 답은 뻔하잖아？\n",
+      "translation": "지금 여기에 빠진 멤버가 한 명 있다는 걸 생각하면 답은 뻔하잖아?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -451,7 +451,7 @@
         "voice": "GC260109.ogg"
       },
       "original": "ははは、そこまでお見通しかあ。",
-      "translation": "하하하,그렇게까지꿰뚫어보다니.",
+      "translation": "하하하, 다 꿰뚫어 봤구나.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -469,7 +469,7 @@
         "voice": "GC260110.ogg"
       },
       "original": "でもまあ、あんたもランファも、７番機を取り逃がしたことをそんなに気にしてないようで安心したよ。",
-      "translation": "그나저나 당신도 란파도, ７번기를 놓친 걸 별로 신경 안 쓰는 것 같아 다행이야.\n",
+      "translation": "그나저나 당신도 란파도, 7번기를 놓친 걸 별로 신경 안 쓰는 것 같아 다행이야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -553,7 +553,7 @@
         "voice": "GC260111.ogg"
       },
       "original": "そうですね。今までの分も、ランファを甘えさせてあげてください、タクトさん。",
-      "translation": "그렇네요. 지금까지 못 한 만큼 란파 씨를 응석받이로 만들어 주세요, 택트 씨.\n",
+      "translation": "그렇네요. 그동안 못 한 만큼 란파를 마음껏 응석 부리게 해주세요, 택트 씨.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -625,7 +625,7 @@
         "voice": "GC260113.ogg"
       },
       "original": "あれだけ頑張られたのに……。",
-      "translation": "그렇게나 열심히하셨는데…….",
+      "translation": "그렇게 애쓰셨는데…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -673,7 +673,7 @@
         "voice": "GC260113.ogg"
       },
       "original": "まあ、派手にぶっ飛ばされてくるよ。",
-      "translation": "뭐, 화끈하게 날려버리고 오지.",
+      "translation": "뭐, 화끈하게 날아갔다 올게.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -847,7 +847,7 @@
         "voice": "GC260118.ogg"
       },
       "original": "タクトさん、のんびりしていてもよろしいのですか……？",
-      "translation": "택트 씨, 느긋하게 있어도 괜찮으신가요……？\n",
+      "translation": "택트 씨, 느긋하게 있어도 괜찮으신가요……?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -895,7 +895,7 @@
         "voice": "GC260119.ogg"
       },
       "original": "そういえば、どこに行くんだい？",
-      "translation": "그러고 보니 어디 가는 거야？\n",
+      "translation": "그러고 보니 어디 가는 거야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -913,7 +913,7 @@
         "voice": "GC260119.ogg"
       },
       "original": "スカイパレスの公園だよ。式典に参加する時に見つけたんだ。そこで、ランファと待ち合わせしてる。",
-      "translation": "스카이팔레스 공원이야. 식전에 발견했거든. 거기서 란파와 만나기로 했어.\n",
+      "translation": "스카이팔레스 공원이야. 식전에 참석하러 갔을 때 발견했거든. 거기서 란파와 만나기로 했어.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -943,7 +943,7 @@
         "voice": "GC260120.ogg"
       },
       "original": "同じ艦にいるのにわざわざ待ち合わせをするなんて、まだまだ初々しいですね。",
-      "translation": "같은 함선에 있으면서 일부러 만남을 갖다니, 아직 풋풋하네요.\n",
+      "translation": "같은 함선에 있으면서 일부러 약속 장소에서 만나다니, 아직 풋풋하네요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -967,7 +967,7 @@
         "voice": "GC260121.ogg"
       },
       "original": "微笑ましくて、よろしいではありませんか。",
-      "translation": "미소 지어지는 광경이라 괜찮지 않습니까.\n",
+      "translation": "보고만 있어도 흐뭇하니 좋지 않습니까.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1081,7 +1081,7 @@
         "voice": "GC260123.ogg"
       },
       "original": "抜き足、差し足、忍び足……。",
-      "translation": "살금살금, 살금살금…….\n",
+      "translation": "살금살금, 소리 없이…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1099,7 +1099,7 @@
         "voice": "GC260123.ogg"
       },
       "original": "……だ～れだ？",
-      "translation": "……누구게？\n",
+      "translation": "……누구게?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1117,7 +1117,7 @@
         "voice": "GC260125.ogg"
       },
       "original": "いやあぁぁぁぁぁぁぁぁぁぁっ！",
-      "translation": "으아아아아아아아악！\n",
+      "translation": "으아아아아아아아악!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1135,7 +1135,7 @@
         "voice": "GC260125.ogg"
       },
       "original": "あ～～～～～れ～～～～～。",
-      "translation": "아～～～～～레～～～～～.\n",
+      "translation": "어～～～～～라～～～～～.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1153,7 +1153,7 @@
         "voice": "GC260126.ogg"
       },
       "original": "タ、タクト！？",
-      "translation": "타, 택트！？\n",
+      "translation": "태, 택트!?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1171,7 +1171,7 @@
         "voice": "GC260126.ogg"
       },
       "original": "あいたたた……。",
-      "translation": "아야야따따……。",
+      "translation": "아야야야…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1189,7 +1189,7 @@
         "voice": "GC260127.ogg"
       },
       "original": "タクト！　……大丈夫？",
-      "translation": "택트！ ……괜찮아？\n",
+      "translation": "택트! ……괜찮아?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1249,7 +1249,7 @@
         "voice": "GC260128.ogg"
       },
       "original": "そうかもしれないわね。少し、筋力なんかもついてきたんじゃない？",
-      "translation": "그럴지도 모르겠네. 근력 같은 것도 좀 붙은 거 아냐？\n",
+      "translation": "그럴지도 모르겠네. 근력 같은 것도 좀 붙은 거 아냐?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1273,7 +1273,7 @@
         "voice": "GC260128.ogg"
       },
       "original": "だとすると、ランファに触れることができる日も近いかな？",
-      "translation": "그렇다면 란파를 만질 수 있는 날도 머지않았으려나？\n",
+      "translation": "그렇다면 란파를 만질 수 있는 날도 머지않았으려나?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1315,7 +1315,7 @@
         "voice": "GC260130.ogg"
       },
       "original": "……でも、本当に気をつけてね？　こういった場所なら問題ないけど、変な場所だったらそれこそ大けがしちゃうんだから。",
-      "translation": "……그래도 정말 조심해야 해？ 이런 장소라면 괜찮지만, 이상한 곳이었다면 큰 부상을 입었을 테니까.\n",
+      "translation": "……그래도 정말 조심해야 해. 이런 장소라면 괜찮지만, 이상한 곳이었다면 크게 다칠 테니까.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1477,7 +1477,7 @@
         "voice": "GC260134.ogg"
       },
       "original": "ええ！",
-      "translation": "응！",
+      "translation": "응!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1579,7 +1579,7 @@
         "voice": "GC260136.ogg"
       },
       "original": "ああ。そして……それがいくつかの悲劇を生み出すことにもなった……か。",
-      "translation": "아아. 그리고…… 그것이 몇 가지 비극을 낳기도 했지……나.\n",
+      "translation": "아아. 그리고…… 그게 몇 가지 비극을 낳기도 했지…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1735,7 +1735,7 @@
         "voice": "GC260141.ogg"
       },
       "original": "ねえ、タクト。そこの芝生の上で、ちょっと休んでいかない？",
-      "translation": "있지, 택트. 저기 잔디밭 위에서 좀 쉬다 가지 않을래？\n",
+      "translation": "있지, 택트. 저기 잔디밭에서 좀 쉬다 가지 않을래?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1801,7 +1801,7 @@
         "voice": "GC260142.ogg"
       },
       "original": "そうだ、膝枕してあげようか？",
-      "translation": "그럼 무릎베개 해줄까？\n",
+      "translation": "그럼 무릎베개 해줄까?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1861,7 +1861,7 @@
         "voice": "GC260143.ogg"
       },
       "original": "うん。そういったことは、７番機を取り返してから、ゆっくりお願いする。",
-      "translation": "응. 그런 건 ７번기를 되찾고 나서 천천히 부탁할게.\n",
+      "translation": "응. 그런 건 7번기를 되찾고 나서 천천히 부탁할게.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1885,7 +1885,7 @@
         "voice": "GC260144.ogg"
       },
       "original": "７番機……か。……うん、そうね。",
-      "translation": "７번기……인가. ……응, 그렇네.\n",
+      "translation": "7번기……인가. ……응, 그렇네.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1903,7 +1903,7 @@
         "voice": "GC260144.ogg"
       },
       "original": "ランファ……？",
-      "translation": "란파……？\n",
+      "translation": "란파……?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1939,7 +1939,7 @@
         "voice": "GC260145.ogg"
       },
       "original": "あれはＥＤＥＮの子供たちかな？　みんな楽しそうに遊んでるなあ。",
-      "translation": "저건 EDEN의 아이들일까？ 다들 즐겁게 놀고 있네.\n",
+      "translation": "저건 EDEN의 아이들일까? 다들 즐겁게 놀고 있네.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1981,7 +1981,7 @@
         "voice": "GC260146.ogg"
       },
       "original": "ん？",
-      "translation": "응？",
+      "translation": "응?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2017,7 +2017,7 @@
         "voice": "GC260147.ogg"
       },
       "original": "ああ、本当にそう思うよ……。",
-      "translation": "아아, 정말 그렇게생각해…….",
+      "translation": "아아, 정말 그래…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2035,7 +2035,7 @@
         "voice": "GC260148.ogg"
       },
       "original": "あのふたり、兄妹かしら？　男の子が女の子の手を引っ張ってあげて……ふふふ、かーわいい。",
-      "translation": "저 둘, 남매일까？ 남자애가 여자애 손을 끌어주고 있고…… 후후후, 귀여워.\n",
+      "translation": "저 둘, 남매일까? 남자애가 여자애 손을 끌어주고 있고…… 후후후, 귀여워.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2095,7 +2095,7 @@
         "voice": "GC260149.ogg"
       },
       "original": "そっか……しっかりした弟……か……。",
-      "translation": "그렇구나… 야무진 남동생…이라…….",
+      "translation": "그래…… 야무진 남동생……인가…….",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -2113,7 +2113,7 @@
         "voice": "GC260149.ogg"
       },
       "original": "……気になるのかい、ヴァインのこと？",
-      "translation": "……바인에 대해 신경 쓰이는 거야？\n",
+      "translation": "……바인이 신경 쓰이는 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2155,7 +2155,7 @@
         "voice": "GC260151.ogg"
       },
       "original": "この間はほら、お互いちょっと感情的になっちゃったでしょ？",
-      "translation": "지난번에 말이야, 서로 좀 감정적이 됐었잖아？\n",
+      "translation": "지난번엔 서로 좀 감정적이 됐었잖아?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2179,7 +2179,7 @@
         "voice": "GC260152.ogg"
       },
       "original": "だから、もう少し冷静になって話してみたかったかな……なんて、思ってみたり。",
-      "translation": "그래서 조금 더 냉정하게 대화해 보고 싶었다고나 할까……라고생각하기도하고.",
+      "translation": "그래서 좀 더 차분하게 얘기해 보고 싶었다고 할까…… 그런 생각도 들고.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2203,7 +2203,7 @@
         "voice": "GC260152.ogg"
       },
       "original": "……どうして？",
-      "translation": "……어째서？",
+      "translation": "……어째서?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2221,7 +2221,7 @@
         "voice": "GC260153.ogg"
       },
       "original": "あっ、ヤキモチやいちゃった？",
-      "translation": "앗, 질투하는 거야？\n",
+      "translation": "앗, 질투하는 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2257,7 +2257,7 @@
         "voice": "GC260154.ogg"
       },
       "original": "ん？",
-      "translation": "응？",
+      "translation": "응?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2311,7 +2311,7 @@
         "voice": "GC260155.ogg"
       },
       "original": "……なにさ？",
-      "translation": "……뭔데？\n",
+      "translation": "……뭔데?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2347,7 +2347,7 @@
         "voice": "GC260156.ogg"
       },
       "original": "……それはもしかして、あの時のルシャーティのことへの逆襲でしょうか？",
-      "translation": "……그건 혹시, 그때 루샤티에 대한 복수인가요？\n",
+      "translation": "……그건 혹시, 그때 루샤티 일에 대한 복수인가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2371,7 +2371,7 @@
         "voice": "GC260157.ogg"
       },
       "original": "冗談よ、冗談。",
-      "translation": "농담이야,농담.",
+      "translation": "그냥 농담이야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2413,7 +2413,7 @@
         "voice": "GC260158.ogg"
       },
       "original": "うん、わかってる。それで、ヴァインの何が気になるんだい？",
-      "translation": "응, 알고 있어. 그래서 바인의 뭐가 궁금한데？\n",
+      "translation": "응, 알고 있어. 그래서 바인의 뭐가 신경 쓰이는데?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2437,7 +2437,7 @@
         "voice": "GC260159.ogg"
       },
       "original": "アタシ、弟や妹がたくさんいるでしょ？　だから、なんとなくだけどわかるの……。",
-      "translation": "나, 남동생이나 여동생이 많잖아？ 그래서 왠지 알 것 같아…….\n",
+      "translation": "나, 남동생이나 여동생이 많잖아? 그래서 왠지 알 것 같아…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2485,7 +2485,7 @@
         "voice": "GC260161.ogg"
       },
       "original": "ウソや偽りで、あんな優しい目ができるわけないって……。",
-      "translation": "거짓이나 가식으로 그런 다정한 눈빛을 할순없으니까….",
+      "translation": "거짓이나 가식으로 다정한 눈빛을 할 순 없으니까…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2617,7 +2617,7 @@
         "voice": "GC260164.ogg"
       },
       "original": "また会えるさ……いや、会わなきゃいけないんだ。７番機とクロノ・ブレイク・キャノンを取り戻すためにもね。",
-      "translation": "다시 만날 수 있어…… 아니, 만나야만 해. ７번기와 크로노・브레이크・캐논을 되찾기 위해서라도 말이야.\n",
+      "translation": "다시 만날 수 있어…… 아니, 만나야만 해. 7번기와 크로노・브레이크・캐논을 되찾기 위해서라도 말이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2647,7 +2647,7 @@
         "voice": "GC260165.ogg"
       },
       "original": "……うん！",
-      "translation": "……응！\n",
+      "translation": "……응!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2683,7 +2683,7 @@
         "voice": "GC260166.ogg"
       },
       "original": "今度はなんだい？",
-      "translation": "이번엔 또 뭐야？",
+      "translation": "이번엔 또 뭐야?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2755,7 +2755,7 @@
         "voice": "GC260169.ogg"
       },
       "original": "うん、頑張ろう！",
-      "translation": "응, 힘내자！\n",
+      "translation": "응, 힘내자!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2773,7 +2773,7 @@
         "voice": "GC260169.ogg"
       },
       "original": "その時はさ、ランファ……オレも、一緒に行っちゃダメかな？",
-      "translation": "그때 말이야, 란파…… 나도 같이 가면 안 될까？\n",
+      "translation": "그때 말이야, 란파…… 나도 같이 가면 안 될까?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2797,7 +2797,7 @@
         "voice": "GC260170.ogg"
       },
       "original": "別にいいけど……タクトが来てもそんなに面白くないわよ？　それどころか、弟や妹たちのおもちゃにされるんだから。",
-      "translation": "딱히 상관없지만…… 택트가 와봤자 별로 재미없을걸？ 오히려 남동생이나 여동생의 장난감이 될 테니까.\n",
+      "translation": "딱히 상관없지만…… 택트가 와봤자 별로 재미없을걸? 오히려 남동생이나 여동생의 장난감이 될 테니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2869,7 +2869,7 @@
         "voice": "GC260172.ogg"
       },
       "original": "……って、え～～～～～っ！？",
-      "translation": "……앗, 에에～～～～～！？\n",
+      "translation": "……아니, 에에～～～～～!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2887,7 +2887,7 @@
         "voice": "GC260173.ogg"
       },
       "original": "え……ええっと、その、それって、もしかして……もしかするの？",
-      "translation": "어…… 저기, 그건, 혹시…… 혹시 하는 거야？\n",
+      "translation": "어…… 저기, 그건, 혹시…… 혹시 그런 뜻이야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3049,7 +3049,7 @@
         "voice": "GC260175.ogg"
       },
       "original": "ていっ！　と、急に抱きしめてみたり。",
-      "translation": "에잇！ 하고, 갑자기 껴안아 보거나.\n",
+      "translation": "에잇! 하고, 갑자기 껴안아 보거나.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3085,7 +3085,7 @@
         "voice": "GC260177.ogg"
       },
       "original": "ひ……ひいやあぁぁぁぁぁぁぁぁぁぁっ！",
-      "translation": "히…… 히이이이이이이이이익！\n",
+      "translation": "히…… 히이이이이이이이이익!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3121,7 +3121,7 @@
         "voice": "GC260178.ogg"
       },
       "original": "タ、タクト～！",
-      "translation": "택, 택트～！\n",
+      "translation": "태, 택트～!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3139,7 +3139,7 @@
         "voice": "GC260178.ogg"
       },
       "original": "ふっか～～～～～つ！",
-      "translation": "후우～～～～～！",
+      "translation": "부활～～～～～!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3157,7 +3157,7 @@
         "voice": "GC260179.ogg"
       },
       "original": "きゃっ！",
-      "translation": "꺄악！",
+      "translation": "꺄악!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3175,7 +3175,7 @@
         "voice": "GC260179.ogg"
       },
       "original": "あはははは……まあ、こんな調子だからね、どんなスキンシップでもまかせておいてよ。",
-      "translation": "아하하하하…… 뭐, 이런 분위기니까, 어떤 스킨십이든 맡겨둬.\n",
+      "translation": "아하하하하…… 뭐, 이런 식이니까 어떤 스킨십이든 맡겨둬.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3235,7 +3235,7 @@
         "voice": "GC260200.ogg"
       },
       "original": "ふう、やっぱり『白き月』は落ち着くな～。",
-      "translation": "후우, 역시『백색달』은마음이편안해지네～",
+      "translation": "후우, 역시 『백색 달』은 마음이 편하네～",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3283,7 +3283,7 @@
         "voice": "GC160508.ogg"
       },
       "original": "先輩方は相変わらず落ち着いていらっしゃってうらやましいです。私など、いまだに緊張してしまうというのに。",
-      "translation": "선배님들은 여전히 침착해 보이셔서 부럽습니다. 저 같은 건 아직도 긴장되는데 말이죠.\n",
+      "translation": "선배들은 여전히 침착해 보이셔서 부럽습니다. 저 같은 건 아직도 긴장되는데 말이죠.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3343,7 +3343,7 @@
         "voice": "GC260202.ogg"
       },
       "original": "わ、私はそのようなことなどいたしません！",
-      "translation": "저, 저는 그런 짓은 하지 않습니다！\n",
+      "translation": "저, 저는 그런 짓은 하지 않습니다!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3361,7 +3361,7 @@
         "voice": "GC260203.ogg"
       },
       "original": "冗談だよ。シャトヤーン様たちの前で、そんなことできるわけないだろう？　本当にちとせは真面目だねえ。",
-      "translation": "농담이야. 샤토얀 님들 앞에서 그런 걸 할 수 있을 리 없잖아？ 정말 치토세는 성실하다니까.\n",
+      "translation": "농담이야. 샤토얀 님들 앞에서 그런 걸 할 수 있을 리 없잖아? 정말 치토세는 성실하다니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3391,7 +3391,7 @@
         "voice": "GC260204.ogg"
       },
       "original": "そういえば、シャトヤーン様やシヴァ陛下は、まだいらっしゃらないのでしょうか？",
-      "translation": "그러고 보니, 샤토얀 님이나 시바 폐하는 아직 안 오신 건가요？\n",
+      "translation": "그러고 보니, 샤토얀 님이나 시바 폐하는 아직 안 오신 건가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3463,7 +3463,7 @@
         "voice": "GC260205.ogg"
       },
       "original": "どうしたのタクト？　ため息なんかついちゃって、らしくないわね。",
-      "translation": "왜 그래 택트？ 한숨이라니, 너답지 않네.\n",
+      "translation": "왜 그래, 택트? 한숨이라니 너답지 않네.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3487,7 +3487,7 @@
         "voice": "GC260205.ogg"
       },
       "original": "いや、なんとなくシャトヤーン様たちに会いにくくてさ……。",
-      "translation": "아니, 왠지 샤토얀 님들을 만나기 어려워서 말이야…….\n",
+      "translation": "아니, 왠지 샤토얀 님들을 만나기가 껄끄러워서 말이야…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3511,7 +3511,7 @@
         "voice": "GC260206.ogg"
       },
       "original": "どうして？　タクト、何かしたっけ？",
-      "translation": "왜？ 택트, 뭐 잘못한 거 있어？\n",
+      "translation": "왜? 택트, 뭐 잘못한 거 있어?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3529,7 +3529,7 @@
         "voice": "GC260206.ogg"
       },
       "original": "確かに、ＥＤＥＮ解放には成功したよ。でも、７番機とクロノ・ブレイク・キャノンは取り戻せず、ランファだって……。",
-      "translation": "확실히 EDEN 해방에는 성공했어. 하지만 ７번기와 크로노・브레이크・캐논은 되찾지 못했고, 란파도…….\n",
+      "translation": "확실히 EDEN 해방에는 성공했어. 하지만 7번기와 크로노・브레이크・캐논은 되찾지 못했고, 란파도…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3577,7 +3577,7 @@
         "voice": "GC260207.ogg"
       },
       "original": "全て片づきました……なんて、とてもじゃないけど胸を張って言えやしない。",
-      "translation": "모든 게 해결됐다고…… 라고는, 도저히 당당하게 말할 수 없어.\n",
+      "translation": "다 해결됐다고…… 도저히 가슴 펴고 말할 수는 없어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3619,7 +3619,7 @@
         "voice": "GC260211.ogg"
       },
       "original": "えっ？　あっ、はい！　あの、アタシがなにか……。",
-      "translation": "엣？ 아, 네！ 저기, 제가 뭐라도…….\n",
+      "translation": "엣? 아, 네! 저기, 제가 뭐라도…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3643,7 +3643,7 @@
         "voice": "GC260212.ogg"
       },
       "original": "具合はどうですか？　『白き月』を発ってからというもの、あなたのことを心配していましたよ。",
-      "translation": "몸 상태는 어떠신가요？ 『백색 달』을 떠난 뒤로 당신을 걱정하고 있었어요.\n",
+      "translation": "몸 상태는 어떠신가요? 『백색 달』을 떠난 뒤로 당신을 걱정하고 있었어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3673,7 +3673,7 @@
         "voice": "GC260213.ogg"
       },
       "original": "そのことなら大丈夫です。ええと、確かにまだ回復したわけじゃないですけど……その、タクトがいますから……。",
-      "translation": "그건 괜찮아요. 에, 확실히 아직 회복된 건 아니지만…… 그게, 택트가 있으니까요…….\n",
+      "translation": "그건 괜찮아요. 저기, 아직 회복된 건 아니지만…… 그게, 택트가 있으니까요…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3943,7 +3943,7 @@
         "voice": "GC160559.ogg"
       },
       "original": "もう、イヤですよ、シヴァ陛下。出席しないなんて言ってないじゃないですか。",
-      "translation": "정말이지, 싫어요 시바 폐하. 참석하지 않겠다고 한 적 없잖아요.\n",
+      "translation": "정말, 그러지 마세요, 시바 폐하. 참석하지 않겠다고 한 적 없잖아요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3967,7 +3967,7 @@
         "voice": "GC160561.ogg"
       },
       "original": "先輩方がそうおっしゃるなら、私に異論はありません。",
-      "translation": "선배님들이 그렇다면 저도 이견은 없습니다.",
+      "translation": "선배들이 그렇게 말씀하신다면 저도 이견은 없습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3991,7 +3991,7 @@
         "voice": "GC160562.ogg"
       },
       "original": "同じく……そう思います。",
-      "translation": "저도…… 그렇게생각해요.",
+      "translation": "저도…… 동감이에요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4009,7 +4009,7 @@
         "voice": "GC260220.ogg"
       },
       "original": "はーい、みんなが出るならあたしも出まーす。",
-      "translation": "하아～, 다들 나간다면 나도 나갈래～\n",
+      "translation": "네ー, 다들 나가면 나도 나갈게ー.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4069,7 +4069,7 @@
         "voice": "GC260222.ogg"
       },
       "original": "楽しめる時に楽しむ！　そういう状況じゃなくても、なんとか楽しむ！　それが、アタシたちエンジェル隊ですから。",
-      "translation": "즐길 수 있을 때 즐긴다！ 그런 상황이 아니더라도 어떻게든 즐긴다！ 그것이 우리 엔젤대니까요.\n",
+      "translation": "즐길 수 있을 때 즐긴다! 그런 상황이 아니더라도 어떻게든 즐긴다! 그게 우리 엔젤대니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4171,7 +4171,7 @@
         "voice": "GC260226.ogg"
       },
       "original": "どうした、フランボワーズ？",
-      "translation": "왜 그래, 란파？",
+      "translation": "왜 그러느냐, 프랑부아즈?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4207,7 +4207,7 @@
         "voice": "GC260229.ogg"
       },
       "original": "い、いえ、そんな……。",
-      "translation": "아, 아니에요,그게…….",
+      "translation": "아, 아니에요…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4225,7 +4225,7 @@
         "voice": "GC260229.ogg"
       },
       "original": "え、ええと……よしっ！",
-      "translation": "에, 에헤헤…… 좋아！\n",
+      "translation": "으, 음…… 좋아!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4243,7 +4243,7 @@
         "voice": "GC260229.ogg"
       },
       "original": "あ、ああああああああああああっ！",
-      "translation": "아, 아아아아아아아아아아악！\n",
+      "translation": "아, 아아아아아아아아아아악!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4261,7 +4261,7 @@
         "voice": "GC260230.ogg"
       },
       "original": "ど、どうしたんじゃ、タクト？",
-      "translation": "어, 왜 그러느냐, 택트？\n",
+      "translation": "왜, 왜 그러느냐, 택트?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4279,7 +4279,7 @@
         "voice": "GC260231.ogg"
       },
       "original": "マ、マイヤーズ！？",
-      "translation": "마, 마이어스！？\n",
+      "translation": "마, 마이어스!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4297,7 +4297,7 @@
         "voice": "GC260231.ogg"
       },
       "original": "その祝賀パーティーですけど……もしかして、オレも出なくちゃいけないんですか？",
-      "translation": "그 축하 파티 말인데요…… 혹시 저도 나가야 하는 건가요？\n",
+      "translation": "그 축하 파티 말인데요…… 혹시 저도 나가야 하는 건가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4345,7 +4345,7 @@
         "voice": "GC160569.ogg"
       },
       "original": "議長閣下がぜひに、とのことです。マイヤーズ司令。",
-      "translation": "의장각하께서꼭오라고하셨습니다마이어스사령관님.",
+      "translation": "의장 각하께서 꼭 오라셨습니다. 마이어스 사령관.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4369,7 +4369,7 @@
         "voice": "GC160570.ogg"
       },
       "original": "……おまえがサボりまくっていたせいだぞ。いいな？　今度こそは絶対出席してもらうぞ。",
-      "translation": "……네가 땡땡이치고 다닌 탓이다. 알겠나？ 이번에야말로 반드시 참석하게 할 거다.\n",
+      "translation": "……네가 땡땡이치고 다닌 탓이다. 알겠나? 이번에야말로 반드시 참석하게 할 거다.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -4393,7 +4393,7 @@
         "voice": "GC160570.ogg"
       },
       "original": "わかってるよ。ランファが行くのに、オレが行かないわけがないだろう？",
-      "translation": "알고 있어. 란파가 가는데 내가 안 갈 리가 없잖아？\n",
+      "translation": "알고 있어. 란파가 가는데 내가 안 갈 리가 없잖아?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4459,7 +4459,7 @@
         "voice": "GC260232.ogg"
       },
       "original": "しばしのお別れ",
-      "translation": "잠시동안의이별",
+      "translation": "잠시의 이별",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4495,7 +4495,7 @@
         "voice": "GC260300.ogg"
       },
       "original": "ん、なんだい？",
-      "translation": "응, 왜 그래？\n",
+      "translation": "응, 왜 그래?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4555,7 +4555,7 @@
         "voice": "GC260303.ogg"
       },
       "original": "ドレスは用意してもらえるんだよね？",
-      "translation": "드레스는 준비해 주는 거지？\n",
+      "translation": "드레스는 준비해 주는 거지?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4639,7 +4639,7 @@
         "voice": "GC260307.ogg"
       },
       "original": "わ、私もですか！？",
-      "translation": "저, 저도요！？\n",
+      "translation": "저, 저도요!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4699,7 +4699,7 @@
         "voice": "GC260310.ogg"
       },
       "original": "では、お先に失礼します。",
-      "translation": "그럼,먼저실례하겠습니다.",
+      "translation": "그럼, 먼저 실례할게요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4717,7 +4717,7 @@
         "voice": "GC260311.ogg"
       },
       "original": "ランファ、みんなと一緒に行かないでいいのかい？　こういうの、ランファが一番喜びそうなのに。",
-      "translation": "란파, 다들과 같이 안 가도 괜찮은 거야？ 이런 거 란파가 제일 좋아할 것 같은데.\n",
+      "translation": "란파, 다들과 같이 안 가도 괜찮은 거야? 이런 거 란파가 제일 좋아할 것 같은데.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4771,7 +4771,7 @@
         "voice": "GC260312.ogg"
       },
       "original": "お礼？",
-      "translation": "사례？",
+      "translation": "감사?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4813,7 +4813,7 @@
         "voice": "GC260313.ogg"
       },
       "original": "ああ、オレたちのダンスが見たいっていう、あれかい？",
-      "translation": "아아, 우리들의 댄스를 보고 싶다는 그거？\n",
+      "translation": "아아, 우리 댄스를 보고 싶다는 그거?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4861,7 +4861,7 @@
         "voice": "GC260314.ogg"
       },
       "original": "気にしない気にしない。フォローのひとつもできないで、恋人なんてやってられないさ。",
-      "translation": "신경 쓰지 마, 신경 쓰지 마. 서포트 하나 못 해주면서 연인 노릇은 못 하지.\n",
+      "translation": "신경 쓰지 마. 챙겨주는 것 하나 못 해서야 연인 노릇 못 하지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4885,7 +4885,7 @@
         "voice": "GC260315.ogg"
       },
       "original": "うんうん、アタシはいい恋人を持ったよ。お姉ちゃん嬉しくって涙が出るよ～。",
-      "translation": "응응, 나는 좋은 연인을 얻었어. 언니는 기뻐서 눈물이 날 것 같아～\n",
+      "translation": "응응, 난 좋은 연인을 뒀어. 누나는 기뻐서 눈물이 날 것 같아～\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4909,7 +4909,7 @@
         "voice": "GC260315.ogg"
       },
       "original": "そこ、変なキャラ作らない。",
-      "translation": "거기서 딴소리 하지 마.",
+      "translation": "이상한 캐릭터는 그만.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4927,7 +4927,7 @@
         "voice": "GC260315.ogg"
       },
       "original": "……ひょっとして落ち込んでる？",
-      "translation": "……혹시 낙담하고 있어？\n",
+      "translation": "……혹시 낙담하고 있어?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4945,7 +4945,7 @@
         "voice": "GC260316.ogg"
       },
       "original": "……ん、ちょっと。",
-      "translation": "……아니, 조금.\n",
+      "translation": "……응, 조금.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4987,7 +4987,7 @@
         "voice": "GC260318.ogg"
       },
       "original": "ただ、アタシってつくづくダンスに縁がないなあ……って思っただけ。",
-      "translation": "그냥, 나는 정말 춤이랑 인연이 없구나……라고 생각했을 뿐.\n",
+      "translation": "그냥, 난 정말 춤과는 인연이 없구나…… 싶었을 뿐이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5011,7 +5011,7 @@
         "voice": "GC260318.ogg"
       },
       "original": "えっ？",
-      "translation": "엣？",
+      "translation": "엣?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5059,7 +5059,7 @@
         "voice": "GC260320.ogg"
       },
       "original": "まさか、靴ズレで踊れなくなるなんて、一生の不覚だったわ……。",
-      "translation": "설마 신발 때문에 못 춤추게 될 줄이야, 평생의 불행이었어…….\n",
+      "translation": "설마 신발에 쓸려 춤을 못 추다니, 평생의 불찰이었어…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5107,7 +5107,7 @@
         "voice": "GC260321.ogg"
       },
       "original": "誰もいない場所でふたりっきりでね。",
-      "translation": "아무도 없는 곳에서 둘이서만말이야.",
+      "translation": "아무도 없는 데서 둘이서만 말이야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5317,7 +5317,7 @@
         "voice": "GC260326.ogg"
       },
       "original": "今度はなんだい？",
-      "translation": "이번엔 또 뭐야？",
+      "translation": "이번엔 또 뭐야?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5359,7 +5359,7 @@
         "voice": "GC260327.ogg"
       },
       "original": "ど、どうしてさ！？",
-      "translation": "왜, 왜 그래！？\n",
+      "translation": "왜, 왜 그래!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5401,7 +5401,7 @@
         "voice": "GC260328.ogg"
       },
       "original": "待ってよ、ランファ。なんだい、それは！オレ、なんか君にまずいことでもしたか！？",
-      "translation": "기다려, 란파. 뭐야, 그건！ 나, 너한테 뭐 잘못한 거라도 있어！？",
+      "translation": "기다려, 란파. 뭐야, 그건! 나, 너한테 뭐 잘못한 거라도 있어!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5449,7 +5449,7 @@
         "voice": "GC260329.ogg"
       },
       "original": "えっ？　し、しまった……！",
-      "translation": "엣？ 아, 아차……！",
+      "translation": "엣? 아, 아차……!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5467,7 +5467,7 @@
         "voice": "GC260330.ogg"
       },
       "original": "ああ、もう、ダメエェェェェェェェェェェッ！",
-      "translation": "아아, 정말, 안 돼에에에에에에에에엥！\n",
+      "translation": "아아, 정말, 안 돼에에에에에에에에엣!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5485,7 +5485,7 @@
         "voice": "GC260330.ogg"
       },
       "original": "へぎゅっ！",
-      "translation": "헤귯！\n",
+      "translation": "헤귯!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5527,7 +5527,7 @@
         "voice": "GC260331.ogg"
       },
       "original": "いでででで……だから、どういうことなんだってば？",
-      "translation": "아야야야야…… 그래서, 대체 무슨 소리냐니까？",
+      "translation": "아야야야야…… 그래서, 대체 무슨 소리냐니까?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5671,7 +5671,7 @@
         "voice": "GC260335.ogg"
       },
       "original": "だって……タクトの顔見てると、好きがあふれて触れたくなっちゃうんだもん……。",
-      "translation": "왜냐하면… 택트의 얼굴을 보고 있으면,좋아함이넘쳐나서만지고싶어지니까…….",
+      "translation": "왜냐면…… 택트 얼굴을 보면 좋아서 만지고 싶어지니까…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5713,7 +5713,7 @@
         "voice": "GC260336.ogg"
       },
       "original": "タクトは……違うの？",
-      "translation": "택트는…… 아니야？",
+      "translation": "택트는…… 아니야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5731,7 +5731,7 @@
         "voice": "GC260336.ogg"
       },
       "original": "あうっ……！　そ、それはもちろんオレだって……。",
-      "translation": "아윽……！ 그, 그건 물론 나도…….",
+      "translation": "아윽……! 그, 그건 물론 나도…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5791,7 +5791,7 @@
         "voice": "GC260339.ogg"
       },
       "original": "よかった、そう思うのがアタシだけじゃなくって。",
-      "translation": "다행이다,그렇게 생각하는 게 나뿐만이아니라서.",
+      "translation": "다행이다, 나만 그렇게 생각한 게 아니라서.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5941,7 +5941,7 @@
         "voice": "GC260342.ogg"
       },
       "original": "げっ、レスター！？　おまえ、もしかして今の話……。",
-      "translation": "게엑, 레스터！？ 너, 혹시 방금 이야기…….",
+      "translation": "게엑, 레스터!? 너, 혹시 방금 이야기…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5989,7 +5989,7 @@
         "voice": "GC260343.ogg"
       },
       "original": "そ、そうかい？　じゃあ、オレはこのへんで失礼をば……。",
-      "translation": "그, 그래？ 그럼 난 이만 실례를…….",
+      "translation": "그, 그래? 그럼 난 이만 실례를…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6013,7 +6013,7 @@
         "voice": "GC260344.ogg"
       },
       "original": "はっはっは、俺が逃がすと思うか、『総司令官』？　さあ、やることがなくなったのなら仕事だ仕事。",
-      "translation": "핫하하, 내가 놓아줄 것 같나, 『총사령관』？ 자, 할 일이 없어졌다면 일이다, 일.",
+      "translation": "핫하하, 내가 놓아줄 것 같나, 『총사령관』? 자, 할 일이 없어졌다면 일이다, 일.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6139,7 +6139,7 @@
         "voice": "GC260345.ogg"
       },
       "original": "よし、ついにこの日が来た！",
-      "translation": "좋아, 드디어 이 날이왔다！",
+      "translation": "좋아, 드디어 이날이 왔다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6187,7 +6187,7 @@
         "voice": "GC260345.ogg"
       },
       "original": "辛く切なく寂しい日々だったなあ……。",
-      "translation": "괴롭고 애틋하고외로운나날이었지…….",
+      "translation": "괴롭고 애달프고 외로웠지…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6205,7 +6205,7 @@
         "voice": "GC260345.ogg"
       },
       "original": "しかし、それも今日までのこと！",
-      "translation": "하지만, 그것도 오늘까지！",
+      "translation": "하지만 그것도 오늘까지!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6289,7 +6289,7 @@
         "voice": "GC260345.ogg"
       },
       "original": "それでは、いざパーティー会場へ！",
-      "translation": "그럼, 자, 파티 회장으로！",
+      "translation": "그럼, 파티 회장으로!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6307,7 +6307,7 @@
         "voice": "GC260345.ogg"
       },
       "original": "今行くよ、ランファ！",
-      "translation": "지금 갈게, 란파！",
+      "translation": "지금 갈게, 란파!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6349,7 +6349,7 @@
         "voice": "GC260345.ogg"
       },
       "original": "さて、そんなことよりもランファは……と。",
-      "translation": "자, 그런 것보다 란파는…… 라고.",
+      "translation": "자, 그런 것보다 란파는…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6385,7 +6385,7 @@
         "voice": "GC260400.ogg"
       },
       "original": "ランファ！？　……じゃなくって、ミルフィーか。",
-      "translation": "란파！？ ……가 아니라, 밀피인가.",
+      "translation": "란파!? ……가 아니라, 밀피인가.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6409,7 +6409,7 @@
         "voice": "GC260401.ogg"
       },
       "original": "もう、タクトさんってば。その露骨な態度はちょっと失礼じゃないですか？",
-      "translation": "정말, 택트 씨도 참. 그 노골적인 태도는 좀 실례 아닌가요？",
+      "translation": "정말, 택트 씨도 참. 그 노골적인 태도는 좀 실례 아닌가요?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6433,7 +6433,7 @@
         "voice": "GC260401.ogg"
       },
       "original": "ごめんごめん。で、それがいただいたドレスかい？　よく似合ってるよ。",
-      "translation": "미안 미안. 그래서, 그게 받은 드레스야？ 잘 어울려.\n",
+      "translation": "미안 미안. 그래서, 그게 받은 드레스야? 잘 어울려.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6481,7 +6481,7 @@
         "voice": "GC260402.ogg"
       },
       "original": "ミ、ミルフィーってば～。",
-      "translation": "미, 밀피쨩～\n",
+      "translation": "미, 밀피도 참～.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6703,7 +6703,7 @@
         "voice": "GC160714.ogg"
       },
       "original": "わ、私は別にそのような……！",
-      "translation": "저, 저는 딱히 그런 게……！\n",
+      "translation": "저, 저는 딱히 그런 게……!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6823,7 +6823,7 @@
         "voice": "GC260408.ogg"
       },
       "original": "そうなんですか？",
-      "translation": "그런가요？",
+      "translation": "그런가요?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6865,7 +6865,7 @@
         "voice": "GC260410.ogg"
       },
       "original": "はっ！？　これはもしや刺客では！？",
-      "translation": "핫！？ 이건 혹시 자객인가！？",
+      "translation": "핫!? 이건 혹시 자객인가!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6931,7 +6931,7 @@
         "voice": "GC260413.ogg"
       },
       "original": "事実を認めないのは、愚行ですもの。",
-      "translation": "사실을 부정하는 건,어리석은일이죠.",
+      "translation": "사실을 부정하는 건 어리석죠.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7021,7 +7021,7 @@
         "voice": "GC260415.ogg"
       },
       "original": "ど、どうして！？　まさか、ランファの身になにか……！",
-      "translation": "어, 어째서！？ 설마 란파에게 무슨 일이……！",
+      "translation": "어, 어째서!? 설마 란파에게 무슨 일이……!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7117,7 +7117,7 @@
         "voice": "GC260419.ogg"
       },
       "original": "いいじゃありませんか。久しぶりにタクトさんに会えるとかで、その喜びようったら、私まで嬉しくなってしまったほどです。",
-      "translation": "좋지 않습니까. 오랜만에 택트 씨를 만난다는 생각에 너무 기뻐서, 저까지 즐거워질 정도였다고요.",
+      "translation": "좋지 않습니까. 오랜만에 택트 씨를 만난다며 얼마나 기뻐하던지, 저까지 기뻐질 정도였다고요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7255,7 +7255,7 @@
         "voice": "GC160726.ogg"
       },
       "original": "通路の真ん中で、何やってるのよ？　ハッキリ言って邪魔よ。",
-      "translation": "통로 한가운데서 뭐 하는 거야？ 솔직히 방해돼.\n",
+      "translation": "통로 한가운데서 뭐 하는 거야? 솔직히 방해돼.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7279,7 +7279,7 @@
         "voice": "GC160726.ogg"
       },
       "original": "えっ？　あっ、君は……。",
-      "translation": "엣？ 아, 너는…….",
+      "translation": "엣? 아, 너는…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7315,7 +7315,7 @@
         "voice": "GC160728.ogg"
       },
       "original": "何よ？　あたしが来たらまずいの？",
-      "translation": "뭐야？ 내가 오면 곤란해？\n",
+      "translation": "뭐야? 내가 오면 곤란해?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7333,7 +7333,7 @@
         "voice": "GC160729.ogg"
       },
       "original": "いえ、そのような……！　ただ、ノアさんがこのような場所にいらっしゃるなんて……。",
-      "translation": "아니요, 그런 게 아니라……！ 다만 노아 씨가 이런 장소에 계시다니…….\n",
+      "translation": "아니요, 그런 게 아니라……! 다만 노아 씨가 이런 장소에 계시다니…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7381,7 +7381,7 @@
         "voice": "GC260422.ogg"
       },
       "original": "それでは、なぜいらしたんですの？　タクトさんや私どもに、何かご用件でも？",
-      "translation": "그렇다면, 왜 오신 건가요？ 택트 씨나 저희에게 무슨 용건이라도？",
+      "translation": "그렇다면, 왜 오신 건가요? 택트 씨나 저희에게 무슨 용건이라도?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7477,7 +7477,7 @@
         "voice": "GC160734.ogg"
       },
       "original": "調査が芳しくないってのは、どういうことだい？",
-      "translation": "조사가 잘 안 된다는 게 무슨 뜻이야？\n",
+      "translation": "조사가 잘 안 된다는 게 무슨 뜻이야?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7603,7 +7603,7 @@
         "voice": "GC160739.ogg"
       },
       "original": "強引にでも、情報を引っ張り出せないのかい？",
-      "translation": "강제로라도 정보를 빼낼 수는 없는 거야？\n",
+      "translation": "강제로라도 정보를 빼낼 수는 없는 거야?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7657,7 +7657,7 @@
         "voice": "GC160742.ogg"
       },
       "original": "そもそも、力ずくで情報が引き出せるなら、『ヴァル・ファスク』だって、ルシャーティという管理者を必要としなかったでしょ？",
-      "translation": "애초에 힘으로 정보를 뽑아낼 수 있다면, 『발・파스크』도 루샤티라는 관리자를 필요로 하지 않았겠지？\n",
+      "translation": "애초에 힘으로 정보를 뽑아낼 수 있다면, 『발・파스크』도 루샤티라는 관리자를 필요로 하지 않았겠지?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7705,7 +7705,7 @@
         "voice": "GC160744.ogg"
       },
       "original": "そんなわけで、タクトにもうひとつ宿題。７番機とクロノ・ブレイク・キャノンはもとより、ルシャーティも必ず救助するのよ。",
-      "translation": "그런 이유로 택트에게 숙제 하나 더. ７번기와 크로노・브레이크・캐논은 물론이고, 루샤티도 반드시 구출해야 해.\n",
+      "translation": "그런 이유로 택트에게 숙제 하나 더. 7번기와 크로노・브레이크・캐논은 물론이고, 루샤티도 반드시 구출해야 해.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7783,7 +7783,7 @@
         "voice": "GC160746.ogg"
       },
       "original": "あたしも今、クロノ・クェイクのかわりに、Ｈ．Ａ．Ｌ．Ｏ．関連を優先的に調べてるから。",
-      "translation": "나도 지금 크로노・퀘이크 대신 Ｈ.Ａ.Ｌ.Ｏ. 관련을 우선적으로 조사하고 있으니까.\n",
+      "translation": "나도 지금 크로노・퀘이크 대신 H.A.L.O. 관련을 우선적으로 조사하고 있으니까.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7813,7 +7813,7 @@
         "voice": "GC260424.ogg"
       },
       "original": "Ｈ．Ａ．Ｌ．Ｏ．を？",
-      "translation": "Ｈ.Ａ.Ｌ.Ｏ.를？\n",
+      "translation": "H.A.L.O.를?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7831,7 +7831,7 @@
         "voice": "GC260425.ogg"
       },
       "original": "ええ。まずはランファをなんとかしてみせるわ。それだけで、こっちの戦力は格段に上がるわけだし。",
-      "translation": "그래. 우선은 란파를 어떻게든 해 보겠어. 그것만으로도 이쪽 전력은 격상될 테니까.",
+      "translation": "그래. 우선은 란파를 어떻게든 해 보겠어. 그것만으로도 이쪽 전력이 크게 올라갈 테니까.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7909,7 +7909,7 @@
         "voice": "GC160751.ogg"
       },
       "original": "あれなら、完全復活と言えると思いますが。",
-      "translation": "그 정도라면완전부활이라할수있겠습니다만.",
+      "translation": "그 정도면 완전 부활이라 봐도 되겠는데요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7927,7 +7927,7 @@
         "voice": "GC260427.ogg"
       },
       "original": "ふ～ん。そういうことなら、あたしはそれでも別に構わないけど……困る人間もいるんじゃないかしら？　おもにプライベートで。",
-      "translation": "흐음. 그렇다면 난 상관없지만…… 곤란해하는 사람도 있지 않을까？ 주로 사적인 면에서 말이야.",
+      "translation": "흐～음. 그렇다면 난 상관없지만…… 곤란해하는 사람도 있지 않을까? 주로 사적인 면에서 말이야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7999,7 +7999,7 @@
         "voice": "GC260429.ogg"
       },
       "original": "ところで、困る人間のもう片割れはどうしたの？　この中じゃ、一番こういうイベントが好きそうなのに。",
-      "translation": "그건 그렇고, 곤란해하는 나머지 한 명은？ 이 중에 이런 이벤트 제일 좋아할 것 같은데.",
+      "translation": "그건 그렇고, 곤란해하는 나머지 한 명은? 이 중에 이런 이벤트를 제일 좋아할 것 같은데.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8047,7 +8047,7 @@
         "voice": "GC260430.ogg"
       },
       "original": "準備に手間取っています……。",
-      "translation": "준비가 늦어지고있습니다…….",
+      "translation": "준비가 늦어졌습니다…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8089,7 +8089,7 @@
         "voice": "GC260432.ogg"
       },
       "original": "ふ～ん。本当にあんたたちって、不自然なまでに自分を飾り立てるのが好きよね。",
-      "translation": "흐음. 정말 너희는 부자연스러울 정도로 자신을 치장하는 걸 좋아하네.",
+      "translation": "흐～음. 정말 너희는 부자연스러울 정도로 자신을 치장하는 걸 좋아하네.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8275,7 +8275,7 @@
         "voice": "GC260438.ogg"
       },
       "original": "あれ、もう戻っちゃうのかい？",
-      "translation": "어라, 벌써 돌아가는 거야？",
+      "translation": "어라, 벌써 돌아가는 거야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8311,7 +8311,7 @@
         "voice": "GC260440.ogg"
       },
       "original": "もう少し休まれた方がよろしいのでは？",
-      "translation": "조금 더 쉬시는 게 좋지 않을까요？",
+      "translation": "조금 더 쉬시는 게 좋지 않을까요?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8407,7 +8407,7 @@
         "voice": "GC260444.ogg"
       },
       "original": "きっと、ランファ先輩のタクトさんへの一途な愛がノアさんに火をつけたんでしょうね。",
-      "translation": "분명,란파 선배의 택트 씨를 향한 일편단심인 사랑이 노아 씨에게 불을 지핀 거겠죠.",
+      "translation": "분명, 란파 선배의 택트 씨를 향한 일편단심인 사랑이 노아 씨에게 불을 지핀 거겠죠",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8479,7 +8479,7 @@
         "voice": "GC260445.ogg"
       },
       "original": "けど、ランファのために頑張ってくれるその気持ちは嬉しいよ。",
-      "translation": "하지만 란파를 위해 노력해 주는 그 마음은 기뻐.",
+      "translation": "하지만 란파를 위해 애써 주는 그 마음은 고마워.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8629,7 +8629,7 @@
         "voice": "GC260449.ogg"
       },
       "original": "そうかい？　じゃあ、遠慮無く楽しませてもらうとするかね。",
-      "translation": "그래？ 그럼 사양 않고 즐기도록 하지.\n",
+      "translation": "그래? 그럼 사양 않고 즐기도록 하지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8725,7 +8725,7 @@
         "voice": "GC260453.ogg"
       },
       "original": "本当？　それじゃ、ちとせもヴァニラも一緒にいこうよ。",
-      "translation": "정말？ 그럼 치토세랑 바닐라도 같이 가자.\n",
+      "translation": "정말? 그럼 치토세랑 바닐라도 같이 가자.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8749,7 +8749,7 @@
         "voice": "GC260454.ogg"
       },
       "original": "はいっ！",
-      "translation": "네！",
+      "translation": "네!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8917,7 +8917,7 @@
         "voice": "GC260458.ogg"
       },
       "original": "えっ？",
-      "translation": "엣？",
+      "translation": "엣?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9085,7 +9085,7 @@
         "voice": "GC260463.ogg"
       },
       "original": "それよりも、フランボワーズの姿がないようだが？　もしや、来ていないのではあるまいな？",
-      "translation": "그보다, 란파의 모습이 보이지 않는데？ 혹시 오지 않은 건 아니겠지？\n",
+      "translation": "그보다, 프랑부아즈의 모습이 보이지 않는데? 혹시 오지 않은 건 아니겠지?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9157,7 +9157,7 @@
         "voice": "GC260464.ogg"
       },
       "original": "シヴァ様？",
-      "translation": "시바 님？",
+      "translation": "시바 님?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9175,7 +9175,7 @@
         "voice": "GC260465.ogg"
       },
       "original": "いや、先日の失言で、フランボワーズを傷つけてしまったかと思ってな……。",
-      "translation": "아니, 지난번의 실언으로 란파를 상처 입힌 건 아닌가 해서 말이지…….\n",
+      "translation": "아니, 지난 실언으로 프랑부아즈에게 상처 줬나 해서…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9199,7 +9199,7 @@
         "voice": "GC260466.ogg"
       },
       "original": "それが原因でフランボワーズが姿を見せないのであれば、私はそなたにあわせる顔がないではないか。",
-      "translation": "그것 때문에 란파가 나타나지 않는 것이라면, 내가 그대를 어떻게 볼 수 있겠느냐.\n",
+      "translation": "그것 때문에 프랑부아즈가 나타나지 않는 것이라면, 내가 그대를 어떻게 볼 수 있겠느냐.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9319,7 +9319,7 @@
         "voice": "GC260467.ogg"
       },
       "original": "……なるほど、確かにそれはフランボワーズらしい。",
-      "translation": "……과연, 확실히 란파답군.\n",
+      "translation": "……과연, 확실히 프랑부아즈답군.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9367,7 +9367,7 @@
         "voice": "GC260468.ogg"
       },
       "original": "ふふふ、わかったわかった。私が悪かったから、それ以上のろけるのはやめてくれ。",
-      "translation": "후후후, 알았다 알았어. 내가 잘못했으니 더 이상 투정 부리지는 말아다오.\n",
+      "translation": "후후후, 알았다 알았어. 내가 잘못했으니 더 이상 애정 자랑은 그만해다오.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9439,7 +9439,7 @@
         "voice": "GC260470.ogg"
       },
       "original": "それでは私もそなたにならって、美しく着飾ったフランボワーズを待つとするか。",
-      "translation": "그럼 나도 그대를 따라, 아름답게 차려입은 란파를 기다리도록 할까.\n",
+      "translation": "그럼 나도 그대를 따라, 아름답게 차려입은 프랑부아즈를 기다리도록 할까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9463,7 +9463,7 @@
         "voice": "GC260500.ogg"
       },
       "original": "……む？　何やら会場の入り口の方が騒がしいようだが……。",
-      "translation": "……음？ 왠지 회장 입구 쪽이 소란스러운 것 같은데…….\n",
+      "translation": "……음? 왠지 회장 입구 쪽이 소란스러운 것 같은데…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9547,7 +9547,7 @@
         "voice": "GC260503.ogg"
       },
       "original": "誰だ、あの美女は……？",
-      "translation": "누구지, 저미녀는……？",
+      "translation": "누구지, 저 미녀는……?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9565,7 +9565,7 @@
         "voice": "GC260504.ogg"
       },
       "original": "人込みが割れたぞ、マイヤーズ。あそこにいるのは……女性か？",
-      "translation": "인파가 갈라졌다, 마이어스. 저기 있는 건…… 여성인가？\n",
+      "translation": "인파가 갈라졌다, 마이어스. 저기 있는 건…… 여성인가?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9655,7 +9655,7 @@
         "voice": "GC260506.ogg"
       },
       "original": "よく参った、フランボワーズ。しかし、それにしても……。",
-      "translation": "잘 왔다, 란파. 하지만 그건 그렇고…….\n",
+      "translation": "잘 왔다, 프랑부아즈. 하지만 그건 그렇고…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9679,7 +9679,7 @@
         "voice": "GC260507.ogg"
       },
       "original": "はい？",
-      "translation": "네？",
+      "translation": "네?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9715,7 +9715,7 @@
         "voice": "GC260508.ogg"
       },
       "original": "タ、タクト……。",
-      "translation": "택, 택트…….\n",
+      "translation": "태, 택트…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9793,7 +9793,7 @@
         "voice": "GC260510.ogg"
       },
       "original": "まったく、あれほどの騒ぎになるわけだ。私から見ても、そなたは花のようにどこまでも可憐だ。",
-      "translation": "정말이지, 이 정도 소란이 일어날 만하군. 내가 보기에도 그대는 꽃처럼 가련하다.\n",
+      "translation": "정말이지, 이 정도 소란이 일어날 만하군. 내가 보기에도 그대는 꽃처럼 사랑스럽다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9901,7 +9901,7 @@
         "voice": "GC260513.ogg"
       },
       "original": "でも……本当に、君はオレにはもったいないかもね。",
-      "translation": "하지만… 정말로 너는 나에게과분할지도모르겠어.",
+      "translation": "하지만…… 정말 넌 나한테 과분할지도 모르겠어.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10069,7 +10069,7 @@
         "voice": "GC260518.ogg"
       },
       "original": "よい、冗談だ。そなたらの仲睦まじい姿が、私は大好きだ。",
-      "translation": "됐다,농담이다. 너희들의 다정한 모습이 나는 참 좋구나.",
+      "translation": "됐다, 농담이다. 너희의 다정한 모습이 나는 참 좋구나.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10135,7 +10135,7 @@
         "voice": "GC260521.ogg"
       },
       "original": "ではな。そなたらは、存分に楽しむといい。",
-      "translation": "그럼 이만. 너희들은 마음껏 즐기도록해라.",
+      "translation": "그럼 이만. 너희는 마음껏 즐기도록 해라.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10201,7 +10201,7 @@
         "voice": "GC260523.ogg"
       },
       "original": "そういえばタクト、シヴァ陛下と何を話してたの？",
-      "translation": "그러고 보니 택트, 시바폐하와무슨이야기를했어？",
+      "translation": "그러고 보니 택트, 시바 폐하와 무슨 얘기 했어?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10243,7 +10243,7 @@
         "voice": "GC260524.ogg"
       },
       "original": "アタシの？",
-      "translation": "내이야기？",
+      "translation": "내 얘기?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10291,7 +10291,7 @@
         "voice": "GC260524.ogg"
       },
       "original": "だからかな、ランファが来るまで、ずっとオレの相手をしてくれてたんだ。",
-      "translation": "그래서일까, 란파가 올 때까지 계속 내 상대방을 해 주셨던 거야.\n",
+      "translation": "그래서일까, 란파가 올 때까지 계속 내 말동무가 되어 주셨던 거야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10387,7 +10387,7 @@
         "voice": "GC260526.ogg"
       },
       "original": "もう、アタシはちゃんと言ったでしょ？　ドレス姿に期待してなさい、って。",
-      "translation": "정말, 내가 분명히 말했지？ 드레스 차림을 기대하고 있으라고.\n",
+      "translation": "정말, 내가 분명히 말했지? 드레스 차림을 기대하고 있으라고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10447,7 +10447,7 @@
         "voice": "GC260528.ogg"
       },
       "original": "……あら？",
-      "translation": "……어라？\n",
+      "translation": "……어라?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10567,7 +10567,7 @@
         "voice": "GC260531.ogg"
       },
       "original": "ぷっ。なんなの、それ。もしかしてシャレのつもりだとか？",
-      "translation": "풉. 뭐야 그게. 설마 농담이야？\n",
+      "translation": "풉. 뭐야 그게. 설마 농담이야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10591,7 +10591,7 @@
         "voice": "GC260531.ogg"
       },
       "original": "いやいや、ホントにいいにおいがするよ。これは、香水かな？",
-      "translation": "아니아니, 정말로 좋은 향기가 나. 이건 향수인가？\n",
+      "translation": "아니아니, 정말로 좋은 향기가 나. 이건 향수인가?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10615,7 +10615,7 @@
         "voice": "GC260532.ogg"
       },
       "original": "ぴんぽーん。ええ、フォルテさんに借りたの。どう、悪くないでしょ？",
-      "translation": "딩동댕. 응, 포르테 씨에게 빌린 거야. 어때, 나쁘지 않지？\n",
+      "translation": "딩동댕. 응, 포르테 씨에게 빌린 거야. 어때, 나쁘지 않지?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10687,7 +10687,7 @@
         "voice": "GC260533.ogg"
       },
       "original": "ふ～ん、ダンス自体は、トランスバールもＥＤＥＮもそう変わりないのね。",
-      "translation": "흐음, 댄스 자체는 트랜스벌이나 EDEN이나 별 차이 없네.\n",
+      "translation": "흐～음, 댄스 자체는 트랜스벌이나 EDEN이나 별 차이 없네.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10711,7 +10711,7 @@
         "voice": "GC260534.ogg"
       },
       "original": "でも、ファーゴの舞踏会の時よりも、なんかみんな楽しそうに見えるわ。",
-      "translation": "하지만 파고의 무도회 때보다 다들 즐거워 보여.\n",
+      "translation": "하지만 파르고의 무도회 때보다 다들 즐거워 보여.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10735,7 +10735,7 @@
         "voice": "GC260534.ogg"
       },
       "original": "まあ、ファーゴの時とは少しばかり事情が異なるからね。",
-      "translation": "뭐, 파고 때와는 사정이 조금 다르니까 말이야.\n",
+      "translation": "뭐, 파르고 때와는 사정이 조금 다르니까 말이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10759,7 +10759,7 @@
         "voice": "GC260535.ogg"
       },
       "original": "事情？",
-      "translation": "사정？\n",
+      "translation": "사정?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10807,7 +10807,7 @@
         "voice": "GC260535.ogg"
       },
       "original": "そういった関係で、出席者にもどこか打算めいたものを感じられただろ？",
-      "translation": "그런 관계 때문에 참석자들에게도 어딘가 계산된 느낌을 받았었지？\n",
+      "translation": "그런 관계 때문에 참석자들에게도 어딘가 계산된 느낌을 받았었지?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11047,7 +11047,7 @@
         "voice": "GC260540.ogg"
       },
       "original": "どうかした、ランファ？",
-      "translation": "왜 그래, 란파？\n",
+      "translation": "왜 그래, 란파?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11083,7 +11083,7 @@
         "voice": "GC260542.ogg"
       },
       "original": "……それよりタクト。さっきから、何か視線を感じない？",
-      "translation": "……그보다 택트. 아까부터 시선이 느껴지지 않아？",
+      "translation": "……그보다 택트. 아까부터 시선이 느껴지지 않아?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11107,7 +11107,7 @@
         "voice": "GC260542.ogg"
       },
       "original": "視線？　そういえば……。",
-      "translation": "시선？ 그러고 보니…….\n",
+      "translation": "시선? 그러고 보니…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11155,7 +11155,7 @@
         "voice": "GC260545.ogg"
       },
       "original": "ア、アタシだって！",
-      "translation": "나, 나도 말이야！\n",
+      "translation": "나, 나도 말이야!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11173,7 +11173,7 @@
         "voice": "GC260545.ogg"
       },
       "original": "じゃあ、なんでだろ……ん？　こっちを見てなんか言ってる……。",
-      "translation": "그럼 왜일까…… 응？ 이쪽을 보며 뭐라고 말하고 있어…….\n",
+      "translation": "그럼 왜일까…… 응? 이쪽을 보며 뭐라고 말하고 있어…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11197,7 +11197,7 @@
         "voice": "GC260546.ogg"
       },
       "original": "マイヤーズ司令はいつ踊られるのかな？",
-      "translation": "마이어스사령관님은언제쯤춤을추실까？",
+      "translation": "마이어스 사령관은 언제쯤 춤추실까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11233,7 +11233,7 @@
         "voice": "GC260548.ogg"
       },
       "original": "隣にいるのはエンジェル隊のメンバーで、なんでもマイヤーズ司令の恋人だそうだ。",
-      "translation": "옆에 있는 건 엔젤대 멤버로, 마이어스 사령관님의 연인이라고 하더군.\n",
+      "translation": "옆에 있는 건 엔젤대 멤버로, 마이어스 사령관의 연인이라고 하더군.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11353,7 +11353,7 @@
         "voice": "GC260553.ogg"
       },
       "original": "えっ？",
-      "translation": "엣？",
+      "translation": "엣?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11371,7 +11371,7 @@
         "voice": "GC260554.ogg"
       },
       "original": "ダンスが終わったぐらいにまた戻ってくるから……それじゃ！",
-      "translation": "댄스가 끝날 때쯤 다시 돌아올 테니까…… 그럼！\n",
+      "translation": "댄스가 끝날 때쯤 다시 돌아올 테니까…… 그럼!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11395,7 +11395,7 @@
         "voice": "GC260554.ogg"
       },
       "original": "ちょ、ちょっとランファ！",
-      "translation": "잠, 잠깐 란파！\n",
+      "translation": "자, 잠깐 란파!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11413,7 +11413,7 @@
         "voice": "GC260555.ogg"
       },
       "original": "……どうしたのかしら？",
-      "translation": "……왜 그러는 걸까？\n",
+      "translation": "……왜 그러는 걸까?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11491,7 +11491,7 @@
         "voice": "GC260556.ogg"
       },
       "original": "ええい、放っておけるか！",
-      "translation": "에잇, 내버려 둘 수없지！",
+      "translation": "에잇, 내버려 둘 수 없지!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11509,7 +11509,7 @@
         "voice": "GC260556.ogg"
       },
       "original": "待ってくれ、ランファ～！",
-      "translation": "기다려 줘, 란파～！\n",
+      "translation": "기다려 줘, 란파～!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11527,7 +11527,7 @@
         "voice": "GC260556.ogg"
       },
       "original": "踊れない寂しさに沈むランファ",
-      "translation": "춤을 못 추는외로움에잠긴란파",
+      "translation": "춤 못 춰 외로운 란파",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11611,7 +11611,7 @@
         "voice": "GC260556.ogg"
       },
       "original": "……ん？　クンクン……なんだろう、この甘いにおいは……？　確か、どこかで……。",
-      "translation": "……응？ 킁킁…… 뭘까, 이 달콤한 향기는……？ 분명 어디선가…….\n",
+      "translation": "……응? 킁킁…… 뭘까, 이 달콤한 향기는……? 분명 어디선가…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11743,7 +11743,7 @@
         "voice": "GC260601.ogg"
       },
       "original": "ランファ！",
-      "translation": "란파！\n",
+      "translation": "란파!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11761,7 +11761,7 @@
         "voice": "GC260602.ogg"
       },
       "original": "だ、誰！？",
-      "translation": "누구！？",
+      "translation": "누구!?",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [
@@ -11821,7 +11821,7 @@
         "voice": "GC260603.ogg"
       },
       "original": "そのため息……さっきまでのは、やっぱりお得意のカラ元気だったのかい？",
-      "translation": "그 한숨…… 아까 전까지의 건, 역시 억지스러운 기운이었던 거야？\n",
+      "translation": "그 한숨…… 아까까지 억지로 밝은 척한 거였어?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11995,7 +11995,7 @@
         "voice": "GC260609.ogg"
       },
       "original": "閉じこめてた気持ち？",
-      "translation": "억눌렀던 마음？\n",
+      "translation": "억눌렀던 마음?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12013,7 +12013,7 @@
         "voice": "GC260610.ogg"
       },
       "original": "前に言ったでしょ？　みんなの前でタクトと踊って、思いっきり見せつけたかった……って。",
-      "translation": "전에 말했잖아？ 모두 앞에서 택트와 춤추며, 마음껏 보여주고 싶었다고…….\n",
+      "translation": "전에 말했잖아? 모두 앞에서 택트와 춤추며, 마음껏 보여주고 싶었다고…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12229,7 +12229,7 @@
         "voice": "GC260616.ogg"
       },
       "original": "……いいんだよ、甘えても。どんなに甘えられても、オレは平気だよ。",
-      "translation": "……괜찮아, 응석 부려도. 아무리 응석을 받아줘도, 난 괜찮으니까.\n",
+      "translation": "……괜찮아, 응석 부려도. 아무리 응석 부려도 난 괜찮아.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12253,7 +12253,7 @@
         "voice": "GC260617.ogg"
       },
       "original": "ううう～～～～～……ダ、ダメ！　ガマンよ！タクトが傷つく姿を見るのは、やっぱりもうイヤだもん！",
-      "translation": "으으으～～～～～…… 안, 안 돼！ 참아야 해！ 택트가 상처받는 모습은 역시 이제 싫단 말이야！\n",
+      "translation": "으으으～～～～～…… 아, 안 돼! 참아야 해! 택트가 상처받는 모습은 이제 싫단 말이야!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12307,7 +12307,7 @@
         "voice": "GC260618.ogg"
       },
       "original": "ううん、ダメ！　ここまで抑圧されたアタシの愛は、もう、そのぐらいの肉体改造じゃ受け止めきれないんだから！",
-      "translation": "아니, 안 돼！ 이만큼 억눌린 내 사랑은, 이제 그 정도의 육체 개조로는 다 받아낼 수 없단 말이야！\n",
+      "translation": "아니, 안 돼! 이만큼 억눌린 내 사랑은 이제 그 정도 육체 개조로는 다 받아낼 수 없단 말이야!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12361,7 +12361,7 @@
         "voice": "GC260619.ogg"
       },
       "original": "あ、あはは……と、いうことは、やっぱり、７番機を取り返すしかないってことか。",
-      "translation": "아, 아하하…… 그렇다는 건, 역시 ７호기를 되찾는 수밖에 없다는 건가.\n",
+      "translation": "아, 아하하…… 그렇다는 건, 역시 7번기를 되찾는 수밖에 없다는 건가.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12529,7 +12529,7 @@
         "voice": "GC260624.ogg"
       },
       "original": "ええ！",
-      "translation": "응！",
+      "translation": "응!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12619,7 +12619,7 @@
         "voice": "GC260626.ogg"
       },
       "original": "きゃあっ！",
-      "translation": "꺄악！",
+      "translation": "꺄악!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12637,7 +12637,7 @@
         "voice": "GC260626.ogg"
       },
       "original": "うわっ！",
-      "translation": "우와！\n",
+      "translation": "우와!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12655,7 +12655,7 @@
         "voice": "GC260627.ogg"
       },
       "original": "な、なんなの、今の揺れは？",
-      "translation": "뭐, 뭐야, 방금그흔들림은？",
+      "translation": "뭐, 뭐야, 이 흔들림은?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12673,7 +12673,7 @@
         "voice": "GC260627.ogg"
       },
       "original": "地震……じゃないな。ここはスカイパレス内だし。",
-      "translation": "지진…이 아니네. 여기는스카이팔레스안이니까.",
+      "translation": "지진……은 아니네. 여긴 스카이팔레스 안이니까",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -12697,7 +12697,7 @@
         "voice": "GC260628.ogg"
       },
       "original": "そういえば……揺れる直前、かすかにだけど変な音が聞こえなかった？",
-      "translation": "그러고 보니…… 흔들리기 직전,희미하게이상한소리가들리지않았어？",
+      "translation": "그러고 보니…… 흔들리기 직전에 희미하게 이상한 소리 안 들렸어?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12721,7 +12721,7 @@
         "voice": "GC260628.ogg"
       },
       "original": "特に聞こえなかったけど……変な音って、どんな？",
-      "translation": "딱히 못 들었는데…… 이상한 소리라니, 어떤거？",
+      "translation": "딱히 못 들었는데…… 이상한 소리라니, 어떤 거?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12769,7 +12769,7 @@
         "voice": "GC260629.ogg"
       },
       "original": "破裂？　……なんか、気になるな。",
-      "translation": "파열？ ……왠지 신경 쓰이네.\n",
+      "translation": "파열? ……왠지 신경 쓰이네.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12787,7 +12787,7 @@
         "voice": "GC260630.ogg"
       },
       "original": "どうしよう、タクト？",
-      "translation": "어떡하지, 택트？\n",
+      "translation": "어떡하지, 택트?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12847,7 +12847,7 @@
         "voice": "GC260632.ogg"
       },
       "original": "きゃんっ！",
-      "translation": "꺄악！\n",
+      "translation": "꺄악!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12865,7 +12865,7 @@
         "voice": "GC260632.ogg"
       },
       "original": "わあっ！",
-      "translation": "와앗！",
+      "translation": "와앗!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12907,7 +12907,7 @@
         "voice": "GC260632.ogg"
       },
       "original": "何かが破裂……いや、爆発する音が！",
-      "translation": "무언가 파열되는……아니,폭발음이！",
+      "translation": "뭔가 터지는…… 아니, 폭발음이!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12997,7 +12997,7 @@
         "voice": "GC260635.ogg"
       },
       "original": "ねえ、タクト。これって、どういうことだと思う？　事故？　それとも……。",
-      "translation": "있지, 택트. 이게 무슨 일이라고 생각해？ 사고？ 아니면…….\n",
+      "translation": "있지, 택트. 이게 무슨 일이라고 생각해? 사고? 아니면…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13063,7 +13063,7 @@
         "voice": "GC260636.ogg"
       },
       "original": "もしかして……『ヴァル・ファスク』？",
-      "translation": "설마…… 『발・파스크』？\n",
+      "translation": "설마…… 『발・파스크』?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13099,7 +13099,7 @@
         "voice": "GC260637.ogg"
       },
       "original": "でも、『ヴァル・ファスク』はＥＤＥＮから撤退したはずでしょ？　こんなこと、できるはずないじゃない。",
-      "translation": "하지만 『발・파스크』는 EDEN에서 철수했을 텐데？ 이런 일을 할 수 있을 리 없잖아.\n",
+      "translation": "하지만 『발・파스크』는 EDEN에서 철수했을 텐데? 이런 일을 할 수 있을 리 없잖아.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13177,7 +13177,7 @@
         "voice": "GC260638.ogg"
       },
       "original": "爆発の……目的？",
-      "translation": "폭발의……목적？",
+      "translation": "폭발의……목적?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13255,7 +13255,7 @@
         "voice": "GC260639.ogg"
       },
       "original": "それってつまり、一網打尽……とかいうやつ？",
-      "translation": "그 말은 즉, 일망타진……이라는 건가？\n",
+      "translation": "그 말은 즉, 일망타진……이라는 건가?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13381,7 +13381,7 @@
         "voice": "GC260641.ogg"
       },
       "original": "それで、どうするの？",
-      "translation": "그래서, 어떡할거야？",
+      "translation": "그래서, 어떡할 거야?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13441,7 +13441,7 @@
         "voice": "GC260642.ogg"
       },
       "original": "アタシだけ避難しろ……なんてことはもちろん言わないわよね？",
-      "translation": "나만 피신하라는 말은 당연히 안 하겠지？\n",
+      "translation": "나만 피신하라는 말은 당연히 안 하겠지?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13465,7 +13465,7 @@
         "voice": "GC260642.ogg"
       },
       "original": "選択肢・非常事態にランファを連れて行く？",
-      "translation": "선택지・비상사태에 란파를 데려간다？",
+      "translation": "선택지・비상사태에 란파를 데려간다?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13519,7 +13519,7 @@
         "voice": "GC260700.ogg"
       },
       "original": "危険はあると思う。でも、君に一緒に来てほしいんだ。",
-      "translation": "위험은 있을 거야. 하지만 너와 함께 있고 싶어.\n",
+      "translation": "위험하겠지만 그래도 네가 같이 와줬으면 해.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13543,7 +13543,7 @@
         "voice": "GC260701.ogg"
       },
       "original": "……どうしたんだい、ボーっとして？",
-      "translation": "……왜 그래, 멍하니 서서？",
+      "translation": "……왜 그래, 멍하니 서서?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13561,7 +13561,7 @@
         "voice": "GC260702.ogg"
       },
       "original": "えっ？　あっ、その、逃げろとか言われるかと思って……。",
-      "translation": "엣？ 아, 그게, 도망치라고 할 줄 알고…….",
+      "translation": "엣? 아, 그게, 도망치라고 할 줄 알고…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13609,7 +13609,7 @@
         "voice": "GC260703.ogg"
       },
       "original": "ホ、ホント？",
-      "translation": "정, 정말？",
+      "translation": "저, 정말?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13711,7 +13711,7 @@
         "voice": "GC260704.ogg"
       },
       "original": "この場は危険だ。ランファ、君は逃げろ！",
-      "translation": "이곳은 위험하다. 란파, 너는 도망쳐！",
+      "translation": "이곳은 위험해. 란파, 너는 도망쳐!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13771,7 +13771,7 @@
         "voice": "GC260706.ogg"
       },
       "original": "こんな状況で男も女もないでしょ！　そもそも、アタシの方がタクトより強いんだから！",
-      "translation": "이런 상황에 남녀가 어디 있어！ 애초에 내가 택트보다 강하니까！",
+      "translation": "이런 상황에 남녀가 어디 있어! 애초에 내가 택트보다 강하니까!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13837,7 +13837,7 @@
         "voice": "GC260707.ogg"
       },
       "original": "ふ～ん、タクトはアタシが邪魔なんだ……？ふ～ん、なるほど、ふ～ん。",
-      "translation": "흐음, 택트는 내가 방해된다는 거야……？ 흐음, 그렇구나, 그렇네.",
+      "translation": "흐음, 택트는 내가 방해된다는 거야……? 흐음, 그렇구나, 그렇네.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13879,7 +13879,7 @@
         "voice": "GC260708.ogg"
       },
       "original": "ああ、もう、ごめん！　ランファを危険なところに連れて行きたくないんだよ！",
-      "translation": "아아, 정말, 미안해！ 란파를 위험한 곳에 데려가고 싶지 않단 말이야！",
+      "translation": "아아, 정말, 미안해! 란파를 위험한 곳에 데려가고 싶지 않단 말이야!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13903,7 +13903,7 @@
         "voice": "GC260709.ogg"
       },
       "original": "わかってるわよ、そんなこと。けど、シヴァ陛下の一大事なんでしょ？　アタシも、黙ってられないわ。",
-      "translation": "알고 있어, 그런 건. 하지만 시바 폐하의 위기잖아？ 나도 가만히 있을 순 없어.",
+      "translation": "알고 있어, 그런 건. 하지만 시바 폐하의 위기잖아? 나도 가만히 있을 순 없어.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13951,7 +13951,7 @@
         "voice": "GC260710.ogg"
       },
       "original": "うん！　……でも、アタシのこと心配して、あんなこと言ったんだよね？　ちょっと嬉しかったよ。",
-      "translation": "응！ ……하지만, 나를 걱정해서 그런 말을 한 거지？ 조금 기뻤어.",
+      "translation": "응! ……하지만, 나를 걱정해서 그런 말을 한 거지? 조금 기뻤어.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13999,7 +13999,7 @@
         "voice": "GC260800.ogg"
       },
       "original": "それじゃ、行きましょう！",
-      "translation": "그럼, 가자！",
+      "translation": "그럼, 가자!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14017,7 +14017,7 @@
         "voice": "GC260800.ogg"
       },
       "original": "ああ！",
-      "translation": "아아！",
+      "translation": "아아!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -14035,7 +14035,7 @@
         "voice": "GC260801.ogg"
       },
       "original": "きゃっ！",
-      "translation": "꺄악！",
+      "translation": "꺄악!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -14053,7 +14053,7 @@
         "voice": "GC260801.ogg"
       },
       "original": "ランファ！？",
-      "translation": "란파！？",
+      "translation": "란파!?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -14071,7 +14071,7 @@
         "voice": "GC260802.ogg"
       },
       "original": "……ごめん、ちょっと靴をひっかけただけだから心配しないで。はき慣れない靴なんで、ちょっと走りづらくて……。",
-      "translation": "……미안, 그냥 신발에 걸린 것뿐이니까 걱정 마. 안 신던 신발이라 좀 걷기 힘들어서…….",
+      "translation": "……미안, 그냥 신발에 걸린 것뿐이니까 걱정 마. 안 신던 신발이라 좀 뛰기 힘들어서…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14101,7 +14101,7 @@
         "voice": "GC260802.ogg"
       },
       "original": "大丈夫かい？",
-      "translation": "괜찮아？",
+      "translation": "괜찮아?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14221,7 +14221,7 @@
         "voice": "GC260805.ogg"
       },
       "original": "けど、足が少し震えてる。本当は、靴よりもそっちの方が原因じゃないのかい？",
-      "translation": "하지만 다리가 조금 떨리고 있어. 사실은 신발보다 그게 원인 아냐？",
+      "translation": "하지만 다리가 조금 떨리고 있어. 사실은 신발보다 그게 원인 아냐?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14263,7 +14263,7 @@
         "voice": "GC260807.ogg"
       },
       "original": "ん？",
-      "translation": "응？",
+      "translation": "응?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -14281,7 +14281,7 @@
         "voice": "GC260808.ogg"
       },
       "original": "……シヴァ陛下たち、きっと無事よね？",
-      "translation": "……시바 폐하 일행, 분명무사하겠지？",
+      "translation": "……시바 폐하 일행, 분명 무사하겠지?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14419,7 +14419,7 @@
         "voice": "GC260810.ogg"
       },
       "original": "ええ！",
-      "translation": "응！",
+      "translation": "응!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -14455,7 +14455,7 @@
         "voice": "GC260811.ogg"
       },
       "original": "ん？",
-      "translation": "응？",
+      "translation": "응?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -14491,7 +14491,7 @@
         "voice": "GC260812.ogg"
       },
       "original": "どういたしまして。さあ、行こう！",
-      "translation": "천만에. 자, 가자！",
+      "translation": "천만에. 자, 가자!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14509,7 +14509,7 @@
         "voice": "GC260813.ogg"
       },
       "original": "オッケー！",
-      "translation": "오케이！",
+      "translation": "오케이!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -14545,7 +14545,7 @@
         "voice": "GC260814.ogg"
       },
       "original": "ひゃあっ！",
-      "translation": "히얏！",
+      "translation": "히얏!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14587,7 +14587,7 @@
         "voice": "GC260815.ogg"
       },
       "original": "大丈夫かい、ランファ？",
-      "translation": "괜찮아, 란파？",
+      "translation": "괜찮아, 란파?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14605,7 +14605,7 @@
         "voice": "GC260816.ogg"
       },
       "original": "うん、平気。でも、そんなことより、今の爆発……。今度はいったいどこなのかしら？",
-      "translation": "응, 괜찮아. 하지만 그것보다 방금 폭발…… 이번엔 대체 어디서 난 거야？",
+      "translation": "응, 괜찮아. 하지만 그것보다 방금 폭발…… 이번엔 대체 어디서 난 거야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14677,7 +14677,7 @@
         "voice": "GC260817.ogg"
       },
       "original": "ところで、立てるかい、ランファ？　さっ、オレの手につかまって……。",
-      "translation": "그건 그렇고, 일어설 수 있겠어, 란파？ 자, 내 손을 잡아…….",
+      "translation": "그건 그렇고, 일어설 수 있겠어, 란파? 자, 내 손을 잡아…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14899,7 +14899,7 @@
         "voice": "GC260823.ogg"
       },
       "original": "せっかく気合い入れてオシャレしたのに……なんでスカートの裾を振り乱し、必死の形相で走ったりしなきゃいけないのかしら？",
-      "translation": "기껏 힘내서 예쁘게 꾸몄는데…… 왜 스커트 자락을 휘날리며 필사적인 표정으로 뛰어야 하는 거냐고？",
+      "translation": "기껏 힘내서 예쁘게 꾸몄는데…… 왜 스커트 자락을 휘날리며 필사적인 표정으로 뛰어야 하는 거냐고?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15001,7 +15001,7 @@
         "voice": "GC260826.ogg"
       },
       "original": "えっ？",
-      "translation": "엣？",
+      "translation": "엣?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15049,7 +15049,7 @@
         "voice": "GC260826.ogg"
       },
       "original": "まあ、こんな状況で不謹慎かもしれないけどね。",
-      "translation": "뭐, 이런 상황에 불경할지도 모르겠지만.",
+      "translation": "뭐, 이런 상황에 할 말은 아니겠지만.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15133,7 +15133,7 @@
         "voice": "GC260829.ogg"
       },
       "original": "ん？",
-      "translation": "응？",
+      "translation": "응?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15175,7 +15175,7 @@
         "voice": "GC260830.ogg"
       },
       "original": "ど、どうしたのよ、急に……？",
-      "translation": "무, 무슨 소리야 갑자기……？",
+      "translation": "무, 무슨 소리야 갑자기……?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15253,7 +15253,7 @@
         "voice": "GC260831.ogg"
       },
       "original": "こ、こんな状況でなに恥ずかしいこと言ってるのよ！",
-      "translation": "이,이런 상황에서 무슨 부끄러운 소릴 하는 거야！",
+      "translation": "이, 이런 상황에서 무슨 부끄러운 소릴 하는 거야!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -15355,7 +15355,7 @@
         "voice": "GC260835.ogg"
       },
       "original": "と、とにかく、先を急ぎましょう！",
-      "translation": "어, 어쨌든 서둘러 가자！",
+      "translation": "어, 어쨌든 서둘러 가자!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15373,7 +15373,7 @@
         "voice": "GC260835.ogg"
       },
       "original": "そ、そうだね！",
-      "translation": "그, 그래！",
+      "translation": "그, 그래!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15391,7 +15391,7 @@
         "voice": "GC260835.ogg"
       },
       "original": "わあ～～～～～～～～～～っ！",
-      "translation": "와아～～～～～～～～～～！",
+      "translation": "와아～～～～～～～～～～!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15409,7 +15409,7 @@
         "voice": "GC260836.ogg"
       },
       "original": "きゃあ～～～～～～～～～～っ！",
-      "translation": "꺄아～～～～～～～～～～！",
+      "translation": "꺄아～～～～～～～～～～!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15445,7 +15445,7 @@
         "voice": "GC260836.ogg"
       },
       "original": "頭がクラクラする……今、何があったんだ？",
-      "translation": "머리가어질어질해……방금무슨일이있었지？",
+      "translation": "머리가 핑 돌아…… 방금 무슨 일이었지?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15463,7 +15463,7 @@
         "voice": "GC260836.ogg"
       },
       "original": "そうだ、爆発だ。それも、オレたちのすぐそばで……はっ！？",
-      "translation": "맞다, 폭발이야. 그것도 우리 바로 옆에서…… 핫！？",
+      "translation": "맞다, 폭발이야. 그것도 우리 바로 옆에서…… 앗!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15487,7 +15487,7 @@
         "voice": "GC260836.ogg"
       },
       "original": "ランファ？　ランファはどこだ！？",
-      "translation": "란파？ 란파는 어디 있어！？",
+      "translation": "란파? 란파는 어디 있어!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15523,7 +15523,7 @@
         "voice": "GC260836.ogg"
       },
       "original": "ランファ～～～～～！　どこにいるんだ、ランファ～～～～～！",
-      "translation": "란파～～～～～！ 어디 있는 거야, 란파～～～～～！",
+      "translation": "란파～～～～～! 어디 있는 거야, 란파～～～～～!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15547,7 +15547,7 @@
         "voice": "GC260837.ogg"
       },
       "original": "タクト？　タクト～～～～～！",
-      "translation": "택트？ 택트～～～～～！",
+      "translation": "택트? 택트～～～～～!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15565,7 +15565,7 @@
         "voice": "GC260837.ogg"
       },
       "original": "ランファ！？　待っていろ、今行く！",
-      "translation": "란파！？ 기다려, 지금 갈게！",
+      "translation": "란파!? 기다려, 지금 갈게!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15583,7 +15583,7 @@
         "voice": "GC260838.ogg"
       },
       "original": "そ、そこを動いちゃダメ！",
-      "translation": "거, 거기서움직이면안돼！",
+      "translation": "거, 거기서 움직이지 마!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15601,7 +15601,7 @@
         "voice": "GC260838.ogg"
       },
       "original": "なんだって？",
-      "translation": "뭐라고？",
+      "translation": "뭐라고?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15619,7 +15619,7 @@
         "voice": "GC260839.ogg"
       },
       "original": "いいから、絶対動いちゃダメよ！",
-      "translation": "됐으니까 절대 움직이지 마！",
+      "translation": "됐으니까 절대 움직이지 마!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15637,7 +15637,7 @@
         "voice": "GC260839.ogg"
       },
       "original": "わ、わかった……。どうせ、煙で何も見えないことだし……。",
-      "translation": "아, 알았어…. 어차피 연기때문에아무것도안보이니까…….",
+      "translation": "아, 알았어……. 연기 때문에 아무것도 안 보이니…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -15679,7 +15679,7 @@
         "voice": "GC260839.ogg"
       },
       "original": "……って、これは！？",
-      "translation": "……어라, 이건！？",
+      "translation": "……어라, 이건!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15739,7 +15739,7 @@
         "voice": "GC260840.ogg"
       },
       "original": "ランファ！　……えっ？",
-      "translation": "란파！ ……엣？",
+      "translation": "란파! ……엣?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15799,7 +15799,7 @@
         "voice": "GC260841.ogg"
       },
       "original": "だ、大丈夫なのかい！？",
-      "translation": "괘, 괜찮은 거야！？\n",
+      "translation": "괘, 괜찮은 거야!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15859,7 +15859,7 @@
         "voice": "GC260843.ogg"
       },
       "original": "きゃあっ！",
-      "translation": "꺄악！",
+      "translation": "꺄악!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15877,7 +15877,7 @@
         "voice": "GC260843.ogg"
       },
       "original": "ランファ！",
-      "translation": "란파！\n",
+      "translation": "란파!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -16015,7 +16015,7 @@
         "voice": "GC260846.ogg"
       },
       "original": "何を言ってるんだ、ランファ！？　こんなところに君ひとり置いて、行けるわけないじゃないか！",
-      "translation": "무슨 소리를 하는 거야, 란파！？ 이런 곳에 너 혼자 두고 갈 수 있을 리 없잖아！",
+      "translation": "무슨 소리를 하는 거야, 란파!? 이런 곳에 너 혼자 두고 갈 수 있을 리 없잖아!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16045,7 +16045,7 @@
         "voice": "GC260847.ogg"
       },
       "original": "ア、アタシなら大丈夫だから……自分で、なんとかできるから……。",
-      "translation": "아, 아타시는 괜찮으니까… 스스로 어떻게든 할 수있으니까…….",
+      "translation": "나, 나는 괜찮으니까…… 스스로 어떻게든 할 수 있으니까…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -16093,7 +16093,7 @@
         "voice": "GC260848.ogg"
       },
       "original": "だったら……だったら、そこからここまで飛ぶんだ、ランファ！",
-      "translation": "그렇다면…… 그렇다면 거기서 여기까지 날아와, 란파！",
+      "translation": "그렇다면…… 그렇다면 거기서 여기까지 날아와, 란파!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16117,7 +16117,7 @@
         "voice": "GC260849.ogg"
       },
       "original": "えっ！？",
-      "translation": "엣！？",
+      "translation": "엣!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16135,7 +16135,7 @@
         "voice": "GC260849.ogg"
       },
       "original": "ランファならできる！　ここまで……オレのところまで飛ぶんだ！",
-      "translation": "란파라면 할 수 있어！ 여기까지…… 내 쪽으로 날아와！",
+      "translation": "란파라면 할 수 있어! 여기까지…… 내 쪽으로 날아와!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16159,7 +16159,7 @@
         "voice": "GC260850.ogg"
       },
       "original": "……ダメよ。この距離じゃ、アタシでも届くかどうか……。",
-      "translation": "……안 돼. 이 거리라면 아타시조차 닿을지 어떨지…….",
+      "translation": "……안 돼. 이 거리라면 나라도 닿을 수 있을지…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16183,7 +16183,7 @@
         "voice": "GC260850.ogg"
       },
       "original": "だから、オレがいるんじゃないか！　オレがランファを受け止める！　君の手をつかんで、こっちへと引っ張るから！",
-      "translation": "그러니까 내가 있는 거잖아！ 내가 란파를 받아낼게！ 네 손을 잡고 이쪽으로 끌어당길 테니까！",
+      "translation": "그러니까 내가 있는 거잖아! 내가 란파를 받아낼게! 네 손을 잡고 이쪽으로 끌어당길 테니까!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16261,7 +16261,7 @@
         "voice": "GC260853.ogg"
       },
       "original": "タクトに触れた瞬間、アタシはタクトに何をしてしまうかわからないもの。こんな状況で、それは危険すぎるわ！",
-      "translation": "택트에게 닿는 순간, 아타시가 택트에게 무슨 일을 할지 몰라. 이런 상황에서 그건 너무 위험해！",
+      "translation": "택트에게 닿는 순간, 내가 택트에게 무슨 일을 할지 몰라. 이런 상황에서 그건 너무 위험해!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16291,7 +16291,7 @@
         "voice": "GC260853.ogg"
       },
       "original": "それでも、今はこれしか方法がないんだ！そこの足場が崩れるのは、もう、時間の問題じゃないか！",
-      "translation": "그래도 지금은 이 방법밖에 없어！ 저기 발판이 무너지는 건 이제 시간문제잖아！",
+      "translation": "그래도 지금은 이 방법밖에 없어! 저기 발판이 무너지는 건 이제 시간문제잖아!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16321,7 +16321,7 @@
         "voice": "GC260854.ogg"
       },
       "original": "それでも……やっぱりダメ！　タクトを危険な目になんて、あわせられない！",
-      "translation": "그래도…… 역시 안 돼！ 택트를 위험에 빠뜨릴 순 없어！",
+      "translation": "그래도…… 역시 안 돼! 택트를 위험에 빠뜨릴 순 없어!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16369,7 +16369,7 @@
         "voice": "GC260856.ogg"
       },
       "original": "『ヴァル・ファスク』に勝って銀河を平和にできるのは、タクトしかいないんだから！",
-      "translation": "『발・파스크』를 이기고 은하를 평화롭게 만들 수 있는 건 택트뿐이니까！",
+      "translation": "『발・파스크』를 이기고 은하를 평화롭게 만들 수 있는 건 택트뿐이니까!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16393,7 +16393,7 @@
         "voice": "GC260857.ogg"
       },
       "original": "そのタクトを、アタシひとりのために……。",
-      "translation": "그 택트를, 아타시 혼자 때문에…….",
+      "translation": "그런 택트를, 나 하나 때문에…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16411,7 +16411,7 @@
         "voice": "GC260857.ogg"
       },
       "original": "必要なのは君も同じだ、ランファ！",
-      "translation": "필요한 건 너도 마찬가지야,란파！",
+      "translation": "필요한 건 너도 마찬가지야, 란파!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16447,7 +16447,7 @@
         "voice": "GC260858.ogg"
       },
       "original": "この銀河は、これから先も君を必要としている……！",
-      "translation": "이 은하는 앞으로도 너를 필요로 하고 있어……！",
+      "translation": "이 은하는 앞으로도 너를 필요로 하고 있어……!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16471,7 +16471,7 @@
         "voice": "GC260858.ogg"
       },
       "original": "そして何よりも、オレがランファを必要としているんだ……！",
-      "translation": "그리고 무엇보다, 내가 란파를 필요로 해……！",
+      "translation": "그리고 무엇보다, 내가 란파를 필요로 해……!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16495,7 +16495,7 @@
         "voice": "GC260858.ogg"
       },
       "original": "君がいなければ、これから先の戦いには勝てない。いや、勝つ意味すらない！！",
-      "translation": "네가 없다면 앞으로의 싸움은 이길 수 없어. 아니, 이길 의미조차 없다고！！",
+      "translation": "네가 없다면 앞으로의 싸움은 이길 수 없어. 아니, 이길 의미조차 없다고!!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16519,7 +16519,7 @@
         "voice": "GC260859.ogg"
       },
       "original": "な、なな……っ！",
-      "translation": "나, 나나……！\n",
+      "translation": "나, 나나……!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16555,7 +16555,7 @@
         "voice": "GC260860.ogg"
       },
       "original": "タクト……でも！",
-      "translation": "택트……하지만！",
+      "translation": "택트…… 하지만!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16699,7 +16699,7 @@
         "voice": "GC260861.ogg"
       },
       "original": "ランファ！",
-      "translation": "란파！\n",
+      "translation": "란파!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -16771,7 +16771,7 @@
         "voice": "GC260864.ogg"
       },
       "original": "……ああっ！？",
-      "translation": "……아앗！？",
+      "translation": "……아앗!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16789,7 +16789,7 @@
         "voice": "GC260864.ogg"
       },
       "original": "ど、どうしたの、ランファ！？",
-      "translation": "어, 어떻게 된 거야, 란파！？",
+      "translation": "어, 어떻게 된 거야, 란파!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16807,7 +16807,7 @@
         "voice": "GC260865.ogg"
       },
       "original": "ア、アタシ、今、タクトを抱きしめてる！",
-      "translation": "아, 아타시, 지금 택트를 안고 있어！",
+      "translation": "나, 나 지금 택트를 안고 있어!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16825,7 +16825,7 @@
         "voice": "GC260865.ogg"
       },
       "original": "え？　あ、ああ……そういえば……。",
-      "translation": "어？ 아, 아아…… 그러고 보니…….",
+      "translation": "어? 아, 아아…… 그러고 보니…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16843,7 +16843,7 @@
         "voice": "GC260865.ogg"
       },
       "original": "じゃあ、ランファ！　もしかして……！？",
-      "translation": "그럼 란파！ 혹시……！？",
+      "translation": "그럼 란파! 혹시……!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16861,7 +16861,7 @@
         "voice": "GC260866.ogg"
       },
       "original": "ええ……。アタシ……タクトに触れても平気だわ！",
-      "translation": "응……. 아타시…… 택트에게 닿아도 괜찮아！",
+      "translation": "응……. 나…… 택트에게 닿아도 괜찮아!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16885,7 +16885,7 @@
         "voice": "GC260867.ogg"
       },
       "original": "タクト、アタシ治ったのね？　また、タクトに触れられるようになったのね？　アタシ、タクトに抱きしめられてるのよね！？",
-      "translation": "택트, 아타시 나은 거지？ 다시 택트를 만질 수 있게 된 거지？ 아타시, 택트한테 안겨 있는 거지！？",
+      "translation": "택트, 나 나은 거지? 다시 택트에게 닿을 수 있게 된 거지? 나, 택트한테 안겨 있는 거지!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16939,7 +16939,7 @@
         "voice": "GC260868.ogg"
       },
       "original": "うん……うん……アタシも……だって、こんなにもあったかいんだもん……。",
-      "translation": "응…… 응…… 아타시도…… 그치만, 이렇게나 따뜻한걸…….",
+      "translation": "응…… 응…… 나도…… 그치만, 이렇게나 따뜻한걸…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16987,7 +16987,7 @@
         "voice": "GC260869.ogg"
       },
       "original": "ありがとう……アタシのこと、力いっぱい受け止めてくれて……。",
-      "translation": "고마워…… 아타시를 온 힘을 다해 받아줘서…….",
+      "translation": "고마워…… 나를 온 힘을 다해 받아줘서…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17047,7 +17047,7 @@
         "voice": "GC260871.ogg"
       },
       "original": "あっ……アタシがいた場所が……。",
-      "translation": "앗…… 아타시가 있던 곳이…….",
+      "translation": "앗…… 내가 있던 곳이…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17101,7 +17101,7 @@
         "voice": "GC260872.ogg"
       },
       "original": "ああ、みんなが心配だ。すぐに会場に戻ろう！",
-      "translation": "아아, 모두가 걱정돼.빨리회장으로돌아가자！",
+      "translation": "아아, 다들 걱정돼. 빨리 회장으로 돌아가자!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17119,7 +17119,7 @@
         "voice": "GC260873.ogg"
       },
       "original": "ええ！",
-      "translation": "응！",
+      "translation": "응!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -17137,7 +17137,7 @@
         "voice": "GC260873.ogg"
       },
       "original": "シヴァ様！　みんな！",
-      "translation": "시바 님！ 여러분！",
+      "translation": "시바 님! 여러분!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17155,7 +17155,7 @@
         "voice": "GC260874.ogg"
       },
       "original": "大丈夫？　ケガはない？",
-      "translation": "괜찮아？다친데는없어？",
+      "translation": "괜찮아? 다친 데 없어?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17173,7 +17173,7 @@
         "voice": "GC260875.ogg"
       },
       "original": "おお、マイヤーズにフランボワーズ。そなたたちも無事であったか。",
-      "translation": "오오, 마이어스와 프란보와즈. 너희들도 무사하였느냐.",
+      "translation": "오오, 마이어스와 프랑부아즈. 너희들도 무사하였느냐.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17275,7 +17275,7 @@
         "voice": "GC260879.ogg"
       },
       "original": "あんたたち、どこ行ってたんだい？",
-      "translation": "너희들, 어디 갔던 거야？",
+      "translation": "너희들, 어디 갔던 거야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17341,7 +17341,7 @@
         "voice": "GC260881.ogg"
       },
       "original": "私などは何も……ただ、先輩方の指示に従い、避難誘導を手伝っただけです。",
-      "translation": "전 아무것도… 그저 선배님들의 지시에 따라 피난 유도를도왔을뿐입니다.",
+      "translation": "전 아무것도…… 그저 선배들의 지시에 따라 피난 유도를 도왔을 뿐입니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -17545,7 +17545,7 @@
         "voice": "GC260888.ogg"
       },
       "original": "それで、これだけのことをやらかした犯人はどうなったんだい？",
-      "translation": "그래서, 이 난리를 피운 범인은 어떻게 됐대？",
+      "translation": "그래서, 이 난리를 피운 범인은 어떻게 됐대?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17707,7 +17707,7 @@
         "voice": "GC260893.ogg"
       },
       "original": "……あれ？",
-      "translation": "……어라？\n",
+      "translation": "……어라?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -17725,7 +17725,7 @@
         "voice": "GC260894.ogg"
       },
       "original": "どうしたんですの、ミルフィーさん？",
-      "translation": "무슨 일인가요, 밀피 씨？",
+      "translation": "무슨 일인가요, 밀피 씨?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17743,7 +17743,7 @@
         "voice": "GC260895.ogg"
       },
       "original": "タクトさんもランファも、平気なの？",
-      "translation": "택트 씨랑 란파는 괜찮은 거야？",
+      "translation": "택트 씨랑 란파는 괜찮은 거야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17761,7 +17761,7 @@
         "voice": "GC260896.ogg"
       },
       "original": "平気……って何がですか、ミルフィー先輩？",
-      "translation": "괜찮다니요, 뭐가 말인가요,밀피선배님？",
+      "translation": "괜찮다니요, 뭐가 말인가요, 밀피 선배?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17797,7 +17797,7 @@
         "voice": "GC260898.ogg"
       },
       "original": "……って、あんたたちどうしたんだい！？",
-      "translation": "……라니, 너희들 왜 그래！？",
+      "translation": "……라니, 너희들 왜 그래!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17815,7 +17815,7 @@
         "voice": "GC260898.ogg"
       },
       "original": "えっ、な、何？",
-      "translation": "엣, 머, 뭐야？",
+      "translation": "엣, 머, 뭐야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17851,7 +17851,7 @@
         "voice": "GC260900.ogg"
       },
       "original": "そなたら、その手は……？",
-      "translation": "너희들, 그 손은……？",
+      "translation": "너희들, 그 손은……?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17869,7 +17869,7 @@
         "voice": "GC260900.ogg"
       },
       "original": "手？　ああ、そういえば……。",
-      "translation": "손？ 아아, 그러고 보니…….",
+      "translation": "손? 아아, 그러고 보니…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17911,7 +17911,7 @@
         "voice": "GC260902.ogg"
       },
       "original": "ランファさん、お体の方は、なんともありませんの？",
-      "translation": "란파 씨, 몸 상태는 괜찮으신가요？",
+      "translation": "란파 씨, 몸 상태는 괜찮으신가요?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17935,7 +17935,7 @@
         "voice": "GC260903.ogg"
       },
       "original": "もっちろん！　これでもう、いくらでもタクトに抱きつくことができるんだから。",
-      "translation": "당연하지！ 이제 얼마든지 택트에게 안길 수 있으니까！",
+      "translation": "당연하지! 이제 얼마든지 택트에게 안길 수 있으니까!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -18001,7 +18001,7 @@
         "voice": "GC260906.ogg"
       },
       "original": "はい、あたしもホッとしました！",
-      "translation": "네, 저도 안심했어요！",
+      "translation": "네, 저도 안심했어요!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -18043,7 +18043,7 @@
         "voice": "GC260908.ogg"
       },
       "original": "やっぱり、タクトさんとランファ先輩はこうでないといけません！",
-      "translation": "역시 택트 씨랑 란파 선배는 이래야죠！",
+      "translation": "역시 택트 씨랑 란파 선배는 이래야죠!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -18121,7 +18121,7 @@
         "voice": "GC260911.ogg"
       },
       "original": "マイヤーズ……そして、フランボワーズよ。",
-      "translation": "마이어스…… 그리고, 프란보와다.",
+      "translation": "마이어스…… 그리고, 프랑부아즈여.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -18397,7 +18397,7 @@
         "voice": "GC261002.ogg"
       },
       "original": "だって結局のところ、それがきっかけになって、７番機なしでお互い触れあえるようになったんでしょ？",
-      "translation": "결국 그게 계기가 되어서, ７번기 없이 서로를 만질 수 있게 된 거잖아？\n",
+      "translation": "결국 그게 계기가 돼서, 7번기 없이 서로 닿을 수 있게 된 거잖아?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -18445,7 +18445,7 @@
         "voice": "GC261003.ogg"
       },
       "original": "寝る間も惜しんでのあたしの苦労が、無駄になっちゃったのよ？　あたしにとっては、もはや他人事以外の何物でもないの。",
-      "translation": "잠도 아껴가며 한 내 노력이 헛수고가 됐단 말이야？ 나한테는 이제 남의 일이나 다름없다고.\n",
+      "translation": "잠도 아껴가며 한 내 노력이 헛수고가 됐단 말이야? 나한테는 이제 남의 일이나 다름없다고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -18493,7 +18493,7 @@
         "voice": "GC261005.ogg"
       },
       "original": "そんな幸せそうな顔で謝られてもねえ……。",
-      "translation": "그렇게 행복한얼굴로사과받아도말이지…….",
+      "translation": "그런 행복한 얼굴로 사과해도 말이지…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18721,7 +18721,7 @@
         "voice": "GC261013.ogg"
       },
       "original": "本当におめでとうございます、ランファ先輩！",
-      "translation": "정말 축하드려요, 란파 선배！\n",
+      "translation": "정말 축하드려요, 란파 선배!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -18757,7 +18757,7 @@
         "voice": "GC261014.ogg"
       },
       "original": "ありがとう。これまで足を引っ張った分、汚名返上させてもらうから！",
-      "translation": "고마워. 지금까지 민폐 끼친 만큼, 오명을 씻어낼 테니까！\n",
+      "translation": "고마워. 지금까지 민폐 끼친 만큼, 오명을 씻어낼 테니까!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -18991,7 +18991,7 @@
         "voice": "GC261019.ogg"
       },
       "original": "人の心を踏みにじる行為です……。",
-      "translation": "사람의 마음을짓밟는짓입니다…….",
+      "translation": "사람 마음을 짓밟는 짓입니다…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19009,7 +19009,7 @@
         "voice": "GC261020.ogg"
       },
       "original": "けどまあ、アタシも復活したことだし、あとはシヴァ陛下の号令ひとつで、本拠地に突入よ！",
-      "translation": "뭐, 어쨌든 나도 부활했으니, 이제 시바 폐하의 명령 한마디면 본거지로 돌입이야！\n",
+      "translation": "뭐, 어쨌든 나도 부활했으니, 이제 시바 폐하의 명령 한마디면 본거지로 돌입이야!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -19039,7 +19039,7 @@
         "voice": "GC161020.ogg"
       },
       "original": "でも、『ヴァル・ファスク』の本拠地ってどこなの？",
-      "translation": "그런데 『발・파스크』의 본거지가 어디야？\n",
+      "translation": "그런데 『발・파스크』의 본거지가 어디야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -19063,7 +19063,7 @@
         "voice": "GC161021.ogg"
       },
       "original": "えっ？　そ、それは……ねえ、タクト。",
-      "translation": "엣？ 그, 그건…… 저기, 택트.\n",
+      "translation": "엣? 그, 그건…… 저기, 택트.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19111,7 +19111,7 @@
         "voice": "GC161022.ogg"
       },
       "original": "あんたたち、ここをどこだと思ってるの？ＥＤＥＮのライブラリよ。",
-      "translation": "너희들, 여기가 어딘 줄 알아？ EDEN의 라이브러리야.\n",
+      "translation": "너희들, 여기가 어딘 줄 알아? EDEN의 라이브러리야.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19207,7 +19207,7 @@
         "voice": "GC161026.ogg"
       },
       "original": "すごいです、ノアさん。これもライブラリのデータですか？",
-      "translation": "대단해요, 노아 씨. 이것도 라이브러리의 데이터인가요？\n",
+      "translation": "대단해요, 노아 씨. 이것도 라이브러리의 데이터인가요?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19255,7 +19255,7 @@
         "voice": "GC161028.ogg"
       },
       "original": "タクト。これ、エルシオールに送っておけばいいのね？",
-      "translation": "택트. 이거, 에르시올로 보내두면 되는 거지？\n",
+      "translation": "택트. 이거, 에르시올로 보내두면 되는 거지?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19339,7 +19339,7 @@
         "voice": "GC161030.ogg"
       },
       "original": "あと残された問題は、クロノ・ブレイク・キャノンと７番機だけですわね。",
-      "translation": "남은 문제는 크로노・브레이크・캐논과 ７번기뿐이겠네요.\n",
+      "translation": "남은 문제는 크로노・브레이크・캐논과 7번기뿐이겠네요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -19435,7 +19435,7 @@
         "voice": "GC261024.ogg"
       },
       "original": "どうしました、ランファさん？",
-      "translation": "왜 그러세요, 란파 씨？\n",
+      "translation": "왜 그러세요, 란파 씨?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -19453,7 +19453,7 @@
         "voice": "GC261025.ogg"
       },
       "original": "えっ？　うん……あのふたり、今どうしてるのかな……って。",
-      "translation": "엣？ 응…… 그 두 사람, 지금 어떻게 있을까 싶어서.",
+      "translation": "엣? 응…… 그 두 사람, 지금 어떻게 있을까 싶어서.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19477,7 +19477,7 @@
         "voice": "GC161036.ogg"
       },
       "original": "ふたり……とは？",
-      "translation": "둘이라니……？",
+      "translation": "둘이라니……?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19495,7 +19495,7 @@
         "voice": "GC161036.ogg"
       },
       "original": "ルシャーティと……ヴァインだね？",
-      "translation": "루샤티와…… 바인이네？\n",
+      "translation": "루샤티와…… 바인이네?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19513,7 +19513,7 @@
         "voice": "GC261026.ogg"
       },
       "original": "なんだい、ランファ。ルシャーティはともかく、あんなヤツのことまで気になるのかい？",
-      "translation": "왜 그래, 란파. 루샤티는 둘째치고 그런 녀석까지 신경 쓰이는 거야？\n",
+      "translation": "왜 그래, 란파. 루샤티는 둘째치고 그런 녀석까지 신경 쓰이는 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -19627,7 +19627,7 @@
         "voice": "GC161042.ogg"
       },
       "original": "タクト、あんたもかい？",
-      "translation": "택트, 너도야？\n",
+      "translation": "택트, 너도야?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19741,7 +19741,7 @@
         "voice": "GC161043.ogg"
       },
       "original": "クレータ班長、いったいどうしたんだ……？",
-      "translation": "크레타 반장, 대체 어떻게 된 거야……？\n",
+      "translation": "크레타 반장, 대체 어떻게 된 거야……?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -19795,7 +19795,7 @@
         "voice": "GC161043.ogg"
       },
       "original": "みんな！",
-      "translation": "모두！\n",
+      "translation": "모두!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19813,7 +19813,7 @@
         "voice": "GC261200.ogg"
       },
       "original": "タ、タクト……。",
-      "translation": "택, 택트…….\n",
+      "translation": "태, 택트…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19831,7 +19831,7 @@
         "voice": "GC261200.ogg"
       },
       "original": "みんなお疲れさん。それで、７番機のパイロットは……？",
-      "translation": "다들 수고했어. 그래서, ７번기의 파일럿은……？\n",
+      "translation": "다들 수고했어. 그래서, 7번기의 파일럿은……?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19855,7 +19855,7 @@
         "voice": "GC261201.ogg"
       },
       "original": "ランファ……？",
-      "translation": "란파……？\n",
+      "translation": "란파……?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19897,7 +19897,7 @@
         "voice": "GC161132.ogg"
       },
       "original": "担架……？",
-      "translation": "들것……？\n",
+      "translation": "들것……?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19957,7 +19957,7 @@
         "voice": "GC161133.ogg"
       },
       "original": "……！！　そ、その傷は……？",
-      "translation": "……！！ 그, 그 상처는……？\n",
+      "translation": "……!! 그, 그 상처는……?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19975,7 +19975,7 @@
         "voice": "GC161134.ogg"
       },
       "original": "こっちの担架には……ルシャーティ！？　おい、しっかりするんだ、ルシャーティ！",
-      "translation": "이쪽 들것에는…… 루샤티！？ 야, 정신 차려, 루샤티！\n",
+      "translation": "이쪽 들것에는…… 루샤티!? 야, 정신 차려, 루샤티!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -19999,7 +19999,7 @@
         "voice": "GC161135.ogg"
       },
       "original": "気を失ってるだけだ……その女には……傷ひとつないはず……ぐっ！",
-      "translation": "기절했을 뿐이다…… 그 여자에게는…… 상처 하나 없을터……윽！",
+      "translation": "기절했을 뿐이다…… 그 여자는…… 상처 하나 없을 터…… 윽!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -20023,7 +20023,7 @@
         "voice": "GC161135.ogg"
       },
       "original": "……！　しゃべるんじゃない！",
-      "translation": "……！ 말하지 마！\n",
+      "translation": "……! 말하지 마!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -20041,7 +20041,7 @@
         "voice": "GC161135.ogg"
       },
       "original": "ランファ、ルシャーティは？",
-      "translation": "란파, 루샤티는？\n",
+      "translation": "란파, 루샤티는?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20203,7 +20203,7 @@
         "voice": "GC261300.ogg"
       },
       "original": "姉さん……。",
-      "translation": "언니…….",
+      "translation": "누나…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -20239,7 +20239,7 @@
         "voice": "GC261302.ogg"
       },
       "original": "手なんか出してきて、どうかしたの？",
-      "translation": "손 같은 걸 내밀고, 왜 그래？\n",
+      "translation": "손 같은 걸 내밀고, 왜 그래?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20281,7 +20281,7 @@
         "voice": "GC261305.ogg"
       },
       "original": "うん……でも……いいの？",
-      "translation": "응……하지만……괜찮아？",
+      "translation": "응…… 하지만 괜찮아?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -20335,7 +20335,7 @@
         "voice": "GC261308.ogg"
       },
       "original": "……どうだい、姉さん？",
-      "translation": "……어때, 누나？\n",
+      "translation": "……어때, 누나?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20473,7 +20473,7 @@
         "voice": "GC261314.ogg"
       },
       "original": "どうしたの、ヴァイン？　あなた、さっきから何か変よ？",
-      "translation": "왜 그래, 바인？ 너 아까부터 좀 이상해.\n",
+      "translation": "왜 그래, 바인? 너 아까부터 좀 이상해.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20497,7 +20497,7 @@
         "voice": "GC261315.ogg"
       },
       "original": "姉さん……。",
-      "translation": "언니…….",
+      "translation": "누나…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -20533,7 +20533,7 @@
         "voice": "GC261315.ogg"
       },
       "original": "ヴァイン……おい、ヴァイン！",
-      "translation": "바인…… 야, 바인！\n",
+      "translation": "바인…… 야, 바인!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -20551,7 +20551,7 @@
         "voice": "GC161200.ogg"
       },
       "original": "ヴァイン！",
-      "translation": "바인！\n",
+      "translation": "바인!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -20617,7 +20617,7 @@
         "voice": "GC261401.ogg"
       },
       "original": "蘭花・フランボワーズか……。",
-      "translation": "란파・프란보와즈인가…….\n",
+      "translation": "란파・프랑부아즈인가…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20707,7 +20707,7 @@
         "voice": "GC261402.ogg"
       },
       "original": "アンタ、いったいどうしたのよ！？　なに、このひどい傷は……。",
-      "translation": "너, 대체 어떻게 된 거야！？ 뭐야, 이 심한 상처는…….\n",
+      "translation": "너, 대체 어떻게 된 거야!? 뭐야, 이 심한 상처는…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20755,7 +20755,7 @@
         "voice": "GC161207.ogg"
       },
       "original": "ヴァイン……君は、ルシャーティを守ってここまで来たんじゃないのか？",
-      "translation": "바인…… 너는 루샤티를 지키기 위해 여기까지 온 게 아니었나？\n",
+      "translation": "바인…… 너는 루샤티를 지키기 위해 여기까지 온 게 아니었나?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -20989,7 +20989,7 @@
         "voice": "GC161217.ogg"
       },
       "original": "だが、それはいつしか……その愚か者の内に……浸食していった……。",
-      "translation": "허나 그것은 어느덧… 그 어리석은 자의내면을……침식해갔다…….",
+      "translation": "허나 그것은 어느덧…… 어리석은 자의 내면을…… 침식해갔다…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -21037,7 +21037,7 @@
         "voice": "GC161219.ogg"
       },
       "original": "そいつは必死に……己に言い聞かせた……。そんなもの必要ない……ただ、利用だけすればいい……その程度のものだと……。",
-      "translation": "그 녀석은 필사적으로… 자신에게 타일렀다…… 그런 건 필요 없어…… 그저이용하기만하면돼……그정도의것이라고…….",
+      "translation": "그 녀석은 필사적으로…… 자신에게 타일렀다…… 그런 건 필요 없어…… 그저 이용만 하면 돼…… 그 정도라고…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -21115,7 +21115,7 @@
         "voice": "GC261407.ogg"
       },
       "original": "でも……そいつはきっと、ずっと触れたいと思っていたんでしょう？",
-      "translation": "하지만…… 그 녀석은 분명, 계속 만지고 싶어 했던 거지？\n",
+      "translation": "하지만…… 그 녀석은 분명, 계속 만지고 싶어 했던 거지?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -21139,7 +21139,7 @@
         "voice": "GC261408.ogg"
       },
       "original": "だから、また触れたんでしょう？　あふれ出してくるものを、これ以上、おさえられなくて……。",
-      "translation": "그래서 다시 만진 거잖아？ 넘쳐흐르는 것을 더 이상 억누를 수 없어서…….\n",
+      "translation": "그래서 다시 만진 거잖아? 넘쳐흐르는 것을 더 이상 억누를 수 없어서…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -21169,7 +21169,7 @@
         "voice": "GC261409.ogg"
       },
       "original": "あふれだす……誰かを愛する心がおさえられなくて……。",
-      "translation": "넘쳐흐르는… 누군가를향한사랑을억누를수없어서…….",
+      "translation": "넘쳐흐르는…… 사랑하는 마음을 억누를 수 없어서…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -21193,7 +21193,7 @@
         "voice": "GC261410.ogg"
       },
       "original": "君のせいだぞ……蘭花・フランボワーズ。",
-      "translation": "네 탓이야…… 란파・프란보와즈.\n",
+      "translation": "네 탓이야…… 란파・프랑부아즈.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -21295,7 +21295,7 @@
         "voice": "GC261414.ogg"
       },
       "original": "なんで……そんな満足そうに……微笑んでるのよ……。",
-      "translation": "왜… 그렇게 만족스러운 듯이……미소짓는거야…….",
+      "translation": "왜…… 그렇게 만족스럽게…… 웃는 거야…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -21319,7 +21319,7 @@
         "voice": "GC261416.ogg"
       },
       "original": "触れたその手があたたかかったから……！そう思える心があるから……！　だから、笑ってるんじゃないの……！？",
-      "translation": "닿은 그 손이 따뜻했으니까……！ 그렇게 느낄 수 있는 마음이 있으니까……！ 그래서웃고있는게아니야……！？",
+      "translation": "닿은 그 손이 따뜻했으니까……! 그렇게 느낄 마음이 있으니까……! 그래서 웃고 있는 거 아니야……!?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -21349,7 +21349,7 @@
         "voice": "GC261417.ogg"
       },
       "original": "蘭花・フランボワーズ……。",
-      "translation": "란파・프란보와즈…….\n",
+      "translation": "란파・프랑부아즈…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -21367,7 +21367,7 @@
         "voice": "GC261418.ogg"
       },
       "original": "もしも君だったら……苦しみを生み出すとわかってなお……心を欲するのか……？　触れたいと……願うのか……？",
-      "translation": "만약 너라면… 고통을 낳는다는 걸 알면서도…… 마음을갈구할것인가……？만지고싶다고……바랄것인가……？",
+      "translation": "만약 너라면…… 고통을 낳는 걸 알면서도…… 마음을 갈구할 거야……? 닿고 싶다고…… 바랄 거야……?",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -21445,7 +21445,7 @@
         "voice": "GC261421.ogg"
       },
       "original": "だって……その先にあるのは……絶対、苦しみだけじゃないんだから……！",
-      "translation": "왜냐하면…… 그 끝에 있는 건…… 절대 고통뿐만이 아니니까……！\n",
+      "translation": "왜냐하면…… 그 끝에 있는 건…… 절대 고통뿐만이 아니니까……!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -21523,7 +21523,7 @@
         "voice": "GC261421.ogg"
       },
       "original": "そして、君も……本当はそれを知っていたんじゃないのか？",
-      "translation": "그리고 너도…… 사실은 그것을 알고 있었던 것 아니냐？\n",
+      "translation": "그리고 너도…… 사실은 그것을 알고 있었던 것 아니냐?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -21547,7 +21547,7 @@
         "voice": "GC261421.ogg"
       },
       "original": "だからこそ、これまで君は誰よりも、心にこだわってきたんじゃないのか？",
-      "translation": "그렇기에 지금까지 너는 누구보다도, 마음에 집착해 온 것이 아니냐？\n",
+      "translation": "그렇기에 지금까지 너는 누구보다도, 마음에 집착해 온 것이 아니냐?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -21595,7 +21595,7 @@
         "voice": "GC261422.ogg"
       },
       "original": "ずっと……ずっと……アンタは微笑んでいるんでしょ……？",
-      "translation": "계속…… 계속…… 너는 미소 짓고 있잖아……？\n",
+      "translation": "계속…… 계속…… 너는 미소 짓고 있잖아……?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -21643,7 +21643,7 @@
         "voice": "GC161237.ogg"
       },
       "original": "それが……君たちの言う心……。",
-      "translation": "그것이…… 너희의마음인가…….",
+      "translation": "그게…… 너희가 말한 마음…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -21775,7 +21775,7 @@
         "voice": "GC161242.ogg"
       },
       "original": "ああ、でも……。",
-      "translation": "아아,하지만…….",
+      "translation": "아아 하지만…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -21793,7 +21793,7 @@
         "voice": "GC161243.ogg"
       },
       "original": "だからこそきっと、僕たちは負けるんだろうな……。",
-      "translation": "그렇기에 분명, 우리는 질지도 모르겠군…….\n",
+      "translation": "그래서야말로 분명, 우리는 지는 거겠지…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -21817,7 +21817,7 @@
         "voice": "GC261427.ogg"
       },
       "original": "……ヴァイン？　ヴァイン！",
-      "translation": "……바인？ 바인！\n",
+      "translation": "……바인? 바인!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -21835,7 +21835,7 @@
         "voice": "GC261428.ogg"
       },
       "original": "ヴァイン……！",
-      "translation": "바인……！\n",
+      "translation": "바인……!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -21931,7 +21931,7 @@
         "voice": "GC261501.ogg"
       },
       "original": "君は、これまでのことを全部覚えているのかい？　覚えているなら、話を聞かせてほしいんだ。",
-      "translation": "너는, 지금까지의 일을 전부 기억하고 있니？ 기억한다면, 이야기를 들려줬으면 좋겠어.\n",
+      "translation": "너는, 지금까지의 일을 전부 기억하고 있니? 기억한다면, 이야기를 들려줬으면 좋겠어.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -22033,7 +22033,7 @@
         "voice": "GC261502.ogg"
       },
       "original": "じゃあ、７番機で『ヴァル・ファスク』から逃げてきたことも……。",
-      "translation": "그럼, ７번기로 『발・파스크』에서 도망쳐 온 것도…….\n",
+      "translation": "그럼, 7번기로 『발・파스크』에서 도망쳐 온 것도…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -22075,7 +22075,7 @@
         "voice": "GC261504.ogg"
       },
       "original": "あ、あのね……！",
-      "translation": "저저기말이야…！",
+      "translation": "저, 저기……!",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -22195,7 +22195,7 @@
         "voice": "GC261506.ogg"
       },
       "original": "ルシャーティ……でも、あいつは……ヴァインは……！",
-      "translation": "루샤티…… 하지만 그 녀석은…… 바인은……！\n",
+      "translation": "루샤티…… 하지만 그 녀석은…… 바인은……!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -22219,7 +22219,7 @@
         "voice": "GC161316.ogg"
       },
       "original": "その名前を言わないでください！",
-      "translation": "그 이름을 말하지 마세요！\n",
+      "translation": "그 이름을 말하지 마세요!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -22267,7 +22267,7 @@
         "voice": "GC161319.ogg"
       },
       "original": "言わないで……ください……。",
-      "translation": "말하지 말아... 주세요...\n",
+      "translation": "말하지 말아…… 주세요…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -22423,7 +22423,7 @@
         "voice": "GC261508.ogg"
       },
       "original": "そして……最後にもう一度だけ私の手を握り……私の名前を呼んでくれたこと……！",
-      "translation": "그리고…… 마지막으로 한 번만 더 내 손을 잡고…… 내 이름을 불러준 것……！\n",
+      "translation": "그리고…… 마지막으로 한 번만 더 내 손을 잡고…… 내 이름을 불러준 것……!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -22639,7 +22639,7 @@
         "voice": "GC261512.ogg"
       },
       "original": "呼んで……あげて……。そして……忘れないであげて……。",
-      "translation": "불러줘…… 줘……. 그리고…… 잊지 말아줘…….\n",
+      "translation": "불러…… 줘……. 그리고…… 잊지 말아줘…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -22681,7 +22681,7 @@
         "voice": "GC161336.ogg"
       },
       "original": "ヴァイン……ヴァイン……ヴァイン……！",
-      "translation": "바인…… 바인…… 바인……！\n",
+      "translation": "바인…… 바인…… 바인……!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -22723,7 +22723,7 @@
         "voice": "GC261514.ogg"
       },
       "original": "本当に、もう大丈夫なの？",
-      "translation": "정말, 이제 괜찮은 거야？\n",
+      "translation": "정말, 이제 괜찮은 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -22789,7 +22789,7 @@
         "voice": "GC261515.ogg"
       },
       "original": "うんうん、あの性悪だったら、絶対それぐらいやるわよ。",
-      "translation": "응응, 그 성격이라면 분명 그 정도는 할 거야.\n",
+      "translation": "응응, 그 심술쟁이라면 분명 그 정도는 할 거야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -22849,7 +22849,7 @@
         "voice": "GC161340.ogg"
       },
       "original": "行くって……どこに？",
-      "translation": "간다니…… 어디로？\n",
+      "translation": "간다니…… 어디로?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -22897,7 +22897,7 @@
         "voice": "GC161341.ogg"
       },
       "original": "いったい、『ヴァル・ファスク』は何をしようとしてるんだい？",
-      "translation": "대체, 『발・파스크』가 무엇을 하려는 거지？\n",
+      "translation": "대체, 『발・파스크』가 무엇을 하려는 거지?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -22921,7 +22921,7 @@
         "voice": "GC161341.ogg"
       },
       "original": "……まさか！？",
-      "translation": "……설마！？\n",
+      "translation": "……설마!?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -22987,7 +22987,7 @@
         "voice": "GC161344.ogg"
       },
       "original": "かつて、この銀河を暗黒時代におとしいれた、未曾有の災厄――",
-      "translation": "과거에,이 은하를 암흑시대로 몰아넣었던, 미증유의 재앙――",
+      "translation": "과거에, 이 은하를 암흑시대로 몰아넣었던 미증유의 재앙――",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -23089,7 +23089,7 @@
         "voice": "GC161701.ogg"
       },
       "original": "そんな、恐れ多い。これもランファが……いえ、エンジェル隊のみんなのおかげです。",
-      "translation": "천만의 말씀입니다. 이것도 란파가…… 아니, 엔젤대 모두 덕분입니다.\n",
+      "translation": "천만의 말씀입니다. 이것도 란파가…… 아니, 엔젤대 모두가 있었기 때문입니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -23149,7 +23149,7 @@
         "voice": "GC161703.ogg"
       },
       "original": "タクト、連中を迎えに行かなくてもいいのか？",
-      "translation": "택트, 녀석들을 데리러 안 가도 돼？",
+      "translation": "택트, 녀석들을 데리러 안 가도 돼?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -23191,7 +23191,7 @@
         "voice": "GC161704.ogg"
       },
       "original": "構わぬ。皆をねぎらってやるがよい。",
-      "translation": "상관없다. 모두를 격려해주도록해라.",
+      "translation": "상관없다. 모두를 치하해 줘라.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -23227,7 +23227,7 @@
         "voice": "GC161704.ogg"
       },
       "original": "やったね、みんな！　大勝利だよ！",
-      "translation": "해냈어, 얘들아！ 대승리야！\n",
+      "translation": "해냈어, 얘들아! 대승리야!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -23245,7 +23245,7 @@
         "voice": "GC261900.ogg"
       },
       "original": "タクト～！",
-      "translation": "택트～！\n",
+      "translation": "택트～!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -23263,7 +23263,7 @@
         "voice": "GC261900.ogg"
       },
       "original": "ランファ！　大丈夫だったかい？　ケガとかしてないだろうね？",
-      "translation": "란파！ 괜찮은 거야？ 다치거나 하진 않았고？\n",
+      "translation": "란파! 괜찮은 거야? 다치거나 하진 않았고?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -23377,7 +23377,7 @@
         "voice": "GC261903.ogg"
       },
       "original": "……いいなあ、ランファだけあたしたちより愛情５割増しなお迎えで。",
-      "translation": "……좋겠다, 란파만 우리보다 애정 ５할은 더 많은 환영이라니.\n",
+      "translation": "……좋겠다, 란파만 우리보다 애정 5할 더 얹은 환영이라니.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -23437,7 +23437,7 @@
         "voice": "GC161805.ogg"
       },
       "original": "ないのですか？",
-      "translation": "없는 건가요？\n",
+      "translation": "없는 건가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -23521,7 +23521,7 @@
         "voice": "GC261905.ogg"
       },
       "original": "ちとせ、気が利くね～。",
-      "translation": "치토세,눈치가빠르네～.",
+      "translation": "치토세, 눈치 빠르네～.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -23557,7 +23557,7 @@
         "voice": "GC261907.ogg"
       },
       "original": "少しぐらいは悪びれたらどうだい？　まっ、もう慣れたけどね。",
-      "translation": "조금은 미안한 기색을 보이면 어때？ 뭐, 이제 익숙해졌지만.\n",
+      "translation": "조금은 미안한 기색을 보이면 어때? 뭐, 이제 익숙해졌지만.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -23659,7 +23659,7 @@
         "voice": "GC161813.ogg"
       },
       "original": "なんでしょうか？",
-      "translation": "무슨일이신가요？",
+      "translation": "무슨 일이신가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -23719,7 +23719,7 @@
         "voice": "GC161814.ogg"
       },
       "original": "よしなよ、くすぐったい。",
-      "translation": "그만해, 간지럽다고.\n",
+      "translation": "그만해, 낯간지럽다고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -23737,7 +23737,7 @@
         "voice": "GC261909.ogg"
       },
       "original": "もう、当然のことをしただけですよ。",
-      "translation": "정말이지, 당연한 일을했을뿐이에요.",
+      "translation": "정말, 당연한 일을 했을 뿐이에요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -23797,7 +23797,7 @@
         "voice": "GC161816.ogg"
       },
       "original": "タクトさん……？",
-      "translation": "택트 씨……？",
+      "translation": "택트 씨……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -23977,7 +23977,7 @@
         "voice": "GC161822.ogg"
       },
       "original": "私たちにできることをやるだけです……。",
-      "translation": "저희가 할 수 있는 일을 할뿐입니다…….",
+      "translation": "저희가 할 수 있는 일만 합니다…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -24157,7 +24157,7 @@
         "voice": "GC261913.ogg"
       },
       "original": "ええ……。",
-      "translation": "그래...",
+      "translation": "응…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -24175,7 +24175,7 @@
         "voice": "GC261913.ogg"
       },
       "original": "ランファ？",
-      "translation": "란파？\n",
+      "translation": "란파?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -24373,7 +24373,7 @@
         "voice": "GC261920.ogg"
       },
       "original": "ヴァインみたいに、大好きな人のためにその心を使ってほしい……そのために頑張りたい。……そう考えるのっておかしいかな？",
-      "translation": "바인처럼, 사랑하는 사람을 위해 그 마음을 쓰고 싶어…… 그래서 노력하고 싶어. ……그렇게 생각하는 건 이상할까？\n",
+      "translation": "바인처럼, 사랑하는 사람을 위해 그 마음을 써줬으면 해…… 그러기 위해 노력하고 싶어. ……그렇게 생각하는 건 이상할까?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -24469,7 +24469,7 @@
         "voice": "GC261921.ogg"
       },
       "original": "もう、そんなの当たり前でしょ？",
-      "translation": "정말이지, 그런 건 당연하잖아？\n",
+      "translation": "정말이지, 그런 건 당연하잖아?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -24487,7 +24487,7 @@
         "voice": "GC261922.ogg"
       },
       "original": "アタシたちは、未来永劫一緒なんだから。そこんとこ、忘れちゃダメよ？",
-      "translation": "우리는 영원히 함께니까. 그 점은 잊으면 안 돼？\n",
+      "translation": "우리는 영원히 함께니까. 그거 잊으면 안 돼?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -24511,7 +24511,7 @@
         "voice": "GC261923.ogg"
       },
       "original": "ねっ？",
-      "translation": "그치？\n",
+      "translation": "그치?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [

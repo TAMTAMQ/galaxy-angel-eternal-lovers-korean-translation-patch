@@ -137,7 +137,7 @@
         "voice": null
       },
       "original": "　突撃艦タイプ×４　　　戦艦タイプ×３",
-      "translation": "　돌격함형×４　　　전함형×３",
+      "translation": "　돌격함형×4　　　전함형×3",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -189,7 +189,7 @@
         "voice": "GC620001.ogg"
       },
       "original": "マイヤーズ司令、ちとせさんを信頼してるんですね～。",
-      "translation": "마이어스 사령관님, 치토세 씨를 신뢰하고 계시네요～\n",
+      "translation": "마이어스 사령관, 치토세 씨를 신뢰하고 계시네요～\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -867,7 +867,7 @@
         "voice": "GC120115.ogg"
       },
       "original": "いいのよ、仕事なんだから。でも、「徹底的に調べてくれ」だなんて、いつになく慎重なのね、マイヤーズ司令。",
-      "translation": "괜찮아요, 업무니까요. 하지만 「철저히 조사해 줘」라니, 평소답지 않게 신중하시네요, 마이어스 사령관님.\n",
+      "translation": "괜찮아요, 업무니까요. 하지만 「철저히 조사해 줘」라니, 평소답지 않게 신중하시네요, 마이어스 사령관.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1653,7 +1653,7 @@
         "voice": "GC120141.ogg"
       },
       "original": "……そうだね、姉さん。",
-      "translation": "……그렇네, 언니.",
+      "translation": "……그렇네, 누나.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2109,7 +2109,7 @@
         "voice": "GC120154.ogg"
       },
       "original": "……姉さん。",
-      "translation": "……언니.",
+      "translation": "……누나.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2301,7 +2301,7 @@
         "voice": "GC120159.ogg"
       },
       "original": "ちょ、ちょっと！",
-      "translation": "잠, 잠깐만！",
+      "translation": "자, 잠깐만!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2373,7 +2373,7 @@
         "voice": "GC620145.ogg"
       },
       "original": "え！？　先輩方！！　一体、ここでなにを！？",
-      "translation": "에！？ 선배님들！！ 대체 여기서 뭘！？\n",
+      "translation": "어!? 선배들!! 대체 여기서 뭘!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3225,7 +3225,7 @@
         "voice": "GC120218.ogg"
       },
       "original": "わかりました。さあ、姉さん。",
-      "translation": "알겠습니다. 자, 언니.",
+      "translation": "알겠습니다. 자, 누나.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3729,7 +3729,7 @@
         "voice": "GC620306.ogg"
       },
       "original": "ラ、ランファ先輩～～～～～！",
-      "translation": "란, 란파 선배～～～～～！\n",
+      "translation": "라, 란파 선배～～～～～!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3951,7 +3951,7 @@
         "voice": "GC120317.ogg"
       },
       "original": "……どうぞ。",
-      "translation": "…부탁합니다",
+      "translation": "……네.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -4215,7 +4215,7 @@
         "voice": "GC120327.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -4359,7 +4359,7 @@
         "voice": "GC120334.ogg"
       },
       "original": "姉さん……。",
-      "translation": "언니…….",
+      "translation": "누나…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -4971,7 +4971,7 @@
         "voice": "GC620353.ogg"
       },
       "original": "えぇっ！　なにを言うんだい？　ランファ。",
-      "translation": "에엣！ 무슨 소리야？ 란파.\n",
+      "translation": "어!? 무슨 소리야? 란파.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5685,7 +5685,7 @@
         "voice": "GC620371.ogg"
       },
       "original": "以上、総勢６名。彼女たちが銀河最強のエンジェル隊さ。",
-      "translation": "이상, 총 ６명. 그녀들이 은하 최강의 엔젤대야.",
+      "translation": "이상, 총 6명. 그녀들이 은하 최강의 엔젤대야.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5985,7 +5985,7 @@
         "voice": "GC620379.ogg"
       },
       "original": "そ、そんな……！　めっそうもございません。私なんて、まだ先輩方の足下にもおよびませんっ！",
-      "translation": "그, 그럴 리가……！ 당치도 않습니다. 저는 아직 선배님들의 발끝에도 못 미치는걸요！\n",
+      "translation": "그, 그럴 리가……! 당치도 않습니다. 저는 아직 선배들의 발끝에도 못 미치는걸요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6033,7 +6033,7 @@
         "voice": "GC620380.ogg"
       },
       "original": "謙遜なんかじゃありません。私は本当にまだ未熟者で……！　先輩方にまだまだ教えていただきたいことがたくさんあります。",
-      "translation": "겸손이 아닙니다. 저는 정말 아직 미숙해서……！ 선배님들께 배울 점이 아주 많습니다.\n",
+      "translation": "겸손이 아닙니다. 저는 정말 아직 미숙해서……! 선배들께 배울 점이 아주 많습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6207,7 +6207,7 @@
         "voice": "GC620387.ogg"
       },
       "original": "え、えぇえー！？　ランファ先輩っ、それって……。",
-      "translation": "에, 에에엑！？ 란파 선배님, 그건…….\n",
+      "translation": "어, 어어억!? 란파 선배, 그건…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6987,7 +6987,7 @@
         "voice": "GC620407.ogg"
       },
       "original": "タクトがあんなことするから、ちとせがやきもちやいてるみたいだよ？",
-      "translation": "택트 님이 저러니까 치토세가 질투하는 것 같아!\n",
+      "translation": "택트가 저러니까 치토세가 질투하는 것 같아!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7011,7 +7011,7 @@
         "voice": "GC620407.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7113,7 +7113,7 @@
         "voice": "GC320434.ogg"
       },
       "original": "タクトさん、どうも、姉がご迷惑を……。",
-      "translation": "택트 씨, 정말이지, 언니가 폐를……\n",
+      "translation": "택트 씨, 정말이지, 누나가 폐를……\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7629,7 +7629,7 @@
         "voice": "GC320453.ogg"
       },
       "original": "……確かに、そうですね。どう、姉さん？",
-      "translation": "……확실히, 그렇네요. 어때요, 언니？\n",
+      "translation": "……확실히 그렇네요. 어때요, 누나?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8013,7 +8013,7 @@
         "voice": "GC120468.ogg"
       },
       "original": "……いこう、姉さん。",
-      "translation": "...가자, 언니.",
+      "translation": "……가자, 누나.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8583,7 +8583,7 @@
         "voice": "GC120503.ogg"
       },
       "original": "……まるで我が事のように笑うんですね。",
-      "translation": "...마치 남 일처럼 웃으시네요.",
+      "translation": "……마치 제 일처럼 웃으시네요.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9147,7 +9147,7 @@
         "voice": "GC620609.ogg"
       },
       "original": "え！？　そんなことは……。",
-      "translation": "에！？ 그럴 리가...\n",
+      "translation": "어!? 그럴 리가……\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9183,7 +9183,7 @@
         "voice": "GC620610.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9501,7 +9501,7 @@
         "voice": "GC620621.ogg"
       },
       "original": "えっ！　こ、恋の病！？　ちとせは誰か好きな奴がいるのか！？　まさかレスター！？そ、それとも、宇宙コンビニの店員さん！？",
-      "translation": "엣！ 사, 사랑병！？ 치토세가 누군가를 좋아하는 거야！？ 설마 레스터！？ 아, 아니면 우주 편의점 점원분！？\n",
+      "translation": "어! 사, 사랑병!? 치토세가 누군가를 좋아하는 거야!? 설마 레스터!? 아, 아니면 우주 편의점 점원 씨!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10827,7 +10827,7 @@
         "voice": "GC620661.ogg"
       },
       "original": "え！？",
-      "translation": "에！？\n",
+      "translation": "어!?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11559,7 +11559,7 @@
         "voice": "GC620703.ogg"
       },
       "original": "先日は途中までだったので、今日はＡブロックをご案内します。",
-      "translation": "지난번엔 도중까지였으니, 오늘은 Ａ 블록을 안내하겠습니다.",
+      "translation": "지난번엔 도중까지였으니, 오늘은 A 블록을 안내하겠습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11625,7 +11625,7 @@
         "voice": "GC120754.ogg"
       },
       "original": "ええ、姉はまだ寝ています。色々ありすぎて、体に負担がかかっているのだと思います。",
-      "translation": "네, 언니는 아직 자고 있어요. 여러 일이 겹쳐서 몸에 무리가 간 것 같아요.\n",
+      "translation": "네, 누나는 아직 자고 있어요. 여러 일이 겹쳐서 몸에 무리가 간 것 같아요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11697,7 +11697,7 @@
         "voice": "GC120755.ogg"
       },
       "original": "はい……そこに、安らぎはなかったと姉は言っていました。",
-      "translation": "네…… 그곳에는 안식은 없었다고 언니가 말했어요.\n",
+      "translation": "네…… 그곳에는 안식은 없었다고 누나가 말했어요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11823,7 +11823,7 @@
         "voice": "GC620705.ogg"
       },
       "original": "あれ？　Ａブロックに行くなら反対側のエレベータを使ったほうが近いんじゃないか？",
-      "translation": "어라？ Ａ 블록에 가려면 반대쪽 엘리베이터를 쓰는 게 더 가깝지 않아？\n",
+      "translation": "어라? A 블록에 가려면 반대쪽 엘리베이터를 쓰는 게 더 가깝지 않아?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11889,7 +11889,7 @@
         "voice": "GC620707.ogg"
       },
       "original": "はい。昨日、クールダラス副司令から通達がありました。",
-      "translation": "네. 어제 쿨다라스 부사령님께 통달이 있었습니다.",
+      "translation": "네. 어제 쿨다라스 부사령관의 통지가 있었습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11979,7 +11979,7 @@
         "voice": "GC620710.ogg"
       },
       "original": "え……！？",
-      "translation": "에……!?",
+      "translation": "어……!?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12321,7 +12321,7 @@
         "voice": "GC120766.ogg"
       },
       "original": "それでしたら、ご用のあとで構いませんので、姉に会ってもらえないでしょうか？",
-      "translation": "그렇다면 용무가 끝나신 뒤에라도 좋으니, 언니를 좀 만나주실 수 있을까요？\n",
+      "translation": "그렇다면 용무가 끝나신 뒤에라도 좋으니, 누나를 좀 만나주실 수 있을까요?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12363,7 +12363,7 @@
         "voice": "GC120767.ogg"
       },
       "original": "新しい環境に、まだ姉の心は完全にほぐれていないようでして……。",
-      "translation": "새로운 환경에 언니의 마음이 아직 다 풀리지 않은 것 같아서요...",
+      "translation": "새 환경에 누나의 마음이 아직 다 풀리지 않은 것 같아서요……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12387,7 +12387,7 @@
         "voice": "GC120768.ogg"
       },
       "original": "その……エンジェル隊のバラエティーに富んだ女性陣を引きつけるタクトさんであれば、姉もきっと……と思いまして。",
-      "translation": "그게... 엔젤대의 다채로운 여성진을 매료시키는 택트 씨라면, 언니도 분명...\n",
+      "translation": "그게…… 엔젤대의 다채로운 여성진을 매료시키는 택트 씨라면, 누나도 분명……\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13725,7 +13725,7 @@
         "voice": "GC620902.ogg"
       },
       "original": "ふぅー。久々にこうやってちとせとのんびりできるのは嬉しいな。",
-      "translation": "후우―. 오랜만에 치토세와 느긋하게 지내니 기쁘네.",
+      "translation": "후우ー. 오랜만에 치토세와 느긋하게 지내니 기쁘네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14157,7 +14157,7 @@
         "voice": "GC620913.ogg"
       },
       "original": "え……！",
-      "translation": "에……！\n",
+      "translation": "어……!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15015,7 +15015,7 @@
         "voice": "GC620935.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15063,7 +15063,7 @@
         "voice": "GC620936.ogg"
       },
       "original": "あー、あのことか。うん、別に気にしてないよ。",
-      "translation": "아─, 그 일 말이지. 응, 별로 신경 안 써.\n",
+      "translation": "아ー, 그 일 말이지. 응, 별로 신경 안 써.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15135,7 +15135,7 @@
         "voice": "GC620939.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15171,7 +15171,7 @@
         "voice": "GC620940.ogg"
       },
       "original": "紋章機のＨ．Ａ．Ｌ．Ｏ．システムは、乗る者のテンションが直接関係すると聞きました。",
-      "translation": "문장기의 Ｈ.Ａ.Ｌ.Ｏ. 시스템은 타는 사람의 텐션이 직접 관계된다고 들었습니다.\n",
+      "translation": "문장기의 H.A.L.O. 시스템은 타는 사람의 텐션이 직접 관계된다고 들었습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15621,7 +15621,7 @@
         "voice": "GC121102.ogg"
       },
       "original": "距離、およそ５０００。次々にドライヴ・アウトしてきます！",
-      "translation": "거리약 ５０００. 차례차례 드라이브・아웃하고 있습니다！",
+      "translation": "거리 약 5000. 차례차례 드라이브・아웃하고 있습니다!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -15885,7 +15885,7 @@
         "voice": "GC621001.ogg"
       },
       "original": "マイヤーズ司令！　シャープシューターの出力が３０パーセントダウン！　これ以上あがりません！",
-      "translation": "마이어스 사령관님！ 샤프 슈터의 출력이 ３０퍼센트 저하！ 더 이상 올라가지 않습니다！\n",
+      "translation": "마이어스 사령관! 샤프 슈터의 출력이 30퍼센트 저하! 더 이상 올라가지 않습니다!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16551,7 +16551,7 @@
         "voice": "GC121128.ogg"
       },
       "original": "あー、聞こえるかい、みんな？",
-      "translation": "아─, 들리나, 모두？\n",
+      "translation": "아ー, 들리나, 모두?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -16611,7 +16611,7 @@
         "voice": "GC121254.ogg"
       },
       "original": "さあ、どうすんだい、司令官どの？",
-      "translation": "자, 어쩔 건가요, 사령관님？\n",
+      "translation": "자, 어쩔 건가요, 사령관나리?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [

@@ -48,7 +48,7 @@
         "voice": null
       },
       "original": "さて、クロミエに会っていこうかな……？管理室にいるはずだ。",
-      "translation": "자, 크로미에를 만나러 가볼까……？ 관리실에 있을 거야.\n",
+      "translation": "자, 크로미에를 만나러 가볼까……? 관리실에 있을 거야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -96,7 +96,7 @@
         "voice": "GAX01002.ogg"
       },
       "original": "今日はどんなご用ですか？宇宙クジラに、エンジェル隊のみなさんの気持ちを聞いてみましょうか？",
-      "translation": "오늘은 어떤 용건인가요？ 우주 고래에게, 엔젤대 여러분의 마음을 물어볼까요？\n",
+      "translation": "오늘은 어떤 용건인가요? 우주 고래에게 엔젤대 여러분의 마음을 물어볼까요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -126,7 +126,7 @@
         "voice": "GAX01003.ogg"
       },
       "original": "ところで、タクトさん。宇宙クジラに、エンジェル隊のみなさんの気持ちを聞いてみますか？",
-      "translation": "그런데, 택트 씨. 우주 고래에게, 엔젤대 여러분의 마음을 물어보시겠어요？\n",
+      "translation": "그런데 택트 씨. 우주 고래에게 엔젤대 여러분의 마음을 물어보시겠어요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -246,7 +246,7 @@
         "voice": null
       },
       "original": "みんなの気持ちを聞くって、なに？",
-      "translation": "모두의 마음을 듣는다는 게 뭐야？",
+      "translation": "모두의 마음을 듣는다는 게 뭐야?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -264,7 +264,7 @@
         "voice": "GAX01003.ogg"
       },
       "original": "ところで……宇宙クジラにみんなの気持ちを聞くって、なんのことだっけ？ひさしぶりだから、忘れちゃって。",
-      "translation": "그건 그렇고…… 우주 고래에게 모두의마음을 묻는다는 건, 무슨 말이었더라？오랜만이라 잊어버려서.",
+      "translation": "그건 그렇고…… 우주 고래에게 모두의 마음을 묻는다는 건, 무슨 말이었더라? 오랜만이라 잊어버려서.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -324,7 +324,7 @@
         "voice": "GB990101.ogg"
       },
       "original": "それぞれの表情は、タクトさんのことをどれだけ信頼しているかを表します……表情が明るいほど、信頼していることになります。",
-      "translation": "각자의 표정은 택트 씨를 얼마나 신뢰하고있는지를 나타냅니다…… 표정이 밝을수록,신뢰하고 있다는 뜻이 됩니다.",
+      "translation": "각자의 표정은 택트 씨를 얼마나 신뢰하는지 나타냅니다…… 표정이 밝을수록 신뢰한다는 뜻입니다.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -468,7 +468,7 @@
         "voice": "GB990106.ogg"
       },
       "original": "みなさんに対して、どう接するかによって、表情やグラフは変化していきます。ときどきチェックされることをお勧めします。",
-      "translation": "여러분에 대해 어떻게 대하느냐에 따라표정이나 그래프는 변화해 갑니다. 가끔확인해 보시는 것을 추천합니다.",
+      "translation": "여러분을 어떻게 대하느냐에 따라 표정이나 그래프는 변합니다. 가끔 확인해 보시길 권합니다.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -528,7 +528,7 @@
         "voice": "GB990107.ogg"
       },
       "original": "お願いするよ。宇宙クジラに聞いてみてくれないか？",
-      "translation": "부탁할게. 우주 고래에게 물어봐 주지 않을래？\n",
+      "translation": "부탁할게. 우주 고래에게 물어봐 주지 않을래?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -576,7 +576,7 @@
         "voice": "GAX01005.ogg"
       },
       "original": "……という感じみたいです。もう一度、ご覧になりますか？",
-      "translation": "……라는 느낌인 것 같습니다. 다시 한번 보시겠어요？\n",
+      "translation": "……라는 느낌인 것 같습니다. 다시 한번 보시겠어요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -738,7 +738,7 @@
         "voice": "GAX01006.ogg"
       },
       "original": "ふぅ……なんだか疲れた。大した時間も取れないけど、少し休もうかな？",
-      "translation": "후우…… 왠지 피곤하네. 긴 시간을 낼수는 없지만, 조금 쉴까？",
+      "translation": "후우…… 왠지 피곤하네. 긴 시간을 낼 수는 없지만, 조금 쉴까?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -762,7 +762,7 @@
         "voice": null
       },
       "original": "まだ大丈夫",
-      "translation": "아직괜찮아",
+      "translation": "괜찮아",
       "state": "draft",
       "use_translation": true,
       "storage": [

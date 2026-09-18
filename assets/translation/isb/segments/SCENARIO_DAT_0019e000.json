@@ -1713,7 +1713,7 @@
         "voice": "GC470101.ogg"
       },
       "original": "ああ、なんだか足が向いてね。",
-      "translation": "아아, 왠지 발길이 안 가네.",
+      "translation": "아아, 왠지 발길이 가더라고.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1833,7 +1833,7 @@
         "voice": "GC470104.ogg"
       },
       "original": "……きれいな星空だね。",
-      "translation": "……아름다운 별자리네.",
+      "translation": "……예쁜 별하늘이네.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1905,7 +1905,7 @@
         "voice": "GC470106.ogg"
       },
       "original": "この星空は……ヴァル・ヴァロス星系の星空かい？",
-      "translation": "이 별자리는…… 발・바로스 성계의 별자리니？",
+      "translation": "이 별하늘은…… 발・바로스 성계의 별하늘이니?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1995,7 +1995,7 @@
         "voice": "GC470108.ogg"
       },
       "original": "不思議な気分だね……。行ったこともない場所の星空がこうして見られるんだから。",
-      "translation": "신비로운 기분이야……. 가본 적도 없는 장소의 별자리를 이렇게 볼 수 있다니.",
+      "translation": "신비로운 기분이야……. 가본 적도 없는 곳의 별하늘을 이렇게 볼 수 있다니.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2415,7 +2415,7 @@
         "voice": "GC470116.ogg"
       },
       "original": "使う……そう思うよ。",
-      "translation": "쓸 거야…… 그럴게.",
+      "translation": "쓸 거야…… 분명.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2655,7 +2655,7 @@
         "voice": "GC470121.ogg"
       },
       "original": "あの、小さな希望を守るために戦うんだ。",
-      "translation": "저기, 작은 희망을지키기위해싸우는거야.",
+      "translation": "그 작은 희망을 지키려 싸우는 거야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3039,7 +3039,7 @@
         "voice": "GC470132.ogg"
       },
       "original": "わかった。了解したよ、司令官どの。ふたりで行こうじゃないか。",
-      "translation": "알았어. 확인했다, 사령관님. 둘이서 가자고.\n",
+      "translation": "알았어. 확인했다, 사령관나리. 둘이서 가자고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3117,7 +3117,7 @@
         "voice": "GC470133.ogg"
       },
       "original": "銀河を守る……か。そういうことなら、さしずめフォルテたちは、ギャラクシーエンジェルってところかな。",
-      "translation": "은하를 지킨다……라. 그렇다면, 말하자면 포르테 일행이 갤러시 엔젤라는 건가.\n",
+      "translation": "은하를 지킨다……라. 그렇다면 포르테 일행은 갤럭시 엔젤인 셈인가.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3393,7 +3393,7 @@
         "voice": "GC470140.ogg"
       },
       "original": "小さな希望を守るために",
-      "translation": "작은 희망을 지키기위해",
+      "translation": "작은 희망 지키기",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3939,7 +3939,7 @@
         "voice": "GC470207.ogg"
       },
       "original": "絶対アタシたちであいつを止めてみせます！",
-      "translation": "반드시 우리들이 저녀석을막아보이겠어요！",
+      "translation": "반드시 우리가 저 녀석을 막아 보이겠어요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4131,7 +4131,7 @@
         "voice": "GC170427.ogg"
       },
       "original": "あなた方に、この銀河の未来を託します。",
-      "translation": "당신들에게 이은하의미래를맡기겠습니다.",
+      "translation": "당신들에게 은하의 미래를 맡깁니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4407,7 +4407,7 @@
         "voice": "GC470310.ogg"
       },
       "original": "光の中へ",
-      "translation": "빛속으로",
+      "translation": "빛으로",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4911,7 +4911,7 @@
         "voice": "GC170522.ogg"
       },
       "original": "マイヤーズ司令！　……その、ご無事で。",
-      "translation": "마이어스 사령관님！ ……그,무사하시길.",
+      "translation": "마이어스 사령관! ……그, 무사하시길.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5145,7 +5145,7 @@
         "voice": "GC470319.ogg"
       },
       "original": "さあ、ふたりでいっちょ派手にぶちかまそうじゃないか！　覚悟はいいかい？　司令官どの。",
-      "translation": "자, 둘이서 화끈하게 날려버리자고！ 각오는 됐나？ 사령관님.\n",
+      "translation": "자, 둘이서 화끈하게 날려버리자고! 각오는 됐나? 사령관나리.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5217,7 +5217,7 @@
         "voice": "GC470320.ogg"
       },
       "original": "こんな時だからさ。フォルテと一緒ならなんでもできる。",
-      "translation": "이런 때니까 말이야. 포르테와 함께라면 뭐든 할수있어.",
+      "translation": "이런 때니까. 포르테와 함께면 뭐든 할 수 있어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5403,7 +5403,7 @@
         "voice": "GC170537.ogg"
       },
       "original": "癒しの光よ……リペアウェーブ！",
-      "translation": "치유의빛이여……리페어웨이브！",
+      "translation": "치유의 빛이여……리페어웨이브!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5643,7 +5643,7 @@
         "voice": "GC470331.ogg"
       },
       "original": "あいよ、了解！",
-      "translation": "알았어, 라져！\n",
+      "translation": "알았어, 맡겨!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5991,7 +5991,7 @@
         "voice": "GC470347.ogg"
       },
       "original": "待ってくださいよ～、ねえ！",
-      "translation": "기다려달라니까요～, 네！\n",
+      "translation": "기다려달라니까요～, 제발!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6213,7 +6213,7 @@
         "voice": "GC470353.ogg"
       },
       "original": "……あちゃー、本当に異空間に跳んじゃったかー。",
-      "translation": "……아차, 정말로 이공간으로 튀어버린 건가—.\n",
+      "translation": "……아차, 정말 이공간으로 날아온 건가ー.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6423,7 +6423,7 @@
         "voice": "GC470405.ogg"
       },
       "original": "頼りにしてるよ、司令官どの。",
-      "translation": "믿고 있을게, 사령관님.\n",
+      "translation": "믿고 있을게, 사령관나리.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6459,7 +6459,7 @@
         "voice": "GC470406.ogg"
       },
       "original": "で、司令官どの。この状況、どう切り抜ける？",
-      "translation": "그래서사령관님.이상황,어떻게헤쳐나갈거야？",
+      "translation": "사령관나리, 이 상황 어쩔 거야?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6651,7 +6651,7 @@
         "voice": "GC170632.ogg"
       },
       "original": "遅くなってすまぬ……アナザースペースの解析作業に手間取ってな。",
-      "translation": "늦어서 미안하다…… 애너서 스페이스 해석 때문에 좀 걸렸어.",
+      "translation": "늦어서 미안하다…… 어나더 스페이스 해석 때문에 좀 걸렸다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

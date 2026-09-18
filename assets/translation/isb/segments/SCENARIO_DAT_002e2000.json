@@ -30,7 +30,7 @@
         "voice": null
       },
       "original": "誰を選ぶのか、君は！",
-      "translation": "넌 누구를 고르지！",
+      "translation": "넌 누구를 고르지!",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [
@@ -120,7 +120,7 @@
         "voice": null
       },
       "original": "違う！",
-      "translation": "아냐！",
+      "translation": "아냐!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -174,7 +174,7 @@
         "voice": null
       },
       "original": "違う！",
-      "translation": "아냐！",
+      "translation": "아냐!",
       "state": "draft",
       "use_translation": true,
       "storage": [

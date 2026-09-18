@@ -348,7 +348,7 @@
         "voice": null
       },
       "original": "　戦闘機×２　　　　　　突撃艦×３",
-      "translation": "　전투기×２　　　　돌격함×３",
+      "translation": "　전투기×2　　　　돌격함×3",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -366,7 +366,7 @@
         "voice": null
       },
       "original": "　戦艦×２",
-      "translation": "　전함×２",
+      "translation": "　전함×2",
       "state": "draft",
       "use_translation": true,
       "storage": [

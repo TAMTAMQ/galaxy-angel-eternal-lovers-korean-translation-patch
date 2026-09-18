@@ -873,7 +873,7 @@
         "voice": "GC660108.ogg"
       },
       "original": "障害を受けて以来、どこか不安定だったところも安定してきているとは思う。しかし……。",
-      "translation": "장애 이후 불안정했던 부분도 안정되어 가고 있다고 생각해. 하지만…….",
+      "translation": "이상이 생긴 뒤 불안정했던 부분도 안정돼 가는 것 같아. 하지만…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1161,7 +1161,7 @@
         "voice": "GC660117.ogg"
       },
       "original": "ありがとうございます！　最近、毎日レスターさんからいただける恋文がとっても楽しみなんですよ。",
-      "translation": "감사합니다！ 요즘 매일 레스터 씨께 받는 연애편지가 정말 기대된다고요.\n",
+      "translation": "감사합니다！ 요즘 매일 레스터 씨께 받는 연서가 정말 기대된다고요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1209,7 +1209,7 @@
         "voice": "GC660119.ogg"
       },
       "original": "あの、つかぬことをお聞きしますが、レスターさんは恋文を書く時、どんなことを考えておられるのですか……？",
-      "translation": "저기, 갑작스러운 질문입니다만, 레스터 씨는 연애편지를 쓰실 때 어떤 생각을 하시나요……？\n",
+      "translation": "저기, 갑작스러운 질문입니다만, 레스터 씨는 연서를 쓰실 때 어떤 생각을 하시나요……？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1239,7 +1239,7 @@
         "voice": "GC660120.ogg"
       },
       "original": "え？　いや、それは……だな。",
-      "translation": "에？ 아니, 그건…… 말이지.\n",
+      "translation": "어？ 아니, 그건…… 말이지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1401,7 +1401,7 @@
         "voice": "GC660124.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1611,7 +1611,7 @@
         "voice": "GC660131.ogg"
       },
       "original": "え？　そうなんだ。レスター、チェスなんてやるんだっけ？",
-      "translation": "에？ 그렇구나. 레스터, 체스 같은 거 뒀었나？\n",
+      "translation": "어？ 그렇구나. 레스터, 체스 같은 거 뒀었나？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1653,7 +1653,7 @@
         "voice": "GC660133.ogg"
       },
       "original": "え！？　そ、そんな……。レスターさん、チェスをやりませんでしたっけ……？",
-      "translation": "에！？ 그, 그럴 수가……. 레스터 씨, 체스를 두지 않으셨나요……？\n",
+      "translation": "어！？ 그, 그럴 수가……. 레스터 씨, 체스를 두지 않으셨나요……？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2331,7 +2331,7 @@
         "voice": "GC660209.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2481,7 +2481,7 @@
         "voice": "GC660213.ogg"
       },
       "original": "え？　あれが……？",
-      "translation": "에？ 그게……？\n",
+      "translation": "어？ 그게……？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2937,7 +2937,7 @@
         "voice": "GC660222.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3255,7 +3255,7 @@
         "voice": "GC660230.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3435,7 +3435,7 @@
         "voice": "GC660236.ogg"
       },
       "original": "え……？　タクトさん……？",
-      "translation": "에……？ 택트 씨……？\n",
+      "translation": "어……？ 택트 씨……？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3489,7 +3489,7 @@
         "voice": "GC660237.ogg"
       },
       "original": "えっ……？",
-      "translation": "엣……？",
+      "translation": "어……？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3507,7 +3507,7 @@
         "voice": "GC660238.ogg"
       },
       "original": "タ、タクトさん、そんなに見つめないでください……！",
-      "translation": "택, 택트 씨, 그렇게 쳐다보지 마세요……！\n",
+      "translation": "타, 택트 씨, 그렇게 쳐다보지 마세요……！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3807,7 +3807,7 @@
         "voice": "GC660302.ogg"
       },
       "original": "え……？",
-      "translation": "에……？",
+      "translation": "어……？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3843,7 +3843,7 @@
         "voice": "GC660303.ogg"
       },
       "original": "え？　なんてだい？",
-      "translation": "에？ 뭐라고？",
+      "translation": "어？ 뭐라고？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4185,7 +4185,7 @@
         "voice": "GC660312.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -4791,7 +4791,7 @@
         "voice": "GC660330.ogg"
       },
       "original": "ちとせさんのトラブルの原因がわかったからといって、障害を解消したわけではないんですもの。",
-      "translation": "치토세 씨의 트러블 원인을 알게 되었다고 해서, 장애를 해소한 건 아니니까요.\n",
+      "translation": "치토세 씨의 트러블 원인을 알았다고 해서, 이상을 해소한 건 아니니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5169,7 +5169,7 @@
         "voice": "GC160400.ogg"
       },
       "original": "おはようございます、マイヤーズ司令。",
-      "translation": "좋은 아침입니다, 마이어스 사령관님.",
+      "translation": "좋은 아침입니다, 마이어스 사령관.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5247,7 +5247,7 @@
         "voice": "GC160403.ogg"
       },
       "original": "強いて言えば、このＥＤＥＮに来るまで、ずっとブリッジで仕事をしていたマイヤーズ司令が一番変わったことだったかと。",
-      "translation": "굳이 말하자면, 이 EDEN에 오기 전까지 계속 함교에서 일만 하던 마이어스 사령관님이 가장 바뀐 점일까요.",
+      "translation": "굳이 말하자면, EDEN에 오기 전까지 계속 함교에서 일하던 마이어스 사령관이 가장 변한 점일까요.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5931,7 +5931,7 @@
         "voice": "GC660422.ogg"
       },
       "original": "え……！？",
-      "translation": "에……!?",
+      "translation": "어……!?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6033,7 +6033,7 @@
         "voice": "GC660429.ogg"
       },
       "original": "クールダラス副司令……。今まで、すみませんでした……。",
-      "translation": "쿨다라스 부사령관님……. 지금까지 죄송했습니다…….\n",
+      "translation": "쿨다라스 부사령관……. 지금까지 죄송했습니다…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6177,7 +6177,7 @@
         "voice": "GC660434.ogg"
       },
       "original": "だったらあの手紙は、一体誰が……？　副司令が、私の調子を崩させないために書いてくださっていたんですか？",
-      "translation": "그렇다면 그 편지는, 대체 누가……？ 부사령관님이 제가 충격을 받지 않게 대신 써주신 건가요？\n",
+      "translation": "그렇다면 그 편지는, 대체 누가……？ 부사령관이 제가 충격을 받지 않게 대신 써주신 건가요？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6297,7 +6297,7 @@
         "voice": "GC660438.ogg"
       },
       "original": "えっ！",
-      "translation": "엣！",
+      "translation": "어！",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7035,7 +7035,7 @@
         "voice": "GC660456.ogg"
       },
       "original": "ちとせに、オレの気持ちをはっきり伝えよう。もう一度、ちとせの気持ちを取り戻すんだ！",
-      "translation": "치토세에게 내 마음을 확실히 전하겠어. 다시 한번 치토세의 기억을 되찾는 거야！\n",
+      "translation": "치토세에게 내 마음을 확실히 전하겠어. 다시 한번 치토세의 마음을 되찾는 거야！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7107,7 +7107,7 @@
         "voice": "GC160508.ogg"
       },
       "original": "先輩方は相変わらず落ち着いていらっしゃってうらやましいです。私など、いまだに緊張してしまうというのに。",
-      "translation": "선배님들은 여전히 침착해 보이셔서 부럽습니다. 저 같은 건 아직도 긴장되는데 말이죠.\n",
+      "translation": "선배들은 여전히 침착해 보이셔서 부럽습니다. 저 같은 건 아직도 긴장되는데 말이죠.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7383,7 +7383,7 @@
         "voice": "GC160534.ogg"
       },
       "original": "それならよいのですが……マイヤーズ司令。",
-      "translation": "그렇다면 다행입니다만… 마이어스사령관님",
+      "translation": "그럼 다행입니다만…… 마이어스 사령관",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -7557,7 +7557,7 @@
         "voice": "GC160561.ogg"
       },
       "original": "先輩方がそうおっしゃるなら、私に異論はありません。",
-      "translation": "선배님들이 그렇다면 저도 이견은 없습니다.",
+      "translation": "선배들이 그렇다면 저도 이견은 없습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7989,7 +7989,7 @@
         "voice": "GC660608.ogg"
       },
       "original": "すごい気合いだな……。はしゃぎすぎて転ぶなよ。会場にたどり着かなかったら、意味ないんだからな……。",
-      "translation": "엄청난 기합이네……. 들떠서 넘어지지 마라. 회장에 도착 못 하면 의미 없으니까 말이야…….\n",
+      "translation": "엄청난 기합이네……. 들떠서 넘어지지 마라. 행사장에 못 가면 의미 없으니까 말이야…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8037,7 +8037,7 @@
         "voice": "GC660609.ogg"
       },
       "original": "じゃあ、さっさと会場に行け！　用件は以上だ。",
-      "translation": "그럼 얼른 회장으로 가！ 용건은 이상이다.\n",
+      "translation": "그럼 얼른 행사장으로 가！ 용건은 이상이다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8061,7 +8061,7 @@
         "voice": "GC660609.ogg"
       },
       "original": "よし！　会場に行くとするか！！",
-      "translation": "좋아！ 회장으로 갈까！！\n",
+      "translation": "좋아！ 행사장으로 갈까！！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8307,7 +8307,7 @@
         "voice": "GC660704.ogg"
       },
       "original": "ごちそう食べないんですか？　ケーキもおいしいですよ～！　あたし、もう３個目です！",
-      "translation": "음식 안 드세요？ 케이크도 맛있어요～！ 전 벌써 ３개째예요！\n",
+      "translation": "음식 안 드세요？ 케이크도 맛있어요～！ 전 벌써 3개째예요！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9249,7 +9249,7 @@
         "voice": "GC160744.ogg"
       },
       "original": "そんなわけで、タクトにもうひとつ宿題。７番機とクロノ・ブレイク・キャノンはもとより、ルシャーティも必ず救助するのよ。",
-      "translation": "그런 이유로 택트에게 숙제 하나 더. ７번기와 크로노・브레이크・캐논은 물론이고, 루샤티도 반드시 구출해야 해.\n",
+      "translation": "그런 이유로 택트에게 숙제 하나 더. 7번기와 크로노・브레이크・캐논은 물론이고, 루샤티도 반드시 구출해야 해.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9327,7 +9327,7 @@
         "voice": "GC160746.ogg"
       },
       "original": "あたしも今、クロノ・クェイクのかわりに、Ｈ．Ａ．Ｌ．Ｏ．関連を優先的に調べてるから。",
-      "translation": "나도 지금 크로노・퀘이크 대신 Ｈ.Ａ.Ｌ.Ｏ. 관련을 우선적으로 조사하고 있으니까.\n",
+      "translation": "나도 지금 크로노・퀘이크 대신 H.A.L.O. 관련을 우선적으로 조사하고 있으니까.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9357,7 +9357,7 @@
         "voice": "GC160747.ogg"
       },
       "original": "Ｈ．Ａ．Ｌ．Ｏ．を？",
-      "translation": "Ｈ.Ａ.Ｌ.Ｏ.를？\n",
+      "translation": "H.A.L.O.를？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -10377,7 +10377,7 @@
         "voice": "GC660811.ogg"
       },
       "original": "えっ！！　お、思いだしたって！？",
-      "translation": "엣！！ 서, 생각났다니！？\n",
+      "translation": "어！！ 서, 생각났다니！？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10503,7 +10503,7 @@
         "voice": "GC660814.ogg"
       },
       "original": "え！？",
-      "translation": "에！？\n",
+      "translation": "어！？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11439,7 +11439,7 @@
         "voice": "GC660849.ogg"
       },
       "original": "ギクッ！",
-      "translation": "기쿠！",
+      "translation": "움찔！",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11523,7 +11523,7 @@
         "voice": "GC660851.ogg"
       },
       "original": "クールダラス副司令、その節は、大変ご迷惑をおかけ致しました。",
-      "translation": "쿨다라스 부사령관님, 그때는 정말 실례 많았습니다.\n",
+      "translation": "쿨다라스 부사령관, 그때는 정말 실례 많았습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11805,7 +11805,7 @@
         "voice": "GC660860.ogg"
       },
       "original": "えっ！？",
-      "translation": "엣！？",
+      "translation": "어！？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12033,7 +12033,7 @@
         "voice": "GC161000.ogg"
       },
       "original": "結局、７番機なしで記憶を取り戻すことができた……そういうことなわけ？",
-      "translation": "결국, ７번기 없이 기억을 되찾을 수 있었다…… 그런 거야？\n",
+      "translation": "결국, 7번기 없이 기억을 되찾을 수 있었다…… 그런 거야？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12417,7 +12417,7 @@
         "voice": "GC161021.ogg"
       },
       "original": "えっ？　そ、それは……ねえ、タクト。",
-      "translation": "엣？ 그, 그건…… 저기, 택트.\n",
+      "translation": "어？ 그, 그건…… 저기, 택트.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12693,7 +12693,7 @@
         "voice": "GC161030.ogg"
       },
       "original": "あと残された問題は、クロノ・ブレイク・キャノンと７番機だけですわね。",
-      "translation": "남은 문제는 크로노・브레이크・캐논과 ７번기뿐이겠네요.\n",
+      "translation": "남은 문제는 크로노・브레이크・캐논과 7번기뿐이겠네요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13143,7 +13143,7 @@
         "voice": "GC461000.ogg"
       },
       "original": "タ、タクトさん……。",
-      "translation": "택, 택트 씨…….\n",
+      "translation": "타, 택트 씨…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13161,7 +13161,7 @@
         "voice": "GC461000.ogg"
       },
       "original": "みんなお疲れさん。それで、７番機のパイロットは……？",
-      "translation": "다들 수고했어. 그래서, ７번기의 파일럿은……？\n",
+      "translation": "다들 수고했어. 그래서, 7번기의 파일럿은……？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13503,7 +13503,7 @@
         "voice": "GC161138.ogg"
       },
       "original": "えっ……。",
-      "translation": "엣…….",
+      "translation": "어…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13659,7 +13659,7 @@
         "voice": "GC661201.ogg"
       },
       "original": "烏丸ちとせか……。",
-      "translation": "카라스마인가…….",
+      "translation": "치토세인가…….",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [
@@ -14763,7 +14763,7 @@
         "voice": "GC661216.ogg"
       },
       "original": "ヴァインさーーーーーーーーーーん！",
-      "translation": "바인 사아ーーーーーーーーーーㄴ！\n",
+      "translation": "바인 씨ーーーーーーーーーー！\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -14979,7 +14979,7 @@
         "voice": "GC661302.ogg"
       },
       "original": "では、７番機で『ヴァル・ファスク』から逃げてきたことも……。",
-      "translation": "그럼, ７번기로 『발・파스크』에서 도망쳐 온 것도…….\n",
+      "translation": "그럼, 7번기로 『발・파스크』에서 도망쳐 온 것도…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15963,7 +15963,7 @@
         "voice": "GC161701.ogg"
       },
       "original": "そんな、恐れ多い。これもちとせが……いえ、エンジェル隊のみんなのおかげです。",
-      "translation": "아니, 송구스럽게도. 이것도 치토세가…… 아니, 엔젤대 모두 덕분입니다.\n",
+      "translation": "과찬이십니다. 이것도 치토세가…… 아니, 엔젤대 모두 덕분입니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16413,7 +16413,7 @@
         "voice": "GC661705.ogg"
       },
       "original": "そ、そんな先輩方、私決して、そんなつもりは……！",
-      "translation": "서, 선배님들, 저는 결코 그럴 생각이……！\n",
+      "translation": "서, 선배들, 저는 결코 그럴 생각이……！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

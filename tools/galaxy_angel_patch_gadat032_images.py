@@ -432,6 +432,15 @@ def main() -> None:
                     if value:
                         image_manifest[Path(value).name.lower()] = entry
         by_name = {} if image_manifest else named_records(container, records)
+        # A container rebuild may relocate PIDX payloads while preserving the PIDX record
+        # order.  When a complete extraction resource manifest is available, map each old
+        # manifest offset to the corresponding current record by ordinal position.  This is
+        # required for SLG, whose name table does not cover every PIDX record.
+        relocated_by_manifest_offset: dict[int, int] = {}
+        if resources_by_offset and len(resources_by_offset) == len(records):
+            relocated_by_manifest_offset = dict(
+                zip(sorted(resources_by_offset), sorted(records), strict=True)
+            )
         if args.no_central_idx:
             # The per-stage battle banks are not listed in IDX.DAT at all, so there is no
             # mirror to keep in step.  Asserting that here means a container that *is* listed
@@ -476,10 +485,27 @@ def main() -> None:
                     offset = int(png_path.stem[6:], 16)
                 else:
                     raise SystemExit(f"manifest entry has no resource offset: {png_path.name}")
+                manifest_offset = offset
+                resource_entry = resources_by_offset.get(manifest_offset, {})
                 if offset not in records:
-                    raise SystemExit(f"manifest offset is not a PIDX record: {offset:#x}")
-                record, old_raw_size, old_compressed_size = records[offset]
-                resource_entry = resources_by_offset.get(offset, {})
+                    relocated_offset = relocated_by_manifest_offset.get(manifest_offset)
+                    if relocated_offset is None:
+                        relocated = by_name.get(tex_name)
+                        if relocated is None:
+                            raise SystemExit(
+                                f"manifest offset is not a PIDX record and no current relocation "
+                                f"could be resolved: {tex_name} at {manifest_offset:#x}"
+                            )
+                        offset, record, old_raw_size, old_compressed_size = relocated
+                    else:
+                        offset = relocated_offset
+                        record, old_raw_size, old_compressed_size = records[offset]
+                    print(
+                        f"  relocated {tex_name}: {manifest_offset:#x} -> {offset:#x}",
+                        flush=True,
+                    )
+                else:
+                    record, old_raw_size, old_compressed_size = records[offset]
                 resource_path = str(
                     manifest_entry.get("resource_path") or resource_entry.get("path") or ""
                 ).replace("\\", "/")

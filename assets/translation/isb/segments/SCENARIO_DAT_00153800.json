@@ -168,7 +168,7 @@
         "voice": "GC410002.ogg"
       },
       "original": "うーん、まあ、仕方ないよ。特別休暇とはいえ、３０日ものんきに休んでたんだから。仕事もたまるさ。",
-      "translation": "으음, 뭐 어쩔 수 없지. 특별 휴가라 해도 ３０일이나 쉬었으니 일도 쌓이기 마련이야.",
+      "translation": "으음, 뭐 어쩔 수 없지. 특별 휴가라 해도 30일이나 쉬었으니 일도 쌓이기 마련이야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -300,7 +300,7 @@
         "voice": "GC410005.ogg"
       },
       "original": "……じゃあ、あたしはあんたのために何をしたらいい？",
-      "translation": "...그럼, 나는 당신을 위해 뭘 하면 돼？\n",
+      "translation": "...그럼, 난 널 위해 뭘 하면 돼?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -348,7 +348,7 @@
         "voice": "GC410006.ogg"
       },
       "original": "どんなことを思いつくのやら。",
-      "translation": "무슨 생각을하는건지모르겠네.",
+      "translation": "무슨 생각일지 모르겠네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -438,7 +438,7 @@
         "voice": "GC410008.ogg"
       },
       "original": "オレもさ。しかも、オレたちがその原因究明に駆り出されることになって、驚きも２倍ってところだよ。",
-      "translation": "나도 말이야. 게다가 우리가 그 원인 규명에 투입되게 되다니, 놀라움이 두 배라고.",
+      "translation": "나도 말이야. 게다가 우리가 그 원인 규명에 투입되게 되다니, 놀라움도 2배라고.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -546,7 +546,7 @@
         "voice": "GC410009.ogg"
       },
       "original": "オレたちって、つくづく辺境に縁があるみたいだな。",
-      "translation": "우리들은 참, 뼈저리게 변방과 인연이 있는 것같네.",
+      "translation": "우리 참 변방과 인연이 있나 봐.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -714,7 +714,7 @@
         "voice": "GC410012.ogg"
       },
       "original": "ただひとつ、調査艦隊が残した手がかりといえば……。",
-      "translation": "단 하나, 조사 함대가 남긴 단이라고 하면……",
+      "translation": "단 하나, 조사 함대가 남긴 단서라면……",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -738,7 +738,7 @@
         "voice": "GC410012.ogg"
       },
       "original": "消息を絶つ寸前に、第３方面軍司令部に送ってきた、この映像だけさ。",
-      "translation": "소식이 끊기기 직전에 제３방면군 사령부에 보내온 이 영상뿐이야.",
+      "translation": "소식이 끊기기 직전에 제3방면군 사령부에 보내온 이 영상뿐이야.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -852,7 +852,7 @@
         "voice": "GC410016.ogg"
       },
       "original": "なかなか……来ないもんだねえ、平和ってやつはさ……。",
-      "translation": "좀처럼…… 오지 않는구먼, 평화라는 건 말이야…….\n",
+      "translation": "좀처럼…… 오질 않네, 평화라는 건…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1122,7 +1122,7 @@
         "voice": "GC410021.ogg"
       },
       "original": "ああ、約束だ。",
-      "translation": "아아,약속이다.",
+      "translation": "아아 약속이야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1176,7 +1176,7 @@
         "voice": "GC410022.ogg"
       },
       "original": "ははは……ふわ～あ……！",
-      "translation": "하하하……후아～아……！",
+      "translation": "하하하…… 후아～아……!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1284,7 +1284,7 @@
         "voice": "GC410025.ogg"
       },
       "original": "え！？　こっちって、そこはフォルテの膝の上！？",
-      "translation": "에！？ 이쪽이라니, 거긴 포르테의무릎위잖아！？",
+      "translation": "에!? 이쪽이라니, 거긴 포르테 무릎 위잖아!?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1392,7 +1392,7 @@
         "voice": "GC410028.ogg"
       },
       "original": "そんなカチコチになってたら、リラックスも何もないだろう……。もっと力を抜いていいよ。",
-      "translation": "그렇게 뻣뻣하게 있으면 긴장 풀 데가 없잖아……. 좀 더 힘을 빼도 돼.\n",
+      "translation": "그렇게 뻣뻣하면 편히 쉴 수도 없잖아……. 좀 더 힘을 빼도 돼.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1422,7 +1422,7 @@
         "voice": "GC410028.ogg"
       },
       "original": "……力を抜いて、リラックス……と。",
-      "translation": "...힘을 빼고, 휴식…… 하고.\n",
+      "translation": "……힘을 빼고, 편하게…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1482,7 +1482,7 @@
         "voice": "GC410030.ogg"
       },
       "original": "そうそう。",
-      "translation": "그래,그래.",
+      "translation": "그렇지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1500,7 +1500,7 @@
         "voice": "GC410030.ogg"
       },
       "original": "はあ～……。フォルテの膝枕……。なんだか落ち着くなあ……。",
-      "translation": "하아～… 포르테의 무릎베개…….왠지마음이편안해지네…….",
+      "translation": "하아～…… 포르테 무릎베개……. 왠지 편안하네…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1638,7 +1638,7 @@
         "voice": "GC410035.ogg"
       },
       "original": "悪夢からの目覚め",
-      "translation": "악몽에서의깨어남",
+      "translation": "악몽에서 깨어남",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1728,7 +1728,7 @@
         "voice": "GC410102.ogg"
       },
       "original": "汗、びっしょりだよ。ずっとうなされていたし……。",
-      "translation": "땀이 범벅이야. 계속 잠꼬대도 하고…….\n",
+      "translation": "땀이 범벅이야. 계속 악몽에 시달렸고…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1812,7 +1812,7 @@
         "voice": "GC410103.ogg"
       },
       "original": "夢……？　どんな？",
-      "translation": "꿈……？어떤건데？",
+      "translation": "꿈……? 어떤 건데?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1830,7 +1830,7 @@
         "voice": "GC410103.ogg"
       },
       "original": "フォルテや、エルシオールのみんなが……。",
-      "translation": "포르테나, 에르시올의 모두가…….\n",
+      "translation": "포르테와 에르시올의 모두가…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2118,7 +2118,7 @@
         "voice": "GC410202.ogg"
       },
       "original": "あたしが、タクトにとって安心して背中をあずけられる場所であること……そうあり続けること……。",
-      "translation": "내가 택트에게 안심하고 등을 맡길 수 있는 곳이 되는 것…… 그렇게 계속되는 것…….\n",
+      "translation": "내가 택트에게 안심하고 등을 맡길 수 있는 존재로 계속 있는 것…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2280,7 +2280,7 @@
         "voice": "GC410206.ogg"
       },
       "original": "いいよ、タクトがそうしたいって言うんなら。こんな時ぐらいはね……。",
-      "translation": "됐어, 택트가 그러고 싶다면 말이야. 이럴 때만큼은 말이지…….\n",
+      "translation": "좋아, 택트가 그러고 싶다면. 이럴 때만큼은…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2550,7 +2550,7 @@
         "voice": "GC410212.ogg"
       },
       "original": "そんなさみしそうな顔しないの。ほら、頑張って行っておいで、司令官どの！",
-      "translation": "그렇게 쓸쓸한 얼굴 하지 마. 자, 힘내서 다녀오라고, 사령관님！\n",
+      "translation": "그렇게 쓸쓸한 얼굴 하지 마. 자, 힘내서 다녀오라고, 사령관나리!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

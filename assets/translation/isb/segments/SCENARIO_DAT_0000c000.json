@@ -102,7 +102,7 @@
         "voice": "GC110001.ogg"
       },
       "original": "あっ、だ、大丈夫ですか？",
-      "translation": "앗, 저, 괜찮으세요？\n",
+      "translation": "앗, 괘, 괜찮으세요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -120,7 +120,7 @@
         "voice": "GC110001.ogg"
       },
       "original": "う、うん……全然平気、平気さ。",
-      "translation": "으, 응…… 전혀 괜찮아,진짜로.",
+      "translation": "으, 응…… 괜찮아, 괜찮아.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -360,7 +360,7 @@
         "voice": "GC110007.ogg"
       },
       "original": "お楽しみ？",
-      "translation": "즐거움요？\n",
+      "translation": "즐거움?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -456,7 +456,7 @@
         "voice": "GC110008.ogg"
       },
       "original": "いやいや、あんな可愛い寝顔を見せられたら疲れも吹き飛ぶってもんだよ。",
-      "translation": "아니 아니, 그런 귀여운 자는 얼굴을 보여주면 피로도 날아가 버린다고.\n",
+      "translation": "아니 아니, 그렇게 귀여운 잠든 얼굴을 보면 피로도 날아가 버린다고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -648,7 +648,7 @@
         "voice": "GC110013.ogg"
       },
       "original": "ま……まあ、それはともかく。特別休暇とはいえ、３０日ものんきに休んでたんだから仕方ないさ。仕事もたまるってもんだよ。",
-      "translation": "뭐…… 뭐, 그건 그렇다 치고. 특별 휴가라고는 해도 ３０일이나 느긋하게 쉬었으니까 어쩔 수 없어. 일도 쌓여있을 테니까.\n",
+      "translation": "뭐…… 뭐, 그건 그렇다 치고. 특별 휴가라고는 해도 30일이나 느긋하게 쉬었으니까 어쩔 수 없어. 일도 쌓일 만하지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -780,7 +780,7 @@
         "voice": "GC110015.ogg"
       },
       "original": "オレもさ。しかも、オレたちがその原因究明に駆り出されることになって、驚きも２倍ってところだよ。",
-      "translation": "나도 말이야. 게다가 우리가 그 원인 규명에 투입되게 되다니, 놀라움이 두 배라고.\n",
+      "translation": "나도 말이야. 게다가 우리가 그 원인 규명에 투입되게 되다니, 놀라움도 2배라고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1020,7 +1020,7 @@
         "voice": "GC110019.ogg"
       },
       "original": "もう少しで到着ですよね。そこでいったい何があったんでしょうか？",
-      "translation": "이제 곧 도착겠네요. 거기서 도대체 무슨 일이 있었던 걸까요？\n",
+      "translation": "이제 곧 도착하겠네요. 거기서 도대체 무슨 일이 있었던 걸까요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1068,7 +1068,7 @@
         "voice": "GC110019.ogg"
       },
       "original": "ただひとつ、調査艦隊が残した手がかりといえば……。",
-      "translation": "단 하나, 조사 함대가 남긴 단이라고 하면……\n",
+      "translation": "단 하나, 조사 함대가 남긴 단서라고 하면…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1092,7 +1092,7 @@
         "voice": "GC110019.ogg"
       },
       "original": "消息を絶つ寸前に、第３方面軍司令部に送ってきた、この映像だけさ。",
-      "translation": "소식이 끊기기 직전에 제３방면군 사령부에 보내온 이 영상뿐이야.\n",
+      "translation": "소식이 끊기기 직전에 제3방면군 사령부에 보내온 이 영상뿐이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1476,7 +1476,7 @@
         "voice": "GC110029.ogg"
       },
       "original": "昼はふたりで、色々歩き回って……。",
-      "translation": "낮에는 둘이서 이곳저곳을…….",
+      "translation": "낮엔 둘이 여기저기 돌아다니고…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1494,7 +1494,7 @@
         "voice": "GC110030.ogg"
       },
       "original": "行く場所も決めずに、足の向くまま気の向くまま、どこまでも。",
-      "translation": "목적지도 없이, 발길 닿는 대로, 마음 가는 대로, 어디까지나.",
+      "translation": "갈 곳 없이, 발길 마음 가는 대로 어디까지든.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1644,7 +1644,7 @@
         "voice": "GC110033.ogg"
       },
       "original": "散歩の途中で見かけた小さく可愛い真っ白な教会……ミルフィーってば、そこの前を動こうとしなかったもんなあ。",
-      "translation": "산책 도중에 봤던 작고 귀여운 새하얀 교회…… 밀피 말이야, 거기 앞을 지나가려 하지 않았었지.\n",
+      "translation": "산책 도중에 봤던 작고 귀여운 새하얀 교회…… 밀피 말이야, 그 앞에서 떠나려 하지 않았었지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1800,7 +1800,7 @@
         "voice": "GC110037.ogg"
       },
       "original": "……え？",
-      "translation": "……에？",
+      "translation": "……어?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1932,7 +1932,7 @@
         "voice": "GC110042.ogg"
       },
       "original": "いけない……突然すぎたか……。",
-      "translation": "안 돼……너무갑작스러웠나…….",
+      "translation": "이런……너무 갑작스러웠나…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1980,7 +1980,7 @@
         "voice": "GC110042.ogg"
       },
       "original": "さて、ミルフィーが戻ってくるまでアルバムの続きでも……。",
-      "translation": "자, 밀피가 돌아올 때까지 앨범이나 계속 읽을까…….\n",
+      "translation": "자, 밀피가 돌아올 때까지 앨범이나 계속 볼까…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2112,7 +2112,7 @@
         "voice": "GC110042.ogg"
       },
       "original": "悪夢からの目覚め",
-      "translation": "악몽에서의깨어남",
+      "translation": "악몽에서 깨어남",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2220,7 +2220,7 @@
         "voice": "GC110101.ogg"
       },
       "original": "最初は気持ちよさそうに眠ってたのに、急にうなされるんですから……。びっくりしちゃいました。",
-      "translation": "처음에는 기분 좋게 잠들어 있었는데, 갑자기 괴로워하시니까…… 깜짝 놀랐어요.\n",
+      "translation": "처음에는 기분 좋게 주무셨는데, 갑자기 악몽에 시달리시니까…… 깜짝 놀랐어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2250,7 +2250,7 @@
         "voice": "GC110102.ogg"
       },
       "original": "あの……あたしの膝枕って、うなされるほど固かったりしました？",
-      "translation": "저기…… 제 무릎베개, 괴로워할 정도로 딱딱했나요？\n",
+      "translation": "저기…… 제 무릎베개가 악몽을 꿀 만큼 딱딱했나요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2370,7 +2370,7 @@
         "voice": "GC110105.ogg"
       },
       "original": "きゅ、急に抱きつくなんて、どうしたんですかタクトさん！？　ちょっと苦しいですよ～。",
-      "translation": "갑, 갑자기 껴안으시다니, 왜 그러세요 택트 씨！？ 좀 답답해요～.\n",
+      "translation": "가, 갑자기 껴안으시다니, 왜 그러세요 택트 씨!? 조금 답답해요～.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2454,7 +2454,7 @@
         "voice": "GC110108.ogg"
       },
       "original": "うふふふふ。もう、しょうがないなあ。タクトさん、意外に甘えんぼさんなんですから。",
-      "translation": "우후후후후. 정말이지, 어쩔 수 없다니까요. 택트 씨, 의외로 응석받이라니까요.\n",
+      "translation": "우후후후후. 정말이지, 어쩔 수 없다니까요. 택트 씨, 의외로 응석꾸러기라니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2586,7 +2586,7 @@
         "voice": "GC110112.ogg"
       },
       "original": "怖いの怖いの、とんでけ～。……どうですか？怖いの、どっかに行っちゃいました？",
-      "translation": "무서운 거 무서운 거, 날아가라～…… 어때요？ 무서움이 어디론가 가버렸나요？",
+      "translation": "무서운 거 무서운 거, 날아가라～…… 어때요? 무서운 게 어디론가 가버렸나요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2628,7 +2628,7 @@
         "voice": "GC110113.ogg"
       },
       "original": "選択肢・怖いの怖いの、とんでけ～……？",
-      "translation": "선택지・무서운거무서운거날아가라～…？",
+      "translation": "선택지・무서운 거 무서운 거 날아가～?",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -2664,7 +2664,7 @@
         "voice": "GC110113.ogg"
       },
       "original": "痛いの痛いのとんでけ～、だろ？",
-      "translation": "아픈 건아픈거날아가라～,맞지？",
+      "translation": "아픈 거 아픈 거 날아가～, 응?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2682,7 +2682,7 @@
         "voice": "GC110200.ogg"
       },
       "original": "……ああっ！　た、確かにそうでした！　あたし、間違えちゃいました！　ど、どうしよう……。",
-      "translation": "……아앗！ 하, 확실히 그랬어요！ 제가 틀렸어요！ 어, 어쩌지…….\n",
+      "translation": "……아앗! 화, 확실히 그랬어요! 저, 틀렸어요! 어, 어쩌지…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2868,7 +2868,7 @@
         "voice": "GC110204.ogg"
       },
       "original": "そうですか？",
-      "translation": "그래요？\n",
+      "translation": "그런가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2910,7 +2910,7 @@
         "voice": "GC110205.ogg"
       },
       "original": "……へ？　や、やだ、もう、タクトさんってば。からかわないでください～。",
-      "translation": "……헤？ 아, 안 돼, 정말이지 택트 씨도 참. 놀리지 마세요～.\n",
+      "translation": "……헤? 시, 싫어요, 정말이지 택트 씨도 참. 놀리지 마세요～.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2970,7 +2970,7 @@
         "voice": "GC110206.ogg"
       },
       "original": "悪い子はいねえが～！　だろ？",
-      "translation": "나쁜 아이는 없지～！ 그치？\n",
+      "translation": "나쁜 아이 없냐～! 였지?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3030,7 +3030,7 @@
         "voice": "GC110207.ogg"
       },
       "original": "子供がいる家に、怪物のお面をかぶった人がやって来て、「悪い子はいねえが～！」っておどかすんだ。",
-      "translation": "아이들이 있는 집에 괴물 가면을 쓴 사람이 찾아와서, 「나쁜 아이는 없지～！」 하고 겁주는 거야.\n",
+      "translation": "아이들이 있는 집에 괴물 가면을 쓴 사람이 찾아와서, 「나쁜 아이 없냐～!」 하고 겁주는 거야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3090,7 +3090,7 @@
         "voice": "GC110209.ogg"
       },
       "original": "……でも、それも違うと思いますよ？",
-      "translation": "……하지만, 그것도 아닌 것같아요？",
+      "translation": "……하지만 그것도 아닌 것 같아요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

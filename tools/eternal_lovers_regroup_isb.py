@@ -45,6 +45,7 @@ import eternal_lovers_isb_static as isb
 
 MESSAGE_TOKEN = "084368c5"
 CHOICE_TOKEN = "9f455280"
+TITLE_TOKEN = "af0e22af"
 MESSAGE_MAX_LINES = 3
 
 JAPANESE_RE = re.compile(r"[぀-ヿ㐀-鿿ｦ-ﾝ]")

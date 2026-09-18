@@ -90,7 +90,7 @@
         "voice": "GC175001.ogg"
       },
       "original": "あ、タクトさん。来てたんですか？",
-      "translation": "아, 택트 씨. 오셨나요？\n",
+      "translation": "아, 택트 씨. 오셨나요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -156,7 +156,7 @@
         "voice": "GC175003.ogg"
       },
       "original": "クロノ・クェイク爆弾のことかい？",
-      "translation": "크로노・퀘이크 폭탄 말이야？\n",
+      "translation": "크로노・퀘이크 폭탄 말이야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -174,7 +174,7 @@
         "voice": "GC175004.ogg"
       },
       "original": "はい。もしあたしたちが爆弾を止められなかったら、銀河はどうなっちゃうんですか？",
-      "translation": "네. 만약 저희가 폭탄을 막지 못하면, 은하는 어떻게 되는 건가요？\n",
+      "translation": "네. 만약 저희가 폭탄을 막지 못하면, 은하는 어떻게 되는 건가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -228,7 +228,7 @@
         "voice": "GC175005.ogg"
       },
       "original": "タクトさん、中世ってどんな世界なんですか？",
-      "translation": "택트 씨, 중세는 어떤 세계인가요？\n",
+      "translation": "택트 씨, 중세는 어떤 세계인가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -276,7 +276,7 @@
         "voice": "GC175006.ogg"
       },
       "original": "……お姫様になれなくてもいいです。いまが一番、一番楽しいです。",
-      "translation": "...공주님이 되지 않아도 돼요. 지금이 제일, 제일 즐거워요.\n",
+      "translation": "……공주님이 되지 않아도 돼요. 지금이 제일, 제일 즐거워요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -390,7 +390,7 @@
         "voice": "GC175008.ogg"
       },
       "original": "あれ？　ミルフィー、なんだか本格的に元気がないね。いつもなら率先して一番元気なのに。",
-      "translation": "어라？ 밀피, 왠지 본격적으로 기운이 없네. 평소라면 앞장서서 제일 활기찰 텐데.\n",
+      "translation": "어라? 밀피, 왠지 정말 기운이 없네. 평소라면 앞장서서 제일 활기찰 텐데.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -438,7 +438,7 @@
         "voice": "GC175009.ogg"
       },
       "original": "よし！　じゃあここはひとつミルフィーに元気を取り戻してもらうために、気分転換でもしてみようじゃないか。",
-      "translation": "좋아！ 그럼 여기서 밀피가 기운을 되찾도록, 기분 전환이라도 해보자고.\n",
+      "translation": "좋아! 그럼 밀피가 기운을 되찾도록 기분 전환이라도 해보자고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -468,7 +468,7 @@
         "voice": "GC175010.ogg"
       },
       "original": "はい？　気分転換ですか？",
-      "translation": "네？ 기분 전환요？\n",
+      "translation": "네? 기분 전환요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -486,7 +486,7 @@
         "voice": "GC175010.ogg"
       },
       "original": "そうそう。さ、ミルフィー、オレと勝負だ！",
-      "translation": "그래그래. 자, 밀피, 나랑 승부다！\n",
+      "translation": "그래그래. 자, 밀피, 나랑 승부다!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -504,7 +504,7 @@
         "voice": "GC175011.ogg"
       },
       "original": "え？　勝負？　どんな勝負するんですか？",
-      "translation": "에？ 승부요？ 어떤 승부를 하는건가요？",
+      "translation": "어? 승부요? 어떤 승부를 하는 건가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -522,7 +522,7 @@
         "voice": "GC175011.ogg"
       },
       "original": "いいかい、まずミルフィーとオレで６枚ずつコインを用意して、それを一斉に投げるんだ。",
-      "translation": "잘 들어, 우선 밀피와 내가 각각 동전 ６개씩 준비해서, 그걸 한꺼번에 던지는 거야.\n",
+      "translation": "잘 들어, 우선 밀피와 내가 각각 동전 6개씩 준비해서, 그걸 한꺼번에 던지는 거야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -564,7 +564,7 @@
         "voice": "GC175012.ogg"
       },
       "original": "それで、表になったコインの数で勝敗を決める。３回勝負ってことにするけど、もしも６枚全部が表だったらその場で勝利だ。いいね？",
-      "translation": "그리고 앞면이 나온 동전 수로 승패를 결정해. ３판 승부로 하겠지만, 만약 ６개 전부가 앞면이면 그 자리에서 승리다. 알겠지？\n",
+      "translation": "그리고 앞면이 나온 동전 수로 승패를 결정해. 3판 승부로 하겠지만, 만약 6개 전부가 앞면이면 그 자리에서 승리다. 알겠지?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -666,7 +666,7 @@
         "voice": "GC175014.ogg"
       },
       "original": "そう、もしかしたらオレが勝っちゃうかもよ？",
-      "translation": "그래, 어쩌면 내가 이겨버릴지도 모른다고？\n",
+      "translation": "그래, 어쩌면 내가 이겨버릴지도 모른다고?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -708,7 +708,7 @@
         "voice": "GC175015.ogg"
       },
       "original": "もちろん、景品つきだ。負けた方が、勝った方のお願いをなんでもひとつ聞くってのでどうだい？",
-      "translation": "물론 경품도 있어. 진 사람이 이긴 사람의 부탁을 무엇이든 하나 들어주는 걸로 하는 건어때？",
+      "translation": "물론 경품도 있어. 진 사람이 이긴 사람의 부탁을 뭐든 하나 들어주는 걸로 하는 건 어때?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -738,7 +738,7 @@
         "voice": "GC175016.ogg"
       },
       "original": "な、なんでもですか？",
-      "translation": "무, 무엇이든요？",
+      "translation": "무, 무엇이든요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -756,7 +756,7 @@
         "voice": "GC175016.ogg"
       },
       "original": "そう、なんでも！　じゃあ、勝負に入るよ。",
-      "translation": "그래, 뭐든지！ 그럼, 승부 시작한다.\n",
+      "translation": "그래, 뭐든지! 그럼, 승부 시작한다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -798,7 +798,7 @@
         "voice": "GC175017.ogg"
       },
       "original": "まずは１回目、そりゃ！",
-      "translation": "우선 １회째, 에잇！\n",
+      "translation": "우선 첫 번째, 에잇!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -816,7 +816,7 @@
         "voice": "GC175018.ogg"
       },
       "original": "え、えい！",
-      "translation": "에잇！\n",
+      "translation": "에, 에잇!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -834,7 +834,7 @@
         "voice": "GC175019.ogg"
       },
       "original": "表、表、表……裏、裏、表です。",
-      "translation": "앞, 앞, 앞…… 뒤,뒤,앞입니다.",
+      "translation": "앞 3개…… 뒤, 뒤, 앞입니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -900,7 +900,7 @@
         "voice": "GC175020.ogg"
       },
       "original": "じゃあ気を取り直して、２回目、せりゃ！",
-      "translation": "그럼 기분 전환해서, ２회째, 에잇！\n",
+      "translation": "그럼 다시 마음잡고, 두 번째, 에잇!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -918,7 +918,7 @@
         "voice": "GC175021.ogg"
       },
       "original": "えい！",
-      "translation": "에잇！\n",
+      "translation": "에잇!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -936,7 +936,7 @@
         "voice": "GC175022.ogg"
       },
       "original": "表、表、表、表、表！　……裏です！",
-      "translation": "앞, 앞, 앞, 앞, 앞！……뒤입니다！",
+      "translation": "앞, 앞, 앞, 앞, 앞! ……뒤입니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -954,7 +954,7 @@
         "voice": "GC175022.ogg"
       },
       "original": "むむむっ、またまた同点だね。最後の１枚に蹴られちゃったねえ。",
-      "translation": "으음, 또 다시 동점이네. 마지막 한 장에 뒤집혀 버렸어.\n",
+      "translation": "으음, 또 동점이네. 마지막 한 장이 발목을 잡았어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -978,7 +978,7 @@
         "voice": "GC175023.ogg"
       },
       "original": "タクトさん。すごい接戦ですね。手に汗握っちゃいます！",
-      "translation": "택트 씨. 엄청난 접전이네요. 손에 땀을 쥐게 해요！\n",
+      "translation": "택트 씨. 엄청난 접전이네요. 손에 땀을 쥐게 하네요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1026,7 +1026,7 @@
         "voice": "GC175024.ogg"
       },
       "original": "タクトさん、次が最後の１回ですよ。",
-      "translation": "택트 씨, 다음이 마지막 １회예요.\n",
+      "translation": "택트 씨, 다음이 마지막이에요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1044,7 +1044,7 @@
         "voice": "GC175024.ogg"
       },
       "original": "よっしゃ。これで決めるぞ！",
-      "translation": "좋아. 이걸로 끝낸다！\n",
+      "translation": "좋아. 이걸로 끝낸다!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1062,7 +1062,7 @@
         "voice": "GC175025.ogg"
       },
       "original": "勝負です、タクトさん！",
-      "translation": "승부입니다, 택트 씨！\n",
+      "translation": "승부예요, 택트 씨!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1080,7 +1080,7 @@
         "voice": "GC175025.ogg"
       },
       "original": "せーの、とりゃ！",
-      "translation": "하나 둘, 에잇！\n",
+      "translation": "하나 둘, 에잇!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1098,7 +1098,7 @@
         "voice": "GC175026.ogg"
       },
       "original": "えいっ！",
-      "translation": "에잇！\n",
+      "translation": "에잇!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1134,7 +1134,7 @@
         "voice": "GC175027.ogg"
       },
       "original": "最後の１枚は？",
-      "translation": "마지막한장은？",
+      "translation": "마지막 장은?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1152,7 +1152,7 @@
         "voice": "GC175028.ogg"
       },
       "original": "表です……。",
-      "translation": "앞면입니다…",
+      "translation": "앞이에요……",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -1188,7 +1188,7 @@
         "voice": "GC175029.ogg"
       },
       "original": "勝ったあ！　勝ちましたよ、タクトさん！",
-      "translation": "이겼다！ 이겼어요, 택트 씨！\n",
+      "translation": "이겼다! 이겼어요, 택트 씨!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1242,7 +1242,7 @@
         "voice": "GC175030.ogg"
       },
       "original": "うん、オレの運もなかなかなもんだろ？",
-      "translation": "응, 내 운도 꽤 대단하지？\n",
+      "translation": "응, 내 운도 꽤 대단하지?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1278,7 +1278,7 @@
         "voice": "GC175032.ogg"
       },
       "original": "……ところであの、タクトさん……その……。",
-      "translation": "...그런데 저기, 택트 씨…… 그게…….\n",
+      "translation": "……그런데 저기, 택트 씨…… 그게…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1296,7 +1296,7 @@
         "voice": "GC175032.ogg"
       },
       "original": "景品のことかい？",
-      "translation": "경품 말이야？\n",
+      "translation": "경품 말이야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1314,7 +1314,7 @@
         "voice": "GC175033.ogg"
       },
       "original": "はい……本当になんでもいいんですか？",
-      "translation": "네…… 정말 뭐든지 괜찮은 건가요？\n",
+      "translation": "네…… 정말 뭐든지 괜찮은 건가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1350,7 +1350,7 @@
         "voice": "GC175034.ogg"
       },
       "original": "じゃ……じゃあ、いまはまだ思い浮かばないので、惑星ヴァル・ランダルから帰るときに言うってことでいいですか？",
-      "translation": "그…… 그럼, 지금은 아직 생각이 안 나서, 행성 발・란달에서 돌아갈 때 말해도 될까요？\n",
+      "translation": "그…… 그럼, 지금은 아직 생각이 안 나서 행성 발・란달에서 돌아갈 때 말해도 될까요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1380,7 +1380,7 @@
         "voice": "GC175034.ogg"
       },
       "original": "うん？　別にオレはかまわないよ。",
-      "translation": "응？ 난 상관없어.\n",
+      "translation": "응? 난 상관없어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1446,7 +1446,7 @@
         "voice": "GC175036.ogg"
       },
       "original": "はい！　楽しみにしていてくださいね。",
-      "translation": "네！ 기대해 주세요.\n",
+      "translation": "네! 기대해 주세요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1488,7 +1488,7 @@
         "voice": "GC175037.ogg"
       },
       "original": "はい、ご心配かけました。もう大丈夫ですよ！",
-      "translation": "네, 걱정 끼쳐 드렸어요. 이제 괜찮아요！\n",
+      "translation": "네, 걱정 끼쳐 드렸어요. 이제 괜찮아요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1506,7 +1506,7 @@
         "voice": "GC175037.ogg"
       },
       "original": "気分転換大成功！　やっぱりミルフィーは元気でなくっちゃね。",
-      "translation": "기분 전환 대성공！ 역시 밀피는 활기차야.\n",
+      "translation": "기분 전환 대성공! 역시 밀피는 활기차야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1530,7 +1530,7 @@
         "voice": "GC175037.ogg"
       },
       "original": "銀河展望公園・ミルフィーユの膝枕",
-      "translation": "은하 전망 공원・밀피유의무릎베개",
+      "translation": "은하 전망 공원・밀피유 무릎베개",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1620,7 +1620,7 @@
         "voice": "GC175100.ogg"
       },
       "original": "あれ、タクトさん、何をしてるんですか？",
-      "translation": "어라, 택트 씨, 뭐 하고 계세요？\n",
+      "translation": "어라, 택트 씨, 뭐 하고 계세요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1704,7 +1704,7 @@
         "voice": "GC175102.ogg"
       },
       "original": "でもタクトさん。ベンチ、硬くないですか？背中とか腰とかが痛くなっちゃいますよ？",
-      "translation": "하지만 택트 씨. 벤치, 딱딱하지 않나요？ 등이나 허리가 아파질 거예요？\n",
+      "translation": "하지만 택트 씨. 벤치, 딱딱하지 않나요? 등이나 허리가 아파질 거예요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1752,7 +1752,7 @@
         "voice": "GC175103.ogg"
       },
       "original": "ふふふっ！　面白いことを言いますね、タクトさんは。",
-      "translation": "후훗！ 재미있는 말씀을 하시네요, 택트 씨는.\n",
+      "translation": "후훗! 재미있는 말씀을 하시네요, 택트 씨는.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1836,7 +1836,7 @@
         "voice": "GC175105.ogg"
       },
       "original": "そうだ！　あたしいいことを思いつきました。",
-      "translation": "좋아！ 좋은 생각이 떠올랐어요.\n",
+      "translation": "맞다! 좋은 생각이 떠올랐어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1854,7 +1854,7 @@
         "voice": "GC175105.ogg"
       },
       "original": "いいこと……？",
-      "translation": "좋은 거……？",
+      "translation": "좋은 거……?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1872,7 +1872,7 @@
         "voice": "GC175106.ogg"
       },
       "original": "あたしがタクトさんに、膝枕をしてあげるというのはどうでしょう？",
-      "translation": "제가 택트 씨에게 무릎베개를 해드리는 건 어떨까요？\n",
+      "translation": "제가 택트 씨에게 무릎베개를 해드리는 건 어떨까요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1896,7 +1896,7 @@
         "voice": "GC175106.ogg"
       },
       "original": "えっ？　そ……それは願ってもないことだけど。",
-      "translation": "엣？ 그…… 그건 바라던 바지만.\n",
+      "translation": "엣? 그…… 그건 바라던 바지만.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1944,7 +1944,7 @@
         "voice": "GC175107.ogg"
       },
       "original": "いいのかい？　ミルフィー。なにか別に用事があったんじゃないのかい？",
-      "translation": "괜찮겠어？ 밀피. 따로 볼일이 있는 거 아니야？\n",
+      "translation": "괜찮겠어? 밀피. 따로 볼일이 있는 거 아니야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2010,7 +2010,7 @@
         "voice": "GC175109.ogg"
       },
       "original": "タクトさんのためなら、膝枕なんていくらでも貸しちゃいますよ！",
-      "translation": "택트씨를 위해서라면 무릎베개 정도는 얼마든지 빌려드릴게요！",
+      "translation": "택트 씨를 위해서라면 무릎베개 정도는 얼마든지 빌려드릴게요!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2058,7 +2058,7 @@
         "voice": "GC175110.ogg"
       },
       "original": "はい、どうぞ！",
-      "translation": "자, 여기요！\n",
+      "translation": "네, 여기요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2076,7 +2076,7 @@
         "voice": "GC175111.ogg"
       },
       "original": "どんな感じですか？　タクトさん。",
-      "translation": "어떤 느낌인가요？ 택트 씨.\n",
+      "translation": "어떤 느낌인가요? 택트 씨.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2118,7 +2118,7 @@
         "voice": "GC175112.ogg"
       },
       "original": "そ、そうですか？　あたしの体温、そんなにはっきりわかっちゃいます？",
-      "translation": "그, 그런가요？ 제 체온, 그렇게 확실히 느껴지나요？\n",
+      "translation": "그, 그런가요? 제 체온, 그렇게 확실히 느껴지나요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2208,7 +2208,7 @@
         "voice": "GC175114.ogg"
       },
       "original": "どうですか、眠くなってきましたか？",
-      "translation": "어때요, 졸려지기 시작했나요？\n",
+      "translation": "어때요, 졸리기 시작했나요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2250,7 +2250,7 @@
         "voice": "GC175115.ogg"
       },
       "original": "じゃあ、眠れるように、あたしがよしよししてあげますね。",
-      "translation": "그럼, 잠들 수 있게 제가 쓰다듬어 줄게요.\n",
+      "translation": "그럼, 잠들 수 있게 제가 쓰담쓰담해 줄게요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2274,7 +2274,7 @@
         "voice": "GC175115.ogg"
       },
       "original": "え？　よしよし？",
-      "translation": "에？ 쓰다듬？",
+      "translation": "어? 쓰담쓰담?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2292,7 +2292,7 @@
         "voice": "GC175116.ogg"
       },
       "original": "はい、よしよしです。",
-      "translation": "네, 쓰다듬이에요.",
+      "translation": "네, 쓰담쓰담이에요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2370,7 +2370,7 @@
         "voice": "GC175118.ogg"
       },
       "original": "どうしたんですかタクトさん。顔が赤いですよ？",
-      "translation": "왜 그러세요, 택트 씨. 얼굴이 붉어요.\n",
+      "translation": "왜 그러세요, 택트 씨? 얼굴이 빨개요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

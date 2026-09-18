@@ -23,7 +23,7 @@
         "voice": null
       },
       "original": "「侵攻艦隊第２陣」ブリーフィング",
-      "translation": "「침공 함대 제２진」 브리핑\n",
+      "translation": "「침공 함대 제2진」 브리핑\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -245,7 +245,7 @@
         "voice": null
       },
       "original": "　ロウィル戦艦×１　　　戦艦×２",
-      "translation": "　로윌 전함×１　　전함×２",
+      "translation": "　로윌 전함×1　　전함×2",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -263,7 +263,7 @@
         "voice": null
       },
       "original": "　巡洋艦×２　　　　　　駆逐艦×３",
-      "translation": "　순양함×２　　　　구축함×３",
+      "translation": "　순양함×2　　　　구축함×3",
       "state": "draft",
       "use_translation": true,
       "storage": [

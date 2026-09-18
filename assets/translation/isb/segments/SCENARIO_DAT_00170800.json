@@ -83,7 +83,7 @@
         "voice": "GC138001.ogg"
       },
       "original": "敵の増援はここか。",
-      "translation": "적 증원은여기인가.",
+      "translation": "증원이 여기인가.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -191,7 +191,7 @@
         "voice": "GC138003.ogg"
       },
       "original": "……敵の動きは？",
-      "translation": "…적의움직임은？",
+      "translation": "……적 움직임은?",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -431,7 +431,7 @@
         "voice": "GC138008.ogg"
       },
       "original": "以上だ。頼んだぞ。",
-      "translation": "이상이다.부탁하마.",
+      "translation": "이상. 부탁하마.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -467,7 +467,7 @@
         "voice": null
       },
       "original": "　戦闘母艦×１　　　　戦艦×１",
-      "translation": "　전투 모함×１　　전함×１",
+      "translation": "　전투 모함×1　　전함×1",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -485,7 +485,7 @@
         "voice": null
       },
       "original": "　巡洋艦×４　　　　　戦闘機×５",
-      "translation": "　순양함×４　　　전투기×５",
+      "translation": "　순양함×4　　　전투기×5",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -503,7 +503,7 @@
         "voice": null
       },
       "original": "　攻撃機×５",
-      "translation": "　공격기×５",
+      "translation": "　공격기×5",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -629,7 +629,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "もう一度、作戦内容を確認するか？",
-      "translation": "다시 작전 내용을 확인할까？",
+      "translation": "다시 작전 내용을 확인할까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

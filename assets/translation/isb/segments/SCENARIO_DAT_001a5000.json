@@ -186,7 +186,7 @@
         "voice": "GC475003.ogg"
       },
       "original": "……はい、お上がり。",
-      "translation": "...자, 들어오게.\n",
+      "translation": "……자, 마셔.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -366,7 +366,7 @@
         "voice": "GC475007.ogg"
       },
       "original": "まあ、そこまでとんでもないシロモノだとはオレも予想してなかったけど、気にしたところで始まらないよ。",
-      "translation": "뭐, 그렇게 엄청난 물건일 줄은 나도 예상 못 했지만, 신경 써봤자 시작될 일은 없으니까.\n",
+      "translation": "뭐, 그렇게 엄청난 물건일 줄은 나도 예상 못 했지만, 신경 써봤자 소용없어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -438,7 +438,7 @@
         "voice": "GC475009.ogg"
       },
       "original": "武者震いってやつかねえ。ときどき背中がざわざわして、たまらなくなるんだ。",
-      "translation": "무사 떨림이라는 건가. 가끔 등이 술렁거려서 견딜 수가 없어.\n",
+      "translation": "전투 전의 전율이랄까. 가끔 등이 술렁거려서 견딜 수가 없어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -672,7 +672,7 @@
         "voice": "GC475014.ogg"
       },
       "original": "あー、命は大切だよ。もちろん。でも、まあ安心した。",
-      "translation": "아―, 목숨은 소중해. 물론. 하지만, 뭐 안심했어.\n",
+      "translation": "아ー, 목숨은 소중해. 물론. 하지만, 뭐 안심했어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -756,7 +756,7 @@
         "voice": "GC475016.ogg"
       },
       "original": "フォルテに限ってそんなこと、あるはずないじゃないか。あのフォルテ・シュトーレンがだよ？　怖じ気づく？　あり得なーい！",
-      "translation": "포르테가 그럴 리 없잖아. 그 포르테・슈토렌이 말이야！ 겁을 먹어？ 있을 수 없어！\n",
+      "translation": "포르테가 그럴 리 없잖아. 그 포르테・슈토렌이 말이야! 겁을 먹어? 말도 안 돼ー!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -990,7 +990,7 @@
         "voice": "GC475022.ogg"
       },
       "original": "なら『ヴァル・ファスク』なんてひとひねり。そういうことでしょ？",
-      "translation": "그럼 『발・파스크』 같은 한 방이 필요하다는 거지？\n",
+      "translation": "그럼 『발・파스크』 따윈 한 번에 해치우는 거지?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1248,7 +1248,7 @@
         "voice": "GC475103.ogg"
       },
       "original": "なんの変哲もないコーンのアイスさ。それとも、タクトはイチゴのアイスクリームを初めて見るのかい？",
-      "translation": "아무것도 아닌 콘 아이스크림이야. 아니면 택트는 딸기 아이스크림을 처음 봐？\n",
+      "translation": "평범한 콘 아이스크림이야. 아니면 택트는 딸기 아이스크림을 처음 봐?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1530,7 +1530,7 @@
         "voice": "GC475109.ogg"
       },
       "original": "あー、昔アイスクリームをかきこんで、頭キーンとかやったやった。",
-      "translation": "아―, 옛날에 아이스크림 급하게 먹다 머리 띵～ 했던 적이 있어.",
+      "translation": "아ー, 옛날에 아이스크림 급하게 먹다 머리 띵～ 했던 적이 있어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1578,7 +1578,7 @@
         "voice": "GC475110.ogg"
       },
       "original": "えー、やぱり頭キーンは避けて通れないところだと思うけど。",
-      "translation": "에이, 역시 머리가 띵한 건 피할 수 없는 것 같은데.\n",
+      "translation": "에ー, 역시 머리가 띵한 건 피할 수 없는 것 같은데.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1914,7 +1914,7 @@
         "voice": "GC475117.ogg"
       },
       "original": "え？　食べさせるの？",
-      "translation": "에？ 먹여주는 거야？\n",
+      "translation": "엣? 먹여주는 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2004,7 +2004,7 @@
         "voice": "GC475119.ogg"
       },
       "original": "うん、じゃあひと口。あーん。",
-      "translation": "응, 그럼 한 입. 아―.\n",
+      "translation": "응, 그럼 한 입. 아ー앙.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2082,7 +2082,7 @@
         "voice": "GC475121.ogg"
       },
       "original": "いやー、最近甘いものづいてるから、少しなら味の見分けもつくようになってたりして。",
-      "translation": "아니―, 요즘 단 게 당겨서 조금은 맛을 구별할 수 있게 됐달까.\n",
+      "translation": "아니ー, 요즘 단 게 당겨서 조금은 맛을 구별할 수 있게 됐달까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -55,7 +55,7 @@
         "voice": "GC125000.ogg"
       },
       "original": "どうぞ、どうぞ、遠慮なく入ってくださいね！",
-      "translation": "어서 오세요, 사양 말고 들어오세요！",
+      "translation": "자, 자, 사양 말고 들어오세요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -337,7 +337,7 @@
         "voice": "GC125012.ogg"
       },
       "original": "ば……爆発？",
-      "translation": "폭……폭발？",
+      "translation": "포…… 폭발?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -775,7 +775,7 @@
         "voice": "GC125027.ogg"
       },
       "original": "幸せを、運んできてくれる？",
-      "translation": "행복을, 가져다준다고？\n",
+      "translation": "행복을 가져다준다고?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -877,7 +877,7 @@
         "voice": "GC125031.ogg"
       },
       "original": "それは楽しみですね。期待して待っていますね。",
-      "translation": "그거기대되네요. 기대하며 기다리고 있을게요.",
+      "translation": "그거 기대되네요. 기대하며 기다릴게요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -973,7 +973,7 @@
         "voice": "GC125034.ogg"
       },
       "original": "せっかくだから、タクトさんにもお砂糖がどれだけすごいのかちょっと見てもらいましょう。",
-      "translation": "기왕 이렇게 된 거, 택트 씨에게도 설탕이 얼마나 대단한지 좀 보여드려요.\n",
+      "translation": "기왕이니 택트 씨에게도 설탕이 얼마나 대단한지 보여드리죠.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1111,7 +1111,7 @@
         "voice": "GC125037.ogg"
       },
       "original": "間違えずに使うだけでも大変そうだなあ。",
-      "translation": "잘못 쓰지 않게 쓰는 것도 일이겠네.",
+      "translation": "헷갈리지 않고 쓰는 것도 힘들겠네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1609,7 +1609,7 @@
         "voice": "GC125101.ogg"
       },
       "original": "え？　オレの噂かい？",
-      "translation": "어？ 내 뒷담화？\n",
+      "translation": "어? 내 얘기?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1981,7 +1981,7 @@
         "voice": "GC125111.ogg"
       },
       "original": "じゃあますます、たっぷりのんびりできるってことですよね。",
-      "translation": "그럼 점점 더 마음껏 느긋하게 지낼 수 있다는 거네요.\n",
+      "translation": "그럼 더더욱 마음껏 느긋하게 지낼 수 있다는 거네요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2131,7 +2131,7 @@
         "voice": "GC125118.ogg"
       },
       "original": "……そうですね、確かに科学も発達していますけれど……私は木や花を見る方が好きでした……。",
-      "translation": "……글쎄요, 과학도 발달했지만…… 전 꽃과 나무가 더 좋았답니다……。",
+      "translation": "……글쎄요, 과학도 발달했지만…… 전 꽃과 나무가 더 좋았답니다…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2239,7 +2239,7 @@
         "voice": "GC125121.ogg"
       },
       "original": "姉さん……。",
-      "translation": "언니…….",
+      "translation": "누나…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2845,7 +2845,7 @@
         "voice": "GC125204.ogg"
       },
       "original": "それから紋章機には「Ｈ．Ａ．Ｌ．Ｏ．」というシステムが積まれてて、パイロットの機嫌が良いと紋章機も元気になるんです！",
-      "translation": "그리고 문장기에는 「Ｈ.Ａ.Ｌ.Ｏ.」라는 시스템이 탑재되어 있어서, 파일럿의 기분이 좋으면 문장기도 활기차져요！",
+      "translation": "그리고 문장기에는 「H.A.L.O.」라는 시스템이 탑재되어 있어서, 파일럿의 기분이 좋으면 문장기도 활기차져요!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3073,7 +3073,7 @@
         "voice": "GC125212.ogg"
       },
       "original": "えーと、そうすると運は実力だから才能じゃないってことですか？",
-      "translation": "에- 그러니까, 그럼 운은 실력이니까 재능이 아니라는 건가요？",
+      "translation": "어, 그러니까 그럼 운은 실력이니까 재능이 아니라는 건가요?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3565,7 +3565,7 @@
         "voice": "GC125224.ogg"
       },
       "original": "えー！　そりゃ大変だ。すぐ人を呼んでこないと。",
-      "translation": "에-！그거 큰일인데. 빨리 사람을 불러와야겠어.",
+      "translation": "에엣! 그거 큰일인데. 빨리 사람을 불러와야겠어",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3589,7 +3589,7 @@
         "voice": "GC125225.ogg"
       },
       "original": "どうしたんですかマイヤーズ司令。なにかあったんですか？",
-      "translation": "마이어스 사령관님, 무슨 일 있으신가요？",
+      "translation": "마이어스 사령관, 무슨 일 있으신가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

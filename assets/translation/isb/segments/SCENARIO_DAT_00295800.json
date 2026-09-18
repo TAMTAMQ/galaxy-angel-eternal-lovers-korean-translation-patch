@@ -251,7 +251,7 @@
         "voice": null
       },
       "original": "　ロウィル戦艦×１　　　戦艦×２",
-      "translation": "　로윌 전함×１　　전함×２",
+      "translation": "　로윌 전함×1　　전함×2",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -269,7 +269,7 @@
         "voice": null
       },
       "original": "　巡洋艦×２　　　　　　戦闘機×４",
-      "translation": "　순양함×２　　　　전투기×４",
+      "translation": "　순양함×2　　　　전투기×4",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -287,7 +287,7 @@
         "voice": null
       },
       "original": "　攻撃機×３",
-      "translation": "　공격기×３",
+      "translation": "　공격기×3",
       "state": "draft",
       "use_translation": true,
       "storage": [

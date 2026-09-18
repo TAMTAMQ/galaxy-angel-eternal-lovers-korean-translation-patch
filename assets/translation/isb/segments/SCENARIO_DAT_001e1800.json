@@ -787,7 +787,7 @@
         "voice": "GC560112.ogg"
       },
       "original": "どのって……。そ、そうだな。えーと。",
-      "translation": "어떤 거라니……. 그, 그렇네. 에이토.\n",
+      "translation": "어떤 거라니……. 그, 그렇네. 저기.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1381,7 +1381,7 @@
         "voice": "GC560127.ogg"
       },
       "original": "あ、ヴァニラ。おーい。",
-      "translation": "아, 바닐라. 어이─.\n",
+      "translation": "아, 바닐라. 어이ー.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1507,7 +1507,7 @@
         "voice": "GC560200.ogg"
       },
       "original": "こんにちは。マイヤーズ司令。",
-      "translation": "안녕하세요,마이어스사령관님.",
+      "translation": "안녕하세요, 마이어스 사령관.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1855,7 +1855,7 @@
         "voice": "GC560207.ogg"
       },
       "original": "お願いしますね。マイヤーズ司令。",
-      "translation": "부탁할게요. 마이어스 사령관님.\n",
+      "translation": "부탁할게요. 마이어스 사령관.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1891,7 +1891,7 @@
         "voice": "GC560209.ogg"
       },
       "original": "あ、そうだ。マイヤーズ司令、最近整備班で噂になってることがあるんですけど。",
-      "translation": "아, 맞다. 마이어스 사령관님, 최근 정비반에서 소문이 도는 게 있는데요.\n",
+      "translation": "아, 맞다. 마이어스 사령관, 최근 정비반에서 소문이 도는 게 있는데요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2017,7 +2017,7 @@
         "voice": "GC560212.ogg"
       },
       "original": "先日、マイヤーズ司令が格納庫にいらしたことがありましたよね。",
-      "translation": "요전날, 마이어스 사령관님이 격납고에 오신 적이 있었죠.\n",
+      "translation": "요전날, 마이어스 사령관이 격납고에 오신 적이 있었죠.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2041,7 +2041,7 @@
         "voice": "GC560213.ogg"
       },
       "original": "用事を済ませたマイヤーズ司令が立ち去るのを、その同僚がなにげなく見ていたら……。",
-      "translation": "볼일을 마치고 떠나는 마이어스 사령관님을 그 동료가 무심코 보고 있었는데…….\n",
+      "translation": "볼일을 마치고 떠나는 마이어스 사령관을 그 동료가 무심코 보고 있었는데…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2065,7 +2065,7 @@
         "voice": "GC560214.ogg"
       },
       "original": "マイヤーズ司令の後ろを、なにか得体の知れない大きな影がついて行ったんですって。",
-      "translation": "마이어스 사령관님의 뒤를, 정체 모를 커다란 그림자가 따라갔다고 하더라고요.\n",
+      "translation": "마이어스 사령관의 뒤를, 정체 모를 커다란 그림자가 따라갔다고 하더라고요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2107,7 +2107,7 @@
         "voice": "GC560215.ogg"
       },
       "original": "薄暗かったし、正体はわからなかったそうですけど、確かにマイヤーズ司令の後ろを音もなくスウッと……。",
-      "translation": "어두웠고 정체는 알 수 없었다고 하지만, 분명히 마이어스 사령관님의 뒤를 소리 없이 스윽…….\n",
+      "translation": "어두웠고 정체는 알 수 없었다고 하지만, 분명히 마이어스 사령관의 뒤를 소리 없이 스윽…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2209,7 +2209,7 @@
         "voice": "GC560217.ogg"
       },
       "original": "それじゃ、私はこれで失礼しまーす。",
-      "translation": "그럼, 저는 이만 실례하겠습니다─.\n",
+      "translation": "그럼, 저는 이만 실례하겠습니다ー.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2359,7 +2359,7 @@
         "voice": "GC160400.ogg"
       },
       "original": "おはようございます、マイヤーズ司令。",
-      "translation": "좋은 아침입니다, 마이어스 사령관님.",
+      "translation": "좋은 아침입니다, 마이어스 사령관.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2437,7 +2437,7 @@
         "voice": "GC160403.ogg"
       },
       "original": "強いて言えば、このＥＤＥＮに来るまで、ずっとブリッジで仕事をしていたマイヤーズ司令が一番変わったことだったかと。",
-      "translation": "굳이 말하자면, 이 EDEN에 오기 전까지 계속 함교에서 일만 하던 마이어스 사령관님이 가장 바뀐 점일까요.",
+      "translation": "굳이 말하자면, 이 EDEN에 오기 전까지 계속 함교에서 일만 하던 마이어스 사령관이 가장 바뀐 점일까요.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -2551,7 +2551,7 @@
         "voice": "GC160406.ogg"
       },
       "original": "今日はスカイパレス全域の視察、あと、ＥＤＥＮ暫定評議会の要人の方々との会食が３件ほど入ってます。",
-      "translation": "오늘은 스카이팔레스 전역 시찰과 EDEN 의회 요인들과의 회식이 ３건 있습니다.",
+      "translation": "오늘은 스카이팔레스 전역 시찰과 EDEN 의회 요인들과의 회식이 3건 있습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2701,7 +2701,7 @@
         "voice": "GC560228.ogg"
       },
       "original": "それよりマイヤーズ司令、ヴァニラさんとはどうなっているんですか？",
-      "translation": "그보다 마이어스 사령관님, 바닐라 씨와는 어떻게 되어가고 있나요？\n",
+      "translation": "그보다 마이어스 사령관, 바닐라 씨와는 어떻게 되어가고 있나요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2773,7 +2773,7 @@
         "voice": "GC560230.ogg"
       },
       "original": "うらやましいなー。よーし。あたしも待ってばかりじゃなくて、そろそろ実力行使に……。",
-      "translation": "부럽네―. 좋아. 나도 기다리기만 하지 말고, 슬슬 실력 행사에…….\n",
+      "translation": "부럽네ー. 좋아. 나도 기다리기만 하지 말고, 슬슬 실력 행사에…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2797,7 +2797,7 @@
         "voice": "GC560230.ogg"
       },
       "original": "え？　なんのこと？",
-      "translation": "에？ 무슨 소리야？\n",
+      "translation": "어? 무슨 소리야?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -2833,7 +2833,7 @@
         "voice": "GC560232.ogg"
       },
       "original": "そういえばマイヤーズ司令。最近、艦内に出没する謎の影の話はご存じですか？",
-      "translation": "그러고 보니 마이어스 사령관님, 최근 함내의수수께끼그림자소식은아시나요？",
+      "translation": "마이어스 사령관, 최근 함내의 수수께끼 그림자 소식은 아시나요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3547,7 +3547,7 @@
         "voice": "GC560246.ogg"
       },
       "original": "マイヤーズ司令。よろしいですか？　例の件についてですが。",
-      "translation": "마이어스사령관님. 괜찮으십니까？ 그 건에대해서입니다만.",
+      "translation": "마이어스 사령관. 괜찮으십니까? 그 건에 대해서입니다만.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3889,7 +3889,7 @@
         "voice": "GC160508.ogg"
       },
       "original": "先輩方は相変わらず落ち着いていらっしゃってうらやましいです。私など、いまだに緊張してしまうというのに。",
-      "translation": "선배님들은 여전히 침착해 보이셔서 부럽습니다. 저 같은 건 아직도 긴장되는데 말이죠.\n",
+      "translation": "선배들은 여전히 침착해 보이셔서 부럽습니다. 저 같은 건 아직도 긴장되는데 말이죠.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -4135,7 +4135,7 @@
         "voice": "GC160534.ogg"
       },
       "original": "それならよいのですが……マイヤーズ司令。",
-      "translation": "그렇다면 다행입니다만… 마이어스사령관님",
+      "translation": "그렇다면 다행입니다만…… 사령관.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -4333,7 +4333,7 @@
         "voice": "GC560359.ogg"
       },
       "original": "本当ですか？　うわーっ、嬉しい！",
-      "translation": "정말인가요？ 우와―, 기뻐요！\n",
+      "translation": "정말인가요? 우와ー, 기뻐요!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4399,7 +4399,7 @@
         "voice": "GC160561.ogg"
       },
       "original": "先輩方がそうおっしゃるなら、私に異論はありません。",
-      "translation": "선배님들이그렇게 말씀하신다면,저도이견은없습니다.",
+      "translation": "선배들이 그러신다면, 저도 이견은 없습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4621,7 +4621,7 @@
         "voice": "GC160569.ogg"
       },
       "original": "議長閣下がぜひに、とのことです。マイヤーズ司令。",
-      "translation": "의장각하께서꼭오라고하셨습니다마이어스사령관님.",
+      "translation": "의장 각하께서 꼭 오라 하셨습니다, 사령관.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5653,7 +5653,7 @@
         "voice": "GC160744.ogg"
       },
       "original": "そんなわけで、タクトにもうひとつ宿題。７番機とクロノ・ブレイク・キャノンはもとより、ルシャーティも必ず救助するのよ。",
-      "translation": "그런 이유로 택트에게 숙제 하나 더. ７번기와 크로노・브레이크・캐논은 물론이고, 루샤티도 반드시 구출해야 해.\n",
+      "translation": "그런 이유로 택트에게 숙제 하나 더. 7번기와 크로노・브레이크・캐논은 물론이고, 루샤티도 반드시 구출해야 해.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5731,7 +5731,7 @@
         "voice": "GC160746.ogg"
       },
       "original": "あたしも今、クロノ・クェイクのかわりに、Ｈ．Ａ．Ｌ．Ｏ．関連を優先的に調べてるから。",
-      "translation": "나도 지금 크로노・퀘이크 대신 Ｈ.Ａ.Ｌ.Ｏ. 관련을 우선적으로 조사하고 있으니까.\n",
+      "translation": "나도 지금 크로노・퀘이크 대신 H.A.L.O. 관련을 우선적으로 조사하고 있으니까.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5761,7 +5761,7 @@
         "voice": "GC160747.ogg"
       },
       "original": "Ｈ．Ａ．Ｌ．Ｏ．を？",
-      "translation": "Ｈ.Ａ.Ｌ.Ｏ.를？\n",
+      "translation": "H.A.L.O.를?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6037,7 +6037,7 @@
         "voice": "GC560445.ogg"
       },
       "original": "あー、みんな待ってよー。あたしも行くー。",
-      "translation": "아―, 모두 기다려 줘! 나도 갈래!\n",
+      "translation": "아ー, 모두 기다려 줘! 나도 갈래!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6073,7 +6073,7 @@
         "voice": "GC560446.ogg"
       },
       "original": "あ、マイヤーズ司令。食べてますかー？",
-      "translation": "아, 마이어스 사령관님.드시고계세요？",
+      "translation": "아, 마이어스 사령관. 드시고 계세요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6193,7 +6193,7 @@
         "voice": "GC560449.ogg"
       },
       "original": "ふふっ、アルモはですねえ。",
-      "translation": "후훗, 아르모는 말이죠―.\n",
+      "translation": "후훗, 아르모는 말이죠ー.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6229,7 +6229,7 @@
         "voice": "GC560450.ogg"
       },
       "original": "アルモは、クールダラス副司令にアタックするって、さっきから大騒ぎなんですよ。",
-      "translation": "아르모는 쿨다라스 부사령관님께 대시하겠다고 아까부터 난리예요.\n",
+      "translation": "아르모는 쿨다라스 부사령관에게 대시하겠다고 아까부터 난리예요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6253,7 +6253,7 @@
         "voice": "GC560451.ogg"
       },
       "original": "はい。ぜーったいに副司令を振り向かせてみせます。",
-      "translation": "네. 반드시 부사령관님을 돌아보게 만들겠어요.\n",
+      "translation": "네. 반드시 부사령관이 저를 돌아보게 만들겠어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6355,7 +6355,7 @@
         "voice": "GC560454.ogg"
       },
       "original": "だからあたし、やりますよー。",
-      "translation": "그러니까 저, 해낼 거예요―!\n",
+      "translation": "그러니까 저, 해낼 거예요ー!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6391,7 +6391,7 @@
         "voice": "GC560455.ogg"
       },
       "original": "あ、クールダラス副司令めっけ！　それじゃ、ちょっと行ってきます。ファイト・オー！",
-      "translation": "아, 쿨다라스 부사령관님 발견！ 그럼 잠깐 다녀올게요. 파이트・오！",
+      "translation": "아, 쿨다라스 부사령관 발견! 그럼 잠깐 다녀올게요. 파이트・오!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6439,7 +6439,7 @@
         "voice": "GC560456.ogg"
       },
       "original": "申し訳ありません。アルモったら、副司令のことしか頭にないんです。",
-      "translation": "죄송합니다. 아르모는 부사령관님 생각뿐이라서요.\n",
+      "translation": "죄송합니다. 아르모는 부사령관 생각뿐이라서요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6673,7 +6673,7 @@
         "voice": "GC560461.ogg"
       },
       "original": "ありがとうございます。マイヤーズ司令。",
-      "translation": "감사합니다. 마이어스 사령관님.\n",
+      "translation": "감사합니다. 마이어스 사령관.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7255,7 +7255,7 @@
         "voice": "GC560509.ogg"
       },
       "original": "え？　え？　え？",
-      "translation": "에？ 에？ 에？\n",
+      "translation": "어? 어? 어?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8467,7 +8467,7 @@
         "voice": "GC560535.ogg"
       },
       "original": "ＥＤＥＮを解放したとはいえ、戦いはこれからますます厳しさを増していくはずです。",
-      "translation": "EDEN을 해방했다고 해도, 싸움은 앞으로 점점 더 엄격해질 것입니다.\n",
+      "translation": "EDEN을 해방했다고 해도, 싸움은 앞으로 점점 더 치열해질 것입니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8491,7 +8491,7 @@
         "voice": "GC560536.ogg"
       },
       "original": "来るべき決戦の日に、万一にでも先輩方の足手まといになってしまったら大変です。一日たりとも休んでなんていられません。",
-      "translation": "다가올 결전의 날에 만약이라도 선배님들의 짐이 된다면 큰일입니다. 하루라도 쉴 수는 없습니다.\n",
+      "translation": "다가올 결전의 날에 만약이라도 선배들의 짐이 된다면 큰일입니다. 하루라도 쉴 수는 없습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8797,7 +8797,7 @@
         "voice": "GC560548.ogg"
       },
       "original": "タ、タクトさん。あそこ、テーブルの上を見てください。",
-      "translation": "택, 택트 씨. 저기, 테이블 위를 봐주세요.\n",
+      "translation": "타, 택트 씨. 저기, 테이블 위를 봐주세요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10351,7 +10351,7 @@
         "voice": "GC560625.ogg"
       },
       "original": "『証言その１　烏丸ちとせの場合』",
-      "translation": "『증언그１카라스마치토세의경우』",
+      "translation": "『증언 1・카라스마 치토세』",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10549,7 +10549,7 @@
         "voice": "GC560631.ogg"
       },
       "original": "『証言その２　ミント・ブラマンシュの場合』",
-      "translation": "『증언 그 ２ 민트・브라만슈의 경우』",
+      "translation": "『증언 그 2 민트・브라만슈의 경우』",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10849,7 +10849,7 @@
         "voice": "GC560641.ogg"
       },
       "original": "落としたお金はヴァニラさんが拾ってくださったのですけれど、店員さんは驚きのあまりメガネをずり落としてらっしゃいましたわ。",
-      "translation": "떨어뜨린 돈은 바닐라 씨가 주워주셨지만, 점원분은 너무 놀라서 안경이 흘러내려 가버렸어요.",
+      "translation": "떨어뜨린 돈은 바닐라 씨가 주워주셨지만, 점원 씨는 너무 놀라서 안경이 흘러내려 가버렸어요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10897,7 +10897,7 @@
         "voice": "GC560642.ogg"
       },
       "original": "『証言その３　フォルテ・シュトーレンの場合』",
-      "translation": "『증언 그 ３ 포르테・슈토렌의 경우』",
+      "translation": "『증언 그 3 포르테・슈토렌의 경우』",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11761,7 +11761,7 @@
         "voice": "GC560676.ogg"
       },
       "original": "あの、ランファ先輩、どうなさったのでしょうか？",
-      "translation": "저기, 란파 선배님, 왜 그러시는 건가요？",
+      "translation": "저기, 란파 선배, 왜 그러시는 건가요?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11929,7 +11929,7 @@
         "voice": "GC560680.ogg"
       },
       "original": "え！？　そうだな。ナノマシンの暴走は……。",
-      "translation": "에！？ 그렇군. 나노머신의 폭주는…….",
+      "translation": "어!? 그렇군. 나노머신의 폭주는…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12685,7 +12685,7 @@
         "voice": "GC560808.ogg"
       },
       "original": "『でも、私のナノマシンではタクトさんを守ることができません』って。",
-      "translation": "『하지만 제 나노머스로는 택트 씨를 지킬 수 없어요』라고요.",
+      "translation": "『하지만 제 나노머신으로는 택트 씨를 지킬 수 없어요』라고요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13975,7 +13975,7 @@
         "voice": "GC561000.ogg"
       },
       "original": "結局、７番機なしでヴァニラは完全に回復した……そういうことなわけ？",
-      "translation": "결국, ７번기 없이 바닐라는 완전히 회복했다…… 그런 건가？",
+      "translation": "결국, 7번기 없이 바닐라는 완전히 회복했다…… 그런 건가?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14779,7 +14779,7 @@
         "voice": "GC161030.ogg"
       },
       "original": "あと残された問題は、クロノ・ブレイク・キャノンと７番機だけですわね。",
-      "translation": "남은 문제는 크로노・브레이크・캐논과 ７번기뿐이겠네요.\n",
+      "translation": "남은 문제는 크로노・브레이크・캐논과 7번기뿐이겠네요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15295,7 +15295,7 @@
         "voice": "GC561130.ogg"
       },
       "original": "みんなお疲れさん。それで、７番機のパイロットは……？",
-      "translation": "다들 수고했어. 그래서, ７번기의 파일럿은……？\n",
+      "translation": "다들 수고했어. 그래서, 7번기의 파일럿은……?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -17005,7 +17005,7 @@
         "voice": "GC561306.ogg"
       },
       "original": "では……７番機で『ヴァル・ファスク』から逃げてきたことも……。",
-      "translation": "그럼…… ７번기로 『발・파스크』에서 도망쳐 온 것도…….",
+      "translation": "그럼…… 7번기로 『발・파스크』에서 도망쳐 온 것도…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -19333,7 +19333,7 @@
         "voice": "GC561838.ogg"
       },
       "original": "けど、そのためには、絶対に負けられない。負けるわけにはいかないんだ。だから、一緒に行こう、ヴァニラ。",
-      "translation": "하지만, 그러기 위해서는 반드시 이길 수 없어. 질 수는 없단 말이야. 그러니까 같이 가자, 바닐라.",
+      "translation": "하지만, 그러기 위해서는 절대로 질 수 없어. 질 수는 없단 말이야. 그러니까 같이 가자, 바닐라.",
       "state": "draft",
       "use_translation": true,
       "storage": [

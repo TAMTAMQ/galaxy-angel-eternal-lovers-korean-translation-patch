@@ -203,7 +203,7 @@
         "voice": "GC928007.ogg"
       },
       "original": "確認されている敵は３種類だな。まずは、この艦だ。",
-      "translation": "확인된 적은 ３종류군. 우선 이 함선이다.\n",
+      "translation": "확인된 적은 3종류군. 우선 이 함선이다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -431,7 +431,7 @@
         "voice": null
       },
       "original": "　巡洋艦タイプ×３　　　駆逐艦タイプ×６",
-      "translation": "　순양함형×３　　　구축함형×６",
+      "translation": "　순양함형×3　　　구축함형×6",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -449,7 +449,7 @@
         "voice": null
       },
       "original": "　攻撃機タイプ×７",
-      "translation": "　공격기형×７",
+      "translation": "　공격기형×7",
       "state": "draft",
       "use_translation": true,
       "storage": [

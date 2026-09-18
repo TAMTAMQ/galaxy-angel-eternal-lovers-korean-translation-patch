@@ -3176,6 +3176,19 @@
     "source_png": "dat/gadat032/スコアアタック/gybtn00.png"
   },
   {
+    "name": "gybtn00f.tex",
+    "png": "block_0149e000.png",
+    "translated_png": "block_0149e000.png",
+    "width": 88,
+    "height": 40,
+    "original": "戻る",
+    "translation": "뒤로",
+    "classification": "eternal-audit-find",
+    "resource_path": "dat/gadat032/スコアアタック/gybtn00f.tex",
+    "resource_offset": 21618688,
+    "source_png": "dat/gadat032/スコアアタック/gybtn00f.png"
+  },
+  {
     "name": "gybtn01.tex",
     "png": "block_0149f000.png",
     "translated_png": "block_0149f000.png",
@@ -3213,6 +3226,19 @@
     "resource_path": "dat/gadat032/スコアアタック/gybtn01f.tex",
     "resource_offset": 21657600,
     "source_png": "dat/gadat032/スコアアタック/gybtn01f.png"
+  },
+  {
+    "name": "gybtn02.tex",
+    "png": "block_014ac000.png",
+    "translated_png": "block_014ac000.png",
+    "width": 504,
+    "height": 68,
+    "original": "ランファ",
+    "translation": "란파",
+    "classification": "eternal-audit-find",
+    "resource_path": "dat/gadat032/スコアアタック/gybtn02.tex",
+    "resource_offset": 21676032,
+    "source_png": "dat/gadat032/スコアアタック/gybtn02.png"
   },
   {
     "name": "gybtn02b.tex",

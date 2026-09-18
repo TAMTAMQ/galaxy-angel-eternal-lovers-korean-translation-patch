@@ -342,7 +342,7 @@
         "voice": "GC525006.ogg"
       },
       "original": "ケガなら治せるのですが……。",
-      "translation": "부상이라면고칠수있습니다만…",
+      "translation": "부상은 고칠 수 있지만…….",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -480,7 +480,7 @@
         "voice": "GC525011.ogg"
       },
       "original": "あらマイヤーズ司令、何かご用だった？",
-      "translation": "어머 마이어스사령관,무슨용건이라도？",
+      "translation": "어머, 마이어스 사령관. 무슨 일이야?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -552,7 +552,7 @@
         "voice": "GC525012.ogg"
       },
       "original": "じゃあふたりにはなんのお話だったんです？",
-      "translation": "그럼 두 사람에겐 무슨 이야기를하신거죠？",
+      "translation": "그럼 두 사람에겐 무슨 얘기였죠?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -624,7 +624,7 @@
         "voice": "GC525015.ogg"
       },
       "original": "ここよここ、心の問題よ。",
-      "translation": "바로이거야,마음의문제지.",
+      "translation": "여기야, 마음의 문제지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -642,7 +642,7 @@
         "voice": "GC525015.ogg"
       },
       "original": "あー、なるほど。心の問題でしたか。",
-      "translation": "아―, 그렇군요.마음의문제였습니까.",
+      "translation": "아ー, 마음의 문제였군요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -822,7 +822,7 @@
         "voice": "GC525020.ogg"
       },
       "original": "え、それどういう意味ですか？",
-      "translation": "에, 그게 무슨 뜻인가요？",
+      "translation": "어, 그게 무슨 뜻인가요?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1632,7 +1632,7 @@
         "voice": "GC525115.ogg"
       },
       "original": "他に、とは……なんでしょう……。",
-      "translation": "다른 거라니…… 무엇을……。",
+      "translation": "다른 거라니…… 무엇을…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1968,7 +1968,7 @@
         "voice": "GC525123.ogg"
       },
       "original": "いやあヴァニラがいてくれるだけで、こっちも結構ギリギリなことができるから助かってるんだよね。もうヴァニラさまさまだよ。",
-      "translation": "아니, 바닐라가 있어 주는 것만으로도 이쪽은 꽤 아슬아슬한 상황에서 도움을 받고 있거든. 정말 바닐라 님이야.\n",
+      "translation": "아니, 바닐라가 있어 주는 것만으로도 꽤 아슬아슬한 상황에서 도움을 받고 있거든. 정말 바닐라 덕분이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -517,7 +517,7 @@
         "voice": "GC910005.ogg"
       },
       "original": "寝言はいいから、もっとシャキッとしろ。あと、とりあえずそのよだれを拭け。シートが汚れるぞ。",
-      "translation": "잠꼬정은 됐으니까 좀 정신 차려. 그리고 일단 그 침부터 닦아. 시트가 더러워지잖아.\n",
+      "translation": "잠꼬대는 됐으니까 좀 정신 차려. 그리고 일단 그 침부터 닦아. 시트가 더러워지잖아.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -547,7 +547,7 @@
         "voice": "GC910005.ogg"
       },
       "original": "ふえっ？　あ、ああ……ごめん。",
-      "translation": "후에？ 아, 아아…… 미안.\n",
+      "translation": "어？ 아, 아아…… 미안.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -589,7 +589,7 @@
         "voice": "GC910006.ogg"
       },
       "original": "あははは……えっ？　……敵襲！？　大変じゃないか！",
-      "translation": "아하하하…… 에？ ……적습！？ 큰일이잖아！\n",
+      "translation": "아하하하…… 어？ ……적습！？ 큰일이잖아！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -631,7 +631,7 @@
         "voice": "GC910008.ogg"
       },
       "original": "あーあ。マイヤーズ司令ってば、どうしてこう、クールダラス副司令を刺激してばっかりなのかなあ。",
-      "translation": "아아～ 마이어스 사령님은 왜 이렇게, 매번 쿨다라스 부사령관을 자극하는 걸까.\n",
+      "translation": "아아～ 마이어스 사령관은 왜 이렇게 매번 쿨다라스 부사령관을 자극하는 걸까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -661,7 +661,7 @@
         "voice": "GC910009.ogg"
       },
       "original": "しかも天然でね。でも、マイヤーズ司令らしくていいと思うわ。",
-      "translation": "게다가 천연이라니까. 그래도 마이어스 사령님다워서 좋아.",
+      "translation": "게다가 천연이라니까. 그래도 마이어스 사령관다워서 좋아.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -709,7 +709,7 @@
         "voice": "GC910011.ogg"
       },
       "original": "やっぱりマイヤーズ司令はこうでないと。",
-      "translation": "역시 마이어스 사령님은 이래야지.",
+      "translation": "역시 마이어스 사령관은 이래야지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1027,7 +1027,7 @@
         "voice": "GC910020.ogg"
       },
       "original": "わかってる！エルシオール、第１戦闘配備！",
-      "translation": "알고 있어！ 에르시올, 제１전투배치！\n",
+      "translation": "알고 있어！ 에르시올, 제1전투배치！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1291,7 +1291,7 @@
         "voice": "GC910103.ogg"
       },
       "original": "ＳＬＧ操作説明",
-      "translation": "ＳＬＧ조작설명",
+      "translation": "SLG 조작 설명",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1585,7 +1585,7 @@
         "voice": "GC910300.ogg"
       },
       "original": "予兆",
-      "translation": "예조\n",
+      "translation": "전조\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1891,7 +1891,7 @@
         "voice": "GC910410.ogg"
       },
       "original": "その数、１００……２００……とにかく、とんでもない数です！",
-      "translation": "그 수, １００…… ２００…… 어쨌든 엄청난 숫자입니다！\n",
+      "translation": "그 수, 100…… 200…… 어쨌든 엄청난 숫자입니다！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2245,7 +2245,7 @@
         "voice": "GC910426.ogg"
       },
       "original": "ひ……被弾によるダメージ、艦の７５パーセントにまで達しています！　このままでは航行不能……いえ、爆散のおそれすらあります！",
-      "translation": "피... 피격 데미지, 함선의 ７５퍼센트에 달합니다！ 이대로라면 항행 불능…… 아니, 폭발할 위험도 있습니다！\n",
+      "translation": "피... 피격 데미지, 함선의 75퍼센트에 달합니다！ 이대로라면 항행 불능…… 아니, 폭발할 위험도 있습니다！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2293,7 +2293,7 @@
         "voice": "GC910427.ogg"
       },
       "original": "ああ！　至急、総員退避！　エンジェル隊、聞こえるか！？　君たちも、この宙域から離脱するんだ！",
-      "translation": "아아！ 즉시 전원 퇴피！ 엔젤대, 들리나！？ 너희도 이 우역에서 이탈해라！\n",
+      "translation": "아아！ 즉시 전원 퇴피！ 엔젤대, 들리나！？ 너희도 이 우주 구역에서 이탈해라！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2413,7 +2413,7 @@
         "voice": "GC910432.ogg"
       },
       "original": "Ｈ．Ａ．Ｌ．Ｏ．（ヘイロウ）システムも破損！　シャープシューターの機能、３２パーセントにまで低下！　なおも低下中！",
-      "translation": "Ｈ.Ａ.Ｌ.Ｏ.（헤일로） 시스템도 파손！ 샤프 슈터의 기능, ３２퍼센트까지 저하！ 계속해서 저하 중！\n",
+      "translation": "H.A.L.O.（헤일로） 시스템도 파손！ 샤프 슈터의 기능, 32퍼센트까지 저하！ 계속해서 저하 중！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2509,7 +2509,7 @@
         "voice": "GC910435.ogg"
       },
       "original": "りょ、了解！……えっ！？",
-      "translation": "아알겠습니다！ …엣！？",
+      "translation": "아, 알겠습니다！ 어！？",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2569,7 +2569,7 @@
         "voice": "GC910438.ogg"
       },
       "original": "マ、マイヤーズ司令！　モニターを！",
-      "translation": "마, 마이어스 사령님！ 모니터를！\n",
+      "translation": "마, 마이어스 사령관！ 모니터를！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2587,7 +2587,7 @@
         "voice": "GC910438.ogg"
       },
       "original": "えっ？　……あ、あれはいったい……。",
-      "translation": "엣？ ……아, 저건 대체…….\n",
+      "translation": "어？ ……아, 저건 대체…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2647,7 +2647,7 @@
         "voice": "GC910440.ogg"
       },
       "original": "周辺宙域に謎のエネルギー波確認！　現在も増加中！　いったい……いったいなんなの、コレは！？　こんな数値、ありえません！",
-      "translation": "주변 우역에 의문의 에너지파 확인！ 현재도 증가 중！ 도대체…… 도대체 뭐야, 이건！？ 이런 수치는 있을 수 없습니다！\n",
+      "translation": "주변 공역에 의문의 에너지파 확인！ 현재도 증가 중！ 도대체…… 도대체 뭐야, 이건！？ 이런 수치는 있을 수 없습니다！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2713,7 +2713,7 @@
         "voice": "GC910442.ogg"
       },
       "original": "えっ……！？",
-      "translation": "엣……！？\n",
+      "translation": "어……！？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2791,7 +2791,7 @@
         "voice": "GC910442.ogg"
       },
       "original": "そうだ……みんなは……？",
-      "translation": "맞아…… 다들은……？\n",
+      "translation": "맞아…… 다들……？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3325,7 +3325,7 @@
         "voice": "GC910459.ogg"
       },
       "original": "……ちとせ？　ちとせ……ちとせー！",
-      "translation": "……치토세？ 치토세…… 치토세─！\n",
+      "translation": "……치토세？ 치토세…… 치토세ー！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3361,7 +3361,7 @@
         "voice": "GC910460.ogg"
       },
       "original": "ちとせ……！　ちとせー！！ちとせーーーーーーーーーー！！",
-      "translation": "치토세……！ 치토세─！！ 치토세ーーーーーーーーーー！！\n",
+      "translation": "치토세……！ 치토세ー！！ 치토세ーーーーーーーーーー！！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3649,7 +3649,7 @@
         "voice": "GC910507.ogg"
       },
       "original": "マ、マイヤーズ司令がクールダラス副司令に抱きついてる……。",
-      "translation": "마, 마이어스 사령님이 쿨다라스 부사령님에게 안겨 있어….",
+      "translation": "마, 마이어스 사령관이 쿨다라스 부사령관에게 안겨 있어….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3721,7 +3721,7 @@
         "voice": "GC910510.ogg"
       },
       "original": "ふ……副司令が本当にそんな人だったなんて……ひどい……ひどすぎます。",
-      "translation": "후…… 부사령님이 정말 그런 사람이었다니…… 너무해…… 너무해요.\n",
+      "translation": "후…… 부사령관이 정말 그런 사람이었다니…… 너무해…… 너무해요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3793,7 +3793,7 @@
         "voice": "GC910513.ogg"
       },
       "original": "タ、タクト！　冗談もたいがいにしないと、俺も本気で怒るぞ！",
-      "translation": "택, 택트！ 농담도 적당히 해,안그러면나도진심으로화낼거야！",
+      "translation": "타, 택트！ 농담도 적당히 해. 나도 진짜 화낼 거야！",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3859,7 +3859,7 @@
         "voice": "GC910515.ogg"
       },
       "original": "た、大変ですマイヤーズ司令、クールダラス副司令！　アルモがすっかり人間不信に陥ってます！",
-      "translation": "큰일입니다 마이어스 사령님, 쿨다라스 부사령님！ 아르모가 완전히 인간 불신에 빠졌어요！\n",
+      "translation": "큰일입니다, 마이어스 사령관, 쿨다라스 부사령관！ 아르모가 완전히 인간 불신에 빠졌어요！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4639,7 +4639,7 @@
         "voice": "GC910541.ogg"
       },
       "original": "しょぼーん……。でも、副司令が言うとカッコいいかも。",
-      "translation": "시무룩……. 그래도, 부사령님이 말하면 멋있을지도.\n",
+      "translation": "시무룩……. 그래도 부사령관이 말하면 멋있을지도.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4705,7 +4705,7 @@
         "voice": "GC910543.ogg"
       },
       "original": "ええっ、ちとせさんにも抱きついたりしたんですか！？",
-      "translation": "에엣, 치토세 씨에게도 안겼던 건가요！？\n",
+      "translation": "어엇, 치토세 씨에게도 안겼던 건가요！？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4843,7 +4843,7 @@
         "voice": "GC910547.ogg"
       },
       "original": "あっ、マイヤーズ司令照れてる～。",
-      "translation": "앗, 마이어스 사령님 수줍어해～.",
+      "translation": "앗, 마이어스 사령관 수줍어해～.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4969,7 +4969,7 @@
         "voice": "GC910552.ogg"
       },
       "original": "わかってまーす。",
-      "translation": "알고 있답니-다.",
+      "translation": "알고 있습니ー다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6277,7 +6277,7 @@
         "voice": "GC910719.ogg"
       },
       "original": "せ、星系外より何者かの侵入を確認！　本艦に向けて接近中です！",
-      "translation": "성,성계 외곽에서 정체불명 침입 확인！ 본 함에접근중입니다！",
+      "translation": "서, 성계 밖에서 정체불명 침입 확인！ 본 함에 접근 중입니다！",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6571,7 +6571,7 @@
         "voice": "GC910730.ogg"
       },
       "original": "……くっ！総員、第１戦闘配備に移行せよ！",
-      "translation": "…큭！ 전원, 제１전투배치로 전환하라！",
+      "translation": "…큭！ 전원, 제1전투배치로 전환하라！",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6871,7 +6871,7 @@
         "voice": "GC910900.ogg"
       },
       "original": "待ってください、マイヤーズ司令！",
-      "translation": "기다려 주세요,마이어스사령관님！",
+      "translation": "기다려 주세요, 마이어스 사령관!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7303,7 +7303,7 @@
         "voice": "GC910912.ogg"
       },
       "original": "えっ？　あ、はい。",
-      "translation": "에？ 아, 네.",
+      "translation": "어？ 아, 네.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8269,7 +8269,7 @@
         "voice": "GC911204.ogg"
       },
       "original": "先程クレータ班長から連絡がありました。いつでも受け入れ可能だそうです。",
-      "translation": "방금 크레타 반장님께 연락이 왔습니다. 언제든 수용 가능하다고 합니다.",
+      "translation": "방금 크레타 반장에게 연락이 왔습니다. 언제든 수용 가능하다고 합니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8311,7 +8311,7 @@
         "voice": "GC911205.ogg"
       },
       "original": "了解。……クレータ班長、こちらブリッジです。収容作業を開始してください。",
-      "translation": "알았다. ……크레타 반장님, 여기 함교입니다. 수용 작업을 시작해 주세요.",
+      "translation": "알았다. ……크레타 반장, 여기 함교입니다. 수용 작업을 시작해 주세요.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -8479,7 +8479,7 @@
         "voice": "GC911210.ogg"
       },
       "original": "ええ～？　あたしも、その船に乗ってる人に会ってみたいのに～。",
-      "translation": "에에～？ 나도 그 배에 탄 사람들을 만나보고 싶은데～.",
+      "translation": "뭐어～？ 나도 그 배에 탄 사람들을 만나보고 싶은데～.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8659,7 +8659,7 @@
         "voice": "GC911217.ogg"
       },
       "original": "待機命令……了解。",
-      "translation": "대기 명령……확인.",
+      "translation": "대기…… 알았다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8839,7 +8839,7 @@
         "voice": "GC911221.ogg"
       },
       "original": "みんなマイヤーズ司令と一緒なんですよ。",
-      "translation": "다들 마이어스 사령관님과 똑같다니까요.",
+      "translation": "다들 마이어스 사령관과 똑같다니까요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9331,7 +9331,7 @@
         "voice": "GC911234.ogg"
       },
       "original": "えっ？",
-      "translation": "엣？",
+      "translation": "어？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9367,7 +9367,7 @@
         "voice": "GC911235.ogg"
       },
       "original": "えっ……。",
-      "translation": "엣…….",
+      "translation": "어…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9805,7 +9805,7 @@
         "voice": "GC911251.ogg"
       },
       "original": "６００年前に起きたクロノ・クェイクによって崩壊した古代文明の名前です……。",
-      "translation": "６００년 전 일어난 크로노・퀘이크로 붕괴한 고대 문명의 이름입니다…….",
+      "translation": "600년 전 일어난 크로노・퀘이크로 붕괴한 고대 문명의 이름입니다…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [

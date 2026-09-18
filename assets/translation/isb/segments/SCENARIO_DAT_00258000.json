@@ -342,7 +342,7 @@
         "voice": "GC675006.ogg"
       },
       "original": "ちょ……ちょっと、ちとせ！　タイムタイム！大丈夫だって、お茶はかかってないよ。",
-      "translation": "잠…… 잠깐만, 치토세！ 진정해, 진정해！ 괜찮아, 차는 안 묻었어.\n",
+      "translation": "자…… 잠깐만, 치토세！ 진정해, 진정해！ 괜찮아, 차는 안 묻었어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1212,7 +1212,7 @@
         "voice": "GC675103.ogg"
       },
       "original": "そう。ちょっとしたレクリエーション。つまり、ちとせはオレになにかして欲しいことはないかい？",
-      "translation": "그래. 가벼운 레크리에이션. 즉, 치토세는 나에게 하고 싶은 일은 없어？\n",
+      "translation": "그래. 가벼운 레크리에이션. 즉, 내가 해줬으면 하는 건 없어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1242,7 +1242,7 @@
         "voice": "GC675104.ogg"
       },
       "original": "してほしいことですか？",
-      "translation": "하고 싶은 일인가요？",
+      "translation": "해줬으면 하는 일이요？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1260,7 +1260,7 @@
         "voice": "GC675104.ogg"
       },
       "original": "うん、肩をもむとか、腕をマッサージするとか。",
-      "translation": "응, 어깨을 주무르거나 팔을 마사지한다든가.\n",
+      "translation": "응, 어깨를 주무르거나 팔을 마사지한다든가.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1572,7 +1572,7 @@
         "voice": "GC675111.ogg"
       },
       "original": "かつげるゲンは全部担ぐってところかな。うん、いいよ。",
-      "translation": "가는 말이 고와야 오는 말이 곱다더니. 응, 좋아.\n",
+      "translation": "행운을 빌 수 있는 건 다 해본다는 건가. 응, 좋아.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1632,7 +1632,7 @@
         "voice": "GC675113.ogg"
       },
       "original": "え？　整え直すこともできるんですか？",
-      "translation": "에？ 다시 다듬는 것도 가능한가요？\n",
+      "translation": "어？ 다시 다듬는 것도 가능한가요？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1968,7 +1968,7 @@
         "voice": "GC675119.ogg"
       },
       "original": "手紙で気持ちを伝えるか……、オレもやってみようかな？",
-      "translation": "편지로 마음을 전한다라…… 나도 한번 해볼까？\n",
+      "translation": "편지로 마음을 전한다…… 나도 한번 해볼까？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -565,7 +565,7 @@
         "voice": "GC960012.ogg"
       },
       "original": "ちなみに、シヴァ陛下はシャトヤーン様と途中で合流なさるとのことで、到着はおよそ３日後ということになっていまーす。",
-      "translation": "참고로, 시바 폐하는 샤토얀 님과 도중에 합류하신다고 해서, 도착은 대략 ３일 후가 될 예정입니다～.\n",
+      "translation": "참고로, 시바 폐하는 샤토얀 님과 도중에 합류하신다고 해서, 도착은 대략 3일 후가 될 예정입니다～.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -937,7 +937,7 @@
         "voice": "GC960022.ogg"
       },
       "original": "やっぱり副司令は、マイヤーズ司令のことをよくわかってるんですね。",
-      "translation": "역시 부사령님은 마이어스 사령관님을 잘 알고 계시네요.\n",
+      "translation": "역시 부사령은 마이어스 사령관을 잘 알고 계시네요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1291,7 +1291,7 @@
         "voice": "GC960034.ogg"
       },
       "original": "ええ～、フォルテさんもアイドルになったら絶対可愛いですよ～。フリフリでヒラヒラの服を着て～……。",
-      "translation": "에～ 포르테 씨도 아이돌이 되면 분명 귀여울 거예요～. 프릴프릴한 옷을 입고서～\n",
+      "translation": "에이～ 포르테 씨도 아이돌이 되면 분명 귀여울 거예요～. 프릴프릴한 옷을 입고서～\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1621,7 +1621,7 @@
         "voice": "GC960045.ogg"
       },
       "original": "失礼いたします。準備が整いましたので、マイヤーズ司令とエンジェル隊の皆様をお迎えに上がりました。",
-      "translation": "실례하겠습니다. 준비가 끝났으므로, 마이어스 사령관님과 엔젤대 여러분을 모시러 왔습니다.\n",
+      "translation": "실례하겠습니다. 준비가 끝났으므로, 마이어스 사령관과 엔젤대 여러분을 모시러 왔습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1837,7 +1837,7 @@
         "voice": "GC960054.ogg"
       },
       "original": "ＥＤＥＮの人たちに見てもらいましょう。あたしたちの自慢の司令官さんを。",
-      "translation": "EDEN 사람들에게 보여줍시다. 우리의 자랑스러운 사령관님을.\n",
+      "translation": "EDEN 사람들에게 보여줍시다. 우리의 자랑스러운 사령관 씨를.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1897,7 +1897,7 @@
         "voice": "GC960056.ogg"
       },
       "original": "バッチリ決めてくださいね、司令！",
-      "translation": "멋지게 보여주세요, 사령관님！\n",
+      "translation": "멋지게 보여주세요, 사령관!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1915,7 +1915,7 @@
         "voice": "GC960057.ogg"
       },
       "original": "ようこそお越しくださいました、マイヤーズ司令。それにエンジェル隊の皆さん。",
-      "translation": "어서 오십시오, 마이어스 사령관님. 그리고 엔젤대 여러분.\n",
+      "translation": "어서 오십시오, 마이어스 사령관. 그리고 엔젤대 여러분.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2437,7 +2437,7 @@
         "voice": "GC960075.ogg"
       },
       "original": "それではマイヤーズ司令、皆にひと言お願いします。",
-      "translation": "그럼마이어스사령관님,모두에게한말씀부탁드립니다",
+      "translation": "그럼마이어스 사령관,모두에게한말씀부탁드립니다",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2551,7 +2551,7 @@
         "voice": "GC960076.ogg"
       },
       "original": "えっ？　あ、あの……。",
-      "translation": "엣？ 아, 저기…….\n",
+      "translation": "어? 아, 저기…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2617,7 +2617,7 @@
         "voice": "GC960078.ogg"
       },
       "original": "え！？　それは、ちょっと……。",
-      "translation": "에！？ 그건 좀…….\n",
+      "translation": "어!? 그건 좀…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2701,7 +2701,7 @@
         "voice": "GC960082.ogg"
       },
       "original": "マイヤーズ司令って、なんだか面白い人ね。",
-      "translation": "마이어스 사령관님은왠지재미있는사람이네.",
+      "translation": "마이어스 사령관은왠지재미있는사람이네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3103,7 +3103,7 @@
         "voice": "GC160006.ogg"
       },
       "original": "だって、７番機とクロノ・ブレイク・キャノンを奪回するには、向こうから来てもらわなきゃいけないわけだろ？",
-      "translation": "그치만, ７번기와 크로노・브레이크・캐논을 탈환하려면 저쪽에서 와줘야 하잖아？\n",
+      "translation": "그치만, 7번기와 크로노・브레이크・캐논을 탈환하려면 저쪽에서 와줘야 하잖아？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3403,7 +3403,7 @@
         "voice": "GC160009.ogg"
       },
       "original": "え？",
-      "translation": "에？\n",
+      "translation": "어?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3547,7 +3547,7 @@
         "voice": "GC160013.ogg"
       },
       "original": "察しがいいな。解放記念の祝賀式典に、今日だけであと５つほど招待されてるぞ。",
-      "translation": "눈치가 빠르네. 해방 기념 축하식에 오늘만 벌써 ５개 정도 초대받았어.\n",
+      "translation": "눈치가 빠르네. 해방 기념 축하식에 오늘만 벌써 5개 정도 초대받았어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4603,7 +4603,7 @@
         "voice": "GC360105.ogg"
       },
       "original": "えっ？",
-      "translation": "엣？",
+      "translation": "어?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5149,7 +5149,7 @@
         "voice": "GC160036.ogg"
       },
       "original": "ゆっくりと楽しんできてください、マイヤーズ司令。",
-      "translation": "천천히 즐기고 오세요, 마이어스 사령관님.\n",
+      "translation": "천천히 즐기고 오세요, 마이어스 사령관.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5281,7 +5281,7 @@
         "voice": "GC160500.ogg"
       },
       "original": "かつて、ＥＤＥＮを外敵から守るために建造された『白き月』が、６００年の時を超えてこうやって還ってきたんだから……。",
-      "translation": "과거, EDEN을 외적으로부터 지키기 위해 건조된 『백색 달』이, ６００년의 시간을 넘어 이렇게 돌아왔으니까…….\n",
+      "translation": "과거, EDEN을 외적으로부터 지키기 위해 건조된 『백색 달』이, 600년의 시간을 넘어 이렇게 돌아왔으니까…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6757,7 +6757,7 @@
         "voice": "GC160581.ogg"
       },
       "original": "……はっ！",
-      "translation": "......앗！",
+      "translation": "……옛!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7009,7 +7009,7 @@
         "voice": "GC660917.ogg"
       },
       "original": "７番機がＥＤＥＮ領に侵入してきたんだ！すぐに来てくれ！",
-      "translation": "７번기가 EDEN 영토에 침입했어！ 빨리 와줘！\n",
+      "translation": "7번기가 EDEN 영토에 침입했어！ 빨리 와줘！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7093,7 +7093,7 @@
         "voice": "GC161047.ogg"
       },
       "original": "……１機だ。",
-      "translation": "……１기다.\n",
+      "translation": "……1기다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7111,7 +7111,7 @@
         "voice": "GC161047.ogg"
       },
       "original": "……えっ？",
-      "translation": "……엣？",
+      "translation": "……어?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7129,7 +7129,7 @@
         "voice": "GC161048.ogg"
       },
       "original": "今ＥＤＥＮに向かっているのは、７番機、ただ１機のみだ！",
-      "translation": "지금 EDEN으로 향하는 건 ７번기, 단 １기뿐이다！",
+      "translation": "지금 EDEN으로 향하는 건 7번기, 단 1기뿐이다！",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7153,7 +7153,7 @@
         "voice": "GC161048.ogg"
       },
       "original": "１機だけ……どういうつもりだ……？",
-      "translation": "１기뿐이라니……무슨속셈이지……？",
+      "translation": "1기뿐이라니……무슨속셈이지……？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7189,7 +7189,7 @@
         "voice": "GC161048.ogg"
       },
       "original": "７番機の謎の行動",
-      "translation": "７번기의 괴행동",
+      "translation": "7번기의 괴행동",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [
@@ -7207,7 +7207,7 @@
         "voice": "GC161048.ogg"
       },
       "original": "７番機……本当に１機だけか。",
-      "translation": "７번기…… 정말 １기뿐인가.",
+      "translation": "7번기…… 정말 1기뿐인가.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7243,7 +7243,7 @@
         "voice": "GC161100.ogg"
       },
       "original": "索敵範囲を限界まで広げていますが、７番機以外の艦影はありません。",
-      "translation": "탐색 범위를 최대치로 넓혔으나, ７번기 외에 함선은 없습니다.",
+      "translation": "탐색 범위를 최대치로 넓혔으나, 7번기 외에 함선은 없습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7303,7 +7303,7 @@
         "voice": "GC161102.ogg"
       },
       "original": "たった１機とはいえ、７番機とクロノ・ブレイク・キャノンの力はとんでもないぞ。",
-      "translation": "단 １기라고는 해도, ７번기와 크로노・브레이크・캐논의 힘은 엄청나다고.\n",
+      "translation": "단 1기라고는 해도, 7번기와 크로노・브레이크・캐논의 힘은 엄청나다고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7327,7 +7327,7 @@
         "voice": "GC161102.ogg"
       },
       "original": "ああ、前の戦いで骨身にしみたよ……。１機だからといって、決して侮っていい相手じゃない。",
-      "translation": "아아, 지난 전투에서 뼈저리게 느꼈지… １기라고 해서 결코 얕볼 수 있는 상대가 아니야.",
+      "translation": "아아, 지난 전투에서 뼈저리게 느꼈지… 1기라고 해서 결코 얕볼 수 있는 상대가 아니야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7495,7 +7495,7 @@
         "voice": "GC161106.ogg"
       },
       "original": "７番機からの信号をキャッチしました！",
-      "translation": "７번기로부터 신호를 포착했습니다！\n",
+      "translation": "7번기로부터 신호를 포착했습니다！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7591,7 +7591,7 @@
         "voice": "GC161110.ogg"
       },
       "original": "マイヤーズ司令……その、返信はどうしますか？",
-      "translation": "마이어스 사령관님…… 그, 답신은 어쩌죠？",
+      "translation": "마이어스 사령관…… 그, 답신은 어쩌죠？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7615,7 +7615,7 @@
         "voice": "GC161110.ogg"
       },
       "original": "……７番機とクロノ・ブレイク・キャノンに何か異状は見られるかい？",
-      "translation": "……７번기와 크로노・브레이크・캐논에 무슨 이상은 보이지 않나？\n",
+      "translation": "……7번기와 크로노・브레이크・캐논에 무슨 이상은 보이지 않나？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7675,7 +7675,7 @@
         "voice": "GC161113.ogg"
       },
       "original": "７番機がクロノ・ブレイク・キャノンと、主武装を切り離しました！",
-      "translation": "７번기가 크로노・브레이크・캐논과 주무장을 분리했습니다！\n",
+      "translation": "7번기가 크로노・브레이크・캐논과 주무장을 분리했습니다！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7765,7 +7765,7 @@
         "voice": "GC161116.ogg"
       },
       "original": "……エンジェル隊のみんなにはクロノ・ブレイク・キャノンの回収と、７番機のスカイパレスへの誘導を頼む。",
-      "translation": "……엔젤대 모두에게는 크로노・브레이크・캐논 회수와, ７번기의 스카이팔레스 유도를 부탁한다.",
+      "translation": "……엔젤대 모두에게는 크로노・브레이크・캐논 회수와, 7번기의 스카이팔레스 유도를 부탁한다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7975,7 +7975,7 @@
         "voice": "GC161121.ogg"
       },
       "original": "さて、それじゃオレたちもスカイパレスに戻ろうか。７番機が気にかかるからね。",
-      "translation": "자, 그럼 우리도 스카이팔레스로 돌아갈까. ７번기가 신경 쓰이니까 말이야.",
+      "translation": "자, 그럼 우리도 스카이팔레스로 돌아갈까. 7번기가 신경 쓰이니까 말이야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8017,7 +8017,7 @@
         "voice": "GC161122.ogg"
       },
       "original": "クレータ班長、７番機は？",
-      "translation": "크레타 반장, ７번기는？",
+      "translation": "크레타 반장, 7번기는？",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8035,7 +8035,7 @@
         "voice": "GC161123.ogg"
       },
       "original": "マイヤーズ司令。……ひどいものです。",
-      "translation": "마이어스 사령관님. ……엉망입니다.",
+      "translation": "마이어스 사령관. ……엉망입니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8455,7 +8455,7 @@
         "voice": "GC960113.ogg"
       },
       "original": "……姉……さん……。",
-      "translation": "……언니……!",
+      "translation": "……누나…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8515,7 +8515,7 @@
         "voice": "GC960116.ogg"
       },
       "original": "姉さん……答えてくれるかい？",
-      "translation": "언니…… 대답해 줄래？",
+      "translation": "누나…… 대답해 줄래?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8557,7 +8557,7 @@
         "voice": "GC960118.ogg"
       },
       "original": "姉さんは……楽しかった？　僕や、エルシオールのあの人たちと、一緒に過ごすことができて？",
-      "translation": "언니는…… 즐거웠어？ 나나 에르시올의 그 사람들과 함께 지낼 수 있어서？",
+      "translation": "누나는…… 즐거웠어? 나나 에르시올의 그 사람들과 함께 지낼 수 있어서?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8605,7 +8605,7 @@
         "voice": "GC960120.ogg"
       },
       "original": "答えて、姉さん。",
-      "translation": "대답해 줘, 언니.",
+      "translation": "대답해 줘, 누나.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8713,7 +8713,7 @@
         "voice": "GC960125.ogg"
       },
       "original": "……そうだね。僕も楽しかったよ、姉さん。そして、きっとこれからも、楽しい日々が続くんだ。",
-      "translation": "……그렇네. 나도 즐거웠어, 언니. 그리고 분명 앞으로도 즐거운 날들이 계속될 거야.",
+      "translation": "……그렇네. 나도 즐거웠어, 누나. 그리고 분명 앞으로도 즐거운 날들이 계속될 거야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8779,7 +8779,7 @@
         "voice": "GC960128.ogg"
       },
       "original": "もう、僕が思うとおりの『姉』を演じる必要はない……。",
-      "translation": "이제 내가생각한대로의『언니』를연기할필요는없어….",
+      "translation": "이제 내가생각한대로의『누나』를연기할필요는없어….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8803,7 +8803,7 @@
         "voice": "GC960129.ogg"
       },
       "original": "えっ……。",
-      "translation": "엣…….",
+      "translation": "어…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9061,7 +9061,7 @@
         "voice": "GC161400.ogg"
       },
       "original": "クロノ・クェイク爆弾（ボム）……それが、６００年前に人為的にクロノ・クェイクを発生させたものなのね？",
-      "translation": "크로노・퀘이크 폭탄（봄）… 그게 ６００년 전에 인위적으로 크로노・퀘이크를 발생시킨 것이라는 거지？",
+      "translation": "크로노・퀘이크 폭탄（봄）… 그게 600년 전에 인위적으로 크로노・퀘이크를 발생시킨 것이라는 거지？",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -9229,7 +9229,7 @@
         "voice": "GC161406.ogg"
       },
       "original": "いえ、私にそんな力は……。ただ、そのための道をひらくことならできます。",
-      "translation": "아니요, 제게 그런 힘은……. 다만 그를 위한 길을여는일이라면가능합니다.",
+      "translation": "아니요, 제겐 그런 힘은……. 다만 그 길을 여는 건 가능합니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9883,7 +9883,7 @@
         "voice": "GC161431.ogg"
       },
       "original": "今は１秒でも惜しいわ。あたしはここに残ってるから……ちゃんと、守りなさいよ？",
-      "translation": "지금은 １초가 아까워. 난 여기 남을 테니까…… 제대로 지켜내라고？\n",
+      "translation": "지금은 1초가 아까워. 난 여기 남을 테니까…… 제대로 지켜내라고？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10321,7 +10321,7 @@
         "voice": "GC161510.ogg"
       },
       "original": "マイヤーズ司令、敵から通信です！",
-      "translation": "마이어스사령관님적의통신입니다！",
+      "translation": "마이어스 사령관적의통신입니다！",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -10525,7 +10525,7 @@
         "voice": "GC161518.ogg"
       },
       "original": "余は『ヴァル・ファスク』が王、ゲルン。",
-      "translation": "여인은 『발・파스크』의 왕, 게른.\n",
+      "translation": "짐은 『발・파스크』의 왕, 게른.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10957,7 +10957,7 @@
         "voice": "GC161533.ogg"
       },
       "original": "余は、ＥＤＥＮ……そして、汝らＥＤＥＮの落とし子に、告げに参った。",
-      "translation": "여인은 EDEN…… 그리고 너희 EDEN의 사생아에게 알리러 왔다.\n",
+      "translation": "짐은 EDEN…… 그리고 너희 EDEN의 후예들에게 알리러 왔다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11005,7 +11005,7 @@
         "voice": "GC161535.ogg"
       },
       "original": "汝らに告げよう……滅べ。",
-      "translation": "너희에게…… 멸하라.",
+      "translation": "고한다…… 멸망하라.",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [
@@ -11023,7 +11023,7 @@
         "voice": "GC161537.ogg"
       },
       "original": "滅べ……だと！？",
-      "translation": "멸하라……고！？",
+      "translation": "멸망하라……고!?",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [
@@ -11107,7 +11107,7 @@
         "voice": "GC161539.ogg"
       },
       "original": "汝らのもとに、『ヴァル・ファスク』たり得ぬクズがあるはずだ。",
-      "translation": "너희 중에 『발・파스크』라 할 수 없는 쓰레기가 있을 터.\n",
+      "translation": "너희 곁에 『발・파스크』라 할 수 없는 쓰레기가 있을 터.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12229,7 +12229,7 @@
         "voice": "GC661405.ogg"
       },
       "original": "誰かを懸命に愛し、誰かのために死んだ……ちょっとだけ、生き方が不器用な……オレたちと同じ人間だ！",
-      "translation": "누군가를 필사적으로 사랑하고, 누군가를 위해 죽은…… 조금 서툰…… 우리와 같은 인간이다！\n",
+      "translation": "누군가를 필사적으로 사랑하고, 누군가를 위해 죽은…… 사는 게 조금 서툰…… 우리와 같은 인간이다\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12259,7 +12259,7 @@
         "voice": "GC161553.ogg"
       },
       "original": "マイヤーズ司令！　敵旗艦より、なにかが射出されました！",
-      "translation": "마이어스 사령관님！ 적 기함에서 무언가 사출됐습니다！",
+      "translation": "마이어스 사령관！ 적 기함에서 무언가 사출됐습니다！",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12805,7 +12805,7 @@
         "voice": "GC362002.ogg"
       },
       "original": "我々に守れないものなど、何ひとつないのですから！",
-      "translation": "저희에겐 지켜야 할 것이 아주 많으니까요！",
+      "translation": "저희가 지키지 못할 것은 하나도 없으니까요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
