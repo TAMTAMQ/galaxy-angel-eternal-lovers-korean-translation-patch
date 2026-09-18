@@ -805,7 +805,7 @@
         "voice": "GC960018.ogg"
       },
       "original": "もうひとつ偉そうな肩書きができただけだ。仕事の一部と思って、割り切っちまえ。",
-      "translation": "그저 거창한 직함이 하나 더 생겼을 뿐이다. 업무의 일부라고 생각하고 받아들여.\n",
+      "translation": "거창한 직함이 하나 더 생겼을 뿐이다. 업무의 일부라 생각하고 받아들여.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1321,7 +1321,7 @@
         "voice": "GC960035.ogg"
       },
       "original": "勝手にひとの妙な絵を想像してウットリしないでほしいねえ……。",
-      "translation": "멋대로 남의묘한모습을상상하며황홀해하지말아줬으면좋겠네….",
+      "translation": "멋대로 남의 묘한 모습을 상상하며 황홀해하지 말아줘….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3835,7 +3835,7 @@
         "voice": "GC160021.ogg"
       },
       "original": "いくらクールダラス副司令の命令でもそれだけは聞けません！",
-      "translation": "아무리 쿨다라스 부사령관의명령이라도그것만은못듣습니다！",
+      "translation": "아무리 쿨다라스 부사령관의 명령이라도 그것만은 못 해요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4447,7 +4447,7 @@
         "voice": "GC160029.ogg"
       },
       "original": "実はさ、なんかあの時の戦い以来、微妙にミントがオレを避けてるんだよ。",
-      "translation": "사실말이야, 왠지 그때 전투 이후로 미묘하게 민트가 나를 피하고 있어.",
+      "translation": "사실 말이야, 그 전투 이후로 미묘하게 민트가 나를 피하고 있어.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6169,7 +6169,7 @@
         "voice": "GC160546.ogg"
       },
       "original": "トランスバール侵攻への拠点はおろか、ＥＤＥＮまでもが奪回されたのです。態勢を立て直すだけでも時間がかかるのでしょう。",
-      "translation": "트랜스벌 침공을 위한 거점은 물론 EDEN까지 탈환당했습니다. 태세를 재정비하는 것만으로도 시간이 걸릴 겁니다.\n",
+      "translation": "트랜스벌 침공을 위한 거점은 물론 EDEN까지 탈환당했습니다. 태세 재정비만으로도 시간이 걸릴 겁니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7303,7 +7303,7 @@
         "voice": "GC161102.ogg"
       },
       "original": "たった１機とはいえ、７番機とクロノ・ブレイク・キャノンの力はとんでもないぞ。",
-      "translation": "단 1기라고는 해도, 7번기와 크로노・브레이크・캐논의 힘은 엄청나다고.\n",
+      "translation": "단 1기라지만, 7번기와 크로노・브레이크・캐논의 힘은 엄청나.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7423,7 +7423,7 @@
         "voice": "GC161104.ogg"
       },
       "original": "……一気に撃墜するか？　クロノ・ブレイク・キャノンを失うのは痛いが……。",
-      "translation": "……단번에 격추할까？ 크로노・브레이크・캐논을 잃는 건 아쉽지만…….\n",
+      "translation": "……단번에 격추할까? 크로노・브레이크・캐논은 아깝지만….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8779,7 +8779,7 @@
         "voice": "GC960128.ogg"
       },
       "original": "もう、僕が思うとおりの『姉』を演じる必要はない……。",
-      "translation": "이제 내가생각한대로의『누나』를연기할필요는없어….",
+      "translation": "이제 내 멋대로 『누나』를 연기할 필요는 없어….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10645,7 +10645,7 @@
         "voice": "GC161523.ogg"
       },
       "original": "はなはだしき増長よな。誰が、汝に発言を許した？　犬は、主の命あるまで、尾を丸めて震えているがいい。",
-      "translation": "가당치않은 오만이구나.누가네게발언을허락했느냐？개는주인의명이있을때까지꼬리를말고떨고있으면된다.",
+      "translation": "가당치 않은 오만이구나. 누가 발언을 허락했느냐? 개는 주인의 명이 있을 때까지 꼬리를 말고 떨면 된다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10819,7 +10819,7 @@
         "voice": "GC161528.ogg"
       },
       "original": "ほう、汝がタクト・マイヤーズか。その功績に免じ、余に問いかける無礼、特に許そう。",
-      "translation": "호오, 네가 택트・마이어스인가. 그 공적을봐서,내게질문하는무례는특별히용서하겠다.",
+      "translation": "호오, 네가 택트・마이어스인가. 공적을 봐서 질문하는 무례는 용서하마.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10981,7 +10981,7 @@
         "voice": "GC161534.ogg"
       },
       "original": "改めて宣戦を布告しようとでもいうのか？だが、おまえたちの好きにはさせぬぞ！",
-      "translation": "다시 선전포고라도 하겠다는 건가？ 하지만 네놈들 마음대로 하게 두지않겠다！",
+      "translation": "다시 선전포고라도 하겠다는 건가? 하지만 네놈들 마음대로 두지 않겠다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11149,7 +11149,7 @@
         "voice": "GC161540.ogg"
       },
       "original": "汝らは死骸と呼ぶかもしれぬな。余が知る限り、もっとも愚かで無能だった者のことだ。",
-      "translation": "너희는 시체라 부를지도 모르겠군. 내가 아는 한, 가장 어리석고 무능했던자를말이다.",
+      "translation": "너희는 시체라 부를지도 모르겠군. 내가 아는 한 가장 어리석고 무능했던 자를.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11209,7 +11209,7 @@
         "voice": "GC161542.ogg"
       },
       "original": "汝が『ヴァル・ファスク』を名乗ることを認めぬ。『ヴァル・ファスク』でも人間でもないまま、永劫の苦しみを味わえ……とな。",
-      "translation": "네가 『발・파스크』임을 인정하지 않겠다. 『발・파스크』도 인간도 아닌 채로, 영겁의 고통을 맛보아라…… 라고 말이지.\n",
+      "translation": "네가 『발・파스크』임을 인정하지 않겠다. 『발・파스크』도 인간도 아닌 채로 영겁의 고통을 맛보아라…… 라고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12973,7 +12973,7 @@
         "voice": "GC561601.ogg"
       },
       "original": "ルシャーティさんのため。そして宇宙に生きるすべての人たちのため。",
-      "translation": "루샤티 씨를 위해서. 그리고 우주에 살아가는 모든 사람들을 위해서.\n",
+      "translation": "루샤티 씨를 위해서. 그리고 우주에 사는 모든 사람을 위해서.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13153,7 +13153,7 @@
         "voice": "GC661502.ogg"
       },
       "original": "クロノ・ブレイク・キャノンを防いだあの時のように、みんなの心をひとつにするんだ！",
-      "translation": "크로노・브레이크・캐논을 막아냈던 그때처럼, 모두의 마음을 하나로 만드는 거야！\n",
+      "translation": "크로노・브레이크・캐논을 막아냈던 그때처럼, 모두의 마음을 하나로 모아!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

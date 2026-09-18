@@ -12059,7 +12059,7 @@
         "voice": "GC131311.ogg"
       },
       "original": "獅子はウサギを狩るにも全力を尽くします。獅子ならぬこの身に、油断などありません！",
-      "translation": "사자는토끼를 사냥할 때도 전력을 다합니다. 사자가아닌이몸에,방심따위는없습니다！",
+      "translation": "사자는 토끼 사냥에도 전력을 다합니다. 사자가 아닌 이 몸에 방심은 없습니다!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -13433,7 +13433,7 @@
         "voice": "GC131416.ogg"
       },
       "original": "急いで機体を回収しろ。救護班は格納庫へ。回収が終わったら『白き月』へ帰還する。",
-      "translation": "서둘러 기체를 회수해라. 구호반은 격납고로. 회수 후 『백색 달』로 귀환한다.",
+      "translation": "서둘러 기체를 회수해라. 구호반은 격납고로. 회수 후 『백색 달』로 귀환!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

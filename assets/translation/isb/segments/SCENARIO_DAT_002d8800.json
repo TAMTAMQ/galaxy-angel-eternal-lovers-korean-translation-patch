@@ -3143,7 +3143,7 @@
         "voice": "GC975502.ogg"
       },
       "original": "店頭で即ゲットが、駄菓子の基本ですものね。そういう意味ではちょっと邪道かもしれませんが……。",
-      "translation": "매장에서 바로 사는 게 군것거리의 기본이니까요.그런의미에선좀도를벗어난걸지도모르겠지만…。",
+      "translation": "매장에서 바로 사는 게 군것질의 기본이니까요. 그런 의미에선 좀 벗어난 걸지도 모르지만….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4949,7 +4949,7 @@
         "voice": "GC975803.ogg"
       },
       "original": "特に宇宙船の中は病気が流行りやすいため、注意が必要です……。",
-      "translation": "특히우주선안은전염병이유행하기쉬우므로주의가필요합니다……。",
+      "translation": "특히 우주선 안은 전염병이 유행하기 쉬워 주의가 필요합니다….",
       "state": "shortened",
       "use_translation": true,
       "storage": [

@@ -1098,7 +1098,7 @@
         "voice": "GC610022.ogg"
       },
       "original": "いえ……タクトさんは私に何かご用があって時間を作ったのでは？",
-      "translation": "아니… 택트 씨가 저에게용건이있어시간을내신게아닐까해서요.",
+      "translation": "아니… 택트 씨가 제게 용건이 있어서 오신 게 아닐까 해서요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3462,7 +3462,7 @@
         "voice": "GC610200.ogg"
       },
       "original": "そ、そんな！　タクトさんがセクハラなんてことは、絶対に絶対にあり得ません。",
-      "translation": "그, 그럴 리가요！ 택트 씨가 성희롱이라니, 절대로 절대로 있을 수 없습니다.\n",
+      "translation": "그, 그럴 리가요! 택트 씨가 성희롱이라니, 절대 있을 수 없습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4086,7 +4086,7 @@
         "voice": "GC610215.ogg"
       },
       "original": "じょ、冗談だよ、冗談。あの堅物が女の子に興味を示すはずがないさ。",
-      "translation": "조,농담이야, 농담.그딱딱한녀석이여자애에게관심을보일리가없잖아.",
+      "translation": "노, 농담이야. 그 딱딱한 녀석이 여자애한테 관심 둘 리 없잖아.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

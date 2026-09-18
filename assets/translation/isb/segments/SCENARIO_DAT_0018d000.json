@@ -1935,7 +1935,7 @@
         "voice": "GC460132.ogg"
       },
       "original": "ありがとう。でも、ケーラ先生にフォルテの症状について報告しておきたいからさ。",
-      "translation": "고마워. 하지만 케라 선생님께 포르테의 증상에 대해 보고해두고 싶어서 말이야.\n",
+      "translation": "고마워. 하지만 케라 선생님께 포르테의 증상을 보고해두고 싶어서.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3573,7 +3573,7 @@
         "voice": "GC460207.ogg"
       },
       "original": "それで私は差し入れをしようとスポーツドリンクをコンビニで買ってきたところです。",
-      "translation": "그래서 저는 간식을 가져다드리려고 편의점에서 스포츠 드링크를 사 온 참입니다.\n",
+      "translation": "그래서 저는 간식 삼아 편의점에서 스포츠 드링크를 사 온 참입니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4659,7 +4659,7 @@
         "voice": "GC460234.ogg"
       },
       "original": "無理だと断言するつもりはないわ。事実、回復の兆候は見えているんでしょ？　でもねぇ",
-      "translation": "불가능하다고 단언할 생각은 없어. 사실 회복 징후는 보이고 있잖아？ 하지만 말이야.\n",
+      "translation": "불가능하다고 단언할 생각은 없어. 사실 회복 징후는 보이잖아? 하지만 말이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5715,7 +5715,7 @@
         "voice": "GC460252.ogg"
       },
       "original": "ほら、無理しないで。留守番は任せてください。",
-      "translation": "자,무리하지마세요.집지키는건제게맡겨주세요.",
+      "translation": "무리하지 마세요. 집은 제가 지킬게요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6867,7 +6867,7 @@
         "voice": "GC160570.ogg"
       },
       "original": "……おまえがサボりまくっていたせいだぞ。いいな？　今度こそは絶対出席してもらうぞ。",
-      "translation": "……네가 땡땡이치고 다닌 탓이다. 알겠나？ 이번에야말로 반드시 참석하게 할 거다.\n",
+      "translation": "……네가 땡땡이친 탓이다. 알겠나? 이번에야말로 반드시 참석하게 할 거다.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12303,7 +12303,7 @@
         "voice": "GC460723.ogg"
       },
       "original": "ふぁ～……。昨日は楽しかったけど夜中まで騒いで寝不足だ……。",
-      "translation": "후아～… 어제는즐거웠지만밤늦게까지떠들어서잠이부족해…….",
+      "translation": "후아～… 어제는 즐거웠지만 밤늦게까지 떠들어서 졸려…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -14769,7 +14769,7 @@
         "voice": "GC161219.ogg"
       },
       "original": "そいつは必死に……己に言い聞かせた……。そんなもの必要ない……ただ、利用だけすればいい……その程度のものだと……。",
-      "translation": "그 녀석은 필사적으로… 스스로를 타일렀다…… 그런 건 필요 없어…… 그저이용하기만하면돼……그정도의것이라고…….",
+      "translation": "그 녀석은 필사적으로… 스스로를 타일렀다…… 그런 건 필요 없어…… 그저 이용하면 돼…… 그 정도의 것이라고…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -16635,7 +16635,7 @@
         "voice": "GC161701.ogg"
       },
       "original": "そんな、恐れ多い。これもフォルテが……。いえ、エンジェル隊のみんなのおかげです。",
-      "translation": "그럴 리가요, 황송합니다. 이것도 포르테가…… 아니, 엔젤대 모두 덕분입니다.\n",
+      "translation": "그럴 리가요. 이것도 포르테가…… 아니, 엔젤대 모두 덕분입니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

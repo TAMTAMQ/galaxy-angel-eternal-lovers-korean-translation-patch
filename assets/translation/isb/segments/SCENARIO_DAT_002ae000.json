@@ -733,7 +733,7 @@
         "voice": "GC950018.ogg"
       },
       "original": "７番機ばかりかクロノ・ブレイク・キャノンまで『ヴァル・ファスク』に奪われたのは、そなたらしくもない失態であったな。",
-      "translation": "7번기뿐만 아니라 크로노・브레이크・캐논까지 『발・파스크』에게 빼앗긴 건 너답지 않은 실수였다.\n",
+      "translation": "『발・파스크』에게 7번기뿐 아니라 크로노・브레이크・캐논까지 빼앗기다니, 너답지 않은 실수였다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2317,7 +2317,7 @@
         "voice": "GC950067.ogg"
       },
       "original": "それと……これから激しい戦いになるだろうが、シャトヤーン様とノアを頼む。",
-      "translation": "그리고…… 이제부터 격렬한 싸움이 되겠지만, 샤토얀 님과 노아를 부탁한다.\n",
+      "translation": "그리고…… 앞으로 격렬한 싸움이 되겠지만, 샤토얀 님과 노아를 부탁한다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2683,7 +2683,7 @@
         "voice": "GC950107.ogg"
       },
       "original": "了解。マイヤーズ司令の端末にデータを送ります。",
-      "translation": "알았다마이어스사령관의단말기로데이터를보낸다.",
+      "translation": "알았다. 마이어스 사령관 단말기로 데이터를 보낸다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4903,7 +4903,7 @@
         "voice": "GC150514.ogg"
       },
       "original": "正直、それは司令官……いえ、軍人としての心構えとは思えません……。",
-      "translation": "솔직히그건사령관…아니,군인의마음가짐이라고는생각되지않아요…….",
+      "translation": "솔직히 그건 사령관… 아니, 군인의 마음가짐이 아니에요….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7975,7 +7975,7 @@
         "voice": "GC251106.ogg"
       },
       "original": "そう思わせるほどに、あの時の君は、『ヴァル・ファスク』のヴァインらしくなかった。",
-      "translation": "그렇게 생각하게 만들 정도로, 그때의 자네는 『발・파스크』의 바인다웠지 않았어.",
+      "translation": "그렇게 생각하게 할 만큼, 그때의 자네는 『발・파스크』의 바인답지 않았어.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8083,7 +8083,7 @@
         "voice": "GC151348.ogg"
       },
       "original": "そして、その時ルシャーティを見ていた君の瞳の意味……今のオレにはわかる気がする。",
-      "translation": "그리고 그때 루샤티를 바라보던 네 눈동자의 의미…… 지금의 나는 알 것 같아.",
+      "translation": "그리고 그때 루샤티를 바라보던 네 눈동자의 의미…… 지금의 난 알 것 같아.",
       "state": "draft",
       "use_translation": true,
       "storage": [

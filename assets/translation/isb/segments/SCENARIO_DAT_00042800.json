@@ -1589,7 +1589,7 @@
         "voice": "GC150109.ogg"
       },
       "original": "でも、もう平気です。もう絶対に忘れませんから。",
-      "translation": "하지만이제괜찮아요다시는절대잊지않을테니까요.",
+      "translation": "하지만 이제 괜찮아요. 다신 절대 잊지 않을 테니까.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4379,7 +4379,7 @@
         "voice": "GC150189.ogg"
       },
       "original": "タクトさん、さっきから何か様子がおかしくないですか？　なんか、小声でブツブツ言ってたり……。",
-      "translation": "택트 씨, 아까부터 뭔가 상태가 이상하지 않나요？ 왠지 작은 소리로 중얼중얼거리기도 하고…….\n",
+      "translation": "택트 씨, 아까부터 뭔가 상태가 이상하지 않나요? 왠지 작은 소리로 중얼거리기도 하고…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4511,7 +4511,7 @@
         "voice": "GC150191.ogg"
       },
       "original": "……そういえば、この間の有給休暇だったよね。みんなでケーキ屋めぐりしたのは。",
-      "translation": "……그러고 보니 지난번 유급 휴가 때 말이야. 다 같이 케이크 가게를 돌았던 거.",
+      "translation": "……그러고 보니 지난번 유급 휴가 때 말이야. 다 같이 케이크 가게를 돌았지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13109,7 +13109,7 @@
         "voice": "GC150944.ogg"
       },
       "original": "それはもちろんオレのためだった……って、言えたらなあ……とほほ。",
-      "translation": "그건 물론 날 위해서였다고…… 말할 수 있다면 좋을 텐데…… 흑흑.",
+      "translation": "그건 물론 날 위해서였다고…… 말할 수 있다면 좋을 텐데…… 흑.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19343,7 +19343,7 @@
         "voice": "GC151226.ogg"
       },
       "original": "でも、好きになった覚えも、好きって言った言葉も……あたしには全然なくて……。",
-      "translation": "하지만 좋아하게 된 기억도, 좋아한다고 말한 것도…… 저에겐 전혀 없어서…….\n",
+      "translation": "하지만 좋아하게 된 기억도, 좋아한다고 말한 것도…… 저에겐 전혀 없어서….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20567,7 +20567,7 @@
         "voice": "GC151255.ogg"
       },
       "original": "ああ、敵の待ち伏せが考えられる。至急、第２戦闘配備だ。オレもすぐブリッジに戻る。",
-      "translation": "그래, 적의 매복이 예상된다. 즉시 제2전투배치다. 나도 곧 함교로 돌아가겠다.\n",
+      "translation": "그래, 적의 매복이 예상된다. 즉시 제2전투배치. 나도 곧 함교로 돌아가겠다.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [

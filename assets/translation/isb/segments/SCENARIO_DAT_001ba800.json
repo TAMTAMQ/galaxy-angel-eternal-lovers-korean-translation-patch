@@ -8367,7 +8367,7 @@
         "voice": "GC131307.ogg"
       },
       "original": "『窮鼠猫を噛む』ってやつね。あいにくと、ネズミは大っ嫌いなのよ！",
-      "translation": "『궁지에몰린 쥐가 고양이를문다』는격이네.난쥐를정말싫어하거든！",
+      "translation": "『궁지에 몰린 쥐가 고양이를 문다』네. 난 쥐가 정말 싫거든!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -9579,7 +9579,7 @@
         "voice": "GC131416.ogg"
       },
       "original": "急いで機体を回収しろ。救護班は格納庫へ。回収が終わったら『白き月』へ帰還する。",
-      "translation": "서둘러 기체를 회수해라. 구호반은 격납고로. 완료 후 『백색 달』로 귀환한다.",
+      "translation": "서둘러 기체를 회수해라. 구호반은 격납고로. 완료 후 『백색 달』로 귀환!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

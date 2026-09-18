@@ -657,7 +657,7 @@
         "voice": "GC630025.ogg"
       },
       "original": "俺だってバカじゃない。戦力アップにつながる以上、ふたりの関係の相談くらいのるさ。",
-      "translation": "나도바보는 아니다. 전력 향상에 도움이 된다면 두 사람의 관계 상담정도는들어주지.",
+      "translation": "나도 바보는 아니다. 전력 향상에 도움이 되면 두 사람 상담 정도는 들어주지.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1095,7 +1095,7 @@
         "voice": "GC630049.ogg"
       },
       "original": "無理もないわ。この間の戦いから、マイヤーズ司令とはろくに会ってないって話だもん。",
-      "translation": "당연하지. 지난 전투 이후로 마이어스 사령관과 제대로 만나지 못했다는 이야기잖아.",
+      "translation": "당연하지. 지난 전투 이후로 마이어스 사령관과 제대로 못 만났다는 얘기잖아.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1239,7 +1239,7 @@
         "voice": "GC130046.ogg"
       },
       "original": "でも、それで士気が下がっては本末転倒ではないかと……。",
-      "translation": "하지만 그래서 사기가떨어진다면본말전도아닌가싶어서……",
+      "translation": "하지만 그래서 사기가 떨어진다면 본말전도 아닌가 싶어서…",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3177,7 +3177,7 @@
         "voice": "GC630323.ogg"
       },
       "original": "ええ。姉も言っていましたが、タクトさんは女性の心を掴むのがとてもお上手だと。",
-      "translation": "네.누나도 말했지만, 택트 씨는 여성의마음을사로잡는데아주능숙하다고하더군요.",
+      "translation": "네. 누나도 말했지만, 택트 씨는 여성의 마음을 사로잡는 데 능숙하다더군요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10323,7 +10323,7 @@
         "voice": "GC131416.ogg"
       },
       "original": "急いで機体を回収しろ。救護班は格納庫へ。回収が終わったら『白き月』へ帰還する。",
-      "translation": "서둘러 기체를 회수해라. 구호반은 격납고로. 회수 후 『백색 달』로 귀환한다.",
+      "translation": "서둘러 기체를 회수해라. 구호반은 격납고로. 회수 후 『백색 달』로 귀환!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

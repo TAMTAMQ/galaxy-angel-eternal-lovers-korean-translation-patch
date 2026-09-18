@@ -286,7 +286,7 @@
         "voice": "GC120003.ogg"
       },
       "original": "わかったわかった……。おまえがそういうなら任せる。本人にそう伝えといてくれ。",
-      "translation": "알았어, 알았다고……. 네가 그렇게 말한다면 맡길게. 본인에게 그렇게 전해줘.",
+      "translation": "알았어, 알았다고……. 네가 그렇게 말한다면 맡길게. 본인에게 전해줘.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1432,7 +1432,7 @@
         "voice": "GC420125.ogg"
       },
       "original": "ですがそれは、ささいな疑いを打ち消し、ＥＤＥＮとトランスバールとの友好を深めるためと理解していただければ幸いです。",
-      "translation": "하지만 그것은 사소한 의심을 불식시키고, EDEN과트랜스벌의 우호를 깊게하기위함이라이해해주시면감사하겠습니다.",
+      "translation": "하지만 그건 사소한 의심을 불식하고, EDEN과 트랜스벌의 우호를 깊게 하기 위함이니 이해해 주시면 감사하겠습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4528,7 +4528,7 @@
         "voice": "GC120362.ogg"
       },
       "original": "それでも、ここを自分の家だと思って楽にして欲しい。ルシャーティも、ヴァインも。",
-      "translation": "그래도 이곳을 자기 집이라 생각하고 편하게 지냈으면 좋겠어. 루샤티도, 바인도.\n",
+      "translation": "그래도 여기를 자기 집이라 생각하고 편하게 지냈으면 해. 루샤티도, 바인도.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5500,7 +5500,7 @@
         "voice": "GC420376.ogg"
       },
       "original": "あはは、まあ、気にしなさんな。甘さも優しさの一部ってことで評価はしているよ。",
-      "translation": "아하하,뭐 신경 쓰지 마. 무른 것도 다정함의 일부라 생각해서높게평가하고있어.",
+      "translation": "아하하, 신경 쓰지 마. 무른 것도 다정함의 일부라 생각해서 높이 평가해.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8080,7 +8080,7 @@
         "voice": "GC420629.ogg"
       },
       "original": "それがこれまでの勝利の原動力というわけですか。",
-      "translation": "그것이지금까지의승리의원동력이라는말씀인가요.",
+      "translation": "그게 지금까지 승리의 원동력이란 말씀인가요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

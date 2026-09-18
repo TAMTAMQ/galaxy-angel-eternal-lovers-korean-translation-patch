@@ -1797,7 +1797,7 @@
         "voice": "GC930124.ogg"
       },
       "original": "いいえ。様々な材料があったとしても、扱う者次第でそれは宝石にもゴミにもなります。",
-      "translation": "아니요. 재료가 아무리 좋아도다루는사람에따라보석이될수도,쓰레기가될수도있습니다.",
+      "translation": "아니요. 재료가 아무리 좋아도 다루는 사람에 따라 보석도 쓰레기도 됩니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3111,7 +3111,7 @@
         "voice": "GC930159.ogg"
       },
       "original": "データだけじゃなく、君の率直な意見も聞かせてほしい。なんせ君らは、『ヴァル・ファスク』を出し抜いてここへ来たんだからね。",
-      "translation": "데이터뿐만 아니라, 너의 솔직한 의견도 듣고 싶어. 어쨌든 너희는 『발・파스크』를 따돌리고 여기까지 왔으니까 말이야.",
+      "translation": "데이터뿐 아니라 너의 솔직한 의견도 듣고 싶어. 어쨌든 너희는 『발・파스크』를 따돌리고 여기까지 왔으니까.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5007,7 +5007,7 @@
         "voice": "GC930306.ogg"
       },
       "original": "そもそも、皇国の領域外へ行くのに、『白き月』以外に補給のアテはあるわけ？",
-      "translation": "애초에황국 영역 밖으로 가는데, 『백색 달』 말고 다른 보급처가 있긴 해？",
+      "translation": "애초에 황국 영역 밖으로 가는데, 『백색 달』 말고 보급처가 있긴 해?",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6417,7 +6417,7 @@
         "voice": "GC930404.ogg"
       },
       "original": "ここがブリス星系だ。見ての通り、トランスバールとＥＤＥＮのほぼ中間に位置している。",
-      "translation": "여기가 브리스 성계다. 보다시피 트랜스벌과 EDEN의 거의 중간에 위치하고 있다.\n",
+      "translation": "여기가 브리스 성계다. 보다시피 트랜스벌과 EDEN의 거의 중간에 있다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7821,7 +7821,7 @@
         "voice": "GC930438.ogg"
       },
       "original": "『白き月』と全乗組員に通達。エルシオールは明後日をもって、第３戦闘配備に移行する。",
-      "translation": "『백색 달』과 전 승무원에게 통지. 에르시올은 내일모레부로 제3 전투배치에 이행한다.",
+      "translation": "『백색 달』과 전 승무원에게 통지. 에르시올은 모레부터 제3 전투배치다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12873,7 +12873,7 @@
         "voice": "GC931512.ogg"
       },
       "original": "体勢を立て直している、と見るのが一番妥当だろう。だとしても、奴らが反撃に出てくるまで、今しばらくは余裕があると思うが。",
-      "translation": "전열을 가다듬고 있다고 보는 게 가장 타당하겠지. 설령 그렇다 해도 적이 반격해올 때까지는 당분간 여유가 있을 거다.",
+      "translation": "전열을 가다듬고 있다고 보는 게 가장 타당하겠지. 그렇다 해도 적이 반격할 때까지는 당분간 여유가 있을 거다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14241,7 +14241,7 @@
         "voice": "GC931548.ogg"
       },
       "original": "ああ、機転も利くようだし、うちにスカウトしたいぐらいだ。",
-      "translation": "아아,눈치도 빠른것같아서우리쪽에스카우트하고싶을정도야.",
+      "translation": "아아, 눈치도 빠른 것 같아서 스카우트하고 싶을 정도야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -15729,7 +15729,7 @@
         "voice": "GC931625.ogg"
       },
       "original": "いや、ライブラリはライブラリでも、図書館とはちょっと違うと思いますけど……。",
-      "translation": "아니, 라이브러리는 라이브러리라도, 도서관과는 좀 다르다고 생각합니다만…….\n",
+      "translation": "아니, 라이브러리라도 도서관과는 좀 다르다고 생각합니다만…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

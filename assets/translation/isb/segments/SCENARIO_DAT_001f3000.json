@@ -1557,7 +1557,7 @@
         "voice": "GC570205.ogg"
       },
       "original": "……でも、再びクロノ・クェイクが起きたら、どこにも行けなくなってしまうのですね。",
-      "translation": "……하지만 다시 크로노・퀘이크가 일어난다면, 어디에도 갈 수 없게 되겠군요.\n",
+      "translation": "……하지만 다시 크로노・퀘이크가 일어나면, 어디에도 갈 수 없게 되겠군요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3567,7 +3567,7 @@
         "voice": "GC170407.ogg"
       },
       "original": "その愚かなる希望にすがり、無駄にあがき、滅ぶがよい！",
-      "translation": "그 어리석은 희망에매달려헛되이발버둥치다멸망하거라！",
+      "translation": "그 어리석은 희망에 매달려 발버둥 치다 멸망하거라!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4413,7 +4413,7 @@
         "voice": "GC170512.ogg"
       },
       "original": "レスター、あとは頼む。今からおまえが総司令官だ。",
-      "translation": "레스터,나머진부탁한다.지금부터네가총사령관이다.",
+      "translation": "레스터, 나머진 부탁한다. 이제 네가 총사령관이다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

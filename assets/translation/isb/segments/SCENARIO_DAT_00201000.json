@@ -255,7 +255,7 @@
         "voice": "GC120003.ogg"
       },
       "original": "わかったわかった……。おまえがそういうなら任せる。本人にそう伝えといてくれ。",
-      "translation": "알았어, 알았다고……. 네가 그렇게 말한다면 맡길게. 본인에게 그렇게 전해줘.",
+      "translation": "알았어, 알았다고……. 네가 그렇게 말한다면 맡길게. 본인에게 전해줘.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -9789,7 +9789,7 @@
         "voice": "GC620627.ogg"
       },
       "original": "『なにかした』のが原因じゃなくて、『なにもしてない』のが原因なのかもよ？",
-      "translation": "『잘못한 것』이 원인이 아니라, 『아무것도 안 한 것』이 원인일지도 몰라.\n",
+      "translation": "『잘못한 것』이 아니라, 『아무것도 안 한 것』이 원인일지도 몰라.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15273,7 +15273,7 @@
         "voice": "GC620945.ogg"
       },
       "original": "それでは、僕は姉を探しに他をまわってみますので、失礼します。",
-      "translation": "그럼저는 누나를 찾으러다른곳을돌아보고올테니실례하겠습니다.",
+      "translation": "그럼 저는 누나를 찾으러 다른 곳을 돌아볼 테니 실례할게요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

@@ -303,7 +303,7 @@
         "voice": "GC170014.ogg"
       },
       "original": "おふたりがＥＤＥＮを発つ前にちゃんと謝っておかないと……そう思って。",
-      "translation": "두 분이EDEN을떠나기전에제대로사과해둬야겠다고…그렇게생각해서.",
+      "translation": "두 분이 EDEN을 떠나기 전에 제대로 사과하고 싶어서….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3939,7 +3939,7 @@
         "voice": "GC170407.ogg"
       },
       "original": "その愚かなる希望にすがり、無駄にあがき、滅ぶがよい！",
-      "translation": "그 어리석은 희망에매달려헛되이발버둥치다멸망하거라！",
+      "translation": "그 어리석은 희망에 매달려 발버둥 치다 멸망하거라!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

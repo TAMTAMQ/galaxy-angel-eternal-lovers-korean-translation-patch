@@ -1051,7 +1051,7 @@
         "voice": "GC560117.ogg"
       },
       "original": "『アタシに似合うドレスってどんなのだと思う？　お願い。ヴァニラの意見も聞かせてよ』",
-      "translation": "『나에게어울리는 드레스는 어떤 거라고 생각해？ 부탁이야. 바닐라의 의견도 들려줘』",
+      "translation": "『나한테 어울리는 드레스는 어떤 걸까? 부탁이야. 바닐라의 의견도 들려줘』",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4645,7 +4645,7 @@
         "voice": "GC160570.ogg"
       },
       "original": "……おまえがサボりまくっていたせいだぞ。いいな？　今度こそは絶対出席してもらうぞ。",
-      "translation": "……네가 땡땡이치고 다닌 탓이다. 알겠나？ 이번에야말로 반드시 참석하게 할 거다.\n",
+      "translation": "……네가 땡땡이친 탓이다. 알겠나? 이번에야말로 반드시 참석하게 할 거다.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8119,7 +8119,7 @@
         "voice": "GC560527.ogg"
       },
       "original": "――『注意がおろそか』か……。ヴァニラにしては珍しいな。",
-      "translation": "――『주의가 소홀하다』라…… 바닐라치고는 드문 일이군.\n",
+      "translation": "――『주의가 소홀하다』라…… 바닐라치곤 드문 일이군.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10597,7 +10597,7 @@
         "voice": "GC560633.ogg"
       },
       "original": "『激甘アンズアメ』という、私の駄菓子魂をうち震わせるようなすばらしい商品が……。",
-      "translation": "『격하게 달콤한 살구 사탕』이라는, 제 군것질 본능을 뒤흔드는 훌륭한 상품이…….",
+      "translation": "『격하게 달콤한 살구 사탕』이라는, 제 군것질 본능을 뒤흔드는 상품이…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11065,7 +11065,7 @@
         "voice": "GC560649.ogg"
       },
       "original": "あたしの目が不審な物体をとらえた。細長い塊だ。そいつは通路の角の暗がりに転がっていて、呼びかけても返事はない。",
-      "translation": "내눈이 수상한 물체를 포착했어. 길쭉한 덩어리였지. 통로 모퉁이 어둠 속에 굴러다니고 있어서 불러도대답이없었어.",
+      "translation": "내 눈이 수상한 물체를 포착했어. 길쭉한 덩어리였지. 통로 모퉁이 어둠 속에 굴러다니는데 불러도 대답이 없었어.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -11983,7 +11983,7 @@
         "voice": "GC560700.ogg"
       },
       "original": "ナノマシンの暴走は、必ずオレがいる場所で発生してる。しかも、それだけじゃなく……。",
-      "translation": "나노머신의 폭주는 반드시 내가 있는 곳에서 발생해. 게다가 그것뿐만이 아니라…….",
+      "translation": "나노머신 폭주는 반드시 내가 있는 곳에서 일어나. 게다가 그뿐만이 아니라…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12763,7 +12763,7 @@
         "voice": "GC560811.ogg"
       },
       "original": "『守り』よりも『攻撃』に特化したナノマシンへと。",
-      "translation": "『방어』보다『공격』에특화된나노머신으로말이야.",
+      "translation": "『방어』보다 『공격』에 특화된 나노머신으로.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -15031,7 +15031,7 @@
         "voice": "GC561041.ogg"
       },
       "original": "誰にでも等しく心をかける。それがヴァニラさんの魅力ですわ。",
-      "translation": "누구에게나평등하게마음을쓰는것그것이바닐라씨의매력입니다.",
+      "translation": "누구에게나 평등하게 마음 쓰는 게 바닐라 씨의 매력이에요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -16255,7 +16255,7 @@
         "voice": "GC161219.ogg"
       },
       "original": "そいつは必死に……己に言い聞かせた……。そんなもの必要ない……ただ、利用だけすればいい……その程度のものだと……。",
-      "translation": "그 녀석은 필사적으로…… 자신에게 타일렀다…… 그런 건 필요 없어…… 그저 이용할 뿐이라고……그정도의것이라고…….",
+      "translation": "그 녀석은 필사적으로…… 자신을 타일렀다…… 그런 건 필요 없어…… 그저 이용할 뿐이라고…… 그 정도라고…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19147,7 +19147,7 @@
         "voice": "GC561834.ogg"
       },
       "original": "『ヴァル・ファスク』の人たちは、心などどうでもいいと、本気で思っているのか……。",
-      "translation": "『발・파스크』 사람들은, 마음 따위 아무래도 좋다고 진심으로 생각하는 걸까…….",
+      "translation": "『발・파스크』는 마음 따위 아무래도 좋다고 진심으로 생각하는 걸까….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -19285,7 +19285,7 @@
         "voice": "GC561838.ogg"
       },
       "original": "ヴァインさんのように、大切な人のためにその心を使ってほしい……そのために頑張りたい……そう考えるのはおかしいですか？",
-      "translation": "바인 씨처럼, 소중한 사람을 위해 그 마음을 써주길…… 그러기 위해 노력하고 싶어…… 그렇게 생각하는 건 이상한가요？\n",
+      "translation": "바인 씨처럼, 소중한 사람을 위해 그 마음을 써주길…… 그러기 위해 노력하고 싶어…… 그게 이상한가요?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [

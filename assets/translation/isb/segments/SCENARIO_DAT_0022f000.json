@@ -890,7 +890,7 @@
         "voice": "GC650022.ogg"
       },
       "original": "とにかく今は職務に励むよ。それが、ただひとつ、ちとせのために出来ることだから……。",
-      "translation": "어쨌든 지금은 직무에 힘쓸 거야. 그게 유일하게 치토세를 위해 할 수있는일이니까….",
+      "translation": "어쨌든 지금은 직무에 힘쓸 거야. 그게 치토세를 위해 할 수 있는 일이야….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2276,7 +2276,7 @@
         "voice": "GC650126.ogg"
       },
       "original": "ちとせを余計傷つけることになりやしないか考えていたんだ……。だって、ちとせは……。",
-      "translation": "치토세를 더 상처 입히는 건 아닐까 생각하고 있었어……. 왜냐하면 치토세는…….\n",
+      "translation": "치토세를 더 상처 입히는 건 아닐까 생각했어……. 왜냐하면 치토세는…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2450,7 +2450,7 @@
         "voice": "GC650131.ogg"
       },
       "original": "そうよ。当たり前じゃない。本当にちとせを想っているなら、力ずくでも取り戻すのよっ！",
-      "translation": "그래. 당연하잖아. 정말로 치토세를 생각한다면, 수단과 방법을 가리지 말고 되찾아！\n",
+      "translation": "당연하잖아. 치토세를 정말 생각한다면 수단과 방법을 가리지 말고 되찾아!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2798,7 +2798,7 @@
         "voice": "GC650140.ogg"
       },
       "original": "だって、さっきからアンタの言ってることは、もともとちとせが誰を好きだったとか、今は誰を好きだとか、相手のことばっかじゃない。",
-      "translation": "그치만 아까부터 당신이 하는 말은, 원래 치토세가 누구를 좋아했는지, 지금은 누구를 좋아하는지 같은 상대방 이야기뿐이잖아.",
+      "translation": "그치만 아까부터 당신이 하는 말은, 원래 치토세가 누굴 좋아했는지, 지금은 누굴 좋아하는지 같은 상대방 얘기뿐이잖아.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12626,7 +12626,7 @@
         "voice": "GC650672.ogg"
       },
       "original": "そういうことだ。わかったな？　ちとせは心の底ではおまえが好きで忘れられないでいる。",
-      "translation": "그런 거야. 알겠나？ 치토세는 마음속으로는 너를 좋아해서 잊지 못하고 있어.",
+      "translation": "그런 거야. 알겠나? 치토세는 마음속으론 너를 좋아해서 잊지 못하고 있어.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13202,7 +13202,7 @@
         "voice": "GC650707.ogg"
       },
       "original": "素っ気ない恋人に困惑気味って感じだったよ、ちとせは……。記憶が混乱してるんだね……。",
-      "translation": "무심한 연인 때문에 당황하는 느낌이었어, 치토세는……. 기억이 혼란스러운 거겠지…….",
+      "translation": "무심한 연인 때문에 당황하는 느낌이었어, 치토세는……. 기억이 혼란스러운 거겠지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13382,7 +13382,7 @@
         "voice": "GC650710.ogg"
       },
       "original": "ちとせ自身も記憶の混乱で傷ついてる……。早くなんとかしたい……。",
-      "translation": "치토세 본인도 기억의혼란으로상처입었어…….빨리해결하고싶어…….",
+      "translation": "치토세도 기억의 혼란으로 상처 입었어. 빨리 해결하고 싶어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18434,7 +18434,7 @@
         "voice": "GC651111.ogg"
       },
       "original": "この短期間になにがあったというんだ……ふたりの心の結びつきを強め、紋章機を無敵の天使とするなにが！",
-      "translation": "이짧은 기간에 대체 무슨 일이！ 두 사람의 유대를강화해문장기를무적의천사로만든것이무엇이란말이냐！",
+      "translation": "이 짧은 기간에 대체 무슨 일이! 두 사람의 유대를 강화해 문장기를 무적의 천사로 만든 게 대체 뭐냐!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -18602,7 +18602,7 @@
         "voice": "GC651118.ogg"
       },
       "original": "きっと、どこかでちゃんと覚えているからですわ。",
-      "translation": "분명어딘가에서제대로기억하고있기때문일거예요.",
+      "translation": "분명 어딘가에서 제대로 기억하고 있어서겠죠.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -19538,7 +19538,7 @@
         "voice": "GC651209.ogg"
       },
       "original": "いつか必ず……他の誰でもないタクト・マイヤーズが烏丸ちとせを振り向かせてみせるさ。",
-      "translation": "언젠가 반드시… 다른 누구도 아닌 택트・마이어스가카라스마치토세를돌아보게하겠어.",
+      "translation": "언젠가 반드시… 이 택트・마이어스가 카라스마 치토세를 돌아보게 하겠어.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

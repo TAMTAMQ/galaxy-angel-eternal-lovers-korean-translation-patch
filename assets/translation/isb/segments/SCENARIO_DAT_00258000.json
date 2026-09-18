@@ -1812,7 +1812,7 @@
         "voice": "GC675116.ogg"
       },
       "original": "そういえば、ちとせはよく家族の話をするけれど、最近は帰省したりしてるのかい？",
-      "translation": "그러고 보니 치토세는 가족 얘기를 자주 하던데, 요즘은 집에 내려가기도 하니？",
+      "translation": "그러고 보니 치토세는 가족 얘기를 자주 하던데, 요즘도 집에 가니?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1920,7 +1920,7 @@
         "voice": "GC675118.ogg"
       },
       "original": "巻紙とか使うのかな。忍者がくわえるようなやつ。",
-      "translation": "두루마리같은걸쓰려나닌자가물고다니는거말이야.",
+      "translation": "두루마리 같은 걸 쓰려나? 닌자가 물고 다니는 거.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

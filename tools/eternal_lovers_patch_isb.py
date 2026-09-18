@@ -223,6 +223,8 @@ def count_mid_breaks(tokens: list[bytes], ends: list[int], classes) -> int:
             continue
         if tokens[end] in spaces:
             continue
+        if tokens[end] == ellipsis and tokens[end - 1] != ellipsis:
+            continue  # a row may open with an ellipsis
         if tokens[end - 1] in punctuation and not (
             tokens[end - 1] == ellipsis and tokens[end] == ellipsis
         ):
@@ -246,9 +248,16 @@ def relayout_rows(tokens: list[bytes], lengths: list[int], classes):
     budget = sum(align4(length) for length in lengths)
     count = len(tokens)
     width = RELAYOUT_TEXT_COLUMNS
+    # A row's payload may be as long as the longest original row of this message
+    # (the Japanese hangs closing punctuation to 42 bytes), never below the box.
+    row_cap = max(RELAYOUT_ROW_BYTES, max(lengths))
+    if budget > rows * align4(row_cap):
+        return None
 
     @lru_cache(maxsize=None)
-    def solve(row: int, start: int):
+    def solve(row: int, start: int, left: int):
+        """Best split of tokens[start:] into the remaining rows whose minimum
+        aligned sizes fit in `left` bytes (padding later absorbs the rest)."""
         while start < count and tokens[start] in spaces:
             start += 1
         if row == rows:
@@ -261,7 +270,7 @@ def relayout_rows(tokens: list[bytes], lengths: list[int], classes):
         for end in range(start + 1, count + 1):
             token = tokens[end - 1]
             used += len(token)
-            if used > width:
+            if used > width or align4(used) > left:
                 break
             real = real or token not in spaces
             if not real or token in spaces:
@@ -278,12 +287,13 @@ def relayout_rows(tokens: list[bytes], lengths: list[int], classes):
                     continue
             elif next_start < count:
                 continue
-            tail = solve(row + 1, next_start)
+            tail = solve(row + 1, next_start, left - align4(used))
             if tail is None:
                 continue
             if row + 1 >= rows or (end < count and tokens[end] in spaces):
                 penalty = 0
-            elif token in punctuation:
+            elif token in punctuation or (end < count and tokens[end] == ellipsis):
+                # after punctuation, or just before an ellipsis ("…… 저는" may open a row)
                 penalty = 25
             else:
                 penalty = 1000
@@ -292,7 +302,7 @@ def relayout_rows(tokens: list[bytes], lengths: list[int], classes):
                 best = (cost, (end,) + tail[1])
         return best
 
-    solved = solve(0, 0)
+    solved = solve(0, 0, budget)
     if solved is None:
         return None
     ends = list(solved[1])
@@ -312,7 +322,7 @@ def relayout_rows(tokens: list[bytes], lengths: list[int], classes):
     if extra < 0 or extra % 4:
         return None
     while extra:
-        candidates = [i for i in range(rows) if targets[i] + 4 <= RELAYOUT_ROW_BYTES]
+        candidates = [i for i in range(rows) if targets[i] + 4 <= align4(row_cap)]
         if not candidates:
             return None
         pick = min(candidates, key=lambda i: (targets[i], i))
@@ -322,7 +332,9 @@ def relayout_rows(tokens: list[bytes], lengths: list[int], classes):
     plains = []
     row_lengths = []
     for text, target in zip(texts, targets):
-        pad = target - len(text)
+        # The aligned slot may reach align4(row_cap); the payload itself stays
+        # within row_cap and the compiler's zero alignment covers the rest.
+        pad = min(target, row_cap) - len(text)
         if pad % 2:
             # An odd blank would end the row on a lone 0xA0; leave that byte to
             # the compiler's zero alignment instead.

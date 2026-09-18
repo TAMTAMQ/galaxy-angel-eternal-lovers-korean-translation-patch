@@ -263,7 +263,7 @@
         "voice": "GC120003.ogg"
       },
       "original": "わかったわかった……。おまえがそういうなら任せる。本人にそう伝えといてくれ。",
-      "translation": "알았어, 알았다고……. 네가 그렇게 말한다면 맡길게. 본인에게 그렇게 전해줘.",
+      "translation": "알았어, 알았다고……. 네가 그렇게 말한다면 맡길게. 본인에게 전해줘.",
       "state": "reused",
       "use_translation": true,
       "storage": [

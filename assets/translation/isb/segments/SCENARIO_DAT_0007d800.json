@@ -203,7 +203,7 @@
         "voice": "GC120001.ogg"
       },
       "original": "さすが、マイヤーズ司令。愛しい恋人を信じてますね～。",
-      "translation": "역시 마이어스 사령관. 사랑하는 연인을 믿고 있네요～.",
+      "translation": "역시 마이어스 사령관. 연인을 믿고 있네요～.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -263,7 +263,7 @@
         "voice": "GC120003.ogg"
       },
       "original": "わかったわかった……。おまえがそういうなら任せる。本人にそう伝えといてくれ。",
-      "translation": "알았어, 알았다고……. 네가 그렇게 말한다면 맡길게. 본인에게 그렇게 전해줘.",
+      "translation": "알았어, 알았다고……. 네가 그렇게 말한다면 맡길게. 본인에게 전해줘.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13457,7 +13457,7 @@
         "voice": "GC220725.ogg"
       },
       "original": "でも、時期的にはそろそろ倦怠期かもね。ランファは熱しやすく冷めやすいからね。",
-      "translation": "하지만 시기상 슬슬 권태기일지도 모르겠네. 란파는 금방 달아오르고 식으니까.",
+      "translation": "하지만 시기상 슬슬 권태기일지도 몰라. 란파는 금방 달아오르고 식으니까.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

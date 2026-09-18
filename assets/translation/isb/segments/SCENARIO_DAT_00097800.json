@@ -6197,7 +6197,7 @@
         "voice": "GC230373.ogg"
       },
       "original": "お気を悪くされたのなら謝罪します。ですが、僕はそういった行為に興味はないんです。",
-      "translation": "기분을 상하게 했다면 사과하겠습니다. 하지만 저는 그런 행위에 흥미는 없습니다.\n",
+      "translation": "기분을 상하게 했다면 사과하겠습니다. 하지만 저는 그런 행위에 흥미 없습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11429,7 +11429,7 @@
         "voice": "GC131311.ogg"
       },
       "original": "獅子はウサギを狩るにも全力を尽くします。獅子ならぬこの身に、油断などありません！",
-      "translation": "사자는 토끼를 사냥할 때도 전력을 다합니다. 사자가 아닌 제게 방심은 없습니다!",
+      "translation": "사자는 토끼 사냥에도 전력을 다합니다. 사자가 아닌 제게 방심은 없어요!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -12785,7 +12785,7 @@
         "voice": "GC131416.ogg"
       },
       "original": "急いで機体を回収しろ。救護班は格納庫へ。回収が終わったら『白き月』へ帰還する。",
-      "translation": "서둘러 기체를 회수해라. 구호반은 격납고로. 완료 후 『백색 달』로 귀환한다.",
+      "translation": "서둘러 기체를 회수해라. 구호반은 격납고로. 완료 후 『백색 달』로 귀환!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

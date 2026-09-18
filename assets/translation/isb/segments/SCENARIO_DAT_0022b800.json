@@ -1866,7 +1866,7 @@
         "voice": "GC645205.ogg"
       },
       "original": "千羽をひとつの単位として、様々なことを祈願するという習わしがあると聞きました……。",
-      "translation": "천 마리를 하나의 단위로 해서, 여러 가지를 기원한다는 관습이 있다고 들었습니다….",
+      "translation": "천 마리를 한 단위로 여러 가지를 기원하는 관습이 있다고 들었습니다….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2286,7 +2286,7 @@
         "voice": "GC645216.ogg"
       },
       "original": "本当？　亀折りたい！　ヴァニラ、亀の折り方しらない？",
-      "translation": "정말？ 거북이 접고 싶어！ 바닐라, 거북이접는법몰라？",
+      "translation": "정말? 거북이 접고 싶어! 바닐라, 접는 법 몰라?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2484,7 +2484,7 @@
         "voice": "GC645220.ogg"
       },
       "original": "翼に激安とか爆安とかきて、なんだかちょっとおいしそうだなあ。",
-      "translation": "날개에 초특가라든가 폭탄세일이라적혀있어서,왠지맛있어보이네.",
+      "translation": "날개에 초특가나 폭탄세일이라 적혀 있어서, 왠지 맛있어 보여.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

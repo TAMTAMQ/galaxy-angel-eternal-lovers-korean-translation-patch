@@ -2632,7 +2632,7 @@
         "voice": "GC430310.ogg"
       },
       "original": "あんな女性が恋人だと、マイヤーズ司令も目いっぱいあまえられちゃうんじゃないですか？",
-      "translation": "그런 여성이 연인이라면, 마이어스 사령관도 한껏 어리광을 부리게 되지 않을까요?\n",
+      "translation": "그런 여성이 연인이라면, 마이어스 사령관도 한껏 어리광을 부리지 않을까요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3754,7 +3754,7 @@
         "voice": "GC430407.ogg"
       },
       "original": "わーーっ！　オレはなにを言ってるんだ！ヤバイ、フォルテが訝しげな顔で見てる……。",
-      "translation": "와아！ 내가 무슨 소릴！ 큰일이다, 포르테가 의심스러운 눈초리로 보고 있어……。",
+      "translation": "와아! 무슨 소릴! 큰일이다, 포르테가 의심스러운 눈초리로 보고 있어…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7642,7 +7642,7 @@
         "voice": "GC131307.ogg"
       },
       "original": "『窮鼠猫を噛む』ってやつね。あいにくと、ネズミは大っ嫌いなのよ！",
-      "translation": "『궁지에몰린 쥐가 고양이를문다』는격이네.난쥐를정말싫어하거든！",
+      "translation": "『궁지에 몰린 쥐가 고양이를 문다』네. 난 쥐가 정말 싫거든!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -9082,7 +9082,7 @@
         "voice": "GC131416.ogg"
       },
       "original": "急いで機体を回収しろ。救護班は格納庫へ。回収が終わったら『白き月』へ帰還する。",
-      "translation": "기체를 서둘러 회수해라. 구호반은 격납고로. 끝나면 『백색 달』로 귀환한다.",
+      "translation": "기체를 서둘러 회수해라. 구호반은 격납고로. 끝나면 『백색 달』로 귀환!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

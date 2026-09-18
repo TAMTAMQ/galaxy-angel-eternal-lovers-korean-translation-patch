@@ -643,7 +643,7 @@
         "voice": "GC925011.ogg"
       },
       "original": "ランファに借りたんです。怖いの苦手なんですけど、この『超絶絶叫マシンガン・バイオケミカル１３』はすごく面白いからって。",
-      "translation": "란파에게 빌린 거예요. 무서운 건 잘 못하지만, 이 『초절정 절규 머신건・바이오케미컬 13』은 정말 재미있다고 해서.\n",
+      "translation": "란파한테 빌렸어요. 무서운 건 잘 못해도, 이 『초절정 절규 머신건・바이오케미컬 13』은 정말 재밌대서.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2593,7 +2593,7 @@
         "voice": "GC925312.ogg"
       },
       "original": "でもさ、しつけするなら子供のうちって言うじゃない。それでね、いまから鍛え直したら、ヴァインみたいになるかもって思うんだけど。",
-      "translation": "하지만 말이야, 교육은 어릴 때 해야 한다고 하잖아. 그래서 지금부터 다시 훈련시키면 바인처럼 될지도 모른다는 생각이 들어서.\n",
+      "translation": "하지만 교육은 어릴 때 해야 한다고 하잖아. 그래서 지금부터 다시 훈련시키면 바인처럼 될지도 모른다는 생각이 들어서.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2833,7 +2833,7 @@
         "voice": "GC925402.ogg"
       },
       "original": "弟君たちがどうしたいかによるんじゃないかな？",
-      "translation": "남동생들이 어떻게 하고싶은지에달린거아닐까？",
+      "translation": "남동생들이 어떻게 하고 싶은지에 달렸지?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4855,7 +4855,7 @@
         "voice": "GC925708.ogg"
       },
       "original": "なになに？　「君のためなら死ねる、たとえ火の中水の中プラン」？",
-      "translation": "뭐야？「당신을위해서라면불속이라도물속이라도죽을수있어플랜」？",
+      "translation": "뭐야? 「당신을 위해서라면 불속 물속 죽을 수 있어 플랜」?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5107,7 +5107,7 @@
         "voice": "GC925715.ogg"
       },
       "original": "「さあ、私の旦那様、いまこそあなたの勇気を示すときです！」",
-      "translation": "「자,나의서방님,지금이야말로당신의용기를보여줄때입니다！」",
+      "translation": "「자, 서방님, 지금이야말로 당신의 용기를 보여줄 때예요!」",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6139,7 +6139,7 @@
         "voice": "GC925812.ogg"
       },
       "original": "焦っててもなんとかするのが役者というものです。本当にタクトさんは頼りないですわね。",
-      "translation": "당황해도 어떻게든 하는 게 배우라는 거예요. 정말 택트 씨는 믿음직스럽지 못하네요.",
+      "translation": "당황해도 어떻게든 하는 게 배우예요. 정말 택트 씨는 믿음직스럽지 못하네요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6829,7 +6829,7 @@
         "voice": "GC926001.ogg"
       },
       "original": "いやあ、オレもさっきからうまそうだなあって。",
-      "translation": "이야,나도 아까부터맛있어보인다고생각했는데.",
+      "translation": "이야, 나도 아까부터 맛있어 보이더라.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8863,7 +8863,7 @@
         "voice": "GC926305.ogg"
       },
       "original": "ああ、バラして磨いて組み直す。これができて、初めて一人前の拳銃使いと言えるのさ。",
-      "translation": "아아,분해해서 닦고 다시 조립한다. 이게되어야비로소제대로된권총사수라고할수있지.",
+      "translation": "아아, 분해해서 닦고 다시 조립한다. 이게 돼야 제대로 된 권총 사수지.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -14881,7 +14881,7 @@
         "voice": "GC927104.ogg"
       },
       "original": "もう歩きまわって大丈夫なのか？　特に姉の方は線の細そうなタイプだったから……。",
-      "translation": "벌써 돌아다녀도 괜찮은 건가？ 특히 누나는 선이 가늘어 보이는 타입이라서…….\n",
+      "translation": "벌써 돌아다녀도 괜찮은 건가? 특히 누나는 선이 가늘어 보이는 타입이라….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

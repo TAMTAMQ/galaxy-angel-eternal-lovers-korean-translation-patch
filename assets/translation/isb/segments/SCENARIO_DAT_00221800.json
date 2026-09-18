@@ -1793,7 +1793,7 @@
         "voice": "GC640115.ogg"
       },
       "original": "それらが……私たちにとって……当たり前になりすぎていたのかもしれません……。",
-      "translation": "그것들이…… 우리에게 있어…… 당연한 것이 되어버렸던 것일지도 모릅니다…….\n",
+      "translation": "그것들이…… 우리에게…… 당연한 것이 되어버렸던 걸지도 모릅니다…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2651,7 +2651,7 @@
         "voice": "GC140504.ogg"
       },
       "original": "ああ、あとはあれを回収して『白き月』に戻るだけだ。",
-      "translation": "아아,남은건저걸회수해『백색달』로돌아가는것뿐이다",
+      "translation": "아아, 저걸 회수해 『백색 달』로 돌아가면 끝이다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

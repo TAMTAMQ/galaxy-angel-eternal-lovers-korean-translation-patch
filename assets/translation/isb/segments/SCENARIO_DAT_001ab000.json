@@ -256,7 +256,7 @@
         "voice": "GC120003.ogg"
       },
       "original": "わかったわかった……。おまえがそういうなら任せる。本人にそう伝えといてくれ。",
-      "translation": "알았어, 알았다고……. 네가 그렇게 말한다면 맡길게. 본인에게 그렇게 전해줘.",
+      "translation": "알았어, 알았다고……. 네가 그렇게 말한다면 맡길게. 본인에게 전해줘.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8314,7 +8314,7 @@
         "voice": "GC520626.ogg"
       },
       "original": "そばにいるから、がんばれる。それがこれまでの勝利の原動力というわけですか。",
-      "translation": "곁에 있기에 힘낼 수 있다. 그것이 지금까지 승리의 원동력이라는 말씀인가요.",
+      "translation": "곁에 있기에 힘낼 수 있다. 그게 지금까지 승리의 원동력이란 말씀인가요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

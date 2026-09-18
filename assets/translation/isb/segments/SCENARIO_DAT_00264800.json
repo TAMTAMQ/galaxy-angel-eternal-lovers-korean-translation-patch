@@ -408,7 +408,7 @@
         "voice": "GC920006.ogg"
       },
       "original": "いや、それよりもＥＤＥＮが今もあるというのは……いやいや、でも今は『ヴァル・ファスク』に支配されていて……。",
-      "translation": "아니, 그보다 EDEN이 아직 있다니…… 아니아니, 하지만 지금은 『발・파스크』에게 지배당하고 있어서…….",
+      "translation": "아니, 그보다 EDEN이 아직 있다니…… 아니, 지금은 『발・파스크』의 지배를 받고 있어서…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5136,7 +5136,7 @@
         "voice": "GC920315.ogg"
       },
       "original": "いや……おまえが仕事に励むそぶりを見せるとは思わなくてな。つい……。",
-      "translation": "아니…… 네가 일에 매진하는 모습은 못 볼줄알고말이야.나도모르게…….",
+      "translation": "아니…… 네가 일에 매진하는 모습은 못 볼 줄 알았어. 나도 모르게….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7938,7 +7938,7 @@
         "voice": "GC920519.ogg"
       },
       "original": "無限と有限の狭間にたゆたいて、時を超え、時を待つ者。我が意に応えよ。",
-      "translation": "무한과 유한의사이에서표류하며,시간을넘어기다리는자.나의뜻에응답하라.",
+      "translation": "무한과 유한 사이에서 표류하며, 시간을 넘어 기다리는 자여, 응답하라.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8616,7 +8616,7 @@
         "voice": "GC920546.ogg"
       },
       "original": "……ですが、それも昔の話です。今のライブラリは……。",
-      "translation": "……하지만, 그것도 옛날일이죠.지금의라이브러리는……",
+      "translation": "……하지만 옛날 일이죠. 지금의 라이브러리는…",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8640,7 +8640,7 @@
         "voice": "GC920547.ogg"
       },
       "original": "……『ヴァル・ファスク』の手に落ちたのですね……ＥＤＥＮの他の場所と同じように。",
-      "translation": "...『발・파스크』의 손에 떨어진 것이군요…… EDEN의 다른 곳과 마찬가지로.\n",
+      "translation": "…『발・파스크』의 손에 떨어진 거군요…… EDEN의 다른 곳과 마찬가지로.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9768,7 +9768,7 @@
         "voice": "GC920594.ogg"
       },
       "original": "そして、クロノ・クェイクの影響が消えた瞬間を狙って、一気に征服し尽くす……！",
-      "translation": "그리고 크로노・퀘이크의 영향이 사라진 순간을 노려 단번에 정복하는 거야……！\n",
+      "translation": "그리고 크로노・퀘이크의 영향이 사라진 순간을 노려 단번에 정복하는 거야!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10446,7 +10446,7 @@
         "voice": "GC920621.ogg"
       },
       "original": "ですが、『ヴァル・ファスク』にも誤算がありました。予期せぬ事態が生じたのです。",
-      "translation": "하지만, 『발・파스크』에게도 오산이 있었습니다.예기치못한사태가발생한것입니다.",
+      "translation": "『발・파스크』에게도 오산이 있었습니다. 예기치 못한 사태가 생긴 거죠.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10872,7 +10872,7 @@
         "voice": "GC920637.ogg"
       },
       "original": "物心ついた時からライブラリに拘束され、外の世界を見ることのなかった私にとって、それは最後の希望に思えました……。",
-      "translation": "철이 들었을 때부터 라이브러리에 구속되어 바깥세상을 본 적 없는 제게, 그것은 마지막 희망처럼 느껴졌습니다…….",
+      "translation": "철이 들었을 때부터 라이브러리에 갇혀 바깥세상을 본 적 없는 제게, 그건 마지막 희망처럼 느껴졌습니다…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11196,7 +11196,7 @@
         "voice": "GC920650.ogg"
       },
       "original": "このまま放っておけば……いずれこの銀河の全てが『ヴァル・ファスク』によって……！",
-      "translation": "이대로 내버려 두면…… 머지않아 이 은하의 모든 것이 『발・파스크』에 의해……！",
+      "translation": "이대로 두면…… 머지않아 이 은하의 모든 것이 『발・파스크』에 의해……!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13092,7 +13092,7 @@
         "voice": "GC920818.ogg"
       },
       "original": "そうでもないわよ。こればっかりは、ライブラリでデータに触れてみなきゃわからない。",
-      "translation": "그렇지도 않아. 이건 라이브러리에서 데이터에 직접 접해봐야 알 수 있는 일이야.\n",
+      "translation": "그렇지도 않아. 이건 라이브러리에서 데이터를 직접 접해봐야 알 수 있어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13608,7 +13608,7 @@
         "voice": "GC920827.ogg"
       },
       "original": "だけど、みんな頑張ってるんだ。オレも気を引き締めて、自分にできることをやらないと。",
-      "translation": "하지만 다들 열심히 하고 있어. 나도 마음을 다잡고 내가 할 수 있는 일을 해야 해.\n",
+      "translation": "하지만 다들 열심히 하고 있어. 나도 마음을 다잡고 할 수 있는 일을 해야 해.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14010,7 +14010,7 @@
         "voice": "GC920909.ogg"
       },
       "original": "『白き月』でシャトヤーン様とノアに会ってくる。色々と打ち合わせしておきたいからね。何かあったら呼んでくれ。飛んでくるから。",
-      "translation": "『백색 달』에서 샤토얀 님과 노아를 만나러 가. 여러 가지 협의해 두고 싶으니까. 무슨 일 있으면 불러줘. 바로 날아올 테니까.\n",
+      "translation": "『백색 달』에서 샤토얀 님과 노아를 만나고 올게. 협의할 게 좀 있어서. 무슨 일 있으면 불러줘. 바로 날아올게.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15738,7 +15738,7 @@
         "voice": "GC120801.ogg"
       },
       "original": "ここは……スカイパレスと同じ空気を感じますから……。",
-      "translation": "여기는…… 스카이팔레스와 같은공기가느껴지니까요……",
+      "translation": "여기는…… 스카이팔레스와 같은 공기가 느껴져서요…",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17760,7 +17760,7 @@
         "voice": "GC121244.ogg"
       },
       "original": "そのお言葉は、勝利してからいただきます。……勝てますか、タクト・マイヤーズ司令？",
-      "translation": "그 말씀은 승리한 뒤에 듣겠습니다. ……이길 수 있습니까, 택트・마이어스 사령관？",
+      "translation": "그 말씀은 승리한 뒤에 듣겠습니다. ……이길 수 있습니까, 마이어스 사령관?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

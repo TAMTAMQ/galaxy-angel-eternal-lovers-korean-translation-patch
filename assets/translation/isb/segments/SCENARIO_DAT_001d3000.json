@@ -6848,7 +6848,7 @@
         "voice": "GC550428.ogg"
       },
       "original": "私の故郷では、年に１回家族みんなで闇鍋パーティーをする習わしがあるので、てっきりタクトさんの星でもあるのかと思いました。",
-      "translation": "제 고향에서는 일 년에 한 번 가족 모두가 암흑전골 파티를 하는 풍습이 있어서, 당연히 택트 씨의 행성에도 있는 줄 알았어요.",
+      "translation": "제 고향에선 일 년에 한 번 온 가족이 암흑전골 파티를 하는 풍습이 있어서, 택트 씨 행성에도 있는 줄 알았어요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7982,7 +7982,7 @@
         "voice": "GC550506.ogg"
       },
       "original": "フォルテさんから、レタスの場所がわからないと連絡があったので、確認に来ただけです。",
-      "translation": "포르테 씨로부터, 레터스의 위치를 모르겠다는 연락이 와서 확인하러 왔을 뿐입니다.\n",
+      "translation": "포르테 씨가 레터스의 위치를 모르겠다고 연락해서 확인하러 왔을 뿐입니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8066,7 +8066,7 @@
         "voice": "GC550508.ogg"
       },
       "original": "見つからないはずはないと思ったのですが、レタスはやはりこのコンテナの中です。そうフォルテさんに伝えてください。",
-      "translation": "못 찾을 리 없다고 생각했습니다만, 레터스는 역시 이 컨테이너 안에 있습니다. 그렇게 포르테 씨에게 전해 주세요.\n",
+      "translation": "못 찾을 리 없다고 생각했는데, 레터스는 역시 이 컨테이너 안에 있습니다. 포르테 씨에게 그렇게 전해 주세요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8732,7 +8732,7 @@
         "voice": "GC550525.ogg"
       },
       "original": "オレたち、もう元の関係には戻れないのかって。",
-      "translation": "우리,이제 원래관계로돌아갈수없는건가싶어서.",
+      "translation": "우리, 이제 예전 관계로 못 돌아가나 싶어서.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -11600,7 +11600,7 @@
         "voice": "GC550741.ogg"
       },
       "original": "愛し合うふたりだけのヒ・ミ・ツ。なんて甘くて素敵な響きなのかしら。",
-      "translation": "사랑하는 두 사람만의비・밀・이야기어쩜이렇게달콤하고멋진울림일까요",
+      "translation": "사랑하는 두 사람만의 비・밀・이야기. 어쩜 이리 달콤한 울림일까요.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
