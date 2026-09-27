@@ -134,6 +134,7 @@ def main() -> None:
     # Which FSTS record holds which pristine resource; record positions survive
     # every earlier pass, offsets do not.
     korean_by_record: dict[int, bytes] = {}
+    pristine_offset_by_record: dict[int, int] = {}
     for resource in engine.merged_resources(pristine_adv, "ADV").values():
         try:
             raw = resources.decompress_resource(
@@ -146,6 +147,7 @@ def main() -> None:
             continue
         for record in resource.record_positions:
             korean_by_record[record] = korean
+            pristine_offset_by_record[record] = resource.offset
     if not korean_by_record:
         raise SystemExit("no ADV runtime copies matched the translated resources")
 
@@ -154,6 +156,7 @@ def main() -> None:
         item, begin, current = container_bytes(image, files, "ADV")
         resource_map = engine.merged_resources(current, "ADV")
         replacements: dict[int, tuple[bytes, int]] = {}
+        fixed_offsets: dict[int, int] = {}
         already = 0
         for resource in resource_map.values():
             korean = next(
@@ -163,6 +166,14 @@ def main() -> None:
             )
             if korean is None:
                 continue
+            original_offset = next(
+                (pristine_offset_by_record[record] for record in resource.record_positions
+                 if record in pristine_offset_by_record),
+                None,
+            )
+            if original_offset is None:
+                raise SystemExit("ADV runtime copy lost its pristine record mapping")
+            fixed_offsets[resource.offset] = original_offset
             raw = resources.decompress_resource(
                 current, resource.offset, resource.raw_size, resource.compressed_size
             )
@@ -177,6 +188,8 @@ def main() -> None:
         rebuilt = bytearray(current)
         repacked = False
         fits = True
+        if any(offset != target for offset, target in fixed_offsets.items()):
+            fits = False
         offsets = sorted(resource_map)
         for offset, (encoded, raw_size) in replacements.items():
             resource = resource_map[offset]
@@ -202,7 +215,7 @@ def main() -> None:
                     )
         elif replacements:
             rebuilt, _legacy, relocated = engine.repack_container(
-                current, resource_map, replacements
+                current, resource_map, replacements, fixed_offsets
             )
             repacked = True
             print(f"repacked ADV FSTS banks; relocated {relocated} resources", flush=True)
@@ -230,11 +243,29 @@ def main() -> None:
             )
             if korean is None:
                 continue
+            original_offset = next(
+                (pristine_offset_by_record[record] for record in resource.record_positions
+                 if record in pristine_offset_by_record),
+                None,
+            )
+            if original_offset is None:
+                raise SystemExit("ADV runtime copy lost its pristine record mapping")
+            if resource.offset != original_offset:
+                raise SystemExit(
+                    f"ADV runtime copy moved: {original_offset:#x}->{resource.offset:#x}"
+                )
             raw = resources.decompress_resource(
                 final, resource.offset, resource.raw_size, resource.compressed_size
             )
             if raw != korean:
                 raise SystemExit(f"ADV runtime copy mismatch at {resource.offset:#x}")
+            physical_raw = resources.decompress_resource(
+                final, original_offset, resource.raw_size, resource.compressed_size
+            )
+            if physical_raw != korean:
+                raise SystemExit(
+                    f"ADV physical runtime copy mismatch at {original_offset:#x}"
+                )
             verified += 1
 
     report = {

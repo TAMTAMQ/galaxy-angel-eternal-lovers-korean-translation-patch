@@ -159,6 +159,7 @@ def refit(project: Path, entry: dict, original: bytes, capacity: int, codec: str
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--iso", type=Path, required=True)
+    parser.add_argument("--original-iso", type=Path)
     parser.add_argument("--project", type=Path, default=Path("work/galaxy_angel_eternal_lovers"))
     parser.add_argument("--container", action="append", default=None)
     parser.add_argument("--layout", choices=("eternal", "moonlit"), default="eternal",
@@ -183,6 +184,25 @@ def main() -> None:
     containers = args.container or ["SLGRES", "SLGSTAGE"]
     report = {"schema": "eternal-lovers-battle-bank-images/v1", "containers": {}}
 
+    original_records: dict[str, dict[int, int]] = {}
+    original_sources: dict[str, tuple[bytes, dict[int, resources.Resource], list[int]]] = {}
+    if args.original_iso:
+        with args.original_iso.open("rb") as handle, mmap.mmap(
+            handle.fileno(), 0, access=mmap.ACCESS_READ
+        ) as original_image:
+            original_files = builder.iso_files(original_image)
+            for stem in containers:
+                item = builder.resolve_iso_file(original_files, stem)
+                begin = item.extent * builder.SECTOR
+                data = bytes(original_image[begin : begin + item.size])
+                source_map = merged_resources(data, stem)
+                source_boundaries = sorted(source_map)
+                original_sources[stem] = (data, source_map, source_boundaries)
+                original_records[stem] = {
+                    offset: resource.record_positions[0]
+                    for offset, resource in source_map.items()
+                }
+
     with args.iso.open("r+b") as handle, mmap.mmap(handle.fileno(), 0) as image:
         files = builder.iso_files(image)
         for stem in containers:
@@ -205,15 +225,26 @@ def main() -> None:
             begin = item.extent * builder.SECTOR
             container = bytearray(image[begin : begin + item.size])
             resource_map = merged_resources(bytes(container), stem)
+            by_record = {
+                record: resource
+                for resource in resource_map.values()
+                for record in resource.record_positions
+            }
 
             boundaries = sorted(resource_map)
             written, skipped, unchanged, refitted = 0, [], 0, 0
             for entry in manifest:
-                offset = int(entry["resource_offset"])
-                resource = resource_map.get(offset)
+                manifest_offset = int(entry["resource_offset"])
+                stable_record = original_records.get(stem, {}).get(manifest_offset)
+                resource = (
+                    by_record.get(stable_record)
+                    if stable_record is not None
+                    else resource_map.get(manifest_offset)
+                )
                 if resource is None:
                     skipped.append({"png": entry["png"], "reason": "resource not found"})
                     continue
+                offset = resource.offset
                 index = boundaries.index(offset)
                 end = boundaries[index + 1] if index + 1 < len(boundaries) else len(container)
                 # The gap to the next resource this pass knows about is only free space when
@@ -222,12 +253,31 @@ def main() -> None:
                 # silently loses resources.  So the slot ends where its own data ends unless
                 # everything after it is zero.
                 tail = container[offset + resource.compressed_size : end]
-                capacity = (end - offset) if not any(tail) else resource.compressed_size
+                current_capacity = (end - offset) if not any(tail) else resource.compressed_size
+                capacity = current_capacity
 
                 try:
-                    original_raw = resources.decompress_resource(
-                        container, offset, resource.raw_size, resource.compressed_size
-                    )
+                    source = original_sources.get(stem)
+                    if source is None:
+                        original_raw = resources.decompress_resource(
+                            container, offset, resource.raw_size, resource.compressed_size
+                        )
+                    else:
+                        source_data, source_map, source_boundaries = source
+                        source_resource = source_map[manifest_offset]
+                        source_index = source_boundaries.index(manifest_offset)
+                        source_end = (
+                            source_boundaries[source_index + 1]
+                            if source_index + 1 < len(source_boundaries)
+                            else len(source_data)
+                        )
+                        capacity = source_end - manifest_offset
+                        original_raw = resources.decompress_resource(
+                            source_data,
+                            manifest_offset,
+                            source_resource.raw_size,
+                            source_resource.compressed_size,
+                        )
                 except ValueError as error:
                     # A slot an earlier runtime-copy pass already rewrote decodes fine but no
                     # longer matches the size its record still declares.  Accept it when the
@@ -277,11 +327,18 @@ def main() -> None:
                         continue
                     refitted += 1
 
+                if len(compressed) > current_capacity:
+                    raise ValueError(
+                        f"{stem}/{entry['png']}: source-slot result exceeds current slot: "
+                        f"{len(compressed)}>{current_capacity}"
+                    )
                 cleared = max(len(compressed), resource.compressed_size)
                 container[offset : offset + cleared] = bytes(cleared)
                 container[offset : offset + len(compressed)] = compressed
                 for record in resource.record_positions:
                     struct.pack_into("<II", container, record + 8, len(rebuilt), len(compressed))
+                resource.raw_size = len(rebuilt)
+                resource.compressed_size = len(compressed)
                 written += 1
 
             image[begin : begin + item.size] = bytes(container)

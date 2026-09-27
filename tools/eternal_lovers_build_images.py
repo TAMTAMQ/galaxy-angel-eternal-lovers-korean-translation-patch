@@ -340,6 +340,7 @@ def main() -> None:
     run([
         sys.executable, "-u", str(ROOT / "tools/eternal_lovers_patch_battle_bank_images.py"),
         "--iso", str(output),
+        "--original-iso", str(args.original_iso),
         "--project", str(PROJECT),
         "--container", "SLGRES",
         "--container", "SLGSTAGE",
@@ -381,6 +382,13 @@ def main() -> None:
         "--original-iso", str(args.original_iso.resolve()),
         "--iso", str(output),
         "--report", str(build / "savelabel_title_space_iso_report.json"),
+    ])
+    run([
+        sys.executable, "-u",
+        str(ROOT / "tools/verify_fsts_physical_layout.py"),
+        "--original-iso", str(args.original_iso.resolve()),
+        "--iso", str(output),
+        "--report", str(build / "fsts_physical_layout_report.json"),
     ])
     if image_authority_baseline is not None:
         assert_translated_png_unchanged(image_authority_baseline, "final")

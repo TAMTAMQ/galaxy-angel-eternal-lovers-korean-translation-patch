@@ -4,12 +4,14 @@ import argparse
 import hashlib
 import json
 import math
+import re
 import shutil
 from pathlib import Path
 
 SECTOR = 2048
 META_BYTES = 8 * 1024 * 1024
-EXPECTED_MOVIES = 24
+MOVIE_NAME_RE = re.compile(r"GADAT\d{3}")
+MOVIE_IDENTIFIER_RE = re.compile(rb"GADAT\d{3}\.PSS;1")
 
 
 def sha256_file(path: Path) -> str:
@@ -132,37 +134,27 @@ def patch_volume_space_size(handle, sectors: int) -> list[int]:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Patch all 39 Eternal Lovers subtitle PSS files into the Korean ISO.")
+    ap = argparse.ArgumentParser(
+        description=(
+            "Patch every authoritative Eternal Lovers GADAT###.PSS currently "
+            "present in movie/subtitled/final into the Korean ISO."
+        )
+    )
     ap.add_argument("--iso", type=Path, default=Path("build/Galaxy_Angel_Eternal_Lovers_KO_v18.iso"))
     ap.add_argument("--pss-dir", type=Path, default=Path("movie/subtitled/final"))
-    ap.add_argument("--subtitles-dir", type=Path, default=Path("movie/subtitles"))
     ap.add_argument("--output", type=Path, default=Path("build/Galaxy_Angel_Eternal_Lovers_KO_v0.1_SUBTITLED.iso"))
     ap.add_argument("--report", type=Path, default=Path("build/eternal_lovers_movies_iso_patch.json"))
-    ap.add_argument("--names", nargs="*", help="Patch only the named GADAT stems, e.g. GADAT101")
     ap.add_argument("--plan-only", action="store_true")
     args = ap.parse_args()
 
-    nonempty_names = {
-        p.name.removesuffix(".ko.ass")
-        for p in args.subtitles_dir.glob("GADAT*.ko.ass")
-        if any(line.startswith("Dialogue:") for line in p.read_text(encoding="utf-8").splitlines())
-    }
-    selected_names = set(args.names) if args.names else set(nonempty_names)
-    unknown = selected_names - nonempty_names
-    if unknown:
-        raise ValueError(f"requested names are not non-empty subtitle movies: {sorted(unknown)}")
+    # The canonical PSS files currently on disk are the authority.  ASS files,
+    # old reports, and earlier ISO contents must not decide the replacement set.
     replacements = sorted(
         p for p in args.pss_dir.glob("GADAT*.PSS")
-        if p.stem in selected_names
+        if MOVIE_NAME_RE.fullmatch(p.stem)
     )
-    if args.names:
-        if {p.stem for p in replacements} != selected_names:
-            missing = sorted(selected_names - {p.stem for p in replacements})
-            raise ValueError(f"requested replacement PSS files are missing: {missing}")
-    elif len(replacements) != EXPECTED_MOVIES:
-        raise ValueError(
-            f"expected {EXPECTED_MOVIES} non-empty-subtitle PSS files, found {len(replacements)}"
-        )
+    if not replacements:
+        raise ValueError(f"no authoritative GADAT###.PSS files found in {args.pss_dir}")
 
     with args.iso.open("rb") as f:
         meta = f.read(META_BYTES)
@@ -195,11 +187,12 @@ def main() -> int:
     # while leaving the original physical extent allocation untouched.  In that
     # case comparing new_sectors with old_sectors needlessly relocates a movie
     # even though the gap up to the next movie still has enough room.  Measure
-    # the actual current extent capacity across all 39 movie records instead.
+    # the actual current extent capacity across every movie record instead.
     all_movie_records: list[dict[str, int | str]] = []
-    for subtitle_path in sorted(args.subtitles_dir.glob("GADAT*.ko.ass")):
-        movie_name = subtitle_path.name.removesuffix(".ko.ass")
-        current = find_record(meta, f"{movie_name}.PSS;1")
+    movie_identifiers = sorted({m.group().decode("ascii") for m in MOVIE_IDENTIFIER_RE.finditer(meta)})
+    for identifier in movie_identifiers:
+        movie_name = identifier.removesuffix(".PSS;1")
+        current = find_record(meta, identifier)
         all_movie_records.append(
             {
                 "name": movie_name,
@@ -280,6 +273,8 @@ def main() -> int:
         "source_iso_bytes": args.iso.stat().st_size,
         "source_iso_sha256": sha256_file(args.iso),
         "source_iso_sectors": source_sectors,
+        "authoritative_pss_dir": str(args.pss_dir.resolve()),
+        "authoritative_pss_count": len(replacements),
         "movie_pools": run_plans,
         "old_movie_sectors": sum(int(r["old_sectors"]) for r in records),
         "new_movie_sectors": sum(int(r["new_sectors"]) for r in records),
@@ -350,39 +345,8 @@ def main() -> int:
         if a[1] > b[0]:
             raise ValueError(f"movie extents overlap: {a} vs {b}")
 
-    all_movie_names = {
-        p.name.removesuffix(".ko.ass")
-        for p in args.subtitles_dir.glob("GADAT*.ko.ass")
-    }
-    untouched_verification: list[dict[str, object]] = []
-    for name in sorted(all_movie_names - selected_names):
-        identifier = f"{name}.PSS;1"
-        source_rec = find_record(meta, identifier)
-        output_rec = find_record(out_meta, identifier)
-        if (
-            int(output_rec["extent"]) != int(source_rec["extent"])
-            or int(output_rec["size"]) != int(source_rec["size"])
-        ):
-            raise ValueError(f"{name}: untouched ISO9660 directory record changed")
-        extent = int(source_rec["extent"])
-        size = int(source_rec["size"])
-        source_hash = sha256_region(args.iso, extent * SECTOR, size)
-        output_hash = sha256_region(args.output, extent * SECTOR, size)
-        if output_hash != source_hash:
-            raise ValueError(f"{name}: untouched PSS region changed")
-        untouched_verification.append(
-            {
-                "name": name,
-                "extent": extent,
-                "size": size,
-                "sha256": output_hash,
-                "matches_source_iso": True,
-            }
-        )
-
     plan["volume_descriptors_updated"] = volume_descriptors
     plan["verification"] = verification
-    plan["untouched_verification"] = untouched_verification
     plan["output_iso"] = str(args.output.resolve())
     plan["output_iso_size"] = args.output.stat().st_size
     plan["output_iso_sha256"] = sha256_file(args.output)

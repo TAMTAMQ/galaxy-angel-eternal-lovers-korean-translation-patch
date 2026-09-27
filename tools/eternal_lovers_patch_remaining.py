@@ -154,8 +154,10 @@ def repack_container(
     original: bytes,
     resource_map: dict[int, resources.Resource],
     replacements: dict[int, tuple[bytes, int]],
+    fixed_offsets: dict[int, int] | None = None,
 ) -> tuple[bytearray, dict[int, tuple[int, int, int]], int]:
     """Compact a PIDX data area or each FSTS bank without growing the file."""
+    fixed_offsets = fixed_offsets or {}
     rebuilt = bytearray(original)
     items = [resource_map[offset] for offset in sorted(resource_map)]
     updated_legacy: dict[int, tuple[int, int, int]] = {}
@@ -200,14 +202,116 @@ def repack_container(
             for item in bank
         ]
 
+        # A few runtime paths bypass FSTS and enter a translated cache block at
+        # its original container-relative address.  ADV replacements are known
+        # runtime copies.  In SLGSTAGE, the first small control script in each
+        # consecutive group is the stage-entry block; the larger scripts before
+        # it and the following route variants are reached through FSTS.
+        stage_control = []
+        previous_was_control = False
+        for item, _encoded, _raw_size in bank_payloads:
+            is_control = False
+            if item.container == "SLGSTAGE" and item.raw_size <= 20_000:
+                try:
+                    raw = resources.decompress_resource(
+                        original, item.offset, item.raw_size, item.compressed_size
+                    )
+                except Exception:
+                    raw = b""
+                is_control = "使用ステージ".encode("cp932") in raw[:512]
+            stage_control.append(is_control and not previous_was_control)
+            previous_was_control = is_control
+
+        hard_fixed = {
+            item.offset
+            for (item, _encoded, _raw_size), is_stage_entry in zip(
+                bank_payloads, stage_control
+            )
+            if (item.container == "ADV" and item.offset in replacements)
+            or item.offset in fixed_offsets
+            or is_stage_entry
+        }
+
         def layout() -> tuple[list[tuple[resources.Resource, bytes, int, int]], int]:
-            placed: list[tuple[resources.Resource, bytes, int, int]] = []
-            cursor = data_start
-            for item, encoded, raw_size in bank_payloads:
-                cursor = align_up(cursor, 16)
-                placed.append((item, encoded, raw_size, cursor))
-                cursor += len(encoded)
-            return placed, cursor
+            placed_by_offset: dict[int, tuple[resources.Resource, bytes, int, int]] = {}
+            occupied: list[tuple[int, int]] = []
+
+            def overlaps(begin: int, end: int) -> bool:
+                return any(begin < right and end > left for left, right in occupied)
+
+            # Hard-fixed streams win first.  Other streams are compacted around
+            # those reserved ranges so fragmented original gaps cannot make an
+            # otherwise fitting bank overflow.
+            ordered = sorted(
+                bank_payloads,
+                key=lambda entry: (entry[0].offset not in hard_fixed, entry[0].offset),
+            )
+            movable = []
+            for item, encoded, raw_size in ordered:
+                if item.offset not in hard_fixed:
+                    movable.append((item, encoded, raw_size))
+                    continue
+                begin = fixed_offsets.get(item.offset, item.offset)
+                end = begin + len(encoded)
+                if begin < data_start or end > boundary:
+                    if item.offset in hard_fixed:
+                        raise ValueError(
+                            f"fixed FSTS stream exceeds bank: {item.container}:"
+                            f"{item.offset:#x}"
+                        )
+                    movable.append((item, encoded, raw_size))
+                    continue
+                if overlaps(begin, end):
+                    if item.offset in hard_fixed:
+                        raise ValueError(
+                            f"fixed FSTS streams overlap: {item.container}:"
+                            f"{item.offset:#x}"
+                        )
+                    movable.append((item, encoded, raw_size))
+                    continue
+                placed_by_offset[item.offset] = (item, encoded, raw_size, begin)
+                occupied.append((begin, end))
+
+            # The ADV runtime image pass patches named copies independently.
+            # Do not merge byte-identical slots while restoring explicit
+            # physical addresses, or two differently translated images can
+            # become owners of the same slot.
+            allow_shared_slots = not fixed_offsets and not any(
+                item.container == "ADV" for item, *_rest in bank_payloads
+            )
+            digest_positions: dict[bytes, int] = {}
+            if allow_shared_slots:
+                for item, encoded, _raw_size, offset in placed_by_offset.values():
+                    digest_positions.setdefault(hashlib.sha256(encoded).digest(), offset)
+
+            for item, encoded, raw_size in movable:
+                digest = hashlib.sha256(encoded).digest()
+                shared = digest_positions.get(digest)
+                if shared is not None:
+                    placed_by_offset[item.offset] = (item, encoded, raw_size, shared)
+                    continue
+                cursor = data_start
+                while True:
+                    cursor = align_up(cursor, 16)
+                    conflict = next(
+                        (
+                            (left, right)
+                            for left, right in sorted(occupied)
+                            if cursor < right and cursor + len(encoded) > left
+                        ),
+                        None,
+                    )
+                    if conflict is None:
+                        break
+                    cursor = conflict[1]
+                placed_by_offset[item.offset] = (item, encoded, raw_size, cursor)
+                occupied.append((cursor, cursor + len(encoded)))
+                if allow_shared_slots:
+                    digest_positions[digest] = cursor
+
+            placed = [placed_by_offset[item.offset] for item, *_ in bank_payloads]
+            end = max((right for _left, right in occupied), default=data_start)
+            return placed, end
 
         placed, cursor = layout()
         if cursor > boundary:

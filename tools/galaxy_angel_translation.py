@@ -179,6 +179,21 @@ def normalize_display_punctuation(text: str) -> str:
     return text.replace("~", "～")
 
 
+def normalize_korean_spacing(text: str) -> str:
+    """Remove Japanese full-width indentation from ordinary Korean dialogue."""
+    if "～승리 조건～" in text and "～패배 조건～" in text:
+        return text
+    normalized: list[str] = []
+    for line in text.splitlines(keepends=True):
+        ending = "\n" if line.endswith("\n") else ""
+        body = line[:-1] if ending else line
+        if body and not body.strip("　"):
+            normalized.append(body + ending)
+            continue
+        normalized.append(body.lstrip("　").replace("　", " ") + ending)
+    return "".join(normalized)
+
+
 def encode_scenario(text: str, custom_map: dict[str, bytes] | None = None) -> bytes:
     chunks = []
     cursor = 0
@@ -466,7 +481,9 @@ def validate(source_dir: Path, asset_dir: Path) -> list[tuple[dict, dict]]:
                     f"final consonant: {unit['id']}"
                 )
             if unit["use_translation"]:
-                unit["translation"] = normalize_display_punctuation(unit["translation"])
+                unit["translation"] = normalize_korean_spacing(
+                    normalize_display_punctuation(unit["translation"])
+                )
                 if int(unit.get("channel", 0)) != 0:
                     unit["translation"] = reflow_translation_layout(unit["translation"])
                 visible_lines = unit["translation"].rstrip("\n").split("\n")

@@ -1507,7 +1507,7 @@
         "voice": "GC910108.ogg"
       },
       "original": "それじゃ、始めようか。アルモ、作戦図をモニターに出してくれ。",
-      "translation": "그럼, 시작해볼까. 아르모, 작전도를 모니터에 띄워줘.\n",
+      "translation": "그럼, 시작해볼까. 아르모, 작전 지도를 모니터에 띄워줘.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4729,7 +4729,7 @@
         "voice": "GC910544.ogg"
       },
       "original": "いつの間にそんな関係に……。",
-      "translation": "언제 사이에 그런 관계로…….\n",
+      "translation": "어느 사이에 그런 관계로…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
