@@ -7,6 +7,7 @@ import argparse
 import hashlib
 import json
 import mmap
+import re
 import struct
 from collections import defaultdict
 from pathlib import Path
@@ -82,12 +83,103 @@ def collect_targets(payload: dict) -> dict[str, dict[int, list[dict]]]:
     return {stem: dict(blocks) for stem, blocks in targets.items()}
 
 
+BATTLE_MESSAGE_LINE_RE = re.compile(rb"^(\s*#)(\d+)(\s*=\s*)(.*)$")
+BATTLE_TEXT_COLUMNS = 39
+BATTLE_MAX_LINES = 3
+
+
+def battle_message_replacements(
+    raw: bytes,
+    ranges: list[tuple[int, int]],
+    units: list[dict],
+    custom_map: dict[str, bytes],
+) -> tuple[list[tuple[int, int, bytes, str]], set[tuple[int, int]]]:
+    """Reflow two-row SLG messages into the renderer's available three rows."""
+    groups: dict[tuple[str, bytes], dict[int, dict]] = defaultdict(dict)
+    for unit in units:
+        occurrence = unit["occurrence"]
+        section = str(occurrence.get("section") or "")
+        if not section.startswith("MESSAGE"):
+            continue
+        line_number = int(occurrence["line"])
+        if not 1 <= line_number <= len(ranges):
+            continue
+        line_start, line_end = ranges[line_number - 1]
+        match = BATTLE_MESSAGE_LINE_RE.match(raw[line_start:line_end])
+        if match is None:
+            continue
+        key = match.group(2)
+        if key[-1:] not in (b"1", b"2"):
+            continue
+        original = unit["original"].rstrip("\r\n").encode("cp932")
+        position = raw.find(original, line_start, line_end)
+        if position < 0:
+            continue
+        groups[(section, key[:-1])][int(key[-1:])] = {
+            "unit": unit,
+            "span": (position, position + len(original)),
+            "match": match,
+            "line_end": line_end,
+        }
+
+    replacements: list[tuple[int, int, bytes, str]] = []
+    handled: set[tuple[int, int]] = set()
+    for rows in groups.values():
+        if set(rows) != {1, 2}:
+            continue
+        source_lines = [
+            " ".join(rows[row]["unit"]["translation"].rstrip("\r\n").splitlines())
+            for row in (1, 2)
+        ]
+        if all(translation.display_columns(line) <= BATTLE_TEXT_COLUMNS for line in source_lines):
+            rendered = "\n".join(source_lines)
+        else:
+            rendered = translation._rebalance_dialogue_lines(
+                "\n".join(source_lines), BATTLE_TEXT_COLUMNS, BATTLE_MAX_LINES
+            )
+            if rendered is None:
+                rendered = "\n".join(source_lines)
+        output_lines = rendered.rstrip("\n").split("\n")
+        if len(output_lines) > BATTLE_MAX_LINES or any(
+            translation.display_columns(line) > BATTLE_TEXT_COLUMNS
+            for line in output_lines
+        ):
+            unit_ids = ", ".join(rows[row]["unit"]["id"] for row in (1, 2))
+            raise ValueError(f"battle message does not fit three rows: {unit_ids}")
+        while len(output_lines) < 2:
+            output_lines.append("")
+
+        for row, text in zip((1, 2), output_lines[:2], strict=True):
+            info = rows[row]
+            span = info["span"]
+            replacements.append(
+                (span[0], span[1], encode_display_text(text, custom_map), info["unit"]["id"])
+            )
+            handled.add(span)
+
+        if len(output_lines) == 3:
+            info = rows[2]
+            match = info["match"]
+            line_end = info["line_end"]
+            newline = b"\r\n" if raw[line_end:line_end + 2] == b"\r\n" else b"\n"
+            third_key = match.group(2)[:-1] + b"3"
+            third_prefix = match.group(1) + third_key + match.group(3)
+            third = newline + third_prefix + encode_display_text(output_lines[2], custom_map)
+            replacements.append((line_end, line_end, third, info["unit"]["id"] + ":row3"))
+    return replacements, handled
+
+
 def rebuild_resource(raw: bytes, units: list[dict],
                      custom_map: dict[str, bytes]) -> tuple[bytes, int]:
     ranges = line_ranges(raw)
     raw_digest = hashlib.sha256(raw).hexdigest()
     replacements: list[tuple[int, int, bytes, str]] = []
     seen_ranges: set[tuple[int, int]] = set()
+    battle_replacements, battle_ranges = battle_message_replacements(
+        raw, ranges, units, custom_map
+    )
+    replacements.extend(battle_replacements)
+    seen_ranges.update(battle_ranges)
     for unit in units:
         occurrence = unit["occurrence"]
         expected_hash = occurrence.get("raw_sha256")
