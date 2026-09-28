@@ -196,6 +196,7 @@ def main() -> None:
         "--font", str(
             SHARED_ROOT / "vendor/pretendard/packages/pretendard/dist/public/static/alternative/Pretendard-Bold.ttf"
         ),
+        "--font-size", "21",
     ])
     run([
         sys.executable, "-u",
