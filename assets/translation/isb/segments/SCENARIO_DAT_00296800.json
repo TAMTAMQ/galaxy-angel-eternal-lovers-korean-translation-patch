@@ -3953,6 +3953,24 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_00296800:isb:0937",
+      "context": {
+        "voice": null
+      },
+      "original": "艦内移動直前",
+      "translation": "함내이동직전",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31504,
+          "length": 12,
+          "key": 2383814583,
+          "original": "艦内移動直前"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_00296800:isb:0936",
       "context": {
         "voice": null
@@ -3973,6 +3991,30 @@
           "length": 40,
           "key": 2383814583,
           "original": "色々ありすぎて、眠る気も起きないしなあ。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00296800:isb:0938",
+      "context": {
+        "voice": null
+      },
+      "original": "ちょっと艦内でも回るかな。誰か相手してくれる人もいるかもしれない。",
+      "translation": "잠깐 함내라도 돌아볼까. 누군가 상대해 줄 사람이 있을지도 몰라.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31908,
+          "length": 40,
+          "key": 2383814583,
+          "original": "ちょっと艦内でも回るかな。誰か相手してく"
+        },
+        {
+          "offset": 31956,
+          "length": 26,
+          "key": 2383814583,
+          "original": "れる人もいるかもしれない。"
         }
       ]
     },

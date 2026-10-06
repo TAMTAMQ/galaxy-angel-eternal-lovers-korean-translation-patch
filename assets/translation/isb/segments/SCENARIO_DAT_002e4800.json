@@ -2012,16 +2012,52 @@
       "context": {
         "voice": null
       },
-      "original": "a堤\u0010a咲r",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "ただいま",
+      "translation": "다녀왔어",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 11180,
           "length": 8,
-          "key": 3726356059,
-          "original": "a堤\u0010a咲r"
+          "key": 1887338936,
+          "original": "ただいま"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0215",
+      "context": {
+        "voice": null
+      },
+      "original": "ごきげんよう",
+      "translation": "안녕하신지요",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11196,
+          "length": 12,
+          "key": 1887338936,
+          "original": "ごきげんよう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0216",
+      "context": {
+        "voice": null
+      },
+      "original": "おやすみなさい",
+      "translation": "편히 주무세요",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11216,
+          "length": 14,
+          "key": 1887338936,
+          "original": "おやすみなさい"
         }
       ]
     },
@@ -2368,6 +2404,42 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_002e4800:isb:0217",
+      "context": {
+        "voice": null
+      },
+      "original": "食い止めるぞ、ちとせ",
+      "translation": "막아내자, 치토세",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13924,
+          "length": 20,
+          "key": 2579325665,
+          "original": "食い止めるぞ、ちとせ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0218",
+      "context": {
+        "voice": null
+      },
+      "original": "みんなの力をひとつに",
+      "translation": "모두의 힘을 하나로",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13952,
+          "length": 20,
+          "key": 2579325665,
+          "original": "みんなの力をひとつに"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_002e4800:isb:0201",
       "context": {
         "voice": null
@@ -2426,16 +2498,34 @@
       "context": {
         "voice": null
       },
-      "original": "ｬ@q潺N脣~C@[k礦",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "小型船の救出を優先",
+      "translation": "소형선 구출을 우선",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 14248,
           "length": 18,
-          "key": 3726356059,
-          "original": "ｬ@q潺N脣~C@[k礦"
+          "key": 4057443882,
+          "original": "小型船の救出を優先"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0219",
+      "context": {
+        "voice": null
+      },
+      "original": "敵艦隊の殲滅を優先",
+      "translation": "적함대 섬멸을 우선",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14276,
+          "length": 18,
+          "key": 4057443882,
+          "original": "敵艦隊の殲滅を優先"
         }
       ]
     },

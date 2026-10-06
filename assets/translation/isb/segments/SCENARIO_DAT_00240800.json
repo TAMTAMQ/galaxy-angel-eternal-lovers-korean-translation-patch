@@ -1792,6 +1792,42 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_00240800:isb:0809",
+      "context": {
+        "voice": null
+      },
+      "original": "あ、あぁ……。",
+      "translation": "아, 아아…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14408,
+          "length": 14,
+          "key": 2769341757,
+          "original": "あ、あぁ……。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00240800:isb:0810",
+      "context": {
+        "voice": null
+      },
+      "original": "それでは、失礼します。",
+      "translation": "그럼, 실례하겠습니다.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14572,
+          "length": 22,
+          "key": 2769341757,
+          "original": "それでは、失礼します。"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_00240800:isb:0081",
       "context": {
         "voice": "GC660138.ogg"

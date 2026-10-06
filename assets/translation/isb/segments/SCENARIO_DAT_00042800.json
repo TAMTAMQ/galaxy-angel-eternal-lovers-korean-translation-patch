@@ -8206,16 +8206,16 @@
       "context": {
         "voice": null
       },
-      "original": "ｯﾘYﾒYﾗｯﾜZS",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "ありがとう。",
+      "translation": "고마워.",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 65900,
           "length": 12,
-          "key": 3145728,
-          "original": "ｯﾘYﾒYﾗｯﾜZS"
+          "key": 300644397,
+          "original": "ありがとう。"
         }
       ]
     },

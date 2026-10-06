@@ -9252,6 +9252,24 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_002c5800:isb:0890",
+      "context": {
+        "voice": null
+      },
+      "original": "艦内移動終了",
+      "translation": "함내이동종료",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 79116,
+          "length": 12,
+          "key": 2625667445,
+          "original": "艦内移動終了"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_002c5800:isb:0889",
       "context": {
         "voice": null
@@ -9274,16 +9292,16 @@
       "context": {
         "voice": null
       },
-      "original": "ﾍ垢qﾎ\tC3ﾍ鶚\rﾄ0CNﾍ，Yﾍ韻Uﾍ｡C`ﾍCpﾍC3ﾍ瓩Yﾎ\n",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "でも、いい骨休めになってるんじゃないかな。",
+      "translation": "그래도, 좋은 휴식이 되고 있지 않을까.",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 79500,
           "length": 42,
-          "key": 222415162,
-          "original": "ﾍ垢qﾎ\tC3ﾍ鶚\rﾄ0CNﾍ，Yﾍ韻Uﾍ｡C`ﾍCpﾍC3ﾍ瓩Yﾎ\n"
+          "key": 2625667445,
+          "original": "でも、いい骨休めになってるんじゃないかな。"
         }
       ]
     },
@@ -9292,22 +9310,22 @@
       "context": {
         "voice": null
       },
-      "original": "ﾍ淸Uﾍ察+BﾘﾌﾄC\\ﾁ!VNﾅ躇+ﾍ仝Nﾍ韻Uﾎ\tC]ﾍｹC@ﾍCAﾍ燦!ﾍC$ﾍｮC5ﾍ瓩Yﾎ\n",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "さてと……オレは司令官室に戻って、のんびりひと眠りしようかな。",
+      "translation": "자 그럼…… 난 사령관실로 돌아가서, 느긋하게 한숨 자 볼까.",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 79616,
           "length": 40,
-          "key": 222415162,
-          "original": "ﾍ淸Uﾍ察+BﾘﾌﾄC\\ﾁ!VNﾅ躇+ﾍ仝Nﾍ韻Uﾎ\tC]ﾍｹC@"
+          "key": 2625667445,
+          "original": "さてと……オレは司令官室に戻って、のんび"
         },
         {
           "offset": 79664,
           "length": 22,
-          "key": 222415162,
-          "original": "ﾍCAﾍ燦!ﾍC$ﾍｮC5ﾍ瓩Yﾎ\n"
+          "key": 2625667445,
+          "original": "りひと眠りしようかな。"
         }
       ]
     },

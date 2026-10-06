@@ -8058,16 +8058,22 @@
       "context": {
         "voice": null
       },
-      "original": "ｿ祓､ｿqｿ.Bﾗｽ臀Xｰ'R~",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "君たちなら、造作もないことだろう？エンジェル隊、出撃！",
+      "translation": "너희라면, 어려울 것도 없겠지？ 엔젤대, 출격！",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
+        {
+          "offset": 68592,
+          "length": 34,
+          "key": 3744986462,
+          "original": "君たちなら、造作もないことだろう？"
+        },
         {
           "offset": 68636,
           "length": 20,
-          "key": 3907276898,
-          "original": "ｿ祓､ｿqｿ.Bﾗｽ臀Xｰ'R~"
+          "key": 3744986462,
+          "original": "エンジェル隊、出撃！"
         }
       ]
     },
@@ -8086,6 +8092,24 @@
           "length": 12,
           "key": 3907276898,
           "original": "{跛\u0006\r斐\u0007\u0012ﾊｴP"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0025a000:isb:0462",
+      "context": {
+        "voice": null
+      },
+      "original": "了解！",
+      "translation": "네！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 68768,
+          "length": 6,
+          "key": 3744986462,
+          "original": "了解！"
         }
       ]
     },

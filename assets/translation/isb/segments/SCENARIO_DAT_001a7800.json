@@ -3738,16 +3738,16 @@
       "context": {
         "voice": "GC510225.ogg"
       },
-      "original": "有羣溯翔弖瀟檎耄潁耜氓澎",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "楽しみに……待ってます。",
+      "translation": "기대하며…… 기다릴게요.",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 29392,
           "length": 24,
-          "key": 3932160,
-          "original": "有羣溯翔弖瀟檎耄潁耜氓澎"
+          "key": 224212253,
+          "original": "楽しみに……待ってます。"
         }
       ]
     },
@@ -3756,22 +3756,22 @@
       "context": {
         "voice": "GC510225.ogg"
       },
-      "original": "汨腋忤羹渣罸徼耜汕澎泄耆弖瀟泓肆泓肆泄肄沺耆汨澂棕祟枩邃忤",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "うん。じゃあ、また。あと……いろいろありがとう、ヴァニラ。",
+      "translation": "응. 그럼, 또 보자. 그리고…… 여러모로 고마워, 바닐라.",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 29488,
           "length": 20,
-          "key": 3932160,
-          "original": "汨腋忤羹渣罸徼耜汕澎"
+          "key": 224212253,
+          "original": "うん。じゃあ、また。"
         },
         {
           "offset": 29516,
           "length": 38,
-          "key": 3932160,
-          "original": "泄耆弖瀟泓肆泓肆泄肄沺耆汨澂棕祟枩邃忤"
+          "key": 224212253,
+          "original": "あと……いろいろありがとう、ヴァニラ。"
         }
       ]
     }

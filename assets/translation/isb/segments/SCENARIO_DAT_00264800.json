@@ -4507,6 +4507,24 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_00264800:isb:0835",
+      "context": {
+        "voice": null
+      },
+      "original": "艦内移動直前",
+      "translation": "함내이동직전",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 34156,
+          "length": 12,
+          "key": 2592845827,
+          "original": "艦内移動直前"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_00264800:isb:0834",
       "context": {
         "voice": null
