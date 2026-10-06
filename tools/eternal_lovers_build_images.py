@@ -360,6 +360,16 @@ def main() -> None:
         "--image-report", str(build / "slg_image_patch_report.json"),
         "--report", str(build / "adv_image_fsts_sync_report.json"),
     ])
+    # Every FSTS repack is done.  The PIDX header and IDX.DAT give each bank a byte size the
+    # game reads before decoding; grow it to cover streams that the repacks let run past it,
+    # or their tails decode as garbage (the post-battle 9112.isb briefing crash).
+    run([
+        sys.executable, "-u",
+        str(ROOT / "tools/sync_fsts_bank_sizes.py"),
+        "--iso", str(output),
+        "--original-iso", str(args.original_iso.resolve()),
+        "--report", str(build / "fsts_bank_sizes_report.json"),
+    ])
     # Rebuild the expected fixed-slot bytes from the immutable Japanese ISO and the current
     # translation inputs, then verify every SLGRES/SLGSTAGE copy on the finished artifact so a
     # later stage cannot silently overwrite an image or one of its size records.
@@ -390,6 +400,13 @@ def main() -> None:
         "--original-iso", str(args.original_iso.resolve()),
         "--iso", str(output),
         "--report", str(build / "fsts_physical_layout_report.json"),
+    ])
+    run([
+        sys.executable, "-u",
+        str(ROOT / "tools/sync_fsts_bank_sizes.py"),
+        "--verify-only",
+        "--iso", str(output),
+        "--original-iso", str(args.original_iso.resolve()),
     ])
     if image_authority_baseline is not None:
         assert_translated_png_unchanged(image_authority_baseline, "final")
