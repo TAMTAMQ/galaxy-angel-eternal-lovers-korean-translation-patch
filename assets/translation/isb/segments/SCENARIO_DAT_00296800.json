@@ -3953,6 +3953,30 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_00296800:isb:0936",
+      "context": {
+        "voice": null
+      },
+      "original": "……さて、休むといっても、どうしようかな？色々ありすぎて、眠る気も起きないしなあ。",
+      "translation": "……자, 쉰다고 해도 뭘 할까？ 너무 많은 일이 있어서 잘 생각도 안 드는데.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 31744,
+          "length": 42,
+          "key": 2383814583,
+          "original": "……さて、休むといっても、どうしようかな？"
+        },
+        {
+          "offset": 31796,
+          "length": 40,
+          "key": 2383814583,
+          "original": "色々ありすぎて、眠る気も起きないしなあ。"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_00296800:isb:0179",
       "context": {
         "voice": "GC140083.ogg"

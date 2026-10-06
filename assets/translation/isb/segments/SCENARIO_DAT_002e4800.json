@@ -82,20 +82,254 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_002e4800:isb:0103",
+      "context": {
+        "voice": null
+      },
+      "original": "オレはミルフィーひとすじだ！",
+      "translation": "난 밀피 한 사람뿐이야！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 416,
+          "length": 28,
+          "key": 2015086553,
+          "original": "オレはミルフィーひとすじだ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0104",
+      "context": {
+        "voice": null
+      },
+      "original": "実はルシャーティもいいかな……と",
+      "translation": "사실 루샤티도 괜찮을까…… 하고",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 452,
+          "length": 32,
+          "key": 2015086553,
+          "original": "実はルシャーティもいいかな……と"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0105",
+      "context": {
+        "voice": null
+      },
+      "original": "本当に好きなのはレスターだ",
+      "translation": "정말 좋아하는 건 레스터야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 492,
+          "length": 26,
+          "key": 2015086553,
+          "original": "本当に好きなのはレスターだ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0106",
+      "context": {
+        "voice": null
+      },
+      "original": "それでも、ミルフィーの顔が見たい",
+      "translation": "그래도 밀피 얼굴이 보고 싶어",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 636,
+          "length": 32,
+          "key": 2889226584,
+          "original": "それでも、ミルフィーの顔が見たい"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0107",
+      "context": {
+        "voice": null
+      },
+      "original": "むしろ見てみたいな",
+      "translation": "오히려 보고 싶은데",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 676,
+          "length": 18,
+          "key": 2889226584,
+          "original": "むしろ見てみたいな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0108",
+      "context": {
+        "voice": null
+      },
+      "original": "変な顔でも構わない",
+      "translation": "이상해도 괜찮아",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 704,
+          "length": 18,
+          "key": 2889226584,
+          "original": "変な顔でも構わない"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0109",
+      "context": {
+        "voice": null
+      },
+      "original": "軽くさっさと終わらせよう",
+      "translation": "가볍게 빨리 끝내자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 852,
+          "length": 24,
+          "key": 1183052949,
+          "original": "軽くさっさと終わらせよう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0110",
+      "context": {
+        "voice": null
+      },
+      "original": "油断せずにいこう",
+      "translation": "방심하지 말자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 884,
+          "length": 16,
+          "key": 1183052949,
+          "original": "油断せずにいこう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0111",
+      "context": {
+        "voice": null
+      },
+      "original": "ミルフィーが待ってる",
+      "translation": "밀피가 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1096,
+          "length": 20,
+          "key": 1533899353,
+          "original": "ミルフィーが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0112",
+      "context": {
+        "voice": null
+      },
+      "original": "特別ボーナスが待ってる",
+      "translation": "특별 보너스가 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1124,
+          "length": 22,
+          "key": 1533899353,
+          "original": "特別ボーナスが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0113",
+      "context": {
+        "voice": null
+      },
+      "original": "『白き月』が待ってる",
+      "translation": "『하얀 달』이 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1156,
+          "length": 20,
+          "key": 1533899353,
+          "original": "『白き月』が待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0114",
+      "context": {
+        "voice": null
+      },
+      "original": "やっぱりフォルテかな",
+      "translation": "역시 포르테일까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1396,
+          "length": 20,
+          "key": 2943880213,
+          "original": "やっぱりフォルテかな"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_002e4800:isb:0003",
       "context": {
         "voice": null
       },
-      "original": "ﾌ@皺ﾌm癨ﾍﾜ珞ﾍﾅ瞿ﾌj",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "やっぱりミントかな",
+      "translation": "역시 민트일까",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 1424,
           "length": 18,
-          "key": 3726356059,
-          "original": "ﾌ@皺ﾌm癨ﾍﾜ珞ﾍﾅ瞿ﾌj"
+          "key": 2943880213,
+          "original": "やっぱりミントかな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0115",
+      "context": {
+        "voice": null
+      },
+      "original": "やっぱり自分で考えてみるよ",
+      "translation": "역시 내가 생각해 볼게",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1452,
+          "length": 26,
+          "key": 2943880213,
+          "original": "やっぱり自分で考えてみるよ"
         }
       ]
     },
@@ -104,16 +338,16 @@
       "context": {
         "voice": null
       },
-      "original": "羸ｲｾﾞｲﾉｲｺｳ磔\u0007ｳ2ｲｺ",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "力の強そうなランファかな",
+      "translation": "힘이 셀 것 같은 란파일까",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 1580,
           "length": 24,
-          "key": 3726356059,
-          "original": "羸ｲｾﾞｲﾉｲｺｳ磔\u0007ｳ2ｲｺ"
+          "key": 2888555823,
+          "original": "力の強そうなランファかな"
         }
       ]
     },
@@ -122,16 +356,16 @@
       "context": {
         "voice": null
       },
-      "original": "諸ｲﾇｲﾖｳ踟3ｳ\u0018ｲﾛ",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "詳しそうなヴァニラかな",
+      "translation": "잘 알 듯한 바닐라일까",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 1612,
           "length": 22,
-          "key": 3726356059,
-          "original": "諸ｲﾇｲﾖｳ踟3ｳ\u0018ｲﾛ"
+          "key": 2888555823,
+          "original": "詳しそうなヴァニラかな"
         }
       ]
     },
@@ -140,16 +374,52 @@
       "context": {
         "voice": null
       },
-      "original": "ｾｲｲﾖｲﾍｲﾋｲｺ",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "堅実そうなちとせかな",
+      "translation": "착실한 치토세일까",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 1644,
           "length": 20,
-          "key": 3726356059,
-          "original": "ｾｲｲﾖｲﾍｲﾋｲｺ"
+          "key": 2888555823,
+          "original": "堅実そうなちとせかな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0116",
+      "context": {
+        "voice": null
+      },
+      "original": "食い止めるぞ、ミルフィー",
+      "translation": "막아내자, 밀피",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 1992,
+          "length": 24,
+          "key": 2579325665,
+          "original": "食い止めるぞ、ミルフィー"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0117",
+      "context": {
+        "voice": null
+      },
+      "original": "みんなの力をひとつに",
+      "translation": "모두의 힘을 하나로",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2024,
+          "length": 20,
+          "key": 2579325665,
+          "original": "みんなの力をひとつに"
         }
       ]
     },
@@ -158,16 +428,52 @@
       "context": {
         "voice": null
       },
-      "original": "ﾙ,猥ﾜ'獗ﾌ\u001f燉ﾏ珥ﾑﾌJ珈ﾌd獨",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "落ち着いたよ。ありがとう",
+      "translation": "진정됐어. 고마워",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 2188,
           "length": 24,
-          "key": 3726356059,
-          "original": "ﾙ,猥ﾜ'獗ﾌ\u001f燉ﾏ珥ﾑﾌJ珈ﾌd獨"
+          "key": 2943945749,
+          "original": "落ち着いたよ。ありがとう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0118",
+      "context": {
+        "voice": null
+      },
+      "original": "ごめん、情けないとこ見せちゃって",
+      "translation": "미안, 한심한 꼴 보여서",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2220,
+          "length": 32,
+          "key": 2943945749,
+          "original": "ごめん、情けないとこ見せちゃって"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0119",
+      "context": {
+        "voice": null
+      },
+      "original": "別の意味で落ち着かなくなった",
+      "translation": "다른 의미로 진정이 안 돼",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2260,
+          "length": 28,
+          "key": 2943945749,
+          "original": "別の意味で落ち着かなくなった"
         }
       ]
     },
@@ -212,16 +518,16 @@
       "context": {
         "voice": null
       },
-      "original": "ﾄﾁgGﾄｿf`ﾅ蘿敘6g ﾏ冏KﾄｿgKﾄﾛg\u000f",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "すぐにランファに会いにいくよ",
+      "translation": "바로 란파를 만나러 갈게",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 2760,
           "length": 28,
-          "key": 3726356059,
-          "original": "ﾄﾁgGﾄｿf`ﾅ蘿敘6g ﾏ冏KﾄｿgKﾄﾛg\u000f"
+          "key": 939448349,
+          "original": "すぐにランファに会いにいくよ"
         }
       ]
     },
@@ -230,16 +536,160 @@
       "context": {
         "voice": null
       },
-      "original": "ﾑﾊk\u0001ﾄｿl=ﾄﾟg!ﾇ>",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "両手に花かな？",
+      "translation": "양손에 꽃？",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 2796,
           "length": 14,
-          "key": 3726356059,
-          "original": "ﾑﾊk\u0001ﾄｿl=ﾄﾟg!ﾇ>"
+          "key": 939448349,
+          "original": "両手に花かな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0120",
+      "context": {
+        "voice": null
+      },
+      "original": "軽くさっさと終わらせよう",
+      "translation": "가볍게 빨리 끝내자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2960,
+          "length": 24,
+          "key": 1183052949,
+          "original": "軽くさっさと終わらせよう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0121",
+      "context": {
+        "voice": null
+      },
+      "original": "油断せずにいこう",
+      "translation": "방심하지 말자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 2992,
+          "length": 16,
+          "key": 1183052949,
+          "original": "油断せずにいこう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0122",
+      "context": {
+        "voice": null
+      },
+      "original": "ランファが待ってる",
+      "translation": "란파가 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3204,
+          "length": 18,
+          "key": 1533899353,
+          "original": "ランファが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0123",
+      "context": {
+        "voice": null
+      },
+      "original": "特別ボーナスが待ってる",
+      "translation": "특별 보너스가 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3232,
+          "length": 22,
+          "key": 1533899353,
+          "original": "特別ボーナスが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0124",
+      "context": {
+        "voice": null
+      },
+      "original": "『白き月』が待ってる",
+      "translation": "『하얀 달』이 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3264,
+          "length": 20,
+          "key": 1533899353,
+          "original": "『白き月』が待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0125",
+      "context": {
+        "voice": null
+      },
+      "original": "ちとせの漢方薬じゃないかな？",
+      "translation": "치토세의 한약 아닐까？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3504,
+          "length": 28,
+          "key": 2943880213,
+          "original": "ちとせの漢方薬じゃないかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0126",
+      "context": {
+        "voice": null
+      },
+      "original": "ヴァニラの栄養ドリンクかな？",
+      "translation": "바닐라의 영양 드링크일까？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3540,
+          "length": 28,
+          "key": 2943880213,
+          "original": "ヴァニラの栄養ドリンクかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0127",
+      "context": {
+        "voice": null
+      },
+      "original": "やっぱり薬じゃないほうが……",
+      "translation": "역시 약 말고 다른 게……",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3576,
+          "length": 28,
+          "key": 2943880213,
+          "original": "やっぱり薬じゃないほうが……"
         }
       ]
     },
@@ -248,16 +698,196 @@
       "context": {
         "voice": null
       },
-      "original": "ｼﾛ矮ｲﾐ｢壟ｧｲｿ邏ｲｯｲｾｲﾇｲﾖ",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "お見舞いの定番は読みものでしょう",
+      "translation": "병문안 단골은 읽을거리겠지",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 3704,
           "length": 32,
-          "key": 3726356059,
-          "original": "ｼﾛ矮ｲﾐ｢壟ｧｲｿ邏ｲｯｲｾｲﾇｲﾖ"
+          "key": 2888555823,
+          "original": "お見舞いの定番は読みものでしょう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0128",
+      "context": {
+        "voice": null
+      },
+      "original": "お見舞いの定番は食べものでしょう",
+      "translation": "병문안 단골은 먹을거리겠지",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3744,
+          "length": 32,
+          "key": 2888555823,
+          "original": "お見舞いの定番は食べものでしょう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0129",
+      "context": {
+        "voice": null
+      },
+      "original": "ちょっと意表ついて筋トレグッズとか",
+      "translation": "허를 찔러 운동 용품이라든가",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3784,
+          "length": 34,
+          "key": 2888555823,
+          "original": "ちょっと意表ついて筋トレグッズとか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0130",
+      "context": {
+        "voice": null
+      },
+      "original": "気持ちいいから",
+      "translation": "기분 좋으니까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3948,
+          "length": 14,
+          "key": 2946089104,
+          "original": "気持ちいいから"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0131",
+      "context": {
+        "voice": null
+      },
+      "original": "ランファが好きだから",
+      "translation": "란파를 좋아하니까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 3972,
+          "length": 20,
+          "key": 2946089104,
+          "original": "ランファが好きだから"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0132",
+      "context": {
+        "voice": null
+      },
+      "original": "一緒に来てくれ",
+      "translation": "같이 와 줘",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4296,
+          "length": 14,
+          "key": 317808460,
+          "original": "一緒に来てくれ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0133",
+      "context": {
+        "voice": null
+      },
+      "original": "逃げるんだ",
+      "translation": "도망쳐",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4320,
+          "length": 10,
+          "key": 317808460,
+          "original": "逃げるんだ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0134",
+      "context": {
+        "voice": null
+      },
+      "original": "ランファがいると邪魔だ",
+      "translation": "란파가 있으면 방해야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4340,
+          "length": 22,
+          "key": 317808460,
+          "original": "ランファがいると邪魔だ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0135",
+      "context": {
+        "voice": null
+      },
+      "original": "食い止めるぞ、ランファ",
+      "translation": "막아내자, 란파",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4496,
+          "length": 22,
+          "key": 2579325665,
+          "original": "食い止めるぞ、ランファ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0136",
+      "context": {
+        "voice": null
+      },
+      "original": "みんなの力をひとつに",
+      "translation": "모두의 힘을 하나로",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4528,
+          "length": 20,
+          "key": 2579325665,
+          "original": "みんなの力をひとつに"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0137",
+      "context": {
+        "voice": null
+      },
+      "original": "……ありがとう",
+      "translation": "……고마워",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4692,
+          "length": 14,
+          "key": 2943945749,
+          "original": "……ありがとう"
         }
       ]
     },
@@ -266,16 +896,70 @@
       "context": {
         "voice": null
       },
-      "original": "ﾛ\u0015獗ﾌf燔ﾌ\u0013牴ﾌ\u001d珈ﾁd燬ﾌK犹ﾌ\u0002",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "聞いてるこっちが照れるなあ",
+      "translation": "듣는 내가 다 쑥스럽네",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 4716,
           "length": 26,
-          "key": 3726356059,
-          "original": "ﾛ\u0015獗ﾌf燔ﾌ\u0013牴ﾌ\u001d珈ﾁd燬ﾌK犹ﾌ\u0002"
+          "key": 2943945749,
+          "original": "聞いてるこっちが照れるなあ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0138",
+      "context": {
+        "voice": null
+      },
+      "original": "じゃあオレの言うことをきいてくれ",
+      "translation": "그럼 내 말을 들어 줘",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 4752,
+          "length": 32,
+          "key": 2943945749,
+          "original": "じゃあオレの言うことをきいてくれ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0139",
+      "context": {
+        "voice": null
+      },
+      "original": "オレのことかな？",
+      "translation": "내 얘기일까？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5128,
+          "length": 16,
+          "key": 2943945749,
+          "original": "オレのことかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0140",
+      "context": {
+        "voice": null
+      },
+      "original": "別れ話？",
+      "translation": "이별？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5152,
+          "length": 8,
+          "key": 2943945749,
+          "original": "別れ話？"
         }
       ]
     },
@@ -334,20 +1018,218 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_002e4800:isb:0141",
+      "context": {
+        "voice": null
+      },
+      "original": "軽くさっさと終わらせよう",
+      "translation": "가볍게 빨리 끝내자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5468,
+          "length": 24,
+          "key": 1183052949,
+          "original": "軽くさっさと終わらせよう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0142",
+      "context": {
+        "voice": null
+      },
+      "original": "油断せずにいこう",
+      "translation": "방심하지 말자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5500,
+          "length": 16,
+          "key": 1183052949,
+          "original": "油断せずにいこう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0143",
+      "context": {
+        "voice": null
+      },
+      "original": "ミントが待ってる",
+      "translation": "민트가 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5712,
+          "length": 16,
+          "key": 1533899353,
+          "original": "ミントが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0144",
+      "context": {
+        "voice": null
+      },
+      "original": "特別ボーナスが待ってる",
+      "translation": "특별 보너스가 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5736,
+          "length": 22,
+          "key": 1533899353,
+          "original": "特別ボーナスが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0145",
+      "context": {
+        "voice": null
+      },
+      "original": "『白き月』が待ってる",
+      "translation": "『하얀 달』이 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 5768,
+          "length": 20,
+          "key": 1533899353,
+          "original": "『白き月』が待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0146",
+      "context": {
+        "voice": null
+      },
+      "original": "オレはミント以外眼中にないよ",
+      "translation": "난 민트 말고는 안 보여",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6008,
+          "length": 28,
+          "key": 3132551701,
+          "original": "オレはミント以外眼中にないよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0147",
+      "context": {
+        "voice": null
+      },
+      "original": "いまはそれどころじゃないよ",
+      "translation": "지금은 그럴 때가 아니야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6044,
+          "length": 26,
+          "key": 3132551701,
+          "original": "いまはそれどころじゃないよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0148",
+      "context": {
+        "voice": null
+      },
+      "original": "いまのところミントだけだよ",
+      "translation": "지금은 민트뿐이야",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6080,
+          "length": 26,
+          "key": 3132551701,
+          "original": "いまのところミントだけだよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0149",
+      "context": {
+        "voice": null
+      },
+      "original": "デザートとおかずを交換したら？",
+      "translation": "디저트랑 반찬을 바꾸면？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6292,
+          "length": 30,
+          "key": 4050344003,
+          "original": "デザートとおかずを交換したら？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0150",
+      "context": {
+        "voice": null
+      },
+      "original": "今日の所は食べてしまえば？",
+      "translation": "오늘은 먹어 버리면？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6332,
+          "length": 26,
+          "key": 4050344003,
+          "original": "今日の所は食べてしまえば？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0151",
+      "context": {
+        "voice": null
+      },
+      "original": "明日からとかにしちゃえば？",
+      "translation": "내일부터로 하면 어때？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6368,
+          "length": 26,
+          "key": 4050344003,
+          "original": "明日からとかにしちゃえば？"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_002e4800:isb:0017",
       "context": {
         "voice": null
       },
-      "original": "E\u0007\u0015ｮAﾁ\fﾋ",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "司令官室",
+      "translation": "사령관실",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 6592,
           "length": 8,
-          "key": 3726356059,
-          "original": "E\u0007\u0015ｮAﾁ\fﾋ"
+          "key": 2946089104,
+          "original": "司令官室"
         }
       ]
     },
@@ -356,16 +1238,16 @@
       "context": {
         "voice": null
       },
-      "original": "B(\u0010<\u0001礬\u001c\u0001\u001b",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "宇宙コンビニ",
+      "translation": "우주 편의점",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 6608,
           "length": 12,
-          "key": 3726356059,
-          "original": "B(\u0010<\u0001礬\u001c\u0001\u001b"
+          "key": 2946089104,
+          "original": "宇宙コンビニ"
         }
       ]
     },
@@ -374,16 +1256,70 @@
       "context": {
         "voice": null
       },
-      "original": "Cﾊ\u0000ﾂJ'",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "愛さ！",
+      "translation": "사랑！",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 6924,
           "length": 6,
-          "key": 3726356059,
-          "original": "Cﾊ\u0000ﾂJ'"
+          "key": 2946089104,
+          "original": "愛さ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0152",
+      "context": {
+        "voice": null
+      },
+      "original": "やっぱり幻聴",
+      "translation": "역시 환청",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 6940,
+          "length": 12,
+          "key": 2946089104,
+          "original": "やっぱり幻聴"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0153",
+      "context": {
+        "voice": null
+      },
+      "original": "食い止めるぞ、ミント",
+      "translation": "막아내자, 민트",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7060,
+          "length": 20,
+          "key": 2579325665,
+          "original": "食い止めるぞ、ミント"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0154",
+      "context": {
+        "voice": null
+      },
+      "original": "みんなの力をひとつに",
+      "translation": "모두의 힘을 하나로",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7088,
+          "length": 20,
+          "key": 2579325665,
+          "original": "みんなの力をひとつに"
         }
       ]
     },
@@ -392,16 +1328,34 @@
       "context": {
         "voice": null
       },
-      "original": "ﾙ,猥ﾜ'獗ﾌ\u001f燉ﾏ聰ﾑﾌJ珈ﾌd獨",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "落ち着いたよ、ありがとう",
+      "translation": "진정됐어, 고마워",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 7252,
           "length": 24,
-          "key": 3726356059,
-          "original": "ﾙ,猥ﾜ'獗ﾌ\u001f燉ﾏ聰ﾑﾌJ珈ﾌd獨"
+          "key": 2943945749,
+          "original": "落ち着いたよ、ありがとう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0155",
+      "context": {
+        "voice": null
+      },
+      "original": "もう少し、このままで……",
+      "translation": "조금만 더, 이대로……",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7284,
+          "length": 24,
+          "key": 2943945749,
+          "original": "もう少し、このままで……"
         }
       ]
     },
@@ -410,16 +1364,106 @@
       "context": {
         "voice": null
       },
-      "original": "ﾀﾓ鴃ﾆ\u0017獗ﾌ\u0017犹ﾌ\u0000犇ﾌ\u000f燬ﾌD",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "子供扱いしないでくれよ",
+      "translation": "애 취급하지 마",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 7316,
           "length": 22,
-          "key": 3726356059,
-          "original": "ﾀﾓ鴃ﾆ\u0017獗ﾌ\u0017犹ﾌ\u0000犇ﾌ\u000f燬ﾌD"
+          "key": 2943945749,
+          "original": "子供扱いしないでくれよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0156",
+      "context": {
+        "voice": null
+      },
+      "original": "確かに、心配でしょうがないよ",
+      "translation": "확실히 걱정돼서 못 견디겠어",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7684,
+          "length": 28,
+          "key": 2944550974,
+          "original": "確かに、心配でしょうがないよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0157",
+      "context": {
+        "voice": null
+      },
+      "original": "劣等感……？",
+      "translation": "열등감……？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7720,
+          "length": 12,
+          "key": 2944550974,
+          "original": "劣等感……？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0158",
+      "context": {
+        "voice": null
+      },
+      "original": "オレはフォルテを信頼しているから",
+      "translation": "난 포르테를 믿으니까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7740,
+          "length": 32,
+          "key": 2944550974,
+          "original": "オレはフォルテを信頼しているから"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0159",
+      "context": {
+        "voice": null
+      },
+      "original": "軽くさっさと終わらせよう",
+      "translation": "가볍게 빨리 끝내자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7872,
+          "length": 24,
+          "key": 1183052949,
+          "original": "軽くさっさと終わらせよう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0160",
+      "context": {
+        "voice": null
+      },
+      "original": "油断せずにいこう",
+      "translation": "방심하지 말자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 7904,
+          "length": 16,
+          "key": 1183052949,
+          "original": "油断せずにいこう"
         }
       ]
     },
@@ -428,16 +1472,250 @@
       "context": {
         "voice": null
       },
-      "original": "→仝v躙\u001d5",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "フォルテが待ってる",
+      "translation": "포르테가 기다려",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 8116,
           "length": 18,
-          "key": 3726356059,
-          "original": "→仝v躙\u001d5"
+          "key": 1533899353,
+          "original": "フォルテが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0161",
+      "context": {
+        "voice": null
+      },
+      "original": "特別ボーナスが待ってる",
+      "translation": "특별 보너스가 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8144,
+          "length": 22,
+          "key": 1533899353,
+          "original": "特別ボーナスが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0162",
+      "context": {
+        "voice": null
+      },
+      "original": "『白き月』が待ってる",
+      "translation": "『하얀 달』이 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8176,
+          "length": 20,
+          "key": 1533899353,
+          "original": "『白き月』が待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0163",
+      "context": {
+        "voice": null
+      },
+      "original": "アロマで癒しって考えはいいんだから",
+      "translation": "아로마로 힐링한단 생각은 좋잖아",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8416,
+          "length": 34,
+          "key": 3132551701,
+          "original": "アロマで癒しって考えはいいんだから"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0164",
+      "context": {
+        "voice": null
+      },
+      "original": "渡す前にわかってよかったじゃないか",
+      "translation": "건네기 전에 알아서 다행이잖아",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8460,
+          "length": 34,
+          "key": 3132551701,
+          "original": "渡す前にわかってよかったじゃないか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0165",
+      "context": {
+        "voice": null
+      },
+      "original": "焦げた香りもまた格別さ",
+      "translation": "탄 향기도 또 각별해",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8504,
+          "length": 22,
+          "key": 3132551701,
+          "original": "焦げた香りもまた格別さ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0166",
+      "context": {
+        "voice": null
+      },
+      "original": "ミルフィーの案が一番いいと思う",
+      "translation": "밀피 안이 제일 좋은 듯해",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8712,
+          "length": 30,
+          "key": 2888555823,
+          "original": "ミルフィーの案が一番いいと思う"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0167",
+      "context": {
+        "voice": null
+      },
+      "original": "ランファの案が一番いいと思う",
+      "translation": "란파 안이 제일 좋은 듯해",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8752,
+          "length": 28,
+          "key": 2888555823,
+          "original": "ランファの案が一番いいと思う"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0168",
+      "context": {
+        "voice": null
+      },
+      "original": "ちとせの案が一番いいと思う",
+      "translation": "치토세 안이 제일 좋은 듯해",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8788,
+          "length": 26,
+          "key": 2888555823,
+          "original": "ちとせの案が一番いいと思う"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0169",
+      "context": {
+        "voice": null
+      },
+      "original": "みんなの力を見せてやれ！",
+      "translation": "모두의 힘을 보여 줘라！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8944,
+          "length": 24,
+          "key": 1183052949,
+          "original": "みんなの力を見せてやれ！"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0170",
+      "context": {
+        "voice": null
+      },
+      "original": "フォルテがいないから不安だなぁ",
+      "translation": "포르테가 없으니 불안한걸",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 8976,
+          "length": 30,
+          "key": 1183052949,
+          "original": "フォルテがいないから不安だなぁ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0171",
+      "context": {
+        "voice": null
+      },
+      "original": "食い止めるぞ、フォルテ",
+      "translation": "막아내자, 포르테",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9204,
+          "length": 22,
+          "key": 2579325665,
+          "original": "食い止めるぞ、フォルテ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0172",
+      "context": {
+        "voice": null
+      },
+      "original": "みんなの力をひとつに",
+      "translation": "모두의 힘을 하나로",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9236,
+          "length": 20,
+          "key": 2579325665,
+          "original": "みんなの力をひとつに"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0173",
+      "context": {
+        "voice": null
+      },
+      "original": "手を握らせてくれ",
+      "translation": "손을 잡게 해 줘",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9400,
+          "length": 16,
+          "key": 2888621359,
+          "original": "手を握らせてくれ"
         }
       ]
     },
@@ -446,16 +1724,286 @@
       "context": {
         "voice": null
       },
-      "original": "ｵｼｵﾐｵﾟ",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "そばにいてくれ",
+      "translation": "곁에 있어 줘",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 9424,
           "length": 14,
-          "key": 3726356059,
-          "original": "ｵｼｵﾐｵﾟ"
+          "key": 2888621359,
+          "original": "そばにいてくれ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0174",
+      "context": {
+        "voice": null
+      },
+      "original": "元気が出るおまじないを……",
+      "translation": "힘이 나는 주문을……",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9448,
+          "length": 26,
+          "key": 2888621359,
+          "original": "元気が出るおまじないを……"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0175",
+      "context": {
+        "voice": null
+      },
+      "original": "ヴァニラと友達になれるといいね",
+      "translation": "바닐라와 친구가 되면 좋겠다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9848,
+          "length": 30,
+          "key": 317203235,
+          "original": "ヴァニラと友達になれるといいね"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0176",
+      "context": {
+        "voice": null
+      },
+      "original": "エルシオールにはなじんだかい？",
+      "translation": "에르시올에는 익숙해졌어？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9888,
+          "length": 30,
+          "key": 317203235,
+          "original": "エルシオールにはなじんだかい？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0177",
+      "context": {
+        "voice": null
+      },
+      "original": "すごい美人だね",
+      "translation": "엄청 미인이네",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 9928,
+          "length": 14,
+          "key": 317203235,
+          "original": "すごい美人だね"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0178",
+      "context": {
+        "voice": null
+      },
+      "original": "軽くさっさと終わらせよう",
+      "translation": "가볍게 빨리 끝내자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10076,
+          "length": 24,
+          "key": 1183052949,
+          "original": "軽くさっさと終わらせよう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0179",
+      "context": {
+        "voice": null
+      },
+      "original": "油断せずにいこう",
+      "translation": "방심하지 말자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10108,
+          "length": 16,
+          "key": 1183052949,
+          "original": "油断せずにいこう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0180",
+      "context": {
+        "voice": null
+      },
+      "original": "ヴァニラが待ってる",
+      "translation": "바닐라가 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10320,
+          "length": 18,
+          "key": 1533899353,
+          "original": "ヴァニラが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0181",
+      "context": {
+        "voice": null
+      },
+      "original": "特別ボーナスが待ってる",
+      "translation": "특별 보너스가 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10348,
+          "length": 22,
+          "key": 1533899353,
+          "original": "特別ボーナスが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0182",
+      "context": {
+        "voice": null
+      },
+      "original": "『白き月』が待ってる",
+      "translation": "『하얀 달』이 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10380,
+          "length": 20,
+          "key": 1533899353,
+          "original": "『白き月』が待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0183",
+      "context": {
+        "voice": null
+      },
+      "original": "好物をあげてみる",
+      "translation": "좋아하는 걸 준다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10620,
+          "length": 16,
+          "key": 3132551701,
+          "original": "好物をあげてみる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0184",
+      "context": {
+        "voice": null
+      },
+      "original": "そっとしておく",
+      "translation": "가만히 둔다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10644,
+          "length": 14,
+          "key": 3132551701,
+          "original": "そっとしておく"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0185",
+      "context": {
+        "voice": null
+      },
+      "original": "宇宙ウサギの気持ちになってみる",
+      "translation": "우주 토끼 기분이 되어 본다",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10668,
+          "length": 30,
+          "key": 3132551701,
+          "original": "宇宙ウサギの気持ちになってみる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0186",
+      "context": {
+        "voice": null
+      },
+      "original": "さっきの健康法があるじゃないか",
+      "translation": "아까 그 건강법이 있잖아",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10884,
+          "length": 30,
+          "key": 4050344003,
+          "original": "さっきの健康法があるじゃないか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0187",
+      "context": {
+        "voice": null
+      },
+      "original": "面白い話を体験できたじゃないか",
+      "translation": "재미있는 일을 겪었잖아",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10924,
+          "length": 30,
+          "key": 4050344003,
+          "original": "面白い話を体験できたじゃないか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0188",
+      "context": {
+        "voice": null
+      },
+      "original": "オレは面白かったぞ",
+      "translation": "난 재미있었어",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 10964,
+          "length": 18,
+          "key": 4050344003,
+          "original": "オレは面白かったぞ"
         }
       ]
     },
@@ -478,20 +2026,92 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_002e4800:isb:0189",
+      "context": {
+        "voice": null
+      },
+      "original": "食い止めるぞ、ヴァニラ",
+      "translation": "막아내자, 바닐라",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11892,
+          "length": 22,
+          "key": 2579325665,
+          "original": "食い止めるぞ、ヴァニラ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0190",
+      "context": {
+        "voice": null
+      },
+      "original": "みんなの力をひとつに",
+      "translation": "모두의 힘을 하나로",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 11924,
+          "length": 20,
+          "key": 2579325665,
+          "original": "みんなの力をひとつに"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_002e4800:isb:0025",
       "context": {
         "voice": null
       },
-      "original": "ﾍ?ﾍﾌ碾ﾌc犒ﾂ\u001c燧ﾌH燔ﾌ\u000b犢ﾀﾔ牴ﾌ\u001f",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "セクハラって言われるかと思った",
+      "translation": "성희롱이라고 할 줄 알았어",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 12088,
           "length": 30,
-          "key": 3726356059,
-          "original": "ﾍ?ﾍﾌ碾ﾌc犒ﾂ\u001c燧ﾌH燔ﾌ\u000b犢ﾀﾔ牴ﾌ\u001f"
+          "key": 2943945749,
+          "original": "セクハラって言われるかと思った"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0191",
+      "context": {
+        "voice": null
+      },
+      "original": "もう１回抱きついていいかな？",
+      "translation": "한 번 더 안아도 될까？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12128,
+          "length": 28,
+          "key": 2943945749,
+          "original": "もう１回抱きついていいかな？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0192",
+      "context": {
+        "voice": null
+      },
+      "original": "オレが会いたくて来たんだ",
+      "translation": "내가 보고 싶어서 왔어",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12500,
+          "length": 24,
+          "key": 2943945749,
+          "original": "オレが会いたくて来たんだ"
         }
       ]
     },
@@ -500,16 +2120,16 @@
       "context": {
         "voice": null
       },
-      "original": "ﾌ\u0019獨ﾂ\u001c燧ﾌH犒ﾌ燬ﾌl猝ﾌ\u0006猾ﾌi",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "そう言われてみればそうだね",
+      "translation": "듣고 보니 그렇네",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 12532,
           "length": 26,
-          "key": 3726356059,
-          "original": "ﾌ\u0019獨ﾂ\u001c燧ﾌH犒ﾌ燬ﾌl猝ﾌ\u0006猾ﾌi"
+          "key": 2943945749,
+          "original": "そう言われてみればそうだね"
         }
       ]
     },
@@ -518,16 +2138,16 @@
       "context": {
         "voice": null
       },
-      "original": "ﾘﾙﾌk齔ﾌ\u0006烙ﾌ\u001c",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "本当に違うんだ",
+      "translation": "정말 아니야",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 12660,
           "length": 14,
-          "key": 3726356059,
-          "original": "ﾘﾙﾌk齔ﾌ\u0006烙ﾌ\u001c"
+          "key": 2943945749,
+          "original": "本当に違うんだ"
         }
       ]
     },
@@ -536,16 +2156,106 @@
       "context": {
         "voice": null
       },
-      "original": "ﾌ\u001d犢ﾌ\u001b熨ﾌ\u000b燧ﾌ\u0000獗ﾌD",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "ちとせもかわいいよ",
+      "translation": "치토세도 귀여워",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 12684,
           "length": 18,
-          "key": 3726356059,
-          "original": "ﾌ\u001d犢ﾌ\u001b熨ﾌ\u000b燧ﾌ\u0000獗ﾌD"
+          "key": 2943945749,
+          "original": "ちとせもかわいいよ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0193",
+      "context": {
+        "voice": null
+      },
+      "original": "軽くさっさと終わらせよう",
+      "translation": "가볍게 빨리 끝내자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12804,
+          "length": 24,
+          "key": 1183052949,
+          "original": "軽くさっさと終わらせよう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0194",
+      "context": {
+        "voice": null
+      },
+      "original": "油断せずにいこう",
+      "translation": "방심하지 말자",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12836,
+          "length": 16,
+          "key": 1183052949,
+          "original": "油断せずにいこう"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0195",
+      "context": {
+        "voice": null
+      },
+      "original": "ちとせが待ってる",
+      "translation": "치토세가 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13048,
+          "length": 16,
+          "key": 1533899353,
+          "original": "ちとせが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0196",
+      "context": {
+        "voice": null
+      },
+      "original": "特別ボーナスが待ってる",
+      "translation": "특별 보너스가 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13072,
+          "length": 22,
+          "key": 1533899353,
+          "original": "特別ボーナスが待ってる"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0197",
+      "context": {
+        "voice": null
+      },
+      "original": "『白き月』が待ってる",
+      "translation": "『하얀 달』이 기다려",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13104,
+          "length": 20,
+          "key": 1533899353,
+          "original": "『白き月』が待ってる"
         }
       ]
     },
@@ -554,16 +2264,16 @@
       "context": {
         "voice": null
       },
-      "original": "ﾁ\u000e眥ﾌ\u0000ﾌ\b瞠ﾌ\u0000瞿ﾌj",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "小さい方がいいかな",
+      "translation": "작은 게 좋을까",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 13344,
           "length": 18,
-          "key": 3726356059,
-          "original": "ﾁ\u000e眥ﾌ\u0000ﾌ\b瞠ﾌ\u0000瞿ﾌj"
+          "key": 2943880213,
+          "original": "小さい方がいいかな"
         }
       ]
     },
@@ -572,16 +2282,52 @@
       "context": {
         "voice": null
       },
-      "original": "ﾟG瞽ﾌ\u0000ﾌ\b瞠ﾌ\u0000瞿ﾌj",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "大きい方がいいかな",
+      "translation": "큰 게 좋을까",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 13372,
           "length": 18,
-          "key": 3726356059,
-          "original": "ﾟG瞽ﾌ\u0000ﾌ\b瞠ﾌ\u0000瞿ﾌj"
+          "key": 2943880213,
+          "original": "大きい方がいいかな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0198",
+      "context": {
+        "voice": null
+      },
+      "original": "大きさは関係ないんじゃないかな",
+      "translation": "크기는 상관없지 않을까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13400,
+          "length": 30,
+          "key": 2943880213,
+          "original": "大きさは関係ないんじゃないかな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0199",
+      "context": {
+        "voice": null
+      },
+      "original": "ミルフィーの鶴かな",
+      "translation": "밀피의 학일까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13532,
+          "length": 18,
+          "key": 2888555823,
+          "original": "ミルフィーの鶴かな"
         }
       ]
     },
@@ -590,16 +2336,88 @@
       "context": {
         "voice": null
       },
-      "original": "ｳ磔\u0007ｳ2｢ｭｲｺ",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "ランファの鶴かな",
+      "translation": "란파의 학일까",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 13560,
           "length": 16,
-          "key": 3726356059,
-          "original": "ｳ磔\u0007ｳ2｢ｭｲｺ"
+          "key": 2888555823,
+          "original": "ランファの鶴かな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0200",
+      "context": {
+        "voice": null
+      },
+      "original": "ヴァニラの鶴かな",
+      "translation": "바닐라의 학일까",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13584,
+          "length": 16,
+          "key": 2888555823,
+          "original": "ヴァニラの鶴かな"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0201",
+      "context": {
+        "voice": null
+      },
+      "original": "クーデターじゃないか？",
+      "translation": "쿠데타 아닐까？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14116,
+          "length": 22,
+          "key": 1194953303,
+          "original": "クーデターじゃないか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0202",
+      "context": {
+        "voice": null
+      },
+      "original": "黒い無人艦隊じゃないか？",
+      "translation": "검은 무인 함대 아닐까？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14148,
+          "length": 24,
+          "key": 1194953303,
+          "original": "黒い無人艦隊じゃないか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0203",
+      "context": {
+        "voice": null
+      },
+      "original": "宇宙人かもしれない",
+      "translation": "외계인일지도 몰라",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14180,
+          "length": 18,
+          "key": 1194953303,
+          "original": "宇宙人かもしれない"
         }
       ]
     },
@@ -622,20 +2440,92 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_002e4800:isb:0204",
+      "context": {
+        "voice": null
+      },
+      "original": "今すぐ助けにいきたい",
+      "translation": "당장 구하고 싶어",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14428,
+          "length": 20,
+          "key": 2990648871,
+          "original": "今すぐ助けにいきたい"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_002e4800:isb:0033",
       "context": {
         "voice": null
       },
-      "original": "ﾘ｡Kﾙ\u0011豚ﾒ",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "今はガマンだ",
+      "translation": "지금은 참자",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 14456,
           "length": 12,
-          "key": 3726356059,
-          "original": "ﾘ｡Kﾙ\u0011豚ﾒ"
+          "key": 2990648871,
+          "original": "今はガマンだ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0205",
+      "context": {
+        "voice": null
+      },
+      "original": "できれば帰りたい",
+      "translation": "돌아가면 좋겠어",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14476,
+          "length": 16,
+          "key": 2990648871,
+          "original": "できれば帰りたい"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0206",
+      "context": {
+        "voice": null
+      },
+      "original": "毎日おいしいご飯が食べられそうだ",
+      "translation": "매일 맛있는 밥을 먹을 수 있겠어",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14692,
+          "length": 32,
+          "key": 2943945749,
+          "original": "毎日おいしいご飯が食べられそうだ"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0207",
+      "context": {
+        "voice": null
+      },
+      "original": "本当にそうなっちゃうと困るけどね",
+      "translation": "정말 그렇게 되면 곤란하지만",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 14732,
+          "length": 32,
+          "key": 2943945749,
+          "original": "本当にそうなっちゃうと困るけどね"
         }
       ]
     },
@@ -644,16 +2534,16 @@
       "context": {
         "voice": null
       },
-      "original": "ﾌ\n獵ﾌ\u001a珈ﾍ*ﾍ髙ｸﾌj牴ﾌ\u001f燎ﾌ\u0017犒",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "おかずがケーキになったりして",
+      "translation": "반찬이 케이크로 바뀌거나",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 14772,
           "length": 28,
-          "key": 3726356059,
-          "original": "ﾌ\n獵ﾌ\u001a珈ﾍ*ﾍ髙ｸﾌj牴ﾌ\u001f燎ﾌ\u0017犒"
+          "key": 2943945749,
+          "original": "おかずがケーキになったりして"
         }
       ]
     },
@@ -1036,6 +2926,60 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_002e4800:isb:0208",
+      "context": {
+        "voice": null
+      },
+      "original": "信じてあげていいんじゃないか？",
+      "translation": "믿어 줘도 되지 않을까？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16436,
+          "length": 30,
+          "key": 2943880213,
+          "original": "信じてあげていいんじゃないか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0209",
+      "context": {
+        "voice": null
+      },
+      "original": "何か事情があったのかもしれない",
+      "translation": "무슨 사정이 있었을지도 몰라",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16476,
+          "length": 30,
+          "key": 2943880213,
+          "original": "何か事情があったのかもしれない"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0210",
+      "context": {
+        "voice": null
+      },
+      "original": "だからこそ、もう一度会わなくちゃ",
+      "translation": "그렇기에, 한 번 더 만나야 해",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 16516,
+          "length": 32,
+          "key": 2943880213,
+          "original": "だからこそ、もう一度会わなくちゃ"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_002e4800:isb:0056",
       "context": {
         "voice": null
@@ -1306,20 +3250,38 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_002e4800:isb:0211",
+      "context": {
+        "voice": null
+      },
+      "original": "速攻あるのみ！",
+      "translation": "속공뿐이다！",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17584,
+          "length": 14,
+          "key": 2990648871,
+          "original": "速攻あるのみ！"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_002e4800:isb:0071",
       "context": {
         "voice": null
       },
-      "original": "､>ｩNｰRｲ邁\u0015",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "万全を期す",
+      "translation": "만전 태세",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 17608,
           "length": 10,
-          "key": 2943945749,
-          "original": "､>ｩNｰRｲ邁\u0015"
+          "key": 2990648871,
+          "original": "万全を期す"
         }
       ]
     },
@@ -1328,16 +3290,70 @@
       "context": {
         "voice": null
       },
-      "original": "｣?ｱ垈RｨLｰfｩﾏｰdｺｹｰ\u000b",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "増援を寝て待とうか",
+      "translation": "누워서 증원 대기",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 17628,
           "length": 18,
-          "key": 2943945749,
-          "original": "｣?ｱ垈RｨLｰfｩﾏｰdｺｹｰ\u000b"
+          "key": 2990648871,
+          "original": "増援を寝て待とうか"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0212",
+      "context": {
+        "voice": null
+      },
+      "original": "クロノ・クェイク爆弾のこと？",
+      "translation": "크로노・퀘이크 폭탄 말이야？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17848,
+          "length": 28,
+          "key": 1887338936,
+          "original": "クロノ・クェイク爆弾のこと？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0213",
+      "context": {
+        "voice": null
+      },
+      "original": "祝勝会のこと？",
+      "translation": "축하회 얘기？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17884,
+          "length": 14,
+          "key": 1887338936,
+          "original": "祝勝会のこと？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002e4800:isb:0214",
+      "context": {
+        "voice": null
+      },
+      "original": "『ヴァル・ファスク』のこと？",
+      "translation": "『발・파스크』 말이야？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 17908,
+          "length": 28,
+          "key": 1887338936,
+          "original": "『ヴァル・ファスク』のこと？"
         }
       ]
     },

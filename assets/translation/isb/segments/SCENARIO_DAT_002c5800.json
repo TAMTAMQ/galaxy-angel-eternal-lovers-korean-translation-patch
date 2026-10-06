@@ -9252,6 +9252,24 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_002c5800:isb:0889",
+      "context": {
+        "voice": null
+      },
+      "original": "うーん、みんなの過ごし方もいろいろだなあ。",
+      "translation": "으음, 다들 지내는 방식도 가지각색이네.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 79384,
+          "length": 42,
+          "key": 2625667445,
+          "original": "うーん、みんなの過ごし方もいろいろだなあ。"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_002c5800:isb:0403",
       "context": {
         "voice": null

@@ -8224,28 +8224,28 @@
       "context": {
         "voice": null
       },
-      "original": "ｯﾋYﾕｬ9Yｪｯ炭ｧｯ儕ｵHFｻ%W遉ﾘ\u000bYｼｯﾑYﾙｬ:Mjｾ益ﾜｬ9Xoｮeｮ:ZJｯｾKWｬ CsｯﾒY､ｯﾅYｸｯｹYｬｯ浦ｯｯﾗYﾖｬ\u001bZrｬ:",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "さて、それじゃ銀河展望公園に行くかな。本当は、ミルフィーと色々話がしたかったんだけど……。",
+      "translation": "자, 그럼 은하 전망 공원에 가 볼까. 사실은 밀피랑 이런저런 이야기를 하고 싶었는데…….",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
         {
           "offset": 65984,
           "length": 40,
-          "key": 3145728,
-          "original": "ｯﾋYﾕｬ9Yｪｯ炭ｧｯ儕ｵHFｻ%W遉ﾘ\u000bYｼｯﾑYﾙｬ:Mj"
+          "key": 300644397,
+          "original": "さて、それじゃ銀河展望公園に行くかな。本"
         },
         {
           "offset": 66032,
           "length": 40,
-          "key": 3145728,
-          "original": "ｾ益ﾜｬ9Xoｮeｮ:ZJｯｾKWｬ CsｯﾒY､ｯﾅYｸｯｹYｬｯ浦ｯ"
+          "key": 300644397,
+          "original": "当は、ミルフィーと色々話がしたかったんだ"
         },
         {
           "offset": 66080,
           "length": 10,
-          "key": 3145728,
-          "original": "ｯﾗYﾖｬ\u001bZrｬ:"
+          "key": 300644397,
+          "original": "けど……。"
         }
       ]
     },

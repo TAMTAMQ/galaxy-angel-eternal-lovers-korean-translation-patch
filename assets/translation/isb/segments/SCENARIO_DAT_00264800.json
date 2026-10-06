@@ -4507,20 +4507,50 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_00264800:isb:0834",
+      "context": {
+        "voice": null
+      },
+      "original": "さて、今頃あのふたりは、艦内を案内されてる頃か……。",
+      "translation": "자, 지금쯤 그 둘은 함내를 안내받는 중인가…….",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 34416,
+          "length": 40,
+          "key": 2592845827,
+          "original": "さて、今頃あのふたりは、艦内を案内されて"
+        },
+        {
+          "offset": 34464,
+          "length": 12,
+          "key": 2592845827,
+          "original": "る頃か……。"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_00264800:isb:0191",
       "context": {
         "voice": null
       },
-      "original": "韆\u0019ｻ霽\u001aP",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "約束もしたし、ちょっと様子を見にいってみるかな。",
+      "translation": "약속도 했으니, 잠깐 상황을 보러 가 볼까.",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
+        {
+          "offset": 34548,
+          "length": 40,
+          "key": 2592845827,
+          "original": "約束もしたし、ちょっと様子を見にいってみ"
+        },
         {
           "offset": 34596,
           "length": 8,
-          "key": 2282798953,
-          "original": "韆\u0019ｻ霽\u001aP"
+          "key": 2592845827,
+          "original": "るかな。"
         }
       ]
     },

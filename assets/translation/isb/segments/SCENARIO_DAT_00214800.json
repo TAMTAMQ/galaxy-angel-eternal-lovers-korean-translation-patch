@@ -1426,6 +1426,48 @@
       ]
     },
     {
+      "id": "SCENARIO_DAT_00214800:isb:0600",
+      "context": {
+        "voice": null
+      },
+      "original": "お仕事より先に、ちとせさんに会ってきたほうがいいんじゃないですか？",
+      "translation": "일보다 먼저, 치토세 씨를 만나고 오시는 게 좋지 않을까요？",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 12836,
+          "length": 40,
+          "key": 3959741196,
+          "original": "お仕事より先に、ちとせさんに会ってきたほ"
+        },
+        {
+          "offset": 12884,
+          "length": 26,
+          "key": 3959741196,
+          "original": "うがいいんじゃないですか？"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00214800:isb:0601",
+      "context": {
+        "voice": null
+      },
+      "original": "ええ、私もそう思いますよ。",
+      "translation": "네, 저도 그렇게 생각해요.",
+      "state": "draft",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 13060,
+          "length": 26,
+          "key": 3959741196,
+          "original": "ええ、私もそう思いますよ。"
+        }
+      ]
+    },
+    {
       "id": "SCENARIO_DAT_00214800:isb:0063",
       "context": {
         "voice": "GC130054.ogg"

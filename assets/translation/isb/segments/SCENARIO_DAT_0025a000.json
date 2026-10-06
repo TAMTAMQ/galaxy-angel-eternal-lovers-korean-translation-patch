@@ -8028,16 +8028,28 @@
       "context": {
         "voice": null
       },
-      "original": "ｾ\u001bQﾜｾ\u0001Q仞bRTｽﾆRu",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "さあ、今度こそ本番だ。小型船の救出と敵艦隊の殲滅を並行して行うのは少し骨が折れるだろうけど……。",
+      "translation": "자, 이번에야말로 실전이다. 소형선 구출과 적 함대 섬멸을 동시에 하는 건 조금 힘들겠지만…….",
+      "state": "draft",
+      "use_translation": true,
       "storage": [
+        {
+          "offset": 68408,
+          "length": 40,
+          "key": 3744986462,
+          "original": "さあ、今度こそ本番だ。小型船の救出と敵艦"
+        },
+        {
+          "offset": 68456,
+          "length": 40,
+          "key": 3744986462,
+          "original": "隊の殲滅を並行して行うのは少し骨が折れる"
+        },
         {
           "offset": 68504,
           "length": 16,
-          "key": 3907276898,
-          "original": "ｾ\u001bQﾜｾ\u0001Q仞bRTｽﾆRu"
+          "key": 3744986462,
+          "original": "だろうけど……。"
         }
       ]
     },
