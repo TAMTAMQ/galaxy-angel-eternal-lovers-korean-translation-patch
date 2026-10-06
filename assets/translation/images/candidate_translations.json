@@ -5,6 +5,22 @@
       "skip": true,
       "note": "character face icon, no text"
     },
+    "gainfo_win00.tex": {
+      "skip": true,
+      "note": "decorative window frame: every label on it is Latin (CHECKED SITUATION, INFORMATION SCREEN)"
+    },
+    "gainfo_win00b.tex": {
+      "skip": true,
+      "note": "decorative window frame: every label on it is Latin"
+    },
+    "gbp112i.tex": {
+      "skip": true,
+      "note": "unit spec plate: the readable text is Latin"
+    },
+    "gbp232i.tex": {
+      "skip": true,
+      "note": "effect arrow sprite, no text"
+    },
     "gdmes08.tex": {
       "jp": [
         "「Ultra」モードをご利用になる場合は、",
@@ -15,6 +31,18 @@
         "매뉴얼에 기재된 동작 환경을 확인해 주세요."
       ],
       "note": ""
+    },
+    "gdmes31.tex": {
+      "jp": [
+        "メモリーカード（PS2）の空き容量が不足しています。",
+        "ゲームデータをセーブするためには、",
+        "空き容量が384KB以上必要です。再試行しますか？"
+      ],
+      "ko": [
+        "메모리 카드(PS2)의 여유 공간이 부족합니다.",
+        "게임 데이터를 저장하려면,",
+        "여유 공간이 384KB 이상 필요합니다. 다시 시도하시겠습니까?"
+      ]
     },
     "gdmes48.tex": {
       "jp": [
@@ -80,6 +108,24 @@
       ],
       "note": ""
     },
+    "gdmes54.tex": {
+      "jp": [
+        "メモリーカード（PS2）の空き容量が残り少ない状態です。",
+        "このゲームのデータを確実にセーブするには、",
+        "144KB以上の空き容量が必要です。",
+        "このまま開始すると、",
+        "ゲームデータをセーブできなくなる可能性があります。",
+        "このまま開始しますか？"
+      ],
+      "ko": [
+        "메모리 카드(PS2)의 여유 공간이 얼마 남지 않았습니다.",
+        "이 게임의 데이터를 확실히 저장하려면,",
+        "144KB 이상의 여유 공간이 필요합니다.",
+        "이대로 시작하면,",
+        "게임 데이터를 저장할 수 없게 될 수 있습니다.",
+        "이대로 시작하시겠습니까?"
+      ]
+    },
     "gdmes60.tex": {
       "jp": [
         "データをクイックロードします。",
@@ -128,6 +174,37 @@
         0.7568
       ]
     },
+    "gebtn00b.tex": {
+      "jp": [
+        "ロード"
+      ],
+      "ko": [
+        "불러오기"
+      ],
+      "region": [
+        0.1753,
+        0.2432,
+        0.8247,
+        0.7568
+      ],
+      "note": "main-menu button: the plate's lit rim is as white as the label, so the label is confined to the box it is drawn in; the dimmed copy takes its mask from the lit one",
+      "mask_from": "gebtn00.tex"
+    },
+    "gebtn00f.tex": {
+      "jp": [
+        "ロード"
+      ],
+      "ko": [
+        "불러오기"
+      ],
+      "region": [
+        0.1753,
+        0.2432,
+        0.8247,
+        0.7568
+      ],
+      "note": "main-menu button: the plate's lit rim is as white as the label, so the label is confined to the box it is drawn in; the dimmed copy takes its mask from the lit one"
+    },
     "gebtn01.tex": {
       "jp": [
         "セーブ"
@@ -142,6 +219,21 @@
         0.8247,
         0.7568
       ]
+    },
+    "gebtn01f.tex": {
+      "jp": [
+        "セーブ"
+      ],
+      "ko": [
+        "저장"
+      ],
+      "region": [
+        0.1753,
+        0.2432,
+        0.8247,
+        0.7568
+      ],
+      "note": "main-menu button: the plate's lit rim is as white as the label, so the label is confined to the box it is drawn in; the dimmed copy takes its mask from the lit one"
     },
     "gebtn02.tex": {
       "jp": [
@@ -188,6 +280,21 @@
         0.7568
       ]
     },
+    "gebtn03f.tex": {
+      "jp": [
+        "タイトルへ戻る"
+      ],
+      "ko": [
+        "타이틀로 돌아가기"
+      ],
+      "region": [
+        0.1753,
+        0.2432,
+        0.8247,
+        0.7568
+      ],
+      "note": "main-menu button: the plate's lit rim is as white as the label, so the label is confined to the box it is drawn in; the dimmed copy takes its mask from the lit one"
+    },
     "gebtn04.tex": {
       "jp": [
         "次に進む"
@@ -202,6 +309,21 @@
         0.8247,
         0.7568
       ]
+    },
+    "gebtn04f.tex": {
+      "jp": [
+        "次に進む"
+      ],
+      "ko": [
+        "다음으로 진행"
+      ],
+      "region": [
+        0.1753,
+        0.2432,
+        0.8247,
+        0.7568
+      ],
+      "note": "main-menu button: the plate's lit rim is as white as the label, so the label is confined to the box it is drawn in; the dimmed copy takes its mask from the lit one"
     },
     "gfwin03.tex": {
       "jp": [
@@ -221,6 +343,18 @@
       "centre_on_band": true,
       "shrink": 3
     },
+    "ggf002_03.tex": {
+      "skip": true,
+      "note": "character face icon, no text"
+    },
+    "ggf002_17.tex": {
+      "skip": true,
+      "note": "character face icon, no text"
+    },
+    "ggf007_01.tex": {
+      "skip": true,
+      "note": "character face icon, no text"
+    },
     "ggicon251.tex": {
       "skip": true,
       "note": "emblem icon, no text"
@@ -228,6 +362,10 @@
     "ggicon_gauge3.tex": {
       "skip": true,
       "note": "latin-only gauge label (HEC)"
+    },
+    "ggmark_sym039.tex": {
+      "skip": true,
+      "note": "unit symbol icon, no text"
     },
     "ggmark_unit001.tex": {
       "jp": [
@@ -282,6 +420,14 @@
         "하베스터"
       ],
       "note": ""
+    },
+    "ggmark_unit017.tex": {
+      "jp": [
+        "バーメル級巡洋艦"
+      ],
+      "ko": [
+        "버멜급 순양함"
+      ]
     },
     "ggmark_unit034.tex": {
       "jp": [
@@ -363,12 +509,28 @@
         "아드미럴・레좀"
       ]
     },
+    "ggmark_unit154.tex": {
+      "jp": [
+        "民間シャトル"
+      ],
+      "ko": [
+        "민간 셔틀"
+      ]
+    },
     "ggmark_unit170.tex": {
       "jp": [
         "ダークエンジェル"
       ],
       "ko": [
         "다크 엔젤"
+      ]
+    },
+    "ggmark_unit172.tex": {
+      "jp": [
+        "リグ・ゼオ戦闘機"
+      ],
+      "ko": [
+        "리그・제오 전투기"
       ]
     },
     "ggmark_unit231.tex": {
@@ -419,12 +581,36 @@
         "발스・제오 공격기"
       ]
     },
+    "ggmark_unit237.tex": {
+      "jp": [
+        "ラス・テラ浮遊防塁"
+      ],
+      "ko": [
+        "라스・테라 부유 방루"
+      ]
+    },
+    "ggmark_unit238.tex": {
+      "jp": [
+        "ラム・テラ浮遊防塁"
+      ],
+      "ko": [
+        "람・테라 부유 방루"
+      ]
+    },
     "ggmark_unit239.tex": {
       "jp": [
         "オ・ケスラ"
       ],
       "ko": [
         "오・케스라"
+      ]
+    },
+    "ggmark_unit241.tex": {
+      "jp": [
+        "ギア・ゲルン"
+      ],
+      "ko": [
+        "기어・게른"
       ]
     },
     "ggmark_unit242.tex": {
@@ -452,7 +638,67 @@
       ],
       "centre_on_band": true
     },
+    "ggmenu_btn00b.tex": {
+      "jp": [
+        "待機"
+      ],
+      "ko": [
+        "대기"
+      ],
+      "centre_on_band": true,
+      "mask_from": "ggmenu_btn00.tex",
+      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
+    },
+    "ggmenu_btn00f.tex": {
+      "jp": [
+        "待機"
+      ],
+      "ko": [
+        "대기"
+      ],
+      "centre_on_band": true
+    },
+    "ggmenu_btn01b.tex": {
+      "jp": [
+        "移動"
+      ],
+      "ko": [
+        "이동"
+      ],
+      "centre_on_band": true,
+      "mask_from": "ggmenu_btn01.tex",
+      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
+    },
+    "ggmenu_btn01f.tex": {
+      "jp": [
+        "移動"
+      ],
+      "ko": [
+        "이동"
+      ],
+      "centre_on_band": true
+    },
     "ggmenu_btn02.tex": {
+      "jp": [
+        "攻撃"
+      ],
+      "ko": [
+        "공격"
+      ],
+      "centre_on_band": true
+    },
+    "ggmenu_btn02b.tex": {
+      "jp": [
+        "攻撃"
+      ],
+      "ko": [
+        "공격"
+      ],
+      "centre_on_band": true,
+      "mask_from": "ggmenu_btn02.tex",
+      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
+    },
+    "ggmenu_btn02f.tex": {
       "jp": [
         "攻撃"
       ],
@@ -470,6 +716,26 @@
       ],
       "centre_on_band": true
     },
+    "ggmenu_btn03b.tex": {
+      "jp": [
+        "必殺技"
+      ],
+      "ko": [
+        "필살기"
+      ],
+      "centre_on_band": true,
+      "mask_from": "ggmenu_btn03.tex",
+      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
+    },
+    "ggmenu_btn03f.tex": {
+      "jp": [
+        "必殺技"
+      ],
+      "ko": [
+        "필살기"
+      ],
+      "centre_on_band": true
+    },
     "ggmenu_btn04.tex": {
       "jp": [
         "護衛"
@@ -479,7 +745,76 @@
       ],
       "centre_on_band": true
     },
+    "ggmenu_btn04b.tex": {
+      "jp": [
+        "護衛"
+      ],
+      "ko": [
+        "호위"
+      ],
+      "centre_on_band": true,
+      "mask_from": "ggmenu_btn04.tex",
+      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
+    },
+    "ggmenu_btn04f.tex": {
+      "jp": [
+        "護衛"
+      ],
+      "ko": [
+        "호위"
+      ],
+      "centre_on_band": true
+    },
+    "ggmenu_btn05.tex": {
+      "jp": [
+        "補給"
+      ],
+      "ko": [
+        "보급"
+      ],
+      "centre_on_band": true
+    },
+    "ggmenu_btn05b.tex": {
+      "jp": [
+        "補給"
+      ],
+      "ko": [
+        "보급"
+      ],
+      "centre_on_band": true,
+      "mask_from": "ggmenu_btn05.tex",
+      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
+    },
+    "ggmenu_btn05f.tex": {
+      "jp": [
+        "補給"
+      ],
+      "ko": [
+        "보급"
+      ],
+      "centre_on_band": true
+    },
     "ggmenu_btn06.tex": {
+      "jp": [
+        "修理"
+      ],
+      "ko": [
+        "수리"
+      ],
+      "centre_on_band": true
+    },
+    "ggmenu_btn06b.tex": {
+      "jp": [
+        "修理"
+      ],
+      "ko": [
+        "수리"
+      ],
+      "centre_on_band": true,
+      "mask_from": "ggmenu_btn06.tex",
+      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
+    },
+    "ggmenu_btn06f.tex": {
       "jp": [
         "修理"
       ],
@@ -499,7 +834,50 @@
       "note": "a play arrow sits at the right edge",
       "centre_on_band": true
     },
+    "ggmenu_btn07f.tex": {
+      "jp": [
+        "行動設定"
+      ],
+      "ko": [
+        "행동 설정"
+      ],
+      "keep_right": 0.24,
+      "note": "a play arrow sits at the right edge",
+      "centre_on_band": true
+    },
+    "ggmenu_btn08.tex": {
+      "jp": [
+        "情報"
+      ],
+      "ko": [
+        "정보"
+      ],
+      "keep_right": 0.24,
+      "centre_on_band": true
+    },
+    "ggmenu_btn08f.tex": {
+      "jp": [
+        "情報"
+      ],
+      "ko": [
+        "정보"
+      ],
+      "keep_right": 0.24,
+      "note": "a play arrow sits at the right edge",
+      "centre_on_band": true
+    },
     "ggmenu_btn09.tex": {
+      "jp": [
+        "全体命令"
+      ],
+      "ko": [
+        "전체 명령"
+      ],
+      "keep_right": 0.24,
+      "note": "a play arrow sits at the right edge",
+      "centre_on_band": true
+    },
+    "ggmenu_btn09f.tex": {
       "jp": [
         "全体命令"
       ],
@@ -519,150 +897,21 @@
       ],
       "centre_on_band": true
     },
-    "ggmenu_btn20.tex": {
-      "jp": [
-        "機体情報"
-      ],
-      "ko": [
-        "기체 정보"
-      ],
-      "centre_on_band": true
-    },
-    "ggmenu_btn03b.tex": {
-      "jp": [
-        "必殺技"
-      ],
-      "ko": [
-        "필살기"
-      ],
-      "centre_on_band": true,
-      "mask_from": "ggmenu_btn03.tex",
-      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
-    },
-    "ggmenu_btn04b.tex": {
-      "jp": [
-        "護衛"
-      ],
-      "ko": [
-        "호위"
-      ],
-      "centre_on_band": true,
-      "mask_from": "ggmenu_btn04.tex",
-      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
-    },
-    "ggmenu_btn05b.tex": {
-      "jp": [
-        "補給"
-      ],
-      "ko": [
-        "보급"
-      ],
-      "centre_on_band": true,
-      "mask_from": "ggmenu_btn05.tex",
-      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
-    },
-    "ggmenu_btn00f.tex": {
-      "jp": [
-        "待機"
-      ],
-      "ko": [
-        "대기"
-      ],
-      "centre_on_band": true
-    },
-    "ggmenu_btn01f.tex": {
-      "jp": [
-        "移動"
-      ],
-      "ko": [
-        "이동"
-      ],
-      "centre_on_band": true
-    },
-    "ggmenu_btn02f.tex": {
-      "jp": [
-        "攻撃"
-      ],
-      "ko": [
-        "공격"
-      ],
-      "centre_on_band": true
-    },
-    "ggmenu_btn03f.tex": {
-      "jp": [
-        "必殺技"
-      ],
-      "ko": [
-        "필살기"
-      ],
-      "centre_on_band": true
-    },
-    "ggmenu_btn04f.tex": {
-      "jp": [
-        "護衛"
-      ],
-      "ko": [
-        "호위"
-      ],
-      "centre_on_band": true
-    },
-    "ggmenu_btn05f.tex": {
-      "jp": [
-        "補給"
-      ],
-      "ko": [
-        "보급"
-      ],
-      "centre_on_band": true
-    },
-    "ggmenu_btn06f.tex": {
-      "jp": [
-        "修理"
-      ],
-      "ko": [
-        "수리"
-      ],
-      "centre_on_band": true
-    },
-    "ggmenu_btn07f.tex": {
-      "jp": [
-        "行動設定"
-      ],
-      "ko": [
-        "행동 설정"
-      ],
-      "keep_right": 0.24,
-      "note": "a play arrow sits at the right edge",
-      "centre_on_band": true
-    },
-    "ggmenu_btn08f.tex": {
-      "jp": [
-        "情報"
-      ],
-      "ko": [
-        "정보"
-      ],
-      "keep_right": 0.24,
-      "note": "a play arrow sits at the right edge",
-      "centre_on_band": true
-    },
-    "ggmenu_btn09f.tex": {
-      "jp": [
-        "全体命令"
-      ],
-      "ko": [
-        "전체 명령"
-      ],
-      "keep_right": 0.24,
-      "note": "a play arrow sits at the right edge",
-      "centre_on_band": true
-    },
     "ggmenu_btn10f.tex": {
       "jp": [
         "自動索敵"
       ],
       "ko": [
         "자동 색적"
+      ],
+      "centre_on_band": true
+    },
+    "ggmenu_btn11.tex": {
+      "jp": [
+        "自動反撃"
+      ],
+      "ko": [
+        "자동 반격"
       ],
       "centre_on_band": true
     },
@@ -675,12 +924,30 @@
       ],
       "centre_on_band": true
     },
+    "ggmenu_btn20.tex": {
+      "jp": [
+        "機体情報"
+      ],
+      "ko": [
+        "기체 정보"
+      ],
+      "centre_on_band": true
+    },
     "ggmenu_btn20f.tex": {
       "jp": [
         "機体情報"
       ],
       "ko": [
         "기체 정보"
+      ],
+      "centre_on_band": true
+    },
+    "ggmenu_btn21.tex": {
+      "jp": [
+        "作戦情報"
+      ],
+      "ko": [
+        "작전 정보"
       ],
       "centre_on_band": true
     },
@@ -692,6 +959,10 @@
         "작전 정보"
       ],
       "centre_on_band": true
+    },
+    "ggradar_btn1f.tex": {
+      "skip": true,
+      "note": "8x118 radar button strip, no readable text"
     },
     "ggsim10.tex": {
       "skip": true,
@@ -731,6 +1002,14 @@
       ],
       "ko": [
         "자동반격"
+      ]
+    },
+    "ggunit_act04.tex": {
+      "jp": [
+        "自動索敵"
+      ],
+      "ko": [
+        "자동색적"
       ]
     },
     "ggunit_act05.tex": {
@@ -773,7 +1052,54 @@
       ],
       "mask_from": "ggunit_actset0l.tex"
     },
+    "ggunit_actset0f.tex": {
+      "jp": [
+        "索敵"
+      ],
+      "ko": [
+        "색적"
+      ],
+      "region": [
+        0.1,
+        0.125,
+        0.9,
+        0.71
+      ],
+      "mask_from": "ggunit_actset0l.tex",
+      "note": "unit-order badge: the rounded rim is as bright as the label, so the label is confined to the inner box; the dimmed and highlighted copies take their mask from the lit one, which is the only copy whose text separates from its plate"
+    },
+    "ggunit_actset0l.tex": {
+      "jp": [
+        "索敵"
+      ],
+      "ko": [
+        "색적"
+      ],
+      "region": [
+        0.1,
+        0.125,
+        0.9,
+        0.71
+      ],
+      "note": "unit-order badge: the rounded rim is as bright as the label, so the label is confined to the inner box; the dimmed and highlighted copies take their mask from the lit one, which is the only copy whose text separates from its plate"
+    },
     "ggunit_actset1.tex": {
+      "jp": [
+        "反撃"
+      ],
+      "ko": [
+        "반격"
+      ],
+      "region": [
+        0.1,
+        0.125,
+        0.9,
+        0.71
+      ],
+      "mask_from": "ggunit_actset1l.tex",
+      "note": "unit-order badge: the rounded rim is as bright as the label, so the label is confined to the inner box; the dimmed and highlighted copies take their mask from the lit one, which is the only copy whose text separates from its plate"
+    },
+    "ggunit_actset1f.tex": {
       "jp": [
         "反撃"
       ],
@@ -810,6 +1136,14 @@
       ],
       "ko": [
         "에르시올"
+      ]
+    },
+    "ggunit_name002.tex": {
+      "jp": [
+        "ラッキースター"
+      ],
+      "ko": [
+        "럭키 스타"
       ]
     },
     "ggunit_name003.tex": {
@@ -858,6 +1192,14 @@
       ],
       "ko": [
         "자프급 전함"
+      ]
+    },
+    "ggunit_name037.tex": {
+      "jp": [
+        "セラク級突撃艦"
+      ],
+      "ko": [
+        "세라크급 돌격함"
       ]
     },
     "ggunit_name038.tex": {
@@ -938,6 +1280,14 @@
       ],
       "ko": [
         "민간 셔틀"
+      ]
+    },
+    "ggunit_name170.tex": {
+      "jp": [
+        "ダークエンジェル"
+      ],
+      "ko": [
+        "다크 엔젤"
       ]
     },
     "ggunit_name172.tex": {
@@ -1028,6 +1378,56 @@
         "기어・게른"
       ]
     },
+    "ggunit_name242.tex": {
+      "jp": [
+        "デバストラ機動爆雷"
+      ],
+      "ko": [
+        "데바스트라 기동 폭뢰"
+      ]
+    },
+    "ggunit_name251.tex": {
+      "jp": [
+        "小型船"
+      ],
+      "ko": [
+        "소형선"
+      ]
+    },
+    "gibase.tex": {
+      "jp": [
+        "作戦情報",
+        "勝利条件",
+        "敗北条件"
+      ],
+      "ko": [
+        "작전 정보",
+        "승리 조건",
+        "패배 조건"
+      ],
+      "regions": [
+        [
+          0.094,
+          0.086,
+          0.276,
+          0.15
+        ],
+        [
+          0.553,
+          0.121,
+          0.706,
+          0.181
+        ],
+        [
+          0.553,
+          0.5,
+          0.706,
+          0.56
+        ]
+      ],
+      "metric": "luminance",
+      "note": "briefing screen: the defeat-conditions caption is cyan on blue and the label detector does not separate it, so its rectangle is measured"
+    },
     "gibtn0.tex": {
       "jp": [
         "閉じる"
@@ -1035,6 +1435,16 @@
       "ko": [
         "닫기"
       ]
+    },
+    "gibtn0f.tex": {
+      "jp": [
+        "閉じる"
+      ],
+      "ko": [
+        "닫기"
+      ],
+      "mask_from": "gibtn0.tex",
+      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy"
     },
     "gjbk200i.tex": {
       "skip": true,
@@ -1068,6 +1478,18 @@
       "skip": true,
       "note": "character portrait, no text"
     },
+    "gjf004_07_02.txf": {
+      "skip": true,
+      "note": "character portrait, no text"
+    },
+    "gjf005_04_05.txf": {
+      "skip": true,
+      "note": "face overlay part, no text"
+    },
+    "gjf107_03_07.txf": {
+      "skip": true,
+      "note": "16x16 face overlay part, no text"
+    },
     "gjf202_03_04.txf": {
       "skip": true,
       "note": "character portrait, no text"
@@ -1075,18 +1497,6 @@
     "gjf242_01_01.txf": {
       "skip": true,
       "note": "ship sprite, no text"
-    },
-    "gobtn08.tex": {
-      "skip": true,
-      "note": "latin only (ON)"
-    },
-    "gpbase1.tex": {
-      "skip": true,
-      "note": "background texture, no text"
-    },
-    "gpnum_r2.tex": {
-      "skip": true,
-      "note": "numeral glyph"
     },
     "gneff08.tex": {
       "jp": [
@@ -1098,6 +1508,10 @@
       "mode": "glyph",
       "keep_left": 0.386,
       "note": "white glyphs on transparency next to an opaque circle-button icon; the icon is carried over unchanged"
+    },
+    "gobtn08.tex": {
+      "skip": true,
+      "note": "latin only (ON)"
     },
     "gowin00.tex": {
       "jp": [
@@ -1132,6 +1546,14 @@
       "ko": [
         "설정"
       ]
+    },
+    "gpbase1.tex": {
+      "skip": true,
+      "note": "background texture, no text"
+    },
+    "gpnum_r2.tex": {
+      "skip": true,
+      "note": "numeral glyph"
     },
     "gpretry.tex": {
       "jp": [
@@ -1418,6 +1840,26 @@
       "metric": "whiteness",
       "note": "multi-cell screen: each caption is replaced inside its own detected rectangle"
     },
+    "grbtn1.tex": {
+      "jp": [
+        "閉じる"
+      ],
+      "ko": [
+        "닫기"
+      ],
+      "note": "button caption: outlined white glyphs over the game's own background beside a fixed cross-button icon, so the caption's own box is redrawn and the icon is carried over",
+      "mode": "glyph",
+      "region": [
+        0.36,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    "grttl2.tex": {
+      "skip": true,
+      "note": "decorative title logo: the kana are drawn one per tilted gold plate as artwork. The same title is already Korean where the game shows it as text (grttl0 / the gyeff letter tiles), so this variant is left as drawn rather than risking a half-erased logo"
+    },
     "grwin0.tex": {
       "jp": [
         "クリア日時",
@@ -1451,26 +1893,6 @@
       ],
       "metric": "whiteness",
       "note": "multi-cell screen: each caption is replaced inside its own detected rectangle"
-    },
-    "grttl2.tex": {
-      "skip": true,
-      "note": "decorative title logo: the kana are drawn one per tilted gold plate as artwork. The same title is already Korean where the game shows it as text (grttl0 / the gyeff letter tiles), so this variant is left as drawn rather than risking a half-erased logo"
-    },
-    "grbtn1.tex": {
-      "jp": [
-        "閉じる"
-      ],
-      "ko": [
-        "닫기"
-      ],
-      "note": "button caption: outlined white glyphs over the game's own background beside a fixed cross-button icon, so the caption's own box is redrawn and the icon is carried over",
-      "mode": "glyph",
-      "region": [
-        0.36,
-        0.0,
-        1.0,
-        1.0
-      ]
     },
     "gseff08.tex": {
       "jp": [
@@ -1509,6 +1931,31 @@
           0.02,
           0.86,
           0.36,
+          1.0
+        ]
+      ]
+    },
+    "gswin1.tex": {
+      "jp": [
+        "好感度",
+        "ランファ"
+      ],
+      "ko": [
+        "호감도",
+        "란파"
+      ],
+      "note": "affection label on top, name at the bottom; same layout as gswin3",
+      "regions": [
+        [
+          0.02,
+          0.01,
+          0.36,
+          0.14
+        ],
+        [
+          0.2,
+          0.86,
+          0.8,
           1.0
         ]
       ]
@@ -1612,6 +2059,10 @@
           1.0
         ]
       ]
+    },
+    "gtbase.tex": {
+      "skip": true,
+      "note": "title screen artwork: the logo itself is Latin and stays as drawn"
     },
     "gubase.tex": {
       "jp": [
@@ -1858,12 +2309,28 @@
         "발・파스크"
       ]
     },
+    "guname_face001.tex": {
+      "jp": [
+        "タクト・マイヤーズ"
+      ],
+      "ko": [
+        "택트・마이어스"
+      ]
+    },
     "guname_face002.tex": {
       "jp": [
         "ミルフィーユ・桜葉"
       ],
       "ko": [
         "밀피유・사쿠라바"
+      ]
+    },
+    "guname_face003.tex": {
+      "jp": [
+        "ランファ・フランボワーズ"
+      ],
+      "ko": [
+        "란파・프란보와즈"
       ]
     },
     "guname_face004.tex": {
@@ -1888,6 +2355,14 @@
       ],
       "ko": [
         "바닐라・H"
+      ]
+    },
+    "guname_face007.tex": {
+      "jp": [
+        "レスター・クールダラス"
+      ],
+      "ko": [
+        "레스터・쿨다라스"
       ]
     },
     "guname_face040.tex": {
@@ -1970,12 +2445,28 @@
         "게른"
       ]
     },
+    "guname_face251.tex": {
+      "jp": [
+        "不明"
+      ],
+      "ko": [
+        "불명"
+      ]
+    },
     "guname_unit001.tex": {
       "jp": [
         "エルシオール"
       ],
       "ko": [
         "에르시올"
+      ]
+    },
+    "guname_unit002.tex": {
+      "jp": [
+        "ラッキースター"
+      ],
+      "ko": [
+        "럭키 스타"
       ]
     },
     "guname_unit003.tex": {
@@ -1992,6 +2483,14 @@
       ],
       "ko": [
         "트릭 마스터"
+      ]
+    },
+    "guname_unit005.tex": {
+      "jp": [
+        "ハッピートリガー"
+      ],
+      "ko": [
+        "해피 트리거"
       ]
     },
     "guname_unit006.tex": {
@@ -2058,6 +2557,14 @@
         "민간선"
       ]
     },
+    "guname_unit107.tex": {
+      "jp": [
+        "シャープシューター"
+      ],
+      "ko": [
+        "샤프 슈터"
+      ]
+    },
     "guname_unit134.tex": {
       "jp": [
         "レグス・ジオ戦艦"
@@ -2122,6 +2629,22 @@
         "쿠르자・지오 순양함"
       ]
     },
+    "guname_unit233.tex": {
+      "jp": [
+        "バグ・ジオ重巡洋艦"
+      ],
+      "ko": [
+        "바그・지오 중순양함"
+      ]
+    },
+    "guname_unit234.tex": {
+      "jp": [
+        "ランゲ・ジオ重戦艦"
+      ],
+      "ko": [
+        "랑게・지오 중전함"
+      ]
+    },
     "guname_unit235.tex": {
       "jp": [
         "カデ・ジオ戦闘母艦"
@@ -2162,6 +2685,14 @@
         "오・케스라"
       ]
     },
+    "guname_unit241.tex": {
+      "jp": [
+        "ギア・ゲルン"
+      ],
+      "ko": [
+        "기어・게른"
+      ]
+    },
     "guname_unit242.tex": {
       "jp": [
         "デバストラ機動爆雷"
@@ -2178,14 +2709,9 @@
         "소형선"
       ]
     },
-    "gxbtn3.tex": {
-      "jp": [
-        "戻る"
-      ],
-      "ko": [
-        "뒤로"
-      ],
-      "note": "the button-bar wording for 戻る, used for every one of these so the same control never reads two different ways, and because the tightest of the slots cannot hold more"
+    "guunit242.tex": {
+      "skip": true,
+      "note": "ship sprite, no text"
     },
     "gwp15.tex": {
       "jp": [
@@ -2333,6 +2859,15 @@
       "skip": true,
       "note": "play-button icon, no text"
     },
+    "gxbtn3.tex": {
+      "jp": [
+        "戻る"
+      ],
+      "ko": [
+        "뒤로"
+      ],
+      "note": "the button-bar wording for 戻る, used for every one of these so the same control never reads two different ways, and because the tightest of the slots cannot hold more"
+    },
     "gxbtn3f.tex": {
       "jp": [
         "戻る"
@@ -2375,6 +2910,30 @@
       "handled_by": "eternal_lovers_render_album_letter_tiles",
       "note": "one kana per texture; translated as a group"
     },
+    "gxtm01.tex": {
+      "skip": true,
+      "note": "album thumbnail: a movie still with the Latin logo baked in"
+    },
+    "gxtm05.tex": {
+      "skip": true,
+      "note": "album thumbnail: a movie still with the Latin logo baked in"
+    },
+    "gxwin02.tex": {
+      "jp": [
+        "戻る"
+      ],
+      "ko": [
+        "뒤로"
+      ],
+      "region": [
+        0.905,
+        0.835,
+        1.0,
+        0.935
+      ],
+      "metric": "luminance",
+      "note": "map window: the only Japanese is the 戻る hint in the button bar. The slot is 54px between the cross-button icon and the frame, which '돌아가기' cannot fit without running over both, so the button-bar wording is used the button-bar wording for 戻る, used for every one of these so the same control never reads two different ways, and because the tightest of the slots cannot hold more"
+    },
     "gybtn00.tex": {
       "jp": [
         "戻る"
@@ -2391,15 +2950,119 @@
         1.0
       ]
     },
-    "gybtn11.tex": {
+    "gybtn01.tex": {
       "jp": [
-        "スコア表示"
+        "ミルフィーユ"
       ],
       "ko": [
-        "스코어 표시"
-      ]
+        "밀피유"
+      ],
+      "mode": "fill",
+      "region": [
+        0.25,
+        0.25,
+        0.512,
+        0.691
+      ],
+      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
+    },
+    "gybtn01b.tex": {
+      "jp": [
+        "ミルフィーユ"
+      ],
+      "ko": [
+        "밀피유"
+      ],
+      "mode": "fill",
+      "region": [
+        0.25,
+        0.25,
+        0.512,
+        0.691
+      ],
+      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
+    },
+    "gybtn01f.tex": {
+      "jp": [
+        "ミルフィーユ"
+      ],
+      "ko": [
+        "밀피유"
+      ],
+      "mode": "fill",
+      "region": [
+        0.25,
+        0.25,
+        0.512,
+        0.691
+      ],
+      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
+    },
+    "gybtn02b.tex": {
+      "jp": [
+        "ランファ"
+      ],
+      "ko": [
+        "란파"
+      ],
+      "mode": "fill",
+      "region": [
+        0.25,
+        0.25,
+        0.512,
+        0.691
+      ],
+      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
+    },
+    "gybtn02f.tex": {
+      "jp": [
+        "ランファ"
+      ],
+      "ko": [
+        "란파"
+      ],
+      "mode": "fill",
+      "region": [
+        0.25,
+        0.25,
+        0.512,
+        0.691
+      ],
+      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
     },
     "gybtn03.tex": {
+      "jp": [
+        "ミント"
+      ],
+      "ko": [
+        "민트"
+      ],
+      "mode": "fill",
+      "region": [
+        0.25,
+        0.25,
+        0.512,
+        0.691
+      ],
+      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
+    },
+    "gybtn03b.tex": {
+      "jp": [
+        "ミント"
+      ],
+      "ko": [
+        "민트"
+      ],
+      "mode": "fill",
+      "region": [
+        0.25,
+        0.25,
+        0.512,
+        0.691
+      ],
+      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
+    },
+    "gybtn03f.tex": {
       "jp": [
         "ミント"
       ],
@@ -2431,108 +3094,12 @@
       ],
       "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
     },
-    "gybtn05.tex": {
-      "jp": [
-        "ヴァニラ"
-      ],
-      "ko": [
-        "바닐라"
-      ],
-      "mode": "fill",
-      "region": [
-        0.25,
-        0.25,
-        0.512,
-        0.691
-      ],
-      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
-    },
-    "gybtn01b.tex": {
-      "jp": [
-        "ミルフィーユ"
-      ],
-      "ko": [
-        "밀피유"
-      ],
-      "mode": "fill",
-      "region": [
-        0.25,
-        0.25,
-        0.512,
-        0.691
-      ],
-      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
-    },
-    "gybtn03b.tex": {
-      "jp": [
-        "ミント"
-      ],
-      "ko": [
-        "민트"
-      ],
-      "mode": "fill",
-      "region": [
-        0.25,
-        0.25,
-        0.512,
-        0.691
-      ],
-      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
-    },
     "gybtn04b.tex": {
       "jp": [
         "フォルテ"
       ],
       "ko": [
         "포르테"
-      ],
-      "mode": "fill",
-      "region": [
-        0.25,
-        0.25,
-        0.512,
-        0.691
-      ],
-      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
-    },
-    "gybtn05b.tex": {
-      "jp": [
-        "ヴァニラ"
-      ],
-      "ko": [
-        "바닐라"
-      ],
-      "mode": "fill",
-      "region": [
-        0.25,
-        0.25,
-        0.512,
-        0.691
-      ],
-      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
-    },
-    "gybtn06b.tex": {
-      "jp": [
-        "ちとせ"
-      ],
-      "ko": [
-        "치토세"
-      ],
-      "mode": "fill",
-      "region": [
-        0.25,
-        0.25,
-        0.512,
-        0.691
-      ],
-      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
-    },
-    "gybtn02f.tex": {
-      "jp": [
-        "ランファ"
-      ],
-      "ko": [
-        "란파"
       ],
       "mode": "fill",
       "region": [
@@ -2559,12 +3126,76 @@
       ],
       "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
     },
+    "gybtn05.tex": {
+      "jp": [
+        "ヴァニラ"
+      ],
+      "ko": [
+        "바닐라"
+      ],
+      "mode": "fill",
+      "region": [
+        0.25,
+        0.25,
+        0.512,
+        0.691
+      ],
+      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
+    },
+    "gybtn05b.tex": {
+      "jp": [
+        "ヴァニラ"
+      ],
+      "ko": [
+        "바닐라"
+      ],
+      "mode": "fill",
+      "region": [
+        0.25,
+        0.25,
+        0.512,
+        0.691
+      ],
+      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
+    },
     "gybtn05f.tex": {
       "jp": [
         "ヴァニラ"
       ],
       "ko": [
         "바닐라"
+      ],
+      "mode": "fill",
+      "region": [
+        0.25,
+        0.25,
+        0.512,
+        0.691
+      ],
+      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
+    },
+    "gybtn06.tex": {
+      "jp": [
+        "ちとせ"
+      ],
+      "ko": [
+        "치토세"
+      ],
+      "mode": "fill",
+      "region": [
+        0.25,
+        0.25,
+        0.512,
+        0.691
+      ],
+      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
+    },
+    "gybtn06b.tex": {
+      "jp": [
+        "ちとせ"
+      ],
+      "ko": [
+        "치토세"
       ],
       "mode": "fill",
       "region": [
@@ -2590,6 +3221,14 @@
         0.691
       ],
       "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
+    },
+    "gybtn11.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ]
     },
     "gybtn11b.tex": {
       "jp": [
@@ -2617,6 +3256,181 @@
       "mask_from": "gybtn11.tex",
       "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy"
     },
+    "gybtn12.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "note": "pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn12b.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "region": [
+        0.172,
+        0.188,
+        0.844,
+        0.812
+      ],
+      "mask_from": "gybtn12.tex",
+      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn12f.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "mask_from": "gybtn12.tex",
+      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn13.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "note": "pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn13b.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "region": [
+        0.172,
+        0.188,
+        0.844,
+        0.812
+      ],
+      "mask_from": "gybtn13.tex",
+      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn13f.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "mask_from": "gybtn13.tex",
+      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn14.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "note": "pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn14b.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "region": [
+        0.172,
+        0.188,
+        0.844,
+        0.812
+      ],
+      "mask_from": "gybtn14.tex",
+      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn14f.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "mask_from": "gybtn14.tex",
+      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn15.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "note": "pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn15b.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "region": [
+        0.172,
+        0.188,
+        0.844,
+        0.812
+      ],
+      "mask_from": "gybtn15.tex",
+      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn15f.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "mask_from": "gybtn15.tex",
+      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn16.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "note": "pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn16b.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "region": [
+        0.172,
+        0.188,
+        0.844,
+        0.812
+      ],
+      "mask_from": "gybtn16.tex",
+      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
+    "gybtn16f.tex": {
+      "jp": [
+        "スコア表示"
+      ],
+      "ko": [
+        "스코어 표시"
+      ],
+      "mask_from": "gybtn16.tex",
+      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
     "gyeff03.tex": {
       "handled_by": "eternal_lovers_render_album_letter_tiles",
       "note": "one kana per texture (score-attack title); translated as a group"
@@ -2624,6 +3438,37 @@
     "gyttl01.tex": {
       "skip": true,
       "note": "decorative title logo: the kana are drawn one per tilted gold plate as artwork. The same title is already Korean where the game shows it as text (grttl0 / the gyeff letter tiles), so this variant is left as drawn rather than risking a half-erased logo"
+    },
+    "gyttl02.tex": {
+      "skip": true,
+      "note": "decorative logo plate, no readable text"
+    },
+    "gzbase.tex": {
+      "jp": [
+        "勝利条件",
+        "敗北条件"
+      ],
+      "ko": [
+        "승리 조건",
+        "패배 조건"
+      ],
+      "regions": [
+        [
+          0.5391,
+          0.1417,
+          0.7078,
+          0.1938
+        ],
+        [
+          0.5391,
+          0.5375,
+          0.7078,
+          0.5896
+        ]
+      ],
+      "metric": "whiteness",
+      "note": "multi-cell screen: each caption is replaced inside its own detected rectangle",
+      "merge": 15
     },
     "gzdef0311.tex": {
       "jp": [
@@ -2657,6 +3502,18 @@
         "타임 오버"
       ]
     },
+    "gzdef1111.tex": {
+      "jp": [
+        "エルシオールの破壊",
+        "タイムオーバー"
+      ],
+      "ko": [
+        "에르시올의 파괴",
+        "타임 오버"
+      ],
+      "note": "pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game",
+      "align": "left"
+    },
     "gzdef1321.tex": {
       "jp": [
         "ラッキースターの目標地点",
@@ -2686,6 +3543,21 @@
         "타임 오버"
       ],
       "note": "the source wraps the first condition over two rows; the Korean keeps that wrap"
+    },
+    "gzdef3321.tex": {
+      "jp": [
+        "トリックマスターの目標",
+        "地点到達",
+        "エルシオールの破壊",
+        "タイムオーバー"
+      ],
+      "ko": [
+        "트릭 마스터의 목표",
+        "지점 도달",
+        "에르시올의 파괴",
+        "타임 오버"
+      ],
+      "note": "the source wraps the first condition over two rows"
     },
     "gzdef4321.tex": {
       "jp": [
@@ -2758,6 +3630,15 @@
         "적 기함의 파괴"
       ]
     },
+    "gzvict0311.tex": {
+      "jp": [
+        "敵旗艦の破壊"
+      ],
+      "ko": [
+        "적 기함의 파괴"
+      ],
+      "note": "pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
     "gzvict0411.tex": {
       "jp": [
         "７番機の撃退"
@@ -2795,6 +3676,15 @@
         "강화형 부유 방루의 파괴"
       ]
     },
+    "gzvict0721.tex": {
+      "jp": [
+        "敵旗艦の破壊"
+      ],
+      "ko": [
+        "적 기함의 파괴"
+      ],
+      "note": "pixel-identical to an already translated texture; added 2026-10-06 after it was found still Japanese in game"
+    },
     "gzvict1111.tex": {
       "jp": [
         "敵艦隊の全滅"
@@ -2803,12 +3693,49 @@
         "적 함대의 전멸"
       ]
     },
+    "gzvict1621.tex": {
+      "jp": [
+        "エルシオールの目標地点",
+        "到達"
+      ],
+      "ko": [
+        "에르시올의 목표 지점",
+        "도달"
+      ],
+      "note": "the source wraps the condition over two rows; the Korean keeps that wrap"
+    },
     "gzvict4121.tex": {
       "jp": [
         "民間船の目標地点到達"
       ],
       "ko": [
         "민간선의 목표 지점 도달"
+      ]
+    },
+    "help_00.tex": {
+      "jp": [
+        "攻撃の対象を選択してください",
+        "選択方法切替"
+      ],
+      "ko": [
+        "공격 대상을 선택해 주세요",
+        "선택 방법 전환"
+      ],
+      "note": "battle help line: white glyphs with a black outline over the game's own background, so the whole texture is redrawn rather than repainted. The second line is confined to the right of the triangle button icon at x70-84, which is carried over untouched",
+      "mode": "glyph",
+      "regions": [
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.5
+        ],
+        [
+          0.3359,
+          0.5,
+          1.0,
+          1.0
+        ]
       ]
     },
     "help_02.tex": {
@@ -2889,380 +3816,6 @@
         ]
       ]
     },
-    "oe240u00.agi": {
-      "skip": true,
-      "note": "light-flare effect texture, no text"
-    },
-    "ou241l_3.agi": {
-      "skip": true,
-      "note": "debris/effect sprite sheet, no text"
-    },
-    "guname_face003.tex": {
-      "jp": [
-        "ランファ・フランボワーズ"
-      ],
-      "ko": [
-        "란파・프란보와즈"
-      ]
-    },
-    "guname_face001.tex": {
-      "jp": [
-        "タクト・マイヤーズ"
-      ],
-      "ko": [
-        "택트・마이어스"
-      ]
-    },
-    "guname_face007.tex": {
-      "jp": [
-        "レスター・クールダラス"
-      ],
-      "ko": [
-        "레스터・쿨다라스"
-      ]
-    },
-    "guname_face251.tex": {
-      "jp": [
-        "不明"
-      ],
-      "ko": [
-        "불명"
-      ]
-    },
-    "guname_unit002.tex": {
-      "jp": [
-        "ラッキースター"
-      ],
-      "ko": [
-        "럭키 스타"
-      ]
-    },
-    "guname_unit005.tex": {
-      "jp": [
-        "ハッピートリガー"
-      ],
-      "ko": [
-        "해피 트리거"
-      ]
-    },
-    "guname_unit107.tex": {
-      "jp": [
-        "シャープシューター"
-      ],
-      "ko": [
-        "샤프 슈터"
-      ]
-    },
-    "guname_unit233.tex": {
-      "jp": [
-        "バグ・ジオ重巡洋艦"
-      ],
-      "ko": [
-        "바그・지오 중순양함"
-      ]
-    },
-    "guname_unit234.tex": {
-      "jp": [
-        "ランゲ・ジオ重戦艦"
-      ],
-      "ko": [
-        "랑게・지오 중전함"
-      ]
-    },
-    "guname_unit241.tex": {
-      "jp": [
-        "ギア・ゲルン"
-      ],
-      "ko": [
-        "기어・게른"
-      ]
-    },
-    "ggunit_name002.tex": {
-      "jp": [
-        "ラッキースター"
-      ],
-      "ko": [
-        "럭키 스타"
-      ]
-    },
-    "ggunit_name037.tex": {
-      "jp": [
-        "セラク級突撃艦"
-      ],
-      "ko": [
-        "세라크급 돌격함"
-      ]
-    },
-    "ggunit_name170.tex": {
-      "jp": [
-        "ダークエンジェル"
-      ],
-      "ko": [
-        "다크 엔젤"
-      ]
-    },
-    "ggunit_name242.tex": {
-      "jp": [
-        "デバストラ機動爆雷"
-      ],
-      "ko": [
-        "데바스트라 기동 폭뢰"
-      ]
-    },
-    "ggunit_name251.tex": {
-      "jp": [
-        "小型船"
-      ],
-      "ko": [
-        "소형선"
-      ]
-    },
-    "ggmark_unit017.tex": {
-      "jp": [
-        "バーメル級巡洋艦"
-      ],
-      "ko": [
-        "버멜급 순양함"
-      ]
-    },
-    "ggmark_unit154.tex": {
-      "jp": [
-        "民間シャトル"
-      ],
-      "ko": [
-        "민간 셔틀"
-      ]
-    },
-    "ggmark_unit172.tex": {
-      "jp": [
-        "リグ・ゼオ戦闘機"
-      ],
-      "ko": [
-        "리그・제오 전투기"
-      ]
-    },
-    "ggmark_unit237.tex": {
-      "jp": [
-        "ラス・テラ浮遊防塁"
-      ],
-      "ko": [
-        "라스・테라 부유 방루"
-      ]
-    },
-    "ggmark_unit238.tex": {
-      "jp": [
-        "ラム・テラ浮遊防塁"
-      ],
-      "ko": [
-        "람・테라 부유 방루"
-      ]
-    },
-    "ggmark_unit241.tex": {
-      "jp": [
-        "ギア・ゲルン"
-      ],
-      "ko": [
-        "기어・게른"
-      ]
-    },
-    "ggunit_act04.tex": {
-      "jp": [
-        "自動索敵"
-      ],
-      "ko": [
-        "자동색적"
-      ]
-    },
-    "ggunit_actset0l.tex": {
-      "jp": [
-        "索敵"
-      ],
-      "ko": [
-        "색적"
-      ],
-      "region": [
-        0.1,
-        0.125,
-        0.9,
-        0.71
-      ],
-      "note": "unit-order badge: the rounded rim is as bright as the label, so the label is confined to the inner box; the dimmed and highlighted copies take their mask from the lit one, which is the only copy whose text separates from its plate"
-    },
-    "ggunit_actset0f.tex": {
-      "jp": [
-        "索敵"
-      ],
-      "ko": [
-        "색적"
-      ],
-      "region": [
-        0.1,
-        0.125,
-        0.9,
-        0.71
-      ],
-      "mask_from": "ggunit_actset0l.tex",
-      "note": "unit-order badge: the rounded rim is as bright as the label, so the label is confined to the inner box; the dimmed and highlighted copies take their mask from the lit one, which is the only copy whose text separates from its plate"
-    },
-    "ggunit_actset1f.tex": {
-      "jp": [
-        "反撃"
-      ],
-      "ko": [
-        "반격"
-      ],
-      "region": [
-        0.1,
-        0.125,
-        0.9,
-        0.71
-      ],
-      "mask_from": "ggunit_actset1l.tex",
-      "note": "unit-order badge: the rounded rim is as bright as the label, so the label is confined to the inner box; the dimmed and highlighted copies take their mask from the lit one, which is the only copy whose text separates from its plate"
-    },
-    "gibtn0f.tex": {
-      "jp": [
-        "閉じる"
-      ],
-      "ko": [
-        "닫기"
-      ],
-      "mask_from": "gibtn0.tex",
-      "note": "highlighted copy of the button: its whole plate is as bright as the label, so the mask comes from the pixel-aligned unlit copy"
-    },
-    "ggmenu_btn00b.tex": {
-      "jp": [
-        "待機"
-      ],
-      "ko": [
-        "대기"
-      ],
-      "centre_on_band": true,
-      "mask_from": "ggmenu_btn00.tex",
-      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
-    },
-    "ggmenu_btn01b.tex": {
-      "jp": [
-        "移動"
-      ],
-      "ko": [
-        "이동"
-      ],
-      "centre_on_band": true,
-      "mask_from": "ggmenu_btn01.tex",
-      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
-    },
-    "ggmenu_btn02b.tex": {
-      "jp": [
-        "攻撃"
-      ],
-      "ko": [
-        "공격"
-      ],
-      "centre_on_band": true,
-      "mask_from": "ggmenu_btn02.tex",
-      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
-    },
-    "ggmenu_btn05.tex": {
-      "jp": [
-        "補給"
-      ],
-      "ko": [
-        "보급"
-      ],
-      "centre_on_band": true
-    },
-    "ggmenu_btn06b.tex": {
-      "jp": [
-        "修理"
-      ],
-      "ko": [
-        "수리"
-      ],
-      "centre_on_band": true,
-      "mask_from": "ggmenu_btn06.tex",
-      "note": "battle-menu button: the label is left-aligned, and on the dimmed copy it is only a shade apart from its panel, so the mask comes from the pixel-aligned bright copy"
-    },
-    "ggmenu_btn08.tex": {
-      "jp": [
-        "情報"
-      ],
-      "ko": [
-        "정보"
-      ],
-      "keep_right": 0.24,
-      "centre_on_band": true
-    },
-    "ggmenu_btn11.tex": {
-      "jp": [
-        "自動反撃"
-      ],
-      "ko": [
-        "자동 반격"
-      ],
-      "centre_on_band": true
-    },
-    "ggmenu_btn21.tex": {
-      "jp": [
-        "作戦情報"
-      ],
-      "ko": [
-        "작전 정보"
-      ],
-      "centre_on_band": true
-    },
-    "gzvict1621.tex": {
-      "jp": [
-        "エルシオールの目標地点",
-        "到達"
-      ],
-      "ko": [
-        "에르시올의 목표 지점",
-        "도달"
-      ],
-      "note": "the source wraps the condition over two rows; the Korean keeps that wrap"
-    },
-    "gzdef3321.tex": {
-      "jp": [
-        "トリックマスターの目標",
-        "地点到達",
-        "エルシオールの破壊",
-        "タイムオーバー"
-      ],
-      "ko": [
-        "트릭 마스터의 목표",
-        "지점 도달",
-        "에르시올의 파괴",
-        "타임 오버"
-      ],
-      "note": "the source wraps the first condition over two rows"
-    },
-    "help_00.tex": {
-      "jp": [
-        "攻撃の対象を選択してください",
-        "選択方法切替"
-      ],
-      "ko": [
-        "공격 대상을 선택해 주세요",
-        "선택 방법 전환"
-      ],
-      "note": "battle help line: white glyphs with a black outline over the game's own background, so the whole texture is redrawn rather than repainted. The second line is confined to the right of the triangle button icon at x70-84, which is carried over untouched",
-      "mode": "glyph",
-      "regions": [
-        [
-          0.0,
-          0.0,
-          1.0,
-          0.5
-        ],
-        [
-          0.3359,
-          0.5,
-          1.0,
-          1.0
-        ]
-      ]
-    },
     "help_05.tex": {
       "jp": [
         "移動するポイントを選択してください"
@@ -3273,369 +3826,21 @@
       "mode": "glyph",
       "note": "battle help line: one line of outlined white glyphs over the game's own background"
     },
-    "ggf007_01.tex": {
+    "ob602a_1.agi": {
       "skip": true,
-      "note": "character face icon, no text"
+      "note": "effect sprite sheet, no text"
     },
-    "guunit242.tex": {
+    "oe240u00.agi": {
       "skip": true,
-      "note": "ship sprite, no text"
-    },
-    "ggradar_btn1f.tex": {
-      "skip": true,
-      "note": "8x118 radar button strip, no readable text"
-    },
-    "gbp232i.tex": {
-      "skip": true,
-      "note": "effect arrow sprite, no text"
-    },
-    "gjf005_04_05.txf": {
-      "skip": true,
-      "note": "face overlay part, no text"
-    },
-    "ggmark_sym039.tex": {
-      "skip": true,
-      "note": "unit symbol icon, no text"
-    },
-    "gjf107_03_07.txf": {
-      "skip": true,
-      "note": "16x16 face overlay part, no text"
-    },
-    "gibase.tex": {
-      "jp": [
-        "作戦情報",
-        "勝利条件",
-        "敗北条件"
-      ],
-      "ko": [
-        "작전 정보",
-        "승리 조건",
-        "패배 조건"
-      ],
-      "regions": [
-        [
-          0.094,
-          0.086,
-          0.276,
-          0.15
-        ],
-        [
-          0.553,
-          0.121,
-          0.706,
-          0.181
-        ],
-        [
-          0.553,
-          0.5,
-          0.706,
-          0.56
-        ]
-      ],
-      "metric": "luminance",
-      "note": "briefing screen: the defeat-conditions caption is cyan on blue and the label detector does not separate it, so its rectangle is measured"
-    },
-    "gzbase.tex": {
-      "jp": [
-        "勝利条件",
-        "敗北条件"
-      ],
-      "ko": [
-        "승리 조건",
-        "패배 조건"
-      ],
-      "regions": [
-        [
-          0.5391,
-          0.1417,
-          0.7078,
-          0.1938
-        ],
-        [
-          0.5391,
-          0.5375,
-          0.7078,
-          0.5896
-        ]
-      ],
-      "metric": "whiteness",
-      "note": "multi-cell screen: each caption is replaced inside its own detected rectangle",
-      "merge": 15
-    },
-    "gebtn00b.tex": {
-      "jp": [
-        "ロード"
-      ],
-      "ko": [
-        "불러오기"
-      ],
-      "region": [
-        0.1753,
-        0.2432,
-        0.8247,
-        0.7568
-      ],
-      "note": "main-menu button: the plate's lit rim is as white as the label, so the label is confined to the box it is drawn in; the dimmed copy takes its mask from the lit one",
-      "mask_from": "gebtn00.tex"
-    },
-    "gebtn00f.tex": {
-      "jp": [
-        "ロード"
-      ],
-      "ko": [
-        "불러오기"
-      ],
-      "region": [
-        0.1753,
-        0.2432,
-        0.8247,
-        0.7568
-      ],
-      "note": "main-menu button: the plate's lit rim is as white as the label, so the label is confined to the box it is drawn in; the dimmed copy takes its mask from the lit one"
-    },
-    "gebtn01f.tex": {
-      "jp": [
-        "セーブ"
-      ],
-      "ko": [
-        "저장"
-      ],
-      "region": [
-        0.1753,
-        0.2432,
-        0.8247,
-        0.7568
-      ],
-      "note": "main-menu button: the plate's lit rim is as white as the label, so the label is confined to the box it is drawn in; the dimmed copy takes its mask from the lit one"
-    },
-    "gebtn03f.tex": {
-      "jp": [
-        "タイトルへ戻る"
-      ],
-      "ko": [
-        "타이틀로 돌아가기"
-      ],
-      "region": [
-        0.1753,
-        0.2432,
-        0.8247,
-        0.7568
-      ],
-      "note": "main-menu button: the plate's lit rim is as white as the label, so the label is confined to the box it is drawn in; the dimmed copy takes its mask from the lit one"
-    },
-    "gebtn04f.tex": {
-      "jp": [
-        "次に進む"
-      ],
-      "ko": [
-        "다음으로 진행"
-      ],
-      "region": [
-        0.1753,
-        0.2432,
-        0.8247,
-        0.7568
-      ],
-      "note": "main-menu button: the plate's lit rim is as white as the label, so the label is confined to the box it is drawn in; the dimmed copy takes its mask from the lit one"
-    },
-    "gswin1.tex": {
-      "jp": [
-        "好感度",
-        "ランファ"
-      ],
-      "ko": [
-        "호감도",
-        "란파"
-      ],
-      "note": "affection label on top, name at the bottom; same layout as gswin3",
-      "regions": [
-        [
-          0.02,
-          0.01,
-          0.36,
-          0.14
-        ],
-        [
-          0.2,
-          0.86,
-          0.8,
-          1.0
-        ]
-      ]
-    },
-    "gdmes31.tex": {
-      "jp": [
-        "メモリーカード（PS2）の空き容量が不足しています。",
-        "ゲームデータをセーブするためには、",
-        "空き容量が384KB以上必要です。再試行しますか？"
-      ],
-      "ko": [
-        "메모리 카드(PS2)의 여유 공간이 부족합니다.",
-        "게임 데이터를 저장하려면,",
-        "여유 공간이 384KB 이상 필요합니다. 다시 시도하시겠습니까?"
-      ]
-    },
-    "gdmes54.tex": {
-      "jp": [
-        "メモリーカード（PS2）の空き容量が残り少ない状態です。",
-        "このゲームのデータを確実にセーブするには、",
-        "144KB以上の空き容量が必要です。",
-        "このまま開始すると、",
-        "ゲームデータをセーブできなくなる可能性があります。",
-        "このまま開始しますか？"
-      ],
-      "ko": [
-        "메모리 카드(PS2)의 여유 공간이 얼마 남지 않았습니다.",
-        "이 게임의 데이터를 확실히 저장하려면,",
-        "144KB 이상의 여유 공간이 필요합니다.",
-        "이대로 시작하면,",
-        "게임 데이터를 저장할 수 없게 될 수 있습니다.",
-        "이대로 시작하시겠습니까?"
-      ]
-    },
-    "gybtn01.tex": {
-      "jp": [
-        "ミルフィーユ"
-      ],
-      "ko": [
-        "밀피유"
-      ],
-      "mode": "fill",
-      "region": [
-        0.25,
-        0.25,
-        0.512,
-        0.691
-      ],
-      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
-    },
-    "gybtn01f.tex": {
-      "jp": [
-        "ミルフィーユ"
-      ],
-      "ko": [
-        "밀피유"
-      ],
-      "mode": "fill",
-      "region": [
-        0.25,
-        0.25,
-        0.512,
-        0.691
-      ],
-      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
-    },
-    "gybtn02b.tex": {
-      "jp": [
-        "ランファ"
-      ],
-      "ko": [
-        "란파"
-      ],
-      "mode": "fill",
-      "region": [
-        0.25,
-        0.25,
-        0.512,
-        0.691
-      ],
-      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
-    },
-    "gybtn03f.tex": {
-      "jp": [
-        "ミント"
-      ],
-      "ko": [
-        "민트"
-      ],
-      "mode": "fill",
-      "region": [
-        0.25,
-        0.25,
-        0.512,
-        0.691
-      ],
-      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
-    },
-    "gybtn06.tex": {
-      "jp": [
-        "ちとせ"
-      ],
-      "ko": [
-        "치토세"
-      ],
-      "mode": "fill",
-      "region": [
-        0.25,
-        0.25,
-        0.512,
-        0.691
-      ],
-      "note": "character-select row: only the katakana name is repainted; the romanised name below it and the English frame name stay"
-    },
-    "gainfo_win00.tex": {
-      "skip": true,
-      "note": "decorative window frame: every label on it is Latin (CHECKED SITUATION, INFORMATION SCREEN)"
-    },
-    "gainfo_win00b.tex": {
-      "skip": true,
-      "note": "decorative window frame: every label on it is Latin"
-    },
-    "gxwin02.tex": {
-      "jp": [
-        "戻る"
-      ],
-      "ko": [
-        "뒤로"
-      ],
-      "region": [
-        0.905,
-        0.835,
-        1.0,
-        0.935
-      ],
-      "metric": "luminance",
-      "note": "map window: the only Japanese is the 戻る hint in the button bar. The slot is 54px between the cross-button icon and the frame, which '돌아가기' cannot fit without running over both, so the button-bar wording is used the button-bar wording for 戻る, used for every one of these so the same control never reads two different ways, and because the tightest of the slots cannot hold more"
-    },
-    "gbp112i.tex": {
-      "skip": true,
-      "note": "unit spec plate: the readable text is Latin"
+      "note": "light-flare effect texture, no text"
     },
     "oe320l00.agi": {
       "skip": true,
       "note": "effect sprite, no text"
     },
-    "ob602a_1.agi": {
+    "ou241l_3.agi": {
       "skip": true,
-      "note": "effect sprite sheet, no text"
-    },
-    "ggf002_17.tex": {
-      "skip": true,
-      "note": "character face icon, no text"
-    },
-    "ggf002_03.tex": {
-      "skip": true,
-      "note": "character face icon, no text"
-    },
-    "gjf004_07_02.txf": {
-      "skip": true,
-      "note": "character portrait, no text"
-    },
-    "gyttl02.tex": {
-      "skip": true,
-      "note": "decorative logo plate, no readable text"
-    },
-    "gtbase.tex": {
-      "skip": true,
-      "note": "title screen artwork: the logo itself is Latin and stays as drawn"
-    },
-    "gxtm01.tex": {
-      "skip": true,
-      "note": "album thumbnail: a movie still with the Latin logo baked in"
-    },
-    "gxtm05.tex": {
-      "skip": true,
-      "note": "album thumbnail: a movie still with the Latin logo baked in"
+      "note": "debris/effect sprite sheet, no text"
     }
   }
 }

@@ -192,7 +192,8 @@ def limit(mask: np.ndarray, entry: dict) -> np.ndarray:
 
 
 def draw_lines(canvas: Image.Image, bands: list, lines: list[str], fill, stroke: int, stroke_fill,
-               shrink: int = 0, centre_on_band: bool = False, confine: bool = False) -> None:
+               shrink: int = 0, centre_on_band: bool = False, confine: bool = False,
+               align_left: bool = False) -> None:
     draw = ImageDraw.Draw(canvas)
     # Korean is wider than the Japanese it replaces, but it must not run into a button's rim or
     # into an icon the source keeps beside the text, so the widest row of the source plus a
@@ -215,6 +216,9 @@ def draw_lines(canvas: Image.Image, bands: list, lines: list[str], fill, stroke:
         box = draw.textbbox((0, 0), text, font=font, stroke_width=stroke)
         centre_x = (left + right) / 2 if (centre_on_band or len(bands) > 1) else canvas.width / 2
         x = round(centre_x - (box[2] - box[0]) / 2 - box[0])
+        if align_left:
+            # Left-aligned lists (battle conditions) start each row where the source row did.
+            x = left - box[0]
         limit_left, limit_right = (left - 3, right + 3) if confine else (1, canvas.width - 1)
         x = max(limit_left, min(x, limit_right - (box[2] - box[0])))
         x = max(0, min(x, canvas.width - (box[2] - box[0])))
@@ -342,7 +346,8 @@ def render(source: Path, entry: dict, project: Path | None = None) -> Image.Imag
         draw_lines(canvas, bands, lines, colour, 2 if stroke_fill else 0, stroke_fill,
                    int(entry.get("shrink", 0)),
                    centre_on_band=bool(entry.get("centre_on_band")),
-                   confine=bool(entry.get("region") or entry.get("regions")))
+                   confine=bool(entry.get("region") or entry.get("regions")),
+                   align_left=entry.get("align") == "left")
 
         # These plates are stored as one or two flat colours over a 1-bit alpha, which is why
         # the originals compress into their small resource slots.  Anti-aliased output carries
@@ -436,7 +441,8 @@ def render(source: Path, entry: dict, project: Path | None = None) -> Image.Imag
     outline = tuple(max(0, c - 80) for c in colour[:3]) + (225,)
     draw_lines(canvas, bands, lines, colour, 1, outline, int(entry.get("shrink", 0)),
                centre_on_band=bool(entry.get("centre_on_band")),
-               confine=bool(entry.get("region") or entry.get("regions")))
+               confine=bool(entry.get("region") or entry.get("regions")),
+               align_left=entry.get("align") == "left")
     return canvas
 
 

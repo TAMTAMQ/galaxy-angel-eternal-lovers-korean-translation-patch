@@ -3000,7 +3000,7 @@
         "voice": "GC450159.ogg"
       },
       "original": "俺だ。そろそろブリッジに戻ってくれ。確認したいことがある。",
-      "translation": "나다. 슬슬 함교로 돌아와 줘. 확인하고 싶은 게 있어.",
+      "translation": "나다. 슬슬 브릿지로 돌아와 줘. 확인하고 싶은 게 있어.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5424,7 +5424,7 @@
         "voice": "GC450250.ogg"
       },
       "original": "タクト、ちょっとブリッジまで来てくれ。",
-      "translation": "택트, 잠시 함교까지 와 줘.",
+      "translation": "택트, 잠시 브릿지까지 와 줘.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5442,7 +5442,7 @@
         "voice": "GC450250.ogg"
       },
       "original": "ブリッジに？　わかった、すぐに行くよ。",
-      "translation": "함교에? 알았어, 금방 갈게.",
+      "translation": "브릿지에? 알았어, 금방 갈게.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5934,7 +5934,7 @@
         "voice": "GC150405.ogg"
       },
       "original": "ブリッジに仕掛けられていた。これまで気づかないとは、まったくうかつだった……。",
-      "translation": "함교에 설치되어 있었어. 지금까지 눈치채지 못하다니, 정말 방심했군...",
+      "translation": "브릿지에 설치되어 있었어. 지금까지 눈치채지 못하다니, 정말 방심했군...",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -6138,7 +6138,7 @@
         "voice": "GC150410.ogg"
       },
       "original": "一応、『白き月』にもこの装置のデータを送っておきました。",
-      "translation": "일단 『백색 달』에도 이 장치의 데이터를 보내 두었습니다.",
+      "translation": "일단 『하얀 달』에도 이 장치의 데이터를 보내 두었습니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6162,7 +6162,7 @@
         "voice": "GC150410.ogg"
       },
       "original": "ありがとう。それよりも、仕掛けられたのはブリッジだけかい？",
-      "translation": "고마워. 그보다 설치된 게 함교뿐이야？",
+      "translation": "고마워. 그보다 설치된 게 브릿지뿐이야？",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -6186,7 +6186,7 @@
         "voice": "GC150409.ogg"
       },
       "original": "ブリッジの他、数カ所でも確認しましたが全て取り除きました。",
-      "translation": "함교 외에도 몇 군데서 확인했지만 모두 제거했습니다.",
+      "translation": "브릿지 외에도 몇 군데서 확인했지만 모두 제거했습니다.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -7560,7 +7560,7 @@
         "voice": "GC450401.ogg"
       },
       "original": "こんな日だっていうのに、いつまで寝ているんだ。早くブリッジに来い。",
-      "translation": "이런 날인데 언제까지 자고 있을 거야. 빨리 함교로 와.",
+      "translation": "이런 날인데 언제까지 자고 있을 거야. 빨리 브릿지로 와.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -7686,7 +7686,7 @@
         "voice": "GC450401.ogg"
       },
       "original": "ええい、とにかく今はブリッジに行かなくては！",
-      "translation": "에잇, 어쨌든 지금은 함교에 가야 해！",
+      "translation": "에잇, 어쨌든 지금은 브릿지에 가야 해！",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -11016,7 +11016,7 @@
         "voice": "GC151255.ogg"
       },
       "original": "ああ、敵の待ち伏せが考えられる。至急、第２戦闘配備だ。オレもすぐブリッジに戻る。",
-      "translation": "그래, 적의 매복이 예상된다. 즉시 제2전투 배치다. 나도 곧 함교로 돌아가겠다.\n",
+      "translation": "그래, 적의 매복이 예상된다. 즉시 제2전투 배치다. 나도 곧 브릿지로 돌아가겠다.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -11166,7 +11166,7 @@
         "voice": "GC450635.ogg"
       },
       "original": "それを聞けて安心したよ。一緒にブリッジに来てくれ。それで、みんなに声をかけてほしいんだ。",
-      "translation": "그말을 들으니 안심이 되는군. 같이 함교로 와줘. 그리고 모두에게 말을 좀 걸어줬으면 해.",
+      "translation": "그말을 들으니 안심이 되는군. 같이 브릿지로 와줘. 그리고 모두에게 말을 좀 걸어줬으면 해.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -11724,7 +11724,7 @@
         "voice": "GC450711.ogg"
       },
       "original": "ブリッジにいたんですね。",
-      "translation": "함교에 계셨군요.\n",
+      "translation": "브릿지에 계셨군요.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -15534,7 +15534,7 @@
         "voice": "GC451128.ogg"
       },
       "original": "こらこら、いちゃつくのはブリッジを出てからにしてくれ。反応に困る。",
-      "translation": "이봐, 꽁냥거리는 건 함교 나가서 해. 반응하기 곤란하다고.",
+      "translation": "이봐, 꽁냥거리는 건 브릿지 나가서 해. 반응하기 곤란하다고.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

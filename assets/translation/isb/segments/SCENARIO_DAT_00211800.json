@@ -37,7 +37,7 @@
         "voice": null
       },
       "original": "ブリッジ・ちとせがレスターたちを紹介する",
-      "translation": "함교・치토세가 레스터 일행을 소개한다\n",
+      "translation": "브릿지・치토세가 레스터 일행을 소개한다\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -55,7 +55,7 @@
         "voice": "GC625000.ogg"
       },
       "original": "これがエルシオールの頭脳。全てを取り仕切っているブリッジです。",
-      "translation": "이곳이 에르시올의 두뇌. 모든 것을 관장하는 함교입니다.\n",
+      "translation": "이곳이 에르시올의 두뇌. 모든 것을 관장하는 브릿지입니다.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -187,7 +187,7 @@
         "voice": "GC625004.ogg"
       },
       "original": "そして、このブリッジには通信やレーダーの情報が集まるのですが、それを担当するのがこちらのおふたりです。",
-      "translation": "그리고 이 함교에는 통신이나 레이더 정보가 모이는데, 그걸 담당하는 게 여기 두 사람입니다.\n",
+      "translation": "그리고 이 브릿지에는 통신이나 레이더 정보가 모이는데, 그걸 담당하는 게 여기 두 사람입니다.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -403,7 +403,7 @@
         "voice": "GC625013.ogg"
       },
       "original": "そして、こちらがいつもブリッジにつめていらっしゃるクールダラス副司令です。",
-      "translation": "그리고 이쪽은 항상 함교에 상주하시는 쿨다라스 부사령관입니다.\n",
+      "translation": "그리고 이쪽은 항상 브릿지에 상주하시는 쿨다라스 부사령관입니다.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -427,7 +427,7 @@
         "voice": "GC625014.ogg"
       },
       "original": "ルシャーティさん、ヴァインさん、ブリッジへようこそ。",
-      "translation": "루샤티 씨, 바인 씨, 함교에 오신 걸 환영합니다.\n",
+      "translation": "루샤티 씨, 바인 씨, 브릿지에 오신 걸 환영합니다.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -1891,7 +1891,7 @@
         "voice": "GC625122.ogg"
       },
       "original": "あ、でも『白き月』と一緒にいらっしゃる可能性も。考え始めたらオレまで落ち着かなくなってきたなあ……。",
-      "translation": "아, 그래도 『백색 달』과 함께 계실 가능성도... 생각하기 시작하니 나까지 진정이 안 되네...\n",
+      "translation": "아, 그래도 『하얀 달』과 함께 계실 가능성도... 생각하기 시작하니 나까지 진정이 안 되네...\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

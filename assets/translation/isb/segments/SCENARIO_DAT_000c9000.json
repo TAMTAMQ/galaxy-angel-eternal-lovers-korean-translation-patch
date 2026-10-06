@@ -3235,7 +3235,7 @@
         "voice": "GC260200.ogg"
       },
       "original": "ふう、やっぱり『白き月』は落ち着くな～。",
-      "translation": "후우, 역시 『백색 달』은 마음이 편하네～",
+      "translation": "후우, 역시 『하얀 달』은 마음이 편하네～",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3253,7 +3253,7 @@
         "voice": "GC160507.ogg"
       },
       "original": "本当ですわね。ＥＤＥＮも住みよい感じはするのですが、私たちにはやはり『白き月』の方がなじみがありますもの。",
-      "translation": "정말 그렇네요. EDEN도 살기 좋은 느낌은 듭니다만, 저희에게는 역시 『백색 달』 쪽이 친숙하니까요.\n",
+      "translation": "정말 그렇네요. EDEN도 살기 좋은 느낌은 듭니다만, 저희에게는 역시 『하얀 달』 쪽이 친숙하니까요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3643,7 +3643,7 @@
         "voice": "GC260212.ogg"
       },
       "original": "具合はどうですか？　『白き月』を発ってからというもの、あなたのことを心配していましたよ。",
-      "translation": "몸 상태는 어떠신가요? 『백색 달』을 떠난 뒤로 당신을 걱정하고 있었어요.\n",
+      "translation": "몸 상태는 어떠신가요? 『하얀 달』을 떠난 뒤로 당신을 걱정하고 있었어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9067,7 +9067,7 @@
         "voice": "GC260462.ogg"
       },
       "original": "こ、困ったなあ……ははは。",
-      "translation": "이, 곤란하네…… 하하하.\n",
+      "translation": "고, 곤란하네…… 하하하.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20755,7 +20755,7 @@
         "voice": "GC161207.ogg"
       },
       "original": "ヴァイン……君は、ルシャーティを守ってここまで来たんじゃないのか？",
-      "translation": "바인…… 너는 루샤티를 지키기 위해 여기까지 온 게 아니었나?\n",
+      "translation": "바인…… 너는 루샤티를 지키기 위해 여기까지 온 게 아니었어?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [

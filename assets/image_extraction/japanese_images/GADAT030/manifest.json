@@ -51,7 +51,7 @@
     "width": 208,
     "height": 28,
     "original": "ブリッジ",
-    "translation": "함교"
+    "translation": "브릿지"
   },
   {
     "name": "gaplc_006i.tex",
@@ -276,7 +276,7 @@
     "width": 208,
     "height": 28,
     "original": "巡洋艦・ブリッジ",
-    "translation": "순양함・함교"
+    "translation": "순양함・브릿지"
   },
   {
     "name": "gaplc_054i.tex",
@@ -321,7 +321,7 @@
     "width": 208,
     "height": 28,
     "original": "白き月内部謁見の間",
-    "translation": "백색 달 내부 알현실"
+    "translation": "하얀 달 내부 알현실"
   },
   {
     "name": "gaplc_059i.tex",
@@ -384,7 +384,7 @@
     "width": 208,
     "height": 28,
     "original": "白き月・最深部",
-    "translation": "백색 달・최심부"
+    "translation": "하얀 달・최심부"
   },
   {
     "name": "gaplc_066i.tex",
@@ -555,7 +555,7 @@
     "width": 208,
     "height": 28,
     "original": "白き月・ゲストルーム",
-    "translation": "백색 달・게스트룸"
+    "translation": "하얀 달・게스트룸"
   },
   {
     "name": "gaplc_411i.tex",
@@ -564,7 +564,7 @@
     "width": 208,
     "height": 28,
     "original": "白き月・会議室",
-    "translation": "백색 달・회의실"
+    "translation": "하얀 달・회의실"
   },
   {
     "name": "gaplc_412i.tex",
@@ -573,7 +573,7 @@
     "width": 208,
     "height": 28,
     "original": "白き月・通路",
-    "translation": "백색 달・통로"
+    "translation": "하얀 달・통로"
   },
   {
     "name": "gaplc_414i.tex",
@@ -681,7 +681,7 @@
     "width": 208,
     "height": 28,
     "original": "白き月・ドック",
-    "translation": "백색 달・도크"
+    "translation": "하얀 달・도크"
   },
   {
     "name": "haplc_000i.tex",
@@ -755,7 +755,7 @@
     "width": 205,
     "height": 25,
     "original": "ブリッジ",
-    "translation": "함교",
+    "translation": "브릿지",
     "classification": "eternal-outlined-place-plate",
     "resource_path": "dat/gadat030/haplc_005i.tex",
     "resource_offset": 120965120,
@@ -1080,7 +1080,7 @@
     "width": 205,
     "height": 25,
     "original": "巡洋艦・ブリッジ",
-    "translation": "순양함・함교",
+    "translation": "순양함・브릿지",
     "classification": "eternal-outlined-place-plate",
     "resource_path": "dat/gadat030/haplc_053i.tex",
     "resource_offset": 121016320,
@@ -1145,7 +1145,7 @@
     "width": 205,
     "height": 25,
     "original": "白き月内部謁見の間",
-    "translation": "백색 달 내부 알현실",
+    "translation": "하얀 달 내부 알현실",
     "classification": "eternal-outlined-place-plate",
     "resource_path": "dat/gadat030/haplc_058i.tex",
     "resource_offset": 121026560,
@@ -1236,7 +1236,7 @@
     "width": 205,
     "height": 25,
     "original": "白き月・最深部",
-    "translation": "백색 달・최심부",
+    "translation": "하얀 달・최심부",
     "classification": "eternal-outlined-place-plate",
     "resource_path": "dat/gadat030/haplc_065i.tex",
     "resource_offset": 121040896,
@@ -1483,7 +1483,7 @@
     "width": 205,
     "height": 25,
     "original": "白き月・ゲストルーム",
-    "translation": "백색 달・게스트룸",
+    "translation": "하얀 달・게스트룸",
     "classification": "eternal-outlined-place-plate",
     "resource_path": "dat/gadat030/haplc_410i.tex",
     "resource_offset": 121079808,
@@ -1496,7 +1496,7 @@
     "width": 205,
     "height": 25,
     "original": "白き月・会議室",
-    "translation": "백색 달・회의실",
+    "translation": "하얀 달・회의실",
     "classification": "eternal-outlined-place-plate",
     "resource_path": "dat/gadat030/haplc_411i.tex",
     "resource_offset": 121081856,
@@ -1509,7 +1509,7 @@
     "width": 205,
     "height": 25,
     "original": "白き月・通路",
-    "translation": "백색 달・통로",
+    "translation": "하얀 달・통로",
     "classification": "eternal-outlined-place-plate",
     "resource_path": "dat/gadat030/haplc_412i.tex",
     "resource_offset": 121083904,
@@ -1665,7 +1665,7 @@
     "width": 205,
     "height": 25,
     "original": "白き月・ドック",
-    "translation": "백색 달・도크",
+    "translation": "하얀 달・도크",
     "classification": "eternal-outlined-place-plate",
     "resource_path": "dat/gadat030/haplc_465i.tex",
     "resource_offset": 121108480,

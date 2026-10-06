@@ -29,7 +29,7 @@ GLYPH_FALLBACKS = {"・": "·", "･": "·"}
 # room the game itself labels "???", so it keeps that placeholder.
 ROOMS = {
     "gmplc_pop0_004.tex": ("司令官室", "사령관실"),
-    "gmplc_pop0_005.tex": ("ブリッジ", "함교"),
+    "gmplc_pop0_005.tex": ("ブリッジ", "브릿지"),
     "gmplc_pop0_006.tex": ("銀河展望公園", "은하전망공원"),
     "gmplc_pop1_008.tex": ("ティーラウンジ", "티 라운지"),
     "gmplc_pop1_009.tex": ("食堂", "식당"),

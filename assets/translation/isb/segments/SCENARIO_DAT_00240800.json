@@ -351,7 +351,7 @@
         "voice": "GC160033.ogg"
       },
       "original": "軍規に基づき、副司令官がその職務を代行することになりました……と、先方には伝えておきましたから。",
-      "translation": "군규에 따라 부사령관이 그 직무를 대행하게 되었습니다……라고, 상대측에는 전해두었으니까요.\n",
+      "translation": "군율에 따라 부사령관이 그 직무를 대행하게 되었습니다……라고, 상대측에는 전해두었으니까요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3507,7 +3507,7 @@
         "voice": "GC660238.ogg"
       },
       "original": "タ、タクトさん、そんなに見つめないでください……！",
-      "translation": "타, 택트 씨, 그렇게 쳐다보지 마세요……！\n",
+      "translation": "태, 택트 씨, 그렇게 쳐다보지 마세요……！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5115,7 +5115,7 @@
         "voice": "GC660337.ogg"
       },
       "original": "レスターは今、ブリッジかな……。",
-      "translation": "레스터는 지금, 함교려나…….\n",
+      "translation": "레스터는 지금, 브릿지려나…….\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5187,7 +5187,7 @@
         "voice": "GC160401.ogg"
       },
       "original": "今日はちゃんとブリッジに来たんですね。",
-      "translation": "오늘은 제대로 함교에 오셨네요.",
+      "translation": "오늘은 제대로 브릿지에 오셨네요.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5247,7 +5247,7 @@
         "voice": "GC160403.ogg"
       },
       "original": "強いて言えば、このＥＤＥＮに来るまで、ずっとブリッジで仕事をしていたマイヤーズ司令が一番変わったことだったかと。",
-      "translation": "굳이 말하자면, EDEN에 오기 전까지 계속 함교에서 일하던 마이어스 사령관이 가장 변한 점일까요.",
+      "translation": "굳이 말하자면, EDEN에 오기 전까지 계속 브릿지에서 일하던 마이어스 사령관이 가장 변한 점일까요.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5337,7 +5337,7 @@
         "voice": "GC160408.ogg"
       },
       "original": "先程ルフト将軍より連絡がありまして、シヴァ陛下、及びシャトヤーン様、そして『白き月』は、まもなく到着になるとのことです。",
-      "translation": "방금 루프트 장군으로부터 연락이 왔는데, 시바 폐하 및 샤토얀 님, 그리고 『백색 달』은 곧 도착할 예정이라고 합니다.\n",
+      "translation": "방금 루프트 장군으로부터 연락이 왔는데, 시바 폐하 및 샤토얀 님, 그리고 『하얀 달』은 곧 도착할 예정이라고 합니다.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7059,7 +7059,7 @@
         "voice": "GC160506.ogg"
       },
       "original": "は～、やっぱり『白き月』は落ち着くわね。",
-      "translation": "하아～ 역시 『백색 달』은 편안해지네.",
+      "translation": "하아～ 역시 『하얀 달』은 편안해지네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7077,7 +7077,7 @@
         "voice": "GC160507.ogg"
       },
       "original": "本当ですわね。ＥＤＥＮも住みよい感じはするのですが、私たちにはやはり『白き月』の方がなじみがありますもの。",
-      "translation": "정말 그렇네요. EDEN도 살기 좋은 느낌은 듭니다만, 저희에게는 역시 『백색 달』 쪽이 친숙하니까요.\n",
+      "translation": "정말 그렇네요. EDEN도 살기 좋은 느낌은 듭니다만, 저희에게는 역시 『하얀 달』 쪽이 친숙하니까요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -7329,7 +7329,7 @@
         "voice": "GC160532.ogg"
       },
       "original": "具合はどうですか？　『白き月』を発ってからというもの、心配していましたよ。",
-      "translation": "몸 상태는 어떠신가요？ 『백색 달』을 떠난 뒤로 걱정하고 있었답니다.\n",
+      "translation": "몸 상태는 어떠신가요？ 『하얀 달』을 떠난 뒤로 걱정하고 있었답니다.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -10749,7 +10749,7 @@
         "voice": "GC660823.ogg"
       },
       "original": "だぁ～～～～～～～～～～っ！　き、聞いてたのか～～～～～～～！",
-      "translation": "으아아아～！ 들, 듣고 있었던 거야～～～～！\n",
+      "translation": "으아아아～！ 드, 듣고 있었던 거야～～～～！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11307,7 +11307,7 @@
         "voice": "GC660844.ogg"
       },
       "original": "み、みなさん……！",
-      "translation": "모, 여러분...！\n",
+      "translation": "여, 여러분...！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13143,7 +13143,7 @@
         "voice": "GC461000.ogg"
       },
       "original": "タ、タクトさん……。",
-      "translation": "타, 택트 씨…….\n",
+      "translation": "태, 택트 씨…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13797,7 +13797,7 @@
         "voice": "GC161207.ogg"
       },
       "original": "ヴァイン……君は、ルシャーティを守ってここまで来たんじゃないのか？",
-      "translation": "바인…… 너는 루샤티를 지키기 위해 여기까지 온 게 아니었나？\n",
+      "translation": "바인…… 너는 루샤티를 지키기 위해 여기까지 온 게 아니었어？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [

@@ -3942,7 +3942,7 @@
         "voice": "GC945612.ogg"
       },
       "original": "『黒き月』の紋章機のことだよね。うん、手強かったよ。",
-      "translation": "『흑색 달』의 문장기 말이지? 응, 만만치 않았어.\n",
+      "translation": "『검은 달』의 문장기 말이지? 응, 만만치 않았어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3966,7 +3966,7 @@
         "voice": "GC945613.ogg"
       },
       "original": "けど、タクト。あたしたちが今回相手にするのは味方の『白き月』の紋章機なんだよ。",
-      "translation": "하지만 택트. 우리가 이번에 상대하는 건 아군인 『백색 달』의 문장기야.\n",
+      "translation": "하지만 택트. 우리가 이번에 상대하는 건 아군인 『하얀 달』의 문장기야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3990,7 +3990,7 @@
         "voice": "GC945613.ogg"
       },
       "original": "あ、そうか。『白き月』の紋章機同士が戦う事なんて、いままで一度もなかったんだ。",
-      "translation": "아, 그렇구나. 『백색 달』의 문장기끼리 싸우는 일은 지금까지 한 번도 없었지.\n",
+      "translation": "아, 그렇구나. 『하얀 달』의 문장기끼리 싸우는 일은 지금까지 한 번도 없었지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6996,7 +6996,7 @@
         "voice": "GC946107.ogg"
       },
       "original": "ブリッジ・アルモとココを励ます",
-      "translation": "함교・아르모와 코코를 격려",
+      "translation": "브릿지・아르모와 코코를 격려",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7632,7 +7632,7 @@
         "voice": "GC946230.ogg"
       },
       "original": "まあ、ブリッジや雑用のことは俺に任せろ。おまえはエンジェル隊の連中を気遣ってやれ。",
-      "translation": "뭐, 함교나 잡무는 내게 맡겨둬. 자네는 엔젤대 애들을 좀 신경 써주라고.\n",
+      "translation": "뭐, 브릿지나 잡무는 내게 맡겨둬. 자네는 엔젤대 애들을 좀 신경 써주라고.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [

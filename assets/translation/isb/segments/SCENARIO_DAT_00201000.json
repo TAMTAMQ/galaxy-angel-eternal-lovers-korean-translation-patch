@@ -2427,7 +2427,7 @@
         "voice": "GC120167.ogg"
       },
       "original": "い、いいから早く、あたしの上からどいとくれよ……。",
-      "translation": "이, 됐으니까 빨리 내 위에서 비켜줘…….",
+      "translation": "돼, 됐으니까 빨리 내 위에서 비켜줘…….",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8439,7 +8439,7 @@
         "voice": "GC620427.ogg"
       },
       "original": "ヴァインに『白き月』との合流を伝える",
-      "translation": "바인에게『백색달』과의합류를전달한다",
+      "translation": "바인에게『하얀달』과의합류를전달한다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8457,7 +8457,7 @@
         "voice": "GC620427.ogg"
       },
       "original": "タクトだけど、ふたりともいるかい？",
-      "translation": "택트인데, 둘 다 있나？",
+      "translation": "택트인데, 둘 다 있어？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11133,7 +11133,7 @@
         "voice": "GC120668.ogg"
       },
       "original": "さっき報告が入って、明日にも『白き月』と合流できることになった。",
-      "translation": "방금 보고가 왔는데, 내일이면 『백색 달』과 합류할 수 있게 됐어.",
+      "translation": "방금 보고가 왔는데, 내일이면 『하얀 달』과 합류할 수 있게 됐어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11307,7 +11307,7 @@
         "voice": "GC120673.ogg"
       },
       "original": "確か、ノアも来るのよね？　あいつ、『白き月』の人たちとうまくやってるかしら？",
-      "translation": "분명 노아도 오지？ 그 녀석, 『백색 달』 사람들과 잘 지내고 있으려나？\n",
+      "translation": "분명 노아도 오지？ 그 녀석, 『하얀 달』 사람들과 잘 지내고 있으려나？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11721,7 +11721,7 @@
         "voice": "GC120755.ogg"
       },
       "original": "それじゃ仕方ないな。『白き月』に行くのに、ルシャーティにも来て欲しかったけど、オレひとりで行くよ。",
-      "translation": "그럼 어쩔 수 없겠네. 『백색 달』에 가는데 루샤티도 같이 왔으면 좋았겠지만, 나 혼자 갈게.\n",
+      "translation": "그럼 어쩔 수 없겠네. 『하얀 달』에 가는데 루샤티도 같이 왔으면 좋았겠지만, 나 혼자 갈게.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12549,7 +12549,7 @@
         "voice": "GC620722.ogg"
       },
       "original": "さてと……それじゃ、『白き月』に行くとするか。",
-      "translation": "자 그럼…… 그럼 『백색 달』으로 가볼까.\n",
+      "translation": "자 그럼…… 그럼 『하얀 달』으로 가볼까.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13431,7 +13431,7 @@
         "voice": "GC120855.ogg"
       },
       "original": "「ずっとブリッジにいられると、俺たちの心臓に悪いから」とか言ってたけど、真面目なオレが、そん～～～なに奇妙か？",
-      "translation": "「계속 함교에 있으면 우리 심장에 안 좋으니까」라고 말했지만, 진지한 내가 너무 기묘해 보이나？\n",
+      "translation": "「계속 브릿지에 있으면 우리 심장에 안 좋으니까」라고 말했지만, 진지한 내가 너무 기묘해 보이나？\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -13461,7 +13461,7 @@
         "voice": "GC120855.ogg"
       },
       "original": "……思い出したら切なくなってきた。これからはなるべく、ブリッジにいるのが自然な司令官になろう……。",
-      "translation": "...생각하니 씁쓸해졌어. 앞으로는 가급적 함교에 있는 게 자연스러운 지휘관이 되자...\n",
+      "translation": "...생각하니 씁쓸해졌어. 앞으로는 가급적 브릿지에 있는 게 자연스러운 지휘관이 되자...\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -15405,7 +15405,7 @@
         "voice": "GC121016.ogg"
       },
       "original": "タクト、非番のとこすまんが、今すぐブリッジに来てくれ！　敵襲だ！",
-      "translation": "택트, 비번인 데 미안하지만 지금 당장 함교로 와줘！ 적습이다！\n",
+      "translation": "택트, 비번인 데 미안하지만 지금 당장 브릿지로 와줘！ 적습이다！\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -15507,7 +15507,7 @@
         "voice": "GC121017.ogg"
       },
       "original": "ちとせ、エンジェル隊に集合をかけてくれ！オレもすぐブリッジに向かう！",
-      "translation": "치토세, 엔젤대에 집합을 요청해줘！ 나도 바로 함교로 갈게！\n",
+      "translation": "치토세, 엔젤대에 집합을 요청해줘！ 나도 바로 브릿지로 갈게！\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -15705,7 +15705,7 @@
         "voice": "GC121104.ogg"
       },
       "original": "どうもこうも、やるしかないだろう？　少なくとも、『白き月』には絶対近づけさせちゃダメだ。",
-      "translation": "이러쿵저러쿵 해도 할 수밖에 없잖아？ 적어도 『백색 달』에는 절대 접근시키면 안 돼.\n",
+      "translation": "이러쿵저러쿵 해도 할 수밖에 없잖아？ 적어도 『하얀 달』에는 절대 접근시키면 안 돼.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [

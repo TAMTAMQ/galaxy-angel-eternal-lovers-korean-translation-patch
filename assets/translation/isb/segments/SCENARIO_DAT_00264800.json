@@ -2100,7 +2100,7 @@
         "voice": "GC920123.ogg"
       },
       "original": "それともうひとつ、『白き月』がそちらに向かっておる。",
-      "translation": "그리고 하나 더, 『백색 달』이 그쪽을 향하고 있다.\n",
+      "translation": "그리고 하나 더, 『하얀 달』이 그쪽을 향하고 있다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2124,7 +2124,7 @@
         "voice": "GC920123.ogg"
       },
       "original": "はあ、『白き月』がこっちに……。",
-      "translation": "하아, 『백색 달』이이쪽으로…….",
+      "translation": "하아, 『하얀 달』이이쪽으로…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2166,7 +2166,7 @@
         "voice": "GC920124.ogg"
       },
       "original": "言葉どおりの意味じゃが？　『白き月』は現在、クロノ・ドライヴを行ってガイエン星系へと向かっておる。",
-      "translation": "말 그대로의 의미다. 『백색 달』은 현재 크로노・드라이브를 통해 가이엔 성계로 향하고 있다.\n",
+      "translation": "말 그대로의 의미다. 『하얀 달』은 현재 크로노・드라이브를 통해 가이엔 성계로 향하고 있다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2232,7 +2232,7 @@
         "voice": "GC920126.ogg"
       },
       "original": "し、『白き月』が、動いている……！？",
-      "translation": "『백색 달』이, 움직이고 있다……！？\n",
+      "translation": "『하얀 달』이, 움직이고 있다……！？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2292,7 +2292,7 @@
         "voice": "GC920129.ogg"
       },
       "original": "そもそも『白き月』は４００年以上前、ＥＤＥＮの領内からトランスバール本星まで移動してきたんじゃろうが。",
-      "translation": "애초에 『백색 달』은 400년 전, EDEN의 영역에서 트랜스벌 본성까지 이동해 온 것이겠지.\n",
+      "translation": "애초에 『하얀 달』은 400년 전, EDEN의 영역에서 트랜스벌 본성까지 이동해 온 것이겠지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2436,7 +2436,7 @@
         "voice": "GC920132.ogg"
       },
       "original": "タクト、くれぐれもシャトヤーン様たちと、『白き月』を頼むぞ。",
-      "translation": "택트, 부디 샤토얀 님 일행과 『백색 달』을 부탁한다.\n",
+      "translation": "택트, 부디 샤토얀 님 일행과 『하얀 달』을 부탁한다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3030,7 +3030,7 @@
         "voice": "GC920148.ogg"
       },
       "original": "……そうだな。取りあえず今は、『白き月』の到着を待つとするか。",
-      "translation": "……그렇군. 일단 지금은 『백색 달』의 도착을 기다리기로 할까.",
+      "translation": "……그렇군. 일단 지금은 『하얀 달』의 도착을 기다리기로 할까.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3318,7 +3318,7 @@
         "voice": "GC920153.ogg"
       },
       "original": "なあに、これから忙しくなりそうだからな。『白き月』までこっちに来てるとなったら、なおさらだ。",
-      "translation": "뭐, 이제부터 바빠질 것 같으니까 말이야. 『백색 달』이 이쪽으로 오게 되면 더더욱 그렇고.",
+      "translation": "뭐, 이제부터 바빠질 것 같으니까 말이야. 『하얀 달』이 이쪽으로 오게 되면 더더욱 그렇고.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4602,7 +4602,7 @@
         "voice": "GC920301.ogg"
       },
       "original": "マイヤーズ司令、『白き月』から通信です。",
-      "translation": "마이어스 사령관, 『백색 달』 통신입니다",
+      "translation": "마이어스 사령관, 『하얀 달』 통신입니다",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -4938,7 +4938,7 @@
         "voice": "GC920309.ogg"
       },
       "original": "というわけで、お仕事お仕事。『白き月』が到着する前に、できるだけのことはやっておかないとね。",
-      "translation": "그런 의미에서 일 좀 해볼까. 『백색 달』이 도착하기 전에 할 수 있는 건 해둬야지.",
+      "translation": "그런 의미에서 일 좀 해볼까. 『하얀 달』이 도착하기 전에 할 수 있는 건 해둬야지.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5478,7 +5478,7 @@
         "voice": "GC120505.ogg"
       },
       "original": "ルシャーティは、今、寝てるのかい？",
-      "translation": "루샤티는 지금 자고 있나？\n",
+      "translation": "루샤티는 지금 자고 있어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5610,7 +5610,7 @@
         "voice": "GC120508.ogg"
       },
       "original": "じゃあ、彼女には、君の方から伝えておいてもらえるかな。この艦は明日、『白き月』と合流する。",
-      "translation": "그럼 그녀에게는 네가 전해주겠나. 이 함선은 내일, 『백색 달』과 합류한다.\n",
+      "translation": "그럼 그녀에게는 네가 전해주겠나. 이 함선은 내일, 『하얀 달』과 합류한다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5640,7 +5640,7 @@
         "voice": "GC120509.ogg"
       },
       "original": "『白き月』……我々ＥＤＥＮの民の祖先が遠い昔に建造したという、実験的な戦闘システムですね。",
-      "translation": "『백색 달』이라... 저희 EDEN의 조상이 옛날에 건조했다는 실험적 전투 시스템 말이죠?",
+      "translation": "『하얀 달』이라... 저희 EDEN의 조상이 옛날에 건조했다는 실험적 전투 시스템 말이죠?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5700,7 +5700,7 @@
         "voice": "GC120510.ogg"
       },
       "original": "えっ？　皇国に『白き月』があるということを、君たちは知っていたのかい？",
-      "translation": "어？ 황국에 『백색 달』이 있다는 걸 너희는 알고 있었나？\n",
+      "translation": "어？ 황국에 『하얀 달』이 있다는 걸 너희는 알고 있었어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5724,7 +5724,7 @@
         "voice": "GC120511.ogg"
       },
       "original": "ええ、ネフューリア敗北のうわさとともに、我々ＥＤＥＮの民にも『白き月』のことは伝わっていました。",
-      "translation": "네, 네퓨리아 패배 소문과 함께 우리 EDEN 민족에게도 『백색 달』은 전해져 왔습니다.",
+      "translation": "네, 네퓨리아 패배 소문과 함께 우리 EDEN 민족에게도 『하얀 달』은 전해져 왔습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5814,7 +5814,7 @@
         "voice": "GC120514.ogg"
       },
       "original": "我々の知っている『白き月』に関する情報は、だいたいこんなところですが……。",
-      "translation": "저희가 아는 『백색 달』에 관한 정보는 대략 이 정도입니다만...\n",
+      "translation": "저희가 아는 『하얀 달』에 관한 정보는 대략 이 정도입니다만...\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5838,7 +5838,7 @@
         "voice": "GC120514.ogg"
       },
       "original": "そこまで知っているんなら、話が早い。その『白き月』に、君たちに会ってもらいたい人たちがいる。",
-      "translation": "그렇게 안다면 이야기가 빠르군. 그 『백색 달』에서 너희가 만나줬으면 하는 이들이 있다.",
+      "translation": "그렇게 안다면 이야기가 빠르군. 그 『하얀 달』에서 너희가 만나줬으면 하는 이들이 있다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5886,7 +5886,7 @@
         "voice": "GC120515.ogg"
       },
       "original": "『白き月』の管理者のシャトヤーン様。そして『黒き月』……は、もうなくなってしまったけど、その管理者のノア。",
-      "translation": "『백색 달』의 관리자인 샤토얀 님. 그리고 『흑색 달』...은 이제 사라졌지만, 그 관리자인 노아.\n",
+      "translation": "『하얀 달』의 관리자인 샤토얀 님. 그리고 『검은 달』...은 이제 사라졌지만, 그 관리자인 노아.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6210,7 +6210,7 @@
         "voice": "GC120520.ogg"
       },
       "original": "やることはやったものの、これですぐにブリッジに戻ったら、またなんか変なこと言われちゃいそうだな。",
-      "translation": "할 일은 다 마쳤지만, 이대로 바로 함교로 돌아가면 또 뭔가 이상한 소리를 들을 것 같네.\n",
+      "translation": "할 일은 다 마쳤지만, 이대로 바로 브릿지로 돌아가면 또 뭔가 이상한 소리를 들을 것 같네.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -6270,7 +6270,7 @@
         "voice": "GC120520.ogg"
       },
       "original": "『白き月』到着",
-      "translation": "『백색달』도착",
+      "translation": "『하얀달』도착",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6288,7 +6288,7 @@
         "voice": "GC920400.ogg"
       },
       "original": "マイヤーズ司令、『白き月』のドライヴ・アウト反応を確認しました。間もなく合流になりますので、ブリッジまでお越しください。",
-      "translation": "마이어스 사령관, 『백색 달』의 드라이브・아웃 반응을 확인했습니다. 곧 합류할 예정이니 함교로 와 주십시오.\n",
+      "translation": "마이어스 사령관, 『하얀 달』의 드라이브・아웃 반응을 확인했습니다. 곧 합류할 예정이니 브릿지로 와 주십시오.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -6318,7 +6318,7 @@
         "voice": "GC920400.ogg"
       },
       "original": "『白き月』が？　了解、すぐ行くよ。",
-      "translation": "『백색 달』이？ 알았다, 바로 가지.\n",
+      "translation": "『하얀 달』이？ 알았다, 바로 가지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6360,7 +6360,7 @@
         "voice": "GC920400.ogg"
       },
       "original": "お待たせ。『白き月』は？",
-      "translation": "기다렸어. 『백색달』은？",
+      "translation": "기다렸어. 『하얀달』은？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6414,7 +6414,7 @@
         "voice": "GC920402.ogg"
       },
       "original": "うわあ……本当に『白き月』がそのまま移動して来ちゃったんだなあ。",
-      "translation": "우와아... 정말로 『백색 달』이 그대로 이동해 오고 있구나.\n",
+      "translation": "우와아... 정말로 『하얀 달』이 그대로 이동해 오고 있구나.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6462,7 +6462,7 @@
         "voice": "GC920404.ogg"
       },
       "original": "本星とセットになっていない『白き月』って、なんだか違和感がありますよね。",
-      "translation": "본성과 세트로 되어 있지 않은 『백색 달』이라니, 왠지 위화감이 드네요.\n",
+      "translation": "본성과 세트로 되어 있지 않은 『하얀 달』이라니, 왠지 위화감이 드네요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6582,7 +6582,7 @@
         "voice": "GC920407.ogg"
       },
       "original": "あ、『白き月』から通信です。",
-      "translation": "아,『백색달』에서통신입니다.",
+      "translation": "아,『하얀달』에서통신입니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6864,7 +6864,7 @@
         "voice": "GC920414.ogg"
       },
       "original": "『白き月』への入港準備、完了しました。",
-      "translation": "『백색 달』 입항 준비, 완료되었습니다.\n",
+      "translation": "『하얀 달』 입항 준비, 완료되었습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6918,7 +6918,7 @@
         "voice": "GC920415.ogg"
       },
       "original": "それじゃ、オレはエンジェル隊のみんなを呼んでくるよ。レスターは、あのふたりを『白き月』まで案内してくれ。",
-      "translation": "그럼 난 엔젤대 모두를 불러올게. 레스터는 그 두 사람을 『백색 달』까지 안내해 줘.\n",
+      "translation": "그럼 난 엔젤대 모두를 불러올게. 레스터는 그 두 사람을 『하얀 달』까지 안내해 줘.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7248,7 +7248,7 @@
         "voice": "GC920427.ogg"
       },
       "original": "ノアも変わりないようだね。『白き月』には、もう慣れたかい？",
-      "translation": "노아도 변함없네. 『백색 달』에는 이제 익숙해졌니？",
+      "translation": "노아도 변함없네. 『하얀 달』에는 이제 익숙해졌니？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7404,7 +7404,7 @@
         "voice": "GC920432.ogg"
       },
       "original": "あのネフューリアという『ヴァル・ファスク』の侵攻以来、『白き月』のデータベースを調べていたのですが……。",
-      "translation": "저 네퓨리아라는 『발・파스크』의 침공 이래로, 『백색 달』의 데이터베이스를 조사해 왔습니다만...\n",
+      "translation": "저 네퓨리아라는 『발・파스크』의 침공 이래로, 『하얀 달』의 데이터베이스를 조사해 왔습니다만...\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7434,7 +7434,7 @@
         "voice": "GC920433.ogg"
       },
       "original": "残念ながら、『黒き月』から持ってきたデータを合わせても、使えそうな情報はなかったわ。",
-      "translation": "유감스럽게도 『흑색 달』에서 가져온 데이터를 합쳐봐도 쓸만한 정보는 없었어.\n",
+      "translation": "유감스럽게도 『검은 달』에서 가져온 데이터를 합쳐봐도 쓸만한 정보는 없었어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7674,7 +7674,7 @@
         "voice": "GC920506.ogg"
       },
       "original": "『白き月』を預かるシャトヤーンです。ようこそ。",
-      "translation": "『백색달』을 관리하는샤토얀입니다.환영합니다.",
+      "translation": "『하얀달』을 관리하는샤토얀입니다.환영합니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7812,7 +7812,7 @@
         "voice": "GC920511.ogg"
       },
       "original": "ＥＤＥＮによって生み出された『黒き月』の管理者として、あたしはそれを確認しなきゃいけない。",
-      "translation": "EDEN에 의해 만들어진 『흑색 달』의 관리자로서, 나는 그걸 확인해야 해.\n",
+      "translation": "EDEN에 의해 만들어진 『검은 달』의 관리자로서, 나는 그걸 확인해야 해.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8016,7 +8016,7 @@
         "voice": "GC920522.ogg"
       },
       "original": "これには覚えがありますわ。確か以前、シャトヤーン様とノアさんが見せてくださった、『白き月』の記憶……。",
-      "translation": "이건 기억나요. 분명 예전에 샤토얀 님과 노아 씨가 보여주셨던, 『백색 달』의 기억……\n",
+      "translation": "이건 기억나요. 분명 예전에 샤토얀 님과 노아 씨가 보여주셨던, 『하얀 달』의 기억……\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8082,7 +8082,7 @@
         "voice": "GC920525.ogg"
       },
       "original": "それに、あの星のまわりにあるのは、『白き月』では？",
-      "translation": "게다가, 저 별 주변에 있는 건 『백색 달』 아냐？\n",
+      "translation": "게다가, 저 별 주변에 있는 건 『하얀 달』 아냐？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8106,7 +8106,7 @@
         "voice": "GC920526.ogg"
       },
       "original": "『黒き月』も……一緒です。",
-      "translation": "『흑색 달』도…… 같아요.",
+      "translation": "『검은 달』도…… 같아요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8238,7 +8238,7 @@
         "voice": "GC920533.ogg"
       },
       "original": "これは……『白き月』の最古の記憶……？",
-      "translation": "이것은……『백색달』의태고의기억……？",
+      "translation": "이것은……『하얀달』의태고의기억……？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8256,7 +8256,7 @@
         "voice": "GC920534.ogg"
       },
       "original": "このような情報が、まだこの『白き月』にあったなんて……。",
-      "translation": "이런 정보가 아직 이 『백색 달』에 있었다니……\n",
+      "translation": "이런 정보가 아직 이 『하얀 달』에 있었다니……\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8508,7 +8508,7 @@
         "voice": "GC920543.ogg"
       },
       "original": "『黒き月』と『白き月』のデータベースも、そこから構築されたものよ。ある意味では、生みの親と言っても過言ではないわね。",
-      "translation": "『흑색 달』과 『백색 달』의 데이터베이스도 거기서 구축된 거야. 어떤 의미로는, 부모라고 해도 과언이 아니지.\n",
+      "translation": "『검은 달』과 『하얀 달』의 데이터베이스도 거기서 구축된 거야. 어떤 의미로는, 부모라고 해도 과언이 아니지.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8538,7 +8538,7 @@
         "voice": "GC920544.ogg"
       },
       "original": "そのライブラリの管理者なら、『白き月』にアクセスすることも簡単なはずだわ。",
-      "translation": "그 라이브러리의 관리자라면 『백색 달』에 접속하는 것도 간단할 텐데 말이야.\n",
+      "translation": "그 라이브러리의 관리자라면 『하얀 달』에 접속하는 것도 간단할 텐데 말이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10182,7 +10182,7 @@
         "voice": "GC920610.ogg"
       },
       "original": "『黒き月』が残した知識で知ってるだけよ。",
-      "translation": "『흑색 달』이남긴지식으로알고있을뿐이야.",
+      "translation": "『검은 달』이남긴지식으로알고있을뿐이야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10494,7 +10494,7 @@
         "voice": "GC920623.ogg"
       },
       "original": "この『白き月』……そして……。",
-      "translation": "이 『백색 달』…… 그리고…….",
+      "translation": "이 『하얀 달』…… 그리고…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10512,7 +10512,7 @@
         "voice": "GC920624.ogg"
       },
       "original": "『黒き月』ってわけね。まあ、もうなくなっちゃったけど。……誰かさんたちにブチ壊されて。",
-      "translation": "『흑색 달』이라는 거네. 뭐, 이제 없어졌지만. ……누군가 때문에 부서져 버려서 말이야.",
+      "translation": "『검은 달』이라는 거네. 뭐, 이제 없어졌지만. ……누군가 때문에 부서져 버려서 말이야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11022,7 +11022,7 @@
         "voice": "GC920642.ogg"
       },
       "original": "そのためにＥＤＥＮを脱し、オレたちに会いにきた……。そういうことかい？",
-      "translation": "그걸 위해 EDEN을 탈출해 우리를 만나러 왔다…… 그런 건가？",
+      "translation": "그걸 위해 EDEN을 탈출해 우리를 만나러 왔다…… 그런 거야？",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11454,7 +11454,7 @@
         "voice": "GC920658.ogg"
       },
       "original": "『白き月』の管理者として、その行動にできるだけお応えしたいと思います。",
-      "translation": "『백색 달』의 관리자로서, 그 행동에 가능한 한 보답하고 싶습니다.",
+      "translation": "『하얀 달』의 관리자로서, 그 행동에 가능한 한 보답하고 싶습니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12054,7 +12054,7 @@
         "voice": "GC920706.ogg"
       },
       "original": "それは、軍規に背きます！",
-      "translation": "그건 군규 위반입니다！",
+      "translation": "그건 군율 위반입니다！",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12234,7 +12234,7 @@
         "voice": "GC920712.ogg"
       },
       "original": "普段は奔放でも、ここぞという時には軍規を守る……さすがはタクトさんです。",
-      "translation": "평소엔 자유분방해도 이럴 땐 군규를 지키다니…… 역시 택트 씨네요.",
+      "translation": "평소엔 자유분방해도 이럴 땐 군율을 지키다니…… 역시 택트 씨네요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13068,7 +13068,7 @@
         "voice": "GC920817.ogg"
       },
       "original": "さすがは『黒き月』の管理者、自信満々じゃないか。",
-      "translation": "『흑색 달』의 관리자답게 자신만만하네.\n",
+      "translation": "『검은 달』의 관리자답게 자신만만하네.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13536,7 +13536,7 @@
         "voice": "GC920827.ogg"
       },
       "original": "はたらく司令官・ブリッジ編",
-      "translation": "일하는 사령관・함교 편\n",
+      "translation": "일하는 사령관・브릿지 편\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -14010,7 +14010,7 @@
         "voice": "GC920909.ogg"
       },
       "original": "『白き月』でシャトヤーン様とノアに会ってくる。色々と打ち合わせしておきたいからね。何かあったら呼んでくれ。飛んでくるから。",
-      "translation": "『백색 달』에서 샤토얀 님과 노아를 만나고 올게. 협의할 게 좀 있어서. 무슨 일 있으면 불러줘. 바로 날아올게.\n",
+      "translation": "『하얀 달』에서 샤토얀 님과 노아를 만나고 올게. 협의할 게 좀 있어서. 무슨 일 있으면 불러줘. 바로 날아올게.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15090,7 +15090,7 @@
         "voice": "GC921020.ogg"
       },
       "original": "タクトだけど……ヴァイン、ルシャーティ、いるかい？",
-      "translation": "택트다만…… 바인, 루샤티, 있나？\n",
+      "translation": "택트인데…… 바인, 루샤티, 있어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15696,7 +15696,7 @@
         "voice": "GC921113.ogg"
       },
       "original": "本当にここでよかったのかい？　艦内でまだ行ってない場所は、他にもあるはずだけど。",
-      "translation": "정말 여기서 괜찮은 건가？ 함내에 아직 안 가본 곳이 더 있을 텐데.\n",
+      "translation": "정말 여기서 괜찮은 거야？ 함내에 아직 안 가본 곳이 더 있을 텐데.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15954,7 +15954,7 @@
         "voice": "GC120806.ogg"
       },
       "original": "ヴァインと？　でもヴァインは人質にされていたんじゃないのかい？",
-      "translation": "바인과？ 하지만 바인은 인질로 잡혀 있었던 거 아니었나？\n",
+      "translation": "바인과？ 하지만 바인은 인질로 잡혀 있었던 거 아니었어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

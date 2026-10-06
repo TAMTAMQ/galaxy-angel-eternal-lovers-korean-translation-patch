@@ -118,7 +118,7 @@
         "voice": null
       },
       "original": "今、『白き月』で、何が起きているんだ……？",
-      "translation": "지금, 『백색 달』에서 무슨 일이…？",
+      "translation": "지금, 『하얀 달』에서 무슨 일이…？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -292,7 +292,7 @@
         "voice": "GC940004.ogg"
       },
       "original": "えっ？　ヴァインとルシャーティのことかい？あのふたりが、どうかしたのか？",
-      "translation": "어? 바인과 루샤티 말인가? 그 두 사람이 왜?\n",
+      "translation": "어? 바인과 루샤티 말이야? 그 두 사람이 왜?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -442,7 +442,7 @@
         "voice": "GC940009.ogg"
       },
       "original": "ノア、どういうことなんだ？　あの姉弟が、何かしたっていうのかい？",
-      "translation": "노아, 어떻게 된 거지？ 그 남매가 무슨 짓이라도 했다는 건가？\n",
+      "translation": "노아, 어떻게 된 거지？ 그 남매가 무슨 짓이라도 했다는 거야？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -556,7 +556,7 @@
         "voice": "GC940012.ogg"
       },
       "original": "あっ！　『白き月』から、急速に離れていく物体があります！",
-      "translation": "앗！ 『백색 달』에서 급격히 멀어지는 물체가 있습니다！\n",
+      "translation": "앗！ 『하얀 달』에서 급격히 멀어지는 물체가 있습니다！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -994,7 +994,7 @@
         "voice": "GC940020.ogg"
       },
       "original": "レスター！　エルシオール、緊急発進だ！それから、エンジェル隊をブリッジに呼んでくれ。",
-      "translation": "레스터！ 에르시올, 긴급 출격이다！ 그리고 엔젤대를 함교로 불러줘.\n",
+      "translation": "레스터！ 에르시올, 긴급 출격이다！ 그리고 엔젤대를 브릿지로 불러줘.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -1870,7 +1870,7 @@
         "voice": "GC640004.ogg"
       },
       "original": "詳しいことは、今から聞こう。『白き月』と通信がつながっている。",
-      "translation": "자세한 건 지금부터 듣지. 『백색 달』과 통신이 연결됐다.\n",
+      "translation": "자세한 건 지금부터 듣지. 『하얀 달』과 통신이 연결됐다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2278,7 +2278,7 @@
         "voice": "GC140016.ogg"
       },
       "original": "さっき、『白き月』が急におかしくなったでしょ？　あれも、あのふたりの仕業よ。",
-      "translation": "아까 『백색 달』이 갑자기 이상해졌지？ 그것도 그 두 사람의 짓이야.\n",
+      "translation": "아까 『하얀 달』이 갑자기 이상해졌지？ 그것도 그 두 사람의 짓이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2344,7 +2344,7 @@
         "voice": "GC140018.ogg"
       },
       "original": "あいつらはシステムに侵入して、『白き月』を乗っ取ろうとしたのよ。",
-      "translation": "그놈들은 시스템에 침입해서 『백색 달』을 탈취하려 했어.\n",
+      "translation": "그놈들은 시스템에 침입해서 『하얀 달』을 탈취하려 했어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2398,7 +2398,7 @@
         "voice": "GC340002.ogg"
       },
       "original": "『白き月』を乗っ取るだなんて……そんなことが本当にできるの？",
-      "translation": "『백색 달』을 탈취하다니…… 그런 게 정말 가능한 거야？\n",
+      "translation": "『하얀 달』을 탈취하다니…… 그런 게 정말 가능한 거야？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2422,7 +2422,7 @@
         "voice": "GC140020.ogg"
       },
       "original": "『白き月』を乗っ取るだなんて……そんなことが、可能なんですの？",
-      "translation": "『백색 달』을 탈취하다니…… 그런 일이, 가능한 건가요？\n",
+      "translation": "『하얀 달』을 탈취하다니…… 그런 일이, 가능한 건가요？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2446,7 +2446,7 @@
         "voice": "GC140021.ogg"
       },
       "original": "……可能よ。『白き月』すら管理下におけるだけの、資格を持っていればね。",
-      "translation": "……가능해. 『백색 달』조차 관리할 자격만 있다면 말이지.",
+      "translation": "……가능해. 『하얀 달』조차 관리할 자격만 있다면 말이지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2530,7 +2530,7 @@
         "voice": "GC140024.ogg"
       },
       "original": "実際、あの女はあたしたちの目の前で、『白き月』のシステムに干渉したこともあったわけだしね。",
-      "translation": "실제로 그 여자는 우리 눈앞에서 『백색 달』의 시스템에 간섭한 적도 있었고 말이야.\n",
+      "translation": "실제로 그 여자는 우리 눈앞에서 『하얀 달』의 시스템에 간섭한 적도 있었고 말이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2704,7 +2704,7 @@
         "voice": "GC140029.ogg"
       },
       "original": "その後、ふたりは『白き月』の制御を諦めて、最深部で封印されていた７番機とクロノ・ブレイク・キャノンを持ち去ったのです。",
-      "translation": "그 후 두 사람은 『백색 달』 제어를 포기하고, 최심부의 7번기와 크로노・브레이크・캐논과 함께 사라졌죠.",
+      "translation": "그 후 두 사람은 『하얀 달』 제어를 포기하고, 최심부의 7번기와 크로노・브레이크・캐논과 함께 사라졌죠.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2734,7 +2734,7 @@
         "voice": "GC140030.ogg"
       },
       "original": "たぶん、当初の目的は『白き月』の掌握だったんだろうけど、失敗した以上、せめてそれぐらいは……ってところでしょうね。",
-      "translation": "아마 처음 목적은 『백색 달』의 장악이었겠지만, 실패한 이상 적어도 그것만큼은……라는 거겠죠.\n",
+      "translation": "아마 처음 목적은 『하얀 달』의 장악이었겠지만, 실패한 이상 적어도 그것만큼은……라는 거겠죠.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3562,7 +3562,7 @@
         "voice": "GC140047.ogg"
       },
       "original": "頼んだわよ、タクト。さすがに、『白き月』のスピードじゃ、追跡なんかできないし。",
-      "translation": "부탁할게, 택트. 역시 『백색 달』의 스피드로는 추격조차 불가능하니까.",
+      "translation": "부탁할게, 택트. 역시 『하얀 달』의 스피드로는 추격조차 불가능하니까.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3694,7 +3694,7 @@
         "voice": "GC140078.ogg"
       },
       "original": "ブリッジのことは、あたしたちに任せてください。",
-      "translation": "함교는 저희에게 맡겨 주세요.",
+      "translation": "브릿지는 저희에게 맡겨 주세요.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -7192,7 +7192,7 @@
         "voice": "GC140249.ogg"
       },
       "original": "本当は『白き月』がよかったんですが、思いのほか、守りが強固でしてね。残念ながら、これが精いっぱいでした。",
-      "translation": "원래는 『백색 달』이 좋았습니다만, 생각보다 수비가 견고해서 말이죠. 아쉽게도 이것이 최선이었습니다.\n",
+      "translation": "원래는 『하얀 달』이 좋았습니다만, 생각보다 수비가 견고해서 말이죠. 아쉽게도 이것이 최선이었습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9562,7 +9562,7 @@
         "voice": "GC140266.ogg"
       },
       "original": "奴は仲間……だったんじゃないのかい？",
-      "translation": "그놈은 동료……였던 거 아니었나？\n",
+      "translation": "그놈은 동료……였던 거 아니었어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15694,7 +15694,7 @@
         "voice": "GC340409.ogg"
       },
       "original": "長話につきあってくれて感謝する、タクト・マイヤーズ。『白き月』は君らが倒れてから、いずれ改めてちょうだいするよ。",
-      "translation": "긴 대화에 응해줘서 고맙다, 택트・마이어스. 『백색 달』은 너희가 쓰러진 뒤에 다시 찾아오도록 하지.",
+      "translation": "긴 대화에 응해줘서 고맙다, 택트・마이어스. 『하얀 달』은 너희가 쓰러진 뒤에 다시 찾아오도록 하지.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16480,7 +16480,7 @@
         "voice": "GC140612.ogg"
       },
       "original": "だ……大丈夫かい、みんな？",
-      "translation": "다…… 괜찮은가, 모두？\n",
+      "translation": "괘…… 괜찮은가, 모두？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16978,7 +16978,7 @@
         "voice": "GC140901.ogg"
       },
       "original": "こ、こちらエルシオール。司令のタクト・マイヤーズだ。",
-      "translation": "이, 여기는 에르시올. 사령관 택트・마이어스다.\n",
+      "translation": "여, 여기는 에르시올. 사령관 택트・마이어스다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17026,7 +17026,7 @@
         "voice": "GC140902.ogg"
       },
       "original": "ルフト将軍の命により参上しました。『白き月』から、おおよその進路をお聞きし、急ぎ駆けつけた次第であります。",
-      "translation": "루프트 장군의 명에 따라 참전했습니다. 『백색 달』로부터 대략적인 진로를 듣고, 급히 달려온 참입니다.\n",
+      "translation": "루프트 장군의 명에 따라 참전했습니다. 『하얀 달』로부터 대략적인 진로를 듣고, 급히 달려온 참입니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -18976,7 +18976,7 @@
         "voice": "GC640804.ogg"
       },
       "original": "帰ろう……『白き月』に……。",
-      "translation": "돌아가자… 『백색 달』로…",
+      "translation": "돌아가자… 『하얀 달』로…",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19012,7 +19012,7 @@
         "voice": "GC140925.ogg"
       },
       "original": "進路をブリス星系へ。これより、『白き月』に帰還する。",
-      "translation": "진로를 브리스 성계로. 이제 『백색 달』로 귀환한다.",
+      "translation": "진로를 브리스 성계로. 이제 『하얀 달』로 귀환한다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19072,7 +19072,7 @@
         "voice": "GC140926.ogg"
       },
       "original": "傷つきながらも『白き月』へ帰還",
-      "translation": "상처 입은 채 『백색 달』로귀환",
+      "translation": "상처 입은 채 『하얀 달』로귀환",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19786,7 +19786,7 @@
         "voice": "GC140926.ogg"
       },
       "original": "ダメだ……考えてたら落ち着かなくなってきた。疲れも取れたし、ブリッジに行くか。",
-      "translation": "안 돼…… 생각하다 보니 진정이 안 되네. 피로도 풀렸으니 함교로 갈까.\n",
+      "translation": "안 돼…… 생각하다 보니 진정이 안 되네. 피로도 풀렸으니 브릿지로 갈까.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -19870,7 +19870,7 @@
         "voice": "GC940201.ogg"
       },
       "original": "ああ、突貫作業で修理を終わらせた。おかげで、もうすぐ『白き月』だ。",
-      "translation": "아아, 급하게 수리를 끝냈어. 덕분에 곧 『백색 달』이야.\n",
+      "translation": "아아, 급하게 수리를 끝냈어. 덕분에 곧 『하얀 달』이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -19936,7 +19936,7 @@
         "voice": "GC940202.ogg"
       },
       "original": "そうか……。ブリッジのみんなも、頑張ってくれたからね。",
-      "translation": "그런가……. 함교의 모두도 힘내줬으니까 말이야.\n",
+      "translation": "그런가……. 브릿지의 모두도 힘내줬으니까 말이야.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -20050,7 +20050,7 @@
         "voice": "GC940205.ogg"
       },
       "original": "いや、いい。『白き月』に着いたら、休ませてもらうさ。",
-      "translation": "아니, 됐어. 『백색 달』에 도착하면 쉴게.\n",
+      "translation": "아니, 됐어. 『하얀 달』에 도착하면 쉴게.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20170,7 +20170,7 @@
         "voice": "GC940208.ogg"
       },
       "original": "少なくとも俺には、エンジェル隊やブリッジの連中とヘラヘラ笑ってムダ話をする、なんて付き合い方はできないしな。",
-      "translation": "적어도 나에게는, 엔젤대나 함교 녀석들과 실실 웃으며 잡담을 나누는, 그런 교류는 할 수 없으니까 말이야.\n",
+      "translation": "적어도 나에게는, 엔젤대나 브릿지 녀석들과 실실 웃으며 잡담을 나누는, 그런 교류는 할 수 없으니까 말이야.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -20350,7 +20350,7 @@
         "voice": "GC940211.ogg"
       },
       "original": "レスターも、『白き月』に着いたらゆっくり休むんだぞ。こんな時ぐらい、雑務はオレが引き受けるからさ。",
-      "translation": "레스터도 『백색 달』에 도착하면 푹 쉬어라. 이럴 때만큼은 잡무는 내가 맡을 테니까.\n",
+      "translation": "레스터도 『하얀 달』에 도착하면 푹 쉬어라. 이럴 때만큼은 잡무는 내가 맡을 테니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20416,7 +20416,7 @@
         "voice": "GC940212.ogg"
       },
       "original": "ふう……ようやく『白き月』に戻ってこれたか。",
-      "translation": "후우…… 겨우 『백색 달』로 돌아왔나.\n",
+      "translation": "후우…… 겨우 『하얀 달』로 돌아왔나.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -1679,7 +1679,7 @@
         "voice": "GC140113.ogg"
       },
       "original": "エルシオールの全乗組員にとっても、『白き月』の皆にとっても、ミントはとてつもなく大きな存在なんだ。",
-      "translation": "에르시올의 전 승무원에게도, 『백색 달』의 모두에게도, 민트는 엄청나게 큰 존재야.",
+      "translation": "에르시올의 전 승무원에게도, 『하얀 달』의 모두에게도, 민트는 엄청나게 큰 존재야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1967,7 +1967,7 @@
         "voice": "GC340119.ogg"
       },
       "original": "しょぼくれた顔で『白き月』に帰ったりしたら、絶対そういうこと言うわよ、ミントは。",
-      "translation": "풀 죽은 얼굴로 『백색 달』에 돌아가면, 민트는 분명 그렇게 말할 거야.",
+      "translation": "풀 죽은 얼굴로 『하얀 달』에 돌아가면, 민트는 분명 그렇게 말할 거야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2333,7 +2333,7 @@
         "voice": "GC140132.ogg"
       },
       "original": "マイヤーズ司令、ブリッジにお戻りください。",
-      "translation": "마이어스 사령관, 함교로 복귀하십시오.\n",
+      "translation": "마이어스 사령관, 브릿지로 복귀하십시오.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -2435,7 +2435,7 @@
         "voice": "GC140134.ogg"
       },
       "original": "そうだね。じゃあ、オレはブリッジに戻るよ。",
-      "translation": "그렇네. 그럼 난 함교로 돌아갈게.\n",
+      "translation": "그렇네. 그럼 난 브릿지로 돌아갈게.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -2723,7 +2723,7 @@
         "voice": "GC140504.ogg"
       },
       "original": "ああ、あとはあれを回収して『白き月』に戻るだけだ。",
-      "translation": "아아, 저걸 회수하고 『백색 달』로 돌아가면 끝이다.",
+      "translation": "아아, 저걸 회수하고 『하얀 달』로 돌아가면 끝이다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2915,7 +2915,7 @@
         "voice": "GC140507.ogg"
       },
       "original": "ミントが、『白き月』でオレたちの帰りを待ってるんだ！",
-      "translation": "민트가 『백색 달』에서 우리를 기다리고 있어！",
+      "translation": "민트가 『하얀 달』에서 우리를 기다리고 있어！",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3209,7 +3209,7 @@
         "voice": "GC140710.ogg"
       },
       "original": "『白き月』が……シャトヤーン様やノアが待ってるんだ！　みんな、ここでオレたちが負けたら、『白き月』はどうなる！",
-      "translation": "『백색 달』이… 샤토얀 님과 노아가 기다리고 있어！ 모두, 여기서 우리가 지면 『백색 달』은 어떻게 되는 거야！",
+      "translation": "『하얀 달』이… 샤토얀 님과 노아가 기다리고 있어！ 모두, 여기서 우리가 지면 『하얀 달』은 어떻게 되는 거야！",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3263,7 +3263,7 @@
         "voice": "GC340709.ogg"
       },
       "original": "『白き月』はアタシたちの家だもんね。誰が手出しさせるかっての！",
-      "translation": "『백색 달』은 우리 집이야. 누가 함부로 건드리게 두겠어！",
+      "translation": "『하얀 달』은 우리 집이야. 누가 함부로 건드리게 두겠어！",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3917,7 +3917,7 @@
         "voice": "GC140818.ogg"
       },
       "original": "ま、間に合いません！　直撃します！",
-      "translation": "느, 늦었습니다! 직격합니다!\n",
+      "translation": "느, 늦었습니다！ 직격합니다！\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5879,7 +5879,7 @@
         "voice": "GC341104.ogg"
       },
       "original": "あの部屋の精神波遮断装置は、『白き月』のそれよりも高性能ですから。",
-      "translation": "저 방의 정신파 차단 장치는 『백색 달』의 그것보다 고성능이니까요.",
+      "translation": "저 방의 정신파 차단 장치는 『하얀 달』의 그것보다 고성능이니까요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5975,7 +5975,7 @@
         "voice": "GC341107.ogg"
       },
       "original": "どうもこうも、ミントが目覚めた瞬間、その心の声が『白き月』中に広まったのよ。",
-      "translation": "민트가 깨어난 순간, 그 마음의 소리가 『백색 달』 전체에 퍼져버렸어.",
+      "translation": "민트가 깨어난 순간, 그 마음의 소리가 『하얀 달』 전체에 퍼져버렸어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7655,7 +7655,7 @@
         "voice": "GC341138.ogg"
       },
       "original": "はい……『白き月』には存在しません。",
-      "translation": "네…… 『백색 달』엔 없습니다.",
+      "translation": "네…… 『하얀 달』엔 없습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

@@ -237,7 +237,7 @@
         "voice": "GC930002.ogg"
       },
       "original": "ルフト将軍から通信が入っています。至急、ブリッジまでお願いします。",
-      "translation": "루프트 장군으로부터 통신이 왔습니다. 급히 함교로 와 주십시오.",
+      "translation": "루프트 장군으로부터 통신이 왔습니다. 급히 브릿지로 와 주십시오.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -621,7 +621,7 @@
         "voice": "GC930009.ogg"
       },
       "original": "じゃあ、オレはブリッジに呼び出されてるから、これで。",
-      "translation": "그럼 난 함교에 불려가 봐야 해서 이만.",
+      "translation": "그럼 난 브릿지에 불려가 봐야 해서 이만.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -681,7 +681,7 @@
         "voice": "GC930010.ogg"
       },
       "original": "君たちがここに来ているということは、ブリッジに用があるのかい？",
-      "translation": "너희가 여기 왔다는 건, 함교에 용건이 있다는 건가？",
+      "translation": "너희가 여기 왔다는 건, 브릿지에 용건이 있다는 거야？",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -705,7 +705,7 @@
         "voice": "GC930011.ogg"
       },
       "original": "はい、ブリッジより連絡をいただきました。",
-      "translation": "네, 함교로부터 연락을 받았습니다.",
+      "translation": "네, 브릿지로부터 연락을 받았습니다.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -1215,7 +1215,7 @@
         "voice": "GC930107.ogg"
       },
       "original": "ルシャーティ、ヴァイン。この役目、引き受けてもらえるかい？",
-      "translation": "루샤티, 바인. 이 역할, 맡아줄 수 있겠나？",
+      "translation": "루샤티, 바인. 이 역할, 맡아 줄 수 있어？",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2811,7 +2811,7 @@
         "voice": "GC930153.ogg"
       },
       "original": "今回の作戦は、『白き月』がバックアップしてくれることになった。",
-      "translation": "이번 작전은 『백색 달』이 백업해주기로 했다.",
+      "translation": "이번 작전은 『하얀 달』이 백업해주기로 했다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2835,7 +2835,7 @@
         "voice": "GC930153.ogg"
       },
       "original": "『白き月』が！？",
-      "translation": "『백색달』이！？",
+      "translation": "『하얀달』이！？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2871,7 +2871,7 @@
         "voice": "GC930155.ogg"
       },
       "original": "もちろん実際に戦うのは俺たちだがな。『白き月』は拠点を落とした後で再度合流して、そこの維持と補給に協力してくれる。",
-      "translation": "물론 실전은 우리 몫이지만 말이야. 『백색 달』은 거점 함락 후 재합류해 유지와 보급을 도와줄 거다.",
+      "translation": "물론 실전은 우리 몫이지만 말이야. 『하얀 달』은 거점 함락 후 재합류해 유지와 보급을 도와줄 거다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2901,7 +2901,7 @@
         "voice": "GC930156.ogg"
       },
       "original": "ちなみに、任務中の『白き月』の防衛も、俺たちの仕事に含まれているそうだ。",
-      "translation": "참고로 임무 중 『백색 달』의 방어도 우리 일에 포함되어 있다고 하더군.",
+      "translation": "참고로 임무 중 『하얀 달』의 방어도 우리 일에 포함되어 있다고 하더군.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2925,7 +2925,7 @@
         "voice": "GC930156.ogg"
       },
       "original": "はあ……そりゃあ言われるまでもなく『白き月』は守るし、シャトヤーン様とノアの協力が得られるのは頼もしい限りだけど。",
-      "translation": "하아… 그건 말할 것도 없이 『백색 달』은 지켜야 하고, 샤토얀 님과 노아의 협력을 얻을 수 있는 건 정말 든든하지만.",
+      "translation": "하아… 그건 말할 것도 없이 『하얀 달』은 지켜야 하고, 샤토얀 님과 노아의 협력을 얻을 수 있는 건 정말 든든하지만.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2979,7 +2979,7 @@
         "voice": "GC930157.ogg"
       },
       "original": "まあそれはともかく、だ。『白き月』も来てくれるとなれば、なおさら失敗は許されないぞ。",
-      "translation": "뭐 그건 그렇다 치고, 『백색 달』까지 온다면 더욱 실패는 허용되지 않아.",
+      "translation": "뭐 그건 그렇다 치고, 『하얀 달』까지 온다면 더욱 실패는 허용되지 않아.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3069,7 +3069,7 @@
         "voice": "GC930158.ogg"
       },
       "original": "ヴァイン、よかったら君も、レスターの準備に手を貸してもらえないか？",
-      "translation": "바인, 괜찮다면 너도 레스터의 준비를 좀 도와주지 않겠나？",
+      "translation": "바인, 괜찮다면 너도 레스터의 준비를 좀 도와줄래？",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3255,7 +3255,7 @@
         "voice": "GC930162.ogg"
       },
       "original": "タクト、そんなヒマがあったら『白き月』に行って、シャトヤーン様と今回の作戦について相談でもしてこい。",
-      "translation": "택트, 한가하면 『백색 달』에 가서 샤토얀 님과 이번 작전에 대해 상담이라도 하고 와라.",
+      "translation": "택트, 한가하면 『하얀 달』에 가서 샤토얀 님과 이번 작전에 대해 상담이라도 하고 와라.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3591,7 +3591,7 @@
         "voice": "GC930201.ogg"
       },
       "original": "その……ヴァインに追い出されました。私がブリッジにいても、邪魔なだけだと。",
-      "translation": "그게…… 바인에게 쫓겨났어요. 제가 함교에 있어 봤자 방해만 된다면서요.",
+      "translation": "그게…… 바인에게 쫓겨났어요. 제가 브릿지에 있어 봤자 방해만 된다면서요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4047,7 +4047,7 @@
         "voice": "GC930213.ogg"
       },
       "original": "ヴァインに、ブリッジに残るよう頼んだのはオレだからね。ヴァインの代わりに、このぐらいはさせてもらうよ。",
-      "translation": "바인에게 함교에 남으라고 부탁한 건 나니까 말이야. 바인을 대신해서 이 정도는 해줄게.\n",
+      "translation": "바인에게 브릿지에 남으라고 부탁한 건 나니까 말이야. 바인을 대신해서 이 정도는 해줄게.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -4773,7 +4773,7 @@
         "voice": "GC930229.ogg"
       },
       "original": "さて、『白き月』に行くとするかな。",
-      "translation": "자, 『백색 달』로 가볼까.\n",
+      "translation": "자, 『하얀 달』로 가볼까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4791,7 +4791,7 @@
         "voice": "GC930229.ogg"
       },
       "original": "『白き月』の協力",
-      "translation": "『백색달』의협력",
+      "translation": "『하얀달』의협력",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5007,7 +5007,7 @@
         "voice": "GC930306.ogg"
       },
       "original": "そもそも、皇国の領域外へ行くのに、『白き月』以外に補給のアテはあるわけ？",
-      "translation": "애초에 황국 영역 밖으로 가는데, 『백색 달』 말고 보급처가 있긴 해?",
+      "translation": "애초에 황국 영역 밖으로 가는데, 『하얀 달』 말고 보급처가 있긴 해?",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5031,7 +5031,7 @@
         "voice": "GC930307.ogg"
       },
       "original": "足手まといにはならないつもりです。『白き月』にも、自分の身を守るぐらいの力はありますから。",
-      "translation": "짐이 되지는 않을 겁니다. 『백색 달』도 제 몸을 지킬 정도의 힘은 있으니까요.\n",
+      "translation": "짐이 되지는 않을 겁니다. 『하얀 달』도 제 몸을 지킬 정도의 힘은 있으니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5109,7 +5109,7 @@
         "voice": "GC930309.ogg"
       },
       "original": "今回の件に『白き月』が同行することは、シヴァ陛下のご意向でもあるのですよ。",
-      "translation": "이번 건에 『백색 달』이 동행하는 것은 시바 폐하의 의중이기도 합니다.\n",
+      "translation": "이번 건에 『하얀 달』이 동행하는 것은 시바 폐하의 의중이기도 합니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5289,7 +5289,7 @@
         "voice": "GC930311.ogg"
       },
       "original": "今回の作戦で『白き月』に協力していただけるとあれば、これほど心強いことはありません。",
-      "translation": "이번 작전에서 『백색 달』이 협력해 주신다면 이보다 든든한 일은 없습니다.\n",
+      "translation": "이번 작전에서 『하얀 달』이 협력해 주신다면 이보다 든든한 일은 없습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5319,7 +5319,7 @@
         "voice": "GC930311.ogg"
       },
       "original": "もちろん、たとえ戦火が迫ろうとも、『白き月』はこの身にかえても、必ずや守り抜いてみせます。",
-      "translation": "물론, 설령 전란이 다가온다 해도 『백색 달』은 목숨을 걸고 반드시 지켜내겠습니다.\n",
+      "translation": "물론, 설령 전란이 다가온다 해도 『하얀 달』은 목숨을 걸고 반드시 지켜내겠습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5895,7 +5895,7 @@
         "voice": "GC930328.ogg"
       },
       "original": "当たり前じゃない。あんなの、『白き月』以外の場所に置いといたら、危なっかしくて仕方ないわ。",
-      "translation": "당연하잖아. 저런 건 『백색 달』 이외의 장소에 두면 불안해서 견딜 수 없다고.\n",
+      "translation": "당연하잖아. 저런 건 『하얀 달』 이외의 장소에 두면 불안해서 견딜 수 없다고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6603,7 +6603,7 @@
         "voice": "GC930407.ogg"
       },
       "original": "ヴァイン、この配置に間違いはないのかい？",
-      "translation": "바인, 이 배치에 틀림은 없는 건가？\n",
+      "translation": "바인, 이 배치에 틀림은 없는 거야？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7137,7 +7137,7 @@
         "voice": "GC930422.ogg"
       },
       "original": "分艦隊はその後で各個撃破していき、敵拠点の確保を確実なものにした上で『白き月』をお出迎えする。……こんなところかな？",
-      "translation": "분함대는 그 후에 각개 격파하여 적 거점 확보를 확실히 한 뒤 『백색 달』을 맞이한다. ……대략 이렇나？\n",
+      "translation": "분함대는 그 후에 각개 격파하여 적 거점 확보를 확실히 한 뒤 『하얀 달』을 맞이한다. ……대략 이렇나？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7821,7 +7821,7 @@
         "voice": "GC930438.ogg"
       },
       "original": "『白き月』と全乗組員に通達。エルシオールは明後日をもって、第３戦闘配備に移行する。",
-      "translation": "『백색 달』과 전 승무원에게 통지. 에르시올은 모레부터 제3 전투배치다.",
+      "translation": "『하얀 달』과 전 승무원에게 통지. 에르시올은 모레부터 제3 전투배치다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8163,7 +8163,7 @@
         "voice": "GC930507.ogg"
       },
       "original": "それじゃ、『白き月』に通信をつないでくれ。これから作戦を開始することを伝えておこう。",
-      "translation": "그럼, 『백색 달』에 통신을 연결해 줘. 이제부터 작전을 개시한다고 전해두지.",
+      "translation": "그럼, 『하얀 달』에 통신을 연결해 줘. 이제부터 작전을 개시한다고 전해두지.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8337,7 +8337,7 @@
         "voice": "GC930512.ogg"
       },
       "original": "マイヤーズ司令、『白き月』とつながりました。メインモニターに出します。",
-      "translation": "마이어스 사령관, 『백색 달』 연결됐습니다. 메인 모니터로 송출합니다.",
+      "translation": "마이어스 사령관, 『하얀 달』 연결됐습니다. 메인 모니터로 송출합니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10863,7 +10863,7 @@
         "voice": "GC930724.ogg"
       },
       "original": "つまり、あの分艦隊はわざと救援に向かわなかった……。ヴァインは、そう思うのかい？",
-      "translation": "즉, 그 분함대는 일부러 구원에 나서지 않았다……. 바인은 그렇게 생각하나？\n",
+      "translation": "즉, 그 분함대는 일부러 구원에 나서지 않았다……. 바인은 그렇게 생각해？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12441,7 +12441,7 @@
         "voice": "GC931401.ogg"
       },
       "original": "この後は、ここに留まって『白き月』の合流を待つんでしたよね？",
-      "translation": "이 뒤에는 여기에 머물며 『백색 달』의 합류를기다리는거였죠？",
+      "translation": "이 뒤에는 여기에 머물며 『하얀 달』의 합류를기다리는거였죠？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12501,7 +12501,7 @@
         "voice": "GC931500.ogg"
       },
       "original": "『白き月』への入港、完了しました。",
-      "translation": "『백색 달』 입항, 완료했습니다.\n",
+      "translation": "『하얀 달』 입항, 완료했습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12567,7 +12567,7 @@
         "voice": "GC931502.ogg"
       },
       "original": "ふう……これでひと安心だな。『白き月』が無事に到着できて、よかったよ。",
-      "translation": "후우…… 이걸로 한시름 놨네. 『백색 달』이 무사히 도착해서 다행이야.\n",
+      "translation": "후우…… 이걸로 한시름 놨네. 『하얀 달』이 무사히 도착해서 다행이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12843,7 +12843,7 @@
         "voice": "GC931511.ogg"
       },
       "original": "正直なところ、俺たちも面食らってるんだ。『白き月』の到着まで警戒を続けていたが、レーダーには全く引っかからなかった。",
-      "translation": "솔직히 우리도 당황스러워. 『백색 달』이 도착할 때까지 경계를 계속했지만, 레이더에는 전혀 걸리지 않았어.\n",
+      "translation": "솔직히 우리도 당황스러워. 『하얀 달』이 도착할 때까지 경계를 계속했지만, 레이더에는 전혀 걸리지 않았어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13629,7 +13629,7 @@
         "voice": "GC931530.ogg"
       },
       "original": "光栄です。で、その増援をオレたちは、『白き月』と一緒に、この場所で待っていればいいんですね？",
-      "translation": "영광입니다. 그럼 저희는 『백색 달』과 함께 이곳에서 증원을 기다리면 되는 건가요？\n",
+      "translation": "영광입니다. 그럼 저희는 『하얀 달』과 함께 이곳에서 증원을 기다리면 되는 건가요？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13725,7 +13725,7 @@
         "voice": "GC931533.ogg"
       },
       "original": "確かにな。『白き月』とエルシオールであれば、増援の到着までもたせられるとは思うが、油断せずに頼むぞ。",
-      "translation": "확실히 그렇군. 『백색 달』과 에르시올이라면 증원까지 버틸 순 있겠지만, 방심하지 마라.",
+      "translation": "확실히 그렇군. 『하얀 달』과 에르시올이라면 증원까지 버틸 순 있겠지만, 방심하지 마라.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17253,7 +17253,7 @@
         "voice": "GC931703.ogg"
       },
       "original": "さすがに早いな……。よし、今すぐ出撃準備！１０分で『白き月』を出る！",
-      "translation": "역시 빠르군…… 좋아, 즉시 출격 준비! 10분 내 『백색 달』을 나간다!",
+      "translation": "역시 빠르군…… 좋아, 즉시 출격 준비! 10분 내 『하얀 달』을 나간다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17379,7 +17379,7 @@
         "voice": "GC931707.ogg"
       },
       "original": "もしも『白き月』に傷をつけたら、おしおきだそうです。",
-      "translation": "만약 『백색 달』에 상처를 내면, 벌을 주겠대요.",
+      "translation": "만약 『하얀 달』에 상처를 내면, 벌을 주겠대요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17631,7 +17631,7 @@
         "voice": "GC931712.ogg"
       },
       "original": "『白き月』の異変",
-      "translation": "『백색달』의이변",
+      "translation": "『하얀달』의이변",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17649,7 +17649,7 @@
         "voice": "GC931800.ogg"
       },
       "original": "マイヤーズ司令、『白き月』への接舷、終わりました。",
-      "translation": "마이어스 사령관, 『백색 달』 접선 완료했습니다.\n",
+      "translation": "마이어스 사령관, 『하얀 달』 접선 완료했습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17787,7 +17787,7 @@
         "voice": "GC931805.ogg"
       },
       "original": "元気出してください。『白き月』の医療施設なら、きっとすぐよくなりますよ。",
-      "translation": "기운 내세요. 『백색 달』의 의료 시설이라면 분명 금방 나을 거예요.\n",
+      "translation": "기운 내세요. 『하얀 달』의 의료 시설이라면 분명 금방 나을 거예요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17853,7 +17853,7 @@
         "voice": "GC931806.ogg"
       },
       "original": "『白き月』が、揺れた……？",
-      "translation": "『백색달』이흔들렸어……？",
+      "translation": "『하얀달』이흔들렸어……？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17889,7 +17889,7 @@
         "voice": "GC931808.ogg"
       },
       "original": "こんなこと、私たちが『白き月』にいた時は一度もなかったですよ。",
-      "translation": "이런 일, 우리가 『백색 달』에 있을 때는 한 번도 없었어요.\n",
+      "translation": "이런 일, 우리가 『하얀 달』에 있을 때는 한 번도 없었어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

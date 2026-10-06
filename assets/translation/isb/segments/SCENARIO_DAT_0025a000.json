@@ -433,7 +433,7 @@
         "voice": "GC910003.ogg"
       },
       "original": "び、びっくりした……。あんまりおどかさないでくれよ、レスター……って、なんでレスターがここにいるんだ！？",
-      "translation": "히, 깜짝이야…… 너무 놀라게 하지 마, 레스터…… 어라, 왜 레스터가 여기에 있는 거야！？\n",
+      "translation": "까, 깜짝이야…… 너무 놀라게 하지 마, 레스터…… 어라, 왜 레스터가 여기에 있는 거야！？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -463,7 +463,7 @@
         "voice": "GC910004.ogg"
       },
       "original": "あのなあ……副司令官がブリッジにいるのは当然だろうが。この大変な時に、いつまでも寝ぼけてるんじゃない。",
-      "translation": "이봐…… 부사령관이 함교에 있는 건 당연하잖아. 이 난리에 언제까지 잠꼬대나 하고 있을 거야.\n",
+      "translation": "이봐…… 부사령관이 브릿지에 있는 건 당연하잖아. 이 난리에 언제까지 잠꼬대나 하고 있을 거야.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -493,7 +493,7 @@
         "voice": "GC910004.ogg"
       },
       "original": "寝ぼけ……あ、あれ！？　いつの間にブリッジに……。だってオレ、さっきまで……。",
-      "translation": "잠꼬대라니…… 어, 어라！？ 어느 사이에 함교에……. 방금 전까지 난...\n",
+      "translation": "잠꼬대라니…… 어, 어라！？ 어느 사이에 브릿지에……. 방금 전까지 난...\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -2551,7 +2551,7 @@
         "voice": "GC910437.ogg"
       },
       "original": "……！　な、なんなの、あれ……？",
-      "translation": "……！ 머, 뭐야, 저건……？\n",
+      "translation": "……！ 뭐, 뭐야, 저건……？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3793,7 +3793,7 @@
         "voice": "GC910513.ogg"
       },
       "original": "タ、タクト！　冗談もたいがいにしないと、俺も本気で怒るぞ！",
-      "translation": "타, 택트！ 농담도 적당히 해. 나도 진짜 화낼 거야！",
+      "translation": "태, 택트！ 농담도 적당히 해. 나도 진짜 화낼 거야！",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8311,7 +8311,7 @@
         "voice": "GC911205.ogg"
       },
       "original": "了解。……クレータ班長、こちらブリッジです。収容作業を開始してください。",
-      "translation": "알았다. ……크레타 반장, 여기 함교입니다. 수용 작업을 시작해 주세요.",
+      "translation": "알았다. ……크레타 반장, 여기 브릿지입니다. 수용 작업을 시작해 주세요.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -9853,7 +9853,7 @@
         "voice": "GC911252.ogg"
       },
       "original": "本当に……本当にＥＤＥＮは、今も生きているのかい？",
-      "translation": "정말로…… 정말로 EDEN은 지금도 살아있는건가？",
+      "translation": "정말로…… 정말로 EDEN은 지금도 살아 있는 거야？",
       "state": "shortened",
       "use_translation": true,
       "storage": [

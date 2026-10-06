@@ -1093,7 +1093,7 @@
         "voice": "GC150033.ogg"
       },
       "original": "『白き月』に帰ってきたあの時以来、ミントはずっと部屋に閉じこもって、誰とも会おうとしないでいる……。",
-      "translation": "『백색 달』에 돌아왔던 그때 이후로, 민트는 계속 방에 틀어박혀서 누구와도 만나려 하지 않고 있어…….",
+      "translation": "『하얀 달』에 돌아왔던 그때 이후로, 민트는 계속 방에 틀어박혀서 누구와도 만나려 하지 않고 있어…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4351,7 +4351,7 @@
         "voice": "GC350195.ogg"
       },
       "original": "ほら、後ろを向いたよ。これでいいかい？",
-      "translation": "자, 뒤를 돌아봤어. 이제 됐나？\n",
+      "translation": "자, 뒤를 돌아봤어. 이제 됐어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4963,7 +4963,7 @@
         "voice": "GC150341.ogg"
       },
       "original": "タクト、送り出しておいて悪いが、ちょっとブリッジまで来てくれ。",
-      "translation": "택트, 보내놓고 미안하지만 함교까지 좀 와줘.",
+      "translation": "택트, 보내놓고 미안하지만 브릿지까지 좀 와줘.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -4987,7 +4987,7 @@
         "voice": "GC150341.ogg"
       },
       "original": "ブリッジに？　わかった、すぐに行くよ。",
-      "translation": "함교에？ 알았어, 금방 갈게.",
+      "translation": "브릿지에？ 알았어, 금방 갈게.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5005,7 +5005,7 @@
         "voice": "GC150341.ogg"
       },
       "original": "……ミント、聞いての通りだよ。ブリッジに戻らなきゃならなくなった。",
-      "translation": "……민트, 들은 대로야. 함교로 돌아가야 하게 됐어.\n",
+      "translation": "……민트, 들은 대로야. 브릿지로 돌아가야 하게 됐어.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5107,7 +5107,7 @@
         "voice": "GC350215.ogg"
       },
       "original": "……じゃあ、取りあえずオレはブリッジに戻るよ。",
-      "translation": "……그럼, 일단 나는 함교로 돌아갈게.\n",
+      "translation": "……그럼, 일단 나는 브릿지로 돌아갈게.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5377,7 +5377,7 @@
         "voice": "GC350219.ogg"
       },
       "original": "さっ、それじゃブリッジだ。",
-      "translation": "자, 그럼 함교로 가자.\n",
+      "translation": "자, 그럼 브릿지로 가자.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -6055,7 +6055,7 @@
         "voice": "GC150427.ogg"
       },
       "original": "彼はエルシオールに、盗聴装置を仕掛けていったんだ。この意味、わかるだろ？",
-      "translation": "그는 에르시올에 도청 장치를 설치해 뒀지. 이 의미, 알겠나？\n",
+      "translation": "그는 에르시올에 도청 장치를 설치해 뒀지. 이 의미, 알겠지？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6517,7 +6517,7 @@
         "voice": "GC350406.ogg"
       },
       "original": "今……ミントの声が聞こえなかったかい？",
-      "translation": "방금…… 민트의 목소리가들리지않았나？",
+      "translation": "방금…… 민트 목소리 안 들렸어？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6895,7 +6895,7 @@
         "voice": "GC150801.ogg"
       },
       "original": "だから俺だと言っただろう。こんな日だっていうのに、いつまで寝ているんだ。早くブリッジに来い。",
-      "translation": "그래서 내가 왔다고 했잖아. 이런 날인데 언제까지 자고 있을 거야. 빨리 함교로 와.",
+      "translation": "그래서 내가 왔다고 했잖아. 이런 날인데 언제까지 자고 있을 거야. 빨리 브릿지로 와.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -6991,7 +6991,7 @@
         "voice": "GC150801.ogg"
       },
       "original": "ええい、負けてられるか！　よし、オレもブリッジに行くぞ！",
-      "translation": "에잇, 질 순 없지！ 좋아, 나도 함교로 가겠어！",
+      "translation": "에잇, 질 순 없지！ 좋아, 나도 브릿지로 가겠어！",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -7873,7 +7873,7 @@
         "voice": "GC350608.ogg"
       },
       "original": "けど、３人揃ってミントの声で、しかも同じ内容なんていう幻聴があるのかい？",
-      "translation": "하지만 셋 다 민트 목소리로 같은 환청을 들을 수가 있나?",
+      "translation": "하지만 셋 다 민트 목소리로 같은 환청을 들을 수가 있어?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8407,7 +8407,7 @@
         "voice": "GC350626.ogg"
       },
       "original": "（こんなもの着てるところ、タクトさん以外に見られたら私……ああ、もう、ですから考えてはダメだと、あれほど……！）",
-      "translation": "(이런 걸 입은 모습을 택트 씨 말고 다른 사람한테 들키면 난…… 아아, 정말, 그러니까 생각하면 안 된다고……!)",
+      "translation": "（이런 걸 입은 모습을 택트 씨 말고 다른 사람한테 들키면 난…… 아아, 정말, 그러니까 생각하면 안 된다고……!）",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11041,7 +11041,7 @@
         "voice": "GC350696.ogg"
       },
       "original": "（ここが……一番…………安心できる……場所…………………………）",
-      "translation": "(여기가…… 제일…… 안심되는…… 장소…………)",
+      "translation": "（여기가…… 제일…… 안심되는…… 장소…………）",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11773,7 +11773,7 @@
         "voice": "GC350710.ogg"
       },
       "original": "（……本気で最低ですわ）",
-      "translation": "(……정말 최악이에요)",
+      "translation": "（……정말 최악이에요）",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -12055,7 +12055,7 @@
         "voice": "GC350807.ogg"
       },
       "original": "（自分の心をさらけだすのが怖いんです……。こんなきたない私が、皆さんといてもいいのかわからないから、怖い……！）",
-      "translation": "(자신의 마음을 드러내는 게 두려워요……. 이런 추한 제가 여러분과 함께 있어도 되는지 몰라서, 무서워……!)",
+      "translation": "（자신의 마음을 드러내는 게 두려워요……. 이런 추한 제가 여러분과 함께 있어도 되는지 몰라서, 무서워……!）",
       "state": "draft",
       "use_translation": true,
       "storage": [

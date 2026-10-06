@@ -6767,7 +6767,7 @@
         "voice": "GC150341.ogg"
       },
       "original": "タクト、送り出しておいて悪いが、ちょっとブリッジまで来てくれ。",
-      "translation": "택트, 보내놓고 미안하지만 함교까지 좀 와줘.",
+      "translation": "택트, 보내놓고 미안하지만 브릿지까지 좀 와줘.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -6791,7 +6791,7 @@
         "voice": "GC150341.ogg"
       },
       "original": "ブリッジに？　わかった、すぐに行くよ。",
-      "translation": "함교에？ 알았어, 금방 갈게.",
+      "translation": "브릿지에？ 알았어, 금방 갈게.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -6827,7 +6827,7 @@
         "voice": "GC150342.ogg"
       },
       "original": "わからない。とりあえず、オレはブリッジに行くよ。ミルフィーのことは、そのあと改めてなんとかする。",
-      "translation": "모르겠어. 일단 난 함교로 갈게. 밀피 일은 그다음에 다시 어떻게든 해볼게.",
+      "translation": "모르겠어. 일단 난 브릿지로 갈게. 밀피 일은 그다음에 다시 어떻게든 해볼게.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -7481,7 +7481,7 @@
         "voice": "GC150427.ogg"
       },
       "original": "彼はエルシオールに、盗聴装置を仕掛けていったんだ。この意味、わかるだろ？",
-      "translation": "그는 에르시올에 도청 장치를 설치해 뒀지. 이 의미, 알겠나？\n",
+      "translation": "그는 에르시올에 도청 장치를 설치해 뒀지. 이 의미, 알겠지？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10517,7 +10517,7 @@
         "voice": "GC150801.ogg"
       },
       "original": "だから俺だと言っただろう。こんな日だっていうのに、いつまで寝ているんだ。早くブリッジに来い。",
-      "translation": "그래서 내가 왔다고 했잖아. 이런 날인데 언제까지 자고 있을 거야. 빨리 함교로 와.",
+      "translation": "그래서 내가 왔다고 했잖아. 이런 날인데 언제까지 자고 있을 거야. 빨리 브릿지로 와.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -10655,7 +10655,7 @@
         "voice": "GC150801.ogg"
       },
       "original": "ええい、そんなこと考えててもしかたない！よし、ブリッジに行くか！",
-      "translation": "에잇, 그런 생각을 해봤자 소용없어！ 좋아, 함교로 갈까！",
+      "translation": "에잇, 그런 생각을 해봤자 소용없어！ 좋아, 브릿지로 갈까！",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -14879,7 +14879,7 @@
         "voice": "GC151046.ogg"
       },
       "original": "そいつはこのオレ、タクト・マイヤーズなんだよ。",
-      "translation": "그 녀석은 바로 이 나, 택트・마이어스라고.\n",
+      "translation": "그 녀석은 바로 나, 택트・마이어스라고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -18569,7 +18569,7 @@
         "voice": "GC151203.ogg"
       },
       "original": "あ、あたしが！？",
-      "translation": "저, 제가！？”\n",
+      "translation": "제, 제가！？”\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20159,7 +20159,7 @@
         "voice": "GC151243.ogg"
       },
       "original": "タ、タクトさんが真っ正面からあたしを見るからじゃないですか～。",
-      "translation": "타, 택트 씨가 정면에서 저를 보니까 그렇잖아요～\n",
+      "translation": "태, 택트 씨가 정면에서 저를 보니까 그렇잖아요～\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20267,7 +20267,7 @@
         "voice": "GC151246.ogg"
       },
       "original": "か、勘違いしないでくださいね！",
-      "translation": "저, 착각하지 마세요！\n",
+      "translation": "차, 착각하지 마세요！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -20567,7 +20567,7 @@
         "voice": "GC151255.ogg"
       },
       "original": "ああ、敵の待ち伏せが考えられる。至急、第２戦闘配備だ。オレもすぐブリッジに戻る。",
-      "translation": "그래, 적의 매복이 예상된다. 즉시 제2전투배치. 나도 곧 함교로 돌아가겠다.\n",
+      "translation": "그래, 적의 매복이 예상된다. 즉시 제2전투배치. 나도 곧 브릿지로 돌아가겠다.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -20981,7 +20981,7 @@
         "voice": "GC151265.ogg"
       },
       "original": "さあ、ブリッジに戻らないと。",
-      "translation": "자, 함교로 돌아가야지.\n",
+      "translation": "자, 브릿지로 돌아가야지.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -22679,7 +22679,7 @@
         "voice": "GC151408.ogg"
       },
       "original": "タ、タクトさん……。",
-      "translation": "타, 택트 씨…….\n",
+      "translation": "태, 택트 씨…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -24215,7 +24215,7 @@
         "voice": "GC151554.ogg"
       },
       "original": "ふ……ふざけないでくれ！",
-      "translation": "허…… 웃기지 마！\n",
+      "translation": "우…… 웃기지 마！\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -25679,7 +25679,7 @@
         "voice": "GC151716.ogg"
       },
       "original": "タ、タクトさん……！？",
-      "translation": "타, 택트 씨……!?\n",
+      "translation": "태, 택트 씨……!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

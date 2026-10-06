@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import shutil
 import subprocess
 from fractions import Fraction
@@ -51,7 +52,40 @@ def source_average_bitrate_kbps(source_es: bytes, frame_rate: Fraction, picture_
     return max(1, round((len(source_es) * 8) / duration / 1000))
 
 
-def encode_m2v(
+# Largest picture a subtitled movie has played back with on hardware is ~93 KB.
+# 2026-10-06 (Moonlit Lovers): a re-timed movie got a scene-cut I-frame of
+# 141 KB and the game stopped the movie there.  Encodes above this size are
+# redone with scene-cut I-frames off, which keeps the fixed GOP phase.
+MAX_PICTURE_BYTES = 100_000
+NO_SCENE_CUT = ["-sc_threshold", "1000000000"]
+
+
+def max_picture_bytes(m2v: Path) -> int:
+    data = m2v.read_bytes()
+    starts = [match.start() for match in re.finditer(rb"\x00\x00\x01\x00", data)]
+    sizes = [
+        (starts[index + 1] if index + 1 < len(starts) else len(data)) - start
+        for index, start in enumerate(starts)
+    ]
+    return max(sizes, default=0)
+
+
+def encode_m2v(*args, **kwargs) -> list[str]:
+    output = args[3] if len(args) > 3 else kwargs["output"]
+    # The encode being replaced has already played on hardware, so its largest
+    # picture is also a proven size for this movie.
+    limit = max(MAX_PICTURE_BYTES, max_picture_bytes(output) if output.is_file() else 0)
+    cmd = _encode_m2v(*args, extra=[], **kwargs)
+    if max_picture_bytes(output) <= limit:
+        return cmd
+    cmd = _encode_m2v(*args, extra=NO_SCENE_CUT, **kwargs)
+    largest = max_picture_bytes(output)
+    if largest > limit:
+        raise SystemExit(f"{output.name}: largest picture {largest} > {limit} bytes")
+    return cmd
+
+
+def _encode_m2v(
     ffmpeg: str,
     source: Path,
     subtitle: Path,
@@ -62,6 +96,7 @@ def encode_m2v(
     maxrate_kbps: int,
     vbv_bytes: int,
     match_source_bitrate: bool,
+    extra: list[str],
 ) -> list[str]:
     src_arg = source.resolve().relative_to(movie_root.resolve()).as_posix()
     sub_arg = subtitle.resolve().relative_to(movie_root.resolve()).as_posix()
@@ -117,6 +152,7 @@ def encode_m2v(
         "31",
         "-trellis",
         "1",
+        *extra,
         "-f",
         "mpeg2video",
         out_arg,

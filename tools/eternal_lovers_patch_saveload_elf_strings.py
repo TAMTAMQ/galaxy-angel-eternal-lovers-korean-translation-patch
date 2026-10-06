@@ -18,6 +18,19 @@ PATCHES = (
 )
 
 
+# Whole C strings that shrink in Korean.  They are matched with their NUL
+# terminators and NUL-padded inside the original slot, as in Moonlit Lovers.
+CSTRING_PATCHES = (
+    # Backlog separator drawn between chapters.
+    (
+        "\\c(0xff00ffff)　──　アイキャッチ　──\\c(0xffffffff)",
+        "\\c(0xff00ffff)　──　아이캐치　──\\c(0xffffffff)",
+    ),
+    # Backlog prefix before a movie name (LOG_PREFIX_MOVIE).
+    ("\\c(0xff00ffff)　ムービー：", "\\c(0xff00ffff)　무비："),
+)
+
+
 def sha256_bytes(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
@@ -57,6 +70,34 @@ def patch_bytes(data: bytes, encoding_map: Path) -> tuple[bytes, list[dict[str, 
                 "bytes": len(old),
                 "old_hex": old.hex(),
                 "new_hex": new.hex(),
+            }
+        )
+    for japanese, korean in CSTRING_PATCHES:
+        old = japanese.encode("cp932")
+        new = translation.encode_text(korean, custom_map)
+        if len(new) > len(old):
+            raise SystemExit(f"ELF C string grows: {japanese!r}: {len(old)} -> {len(new)}")
+        needle = b"\0" + old + b"\0"
+        positions = []
+        cursor = 0
+        while (pos := data.find(needle, cursor)) >= 0:
+            positions.append(pos + 1)
+            cursor = pos + 1
+        if len(positions) != 1:
+            raise SystemExit(
+                f"expected exactly one ELF C string {japanese!r}, found {len(positions)} at {positions}"
+            )
+        pos = positions[0]
+        padded = new + b"\0" * (len(old) - len(new))
+        rebuilt[pos : pos + len(old)] = padded
+        rows.append(
+            {
+                "offset": pos,
+                "japanese": japanese,
+                "korean": korean,
+                "bytes": len(old),
+                "old_hex": old.hex(),
+                "new_hex": padded.hex(),
             }
         )
     for row in rows:

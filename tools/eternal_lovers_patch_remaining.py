@@ -84,8 +84,27 @@ def collect_targets(payload: dict) -> dict[str, dict[int, list[dict]]]:
 
 
 BATTLE_MESSAGE_LINE_RE = re.compile(rb"^(\s*#)(\d+)(\s*=\s*)(.*)$")
-BATTLE_TEXT_COLUMNS = 39
+# No original battle row is wider than 34 columns (17 full-width characters);
+# Korean rows of 37-41 columns were reported running past the window.
+BATTLE_TEXT_COLUMNS = 34
 BATTLE_MAX_LINES = 3
+# Korean rows often split one word the way the Japanese rows split a phrase
+# ("모" + "두", "주셨나" + "요").  Rejoin those without a space before rewrapping.
+_ROW_JOIN_SUFFIX_RE = re.compile(
+    r"^(?:을|를|은|는|의|에|에서|에게|로|으로|와|과|도|만|까지|부터|요|죠|다|니다|습니다|네요|군요|인가|인지)"
+    r"(?=$|[\s,.!?…～ー」』)])"
+)
+_ONE_SYLLABLE_WORDS = frozenset("내네제저그이날난널넌것수더꼭잘못안다또왜뭐좀참곧늘막한두세온새첫자아응예")
+
+
+def join_battle_rows(first: str, second: str) -> str:
+    if not first or not second:
+        return first or second
+    if re.search(r"[가-힣]$", first) and re.match(r"[가-힣]", second):
+        last = first.split(" ")[-1]
+        if (len(last) == 1 and last not in _ONE_SYLLABLE_WORDS) or _ROW_JOIN_SUFFIX_RE.match(second):
+            return first + second
+    return first + " " + second
 
 
 def battle_message_replacements(
@@ -135,7 +154,7 @@ def battle_message_replacements(
             rendered = "\n".join(source_lines)
         else:
             rendered = translation._rebalance_dialogue_lines(
-                "\n".join(source_lines), BATTLE_TEXT_COLUMNS, BATTLE_MAX_LINES
+                join_battle_rows(*source_lines), BATTLE_TEXT_COLUMNS, BATTLE_MAX_LINES
             )
             if rendered is None:
                 rendered = "\n".join(source_lines)

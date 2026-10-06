@@ -4939,7 +4939,7 @@
         "voice": "GC160033.ogg"
       },
       "original": "軍規に基づき、副司令官がその職務を代行することになりました……と、先方には伝えておきましたから。",
-      "translation": "군규에 따라 부사령관이 그 직무를 대행하게 되었습니다……라고, 상대측에는 전해두었으니까요.\n",
+      "translation": "군율에 따라 부사령관이 그 직무를 대행하게 되었습니다……라고, 상대측에는 전해두었으니까요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5215,7 +5215,7 @@
         "voice": "GC160037.ogg"
       },
       "original": "『白き月』、ＥＤＥＮへ「帰還」",
-      "translation": "『백색 달』 EDEN로「귀환」",
+      "translation": "『하얀 달』 EDEN로「귀환」",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -5233,7 +5233,7 @@
         "voice": "GC160500.ogg"
       },
       "original": "『白き月』の到着を確認。シヴァ陛下近衛艦隊及び護衛艦隊、共に異常ありません。",
-      "translation": "『백색 달』 도착 확인. 시바 폐하 근위 및 호위 함대 모두 이상 없음.",
+      "translation": "『하얀 달』 도착 확인. 시바 폐하 근위 및 호위 함대 모두 이상 없음.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5281,7 +5281,7 @@
         "voice": "GC160500.ogg"
       },
       "original": "かつて、ＥＤＥＮを外敵から守るために建造された『白き月』が、６００年の時を超えてこうやって還ってきたんだから……。",
-      "translation": "과거, EDEN을 외적으로부터 지키기 위해 건조된 『백색 달』이, 600년의 시간을 넘어 이렇게 돌아왔으니까…….\n",
+      "translation": "과거, EDEN을 외적으로부터 지키기 위해 건조된 『하얀 달』이, 600년의 시간을 넘어 이렇게 돌아왔으니까…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5431,7 +5431,7 @@
         "voice": "GC160504.ogg"
       },
       "original": "この『白き月』を介してＥＤＥＮとトランスバールが手を結ぶ……新しい歴史の始まりだと思わないかい？",
-      "translation": "이 『백색 달』로 EDEN과 트랜스벌가 손을 잡는다…… 새로운 역사의 시작 아닐까？",
+      "translation": "이 『하얀 달』로 EDEN과 트랜스벌가 손을 잡는다…… 새로운 역사의 시작 아닐까？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10003,7 +10003,7 @@
         "voice": "GC161500.ogg"
       },
       "original": "シヴァ様！？　『白き月』にいらっしゃったのでは？",
-      "translation": "시바 님！？ 『백색 달』에 계셨던 것 아닙니까？\n",
+      "translation": "시바 님！？ 『하얀 달』에 계셨던 것 아닙니까？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

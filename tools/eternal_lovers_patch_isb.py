@@ -50,6 +50,71 @@ def pad_bytes(count: int) -> bytes:
     return FULL_SPACE * pairs + HALF_SPACE * odd
 
 
+# The save/load screen wraps a title every 20 bytes, and a wrapped line that
+# opens with 0xA0 hangs saving and loading.  Moonlit Lovers froze on exactly
+# that (2026-10-06, "거대 함선 오・가우브 출현"); this engine shares the screen.
+TITLE_WRAP_BYTES = 20
+
+
+def _sjis_tokens(raw: bytes) -> list[bytes]:
+    tokens = []
+    index = 0
+    while index < len(raw):
+        byte = raw[index]
+        width = 2 if 0x81 <= byte <= 0x9F or 0xE0 <= byte <= 0xFC else 1
+        tokens.append(raw[index:index + width])
+        index += width
+    return tokens
+
+
+def title_wrap_leading_half_space_offsets(raw: bytes) -> list[int]:
+    offsets = []
+    column = 0
+    position = 0
+    for token in _sjis_tokens(raw):
+        if column + len(token) > TITLE_WRAP_BYTES:
+            if token == HALF_SPACE:
+                offsets.append(position)
+            column = 0
+        column += len(token)
+        position += len(token)
+    return offsets
+
+
+def fit_title_slot(slot: bytes, length: int) -> bytes:
+    """Keep a title slot's wrapped lines from opening with 0xA0.
+
+    A word gap on the wrap point is dropped, as the break shows it anyway; the
+    odd padding byte moves to the first place that is not a line start."""
+    content = slot.rstrip(HALF_SPACE + FULL_SPACE)
+    if slot[len(content):] != pad_bytes(len(slot) - len(content)):
+        content = slot  # the text itself ends in a blank; leave it alone
+    while True:
+        offsets = title_wrap_leading_half_space_offsets(content)
+        if not offsets:
+            break
+        content = content[:offsets[0]] + content[offsets[0] + 1:]
+    pairs, odd = divmod(length - len(content), len(FULL_SPACE))
+    candidates = [content + FULL_SPACE * pairs + HALF_SPACE * odd]
+    if odd:
+        candidates += [
+            content + FULL_SPACE * index + HALF_SPACE + FULL_SPACE * (pairs - index)
+            for index in range(pairs + 1)
+        ]
+        # A nearly full slot may leave only line starts for the odd byte; widen
+        # an existing word gap by it instead, latest gap first.
+        gaps = [index for index, token in enumerate(_sjis_tokens(content)) if token == HALF_SPACE]
+        for gap in reversed(gaps):
+            head = b"".join(_sjis_tokens(content)[:gap])
+            candidates.append(
+                head + HALF_SPACE + content[len(head):] + FULL_SPACE * pairs
+            )
+    for candidate in candidates:
+        if not title_wrap_leading_half_space_offsets(candidate):
+            return candidate
+    raise SystemExit(f"title cannot avoid a wrapped line opening with 0xA0: {slot.hex()}")
+
+
 def _exact_fit_slots(tokens: list[bytes], lengths: list[int]):
     """Find a feasible balanced split when the proportional fast path misses one.
 
@@ -472,6 +537,8 @@ def main() -> None:
                     )
             lengths = [int(item["length"]) for item in unit["storage"]]
             slots, overflow, inserted = fit_slots(tokens, lengths)
+            if is_title and len(slots) == 1 and not overflow:
+                slots[0] = fit_title_slot(slots[0], lengths[0])
 
             relaid = None
             if len(lengths) >= 2 and not is_title and rows_contiguous(unit["storage"]):

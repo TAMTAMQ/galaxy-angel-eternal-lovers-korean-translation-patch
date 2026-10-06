@@ -1607,7 +1607,7 @@
         "voice": "GC140113.ogg"
       },
       "original": "エルシオールの全乗組員にとっても、『白き月』の皆にとっても、ランファはとてつもなく大きな存在なんだ。",
-      "translation": "에르시올의 모든 승무원에게도, 『백색 달』 사람들에게도 란파는 엄청나게 큰 존재야.",
+      "translation": "에르시올의 모든 승무원에게도, 『하얀 달』 사람들에게도 란파는 엄청나게 큰 존재야.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2321,7 +2321,7 @@
         "voice": "GC140132.ogg"
       },
       "original": "マイヤーズ司令、ブリッジにお戻りください。",
-      "translation": "마이어스 사령관, 함교로 복귀하십시오.\n",
+      "translation": "마이어스 사령관, 브릿지로 복귀하십시오.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -2423,7 +2423,7 @@
         "voice": "GC140134.ogg"
       },
       "original": "そうだね。じゃあ、オレはブリッジに戻るよ。",
-      "translation": "그렇네. 그럼 난 함교로 돌아갈게.\n",
+      "translation": "그렇네. 그럼 난 브릿지로 돌아갈게.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -2711,7 +2711,7 @@
         "voice": "GC140504.ogg"
       },
       "original": "ああ、あとはあれを回収して『白き月』に戻るだけだ。",
-      "translation": "아아, 이제 저걸 회수해 『백색 달』로 돌아가면 돼.",
+      "translation": "아아, 이제 저걸 회수해 『하얀 달』로 돌아가면 돼.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2903,7 +2903,7 @@
         "voice": "GC140507.ogg"
       },
       "original": "ランファが、『白き月』でオレたちの帰りを待ってるんだ！",
-      "translation": "란파가 『백색 달』에서 우리를 기다리고 있어!",
+      "translation": "란파가 『하얀 달』에서 우리를 기다리고 있어!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2987,7 +2987,7 @@
         "voice": "GC240602.ogg"
       },
       "original": "ふっ、そいつは『白き月』に帰る楽しみが増えたってもんだ。",
-      "translation": "훗, 그거 『백색 달』로 돌아갈 즐거움이 늘겠는걸.\n",
+      "translation": "훗, 그거 『하얀 달』로 돌아갈 즐거움이 늘겠는걸.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3209,7 +3209,7 @@
         "voice": "GC140710.ogg"
       },
       "original": "『白き月』が……シャトヤーン様やノアが待ってるんだ！　みんな、ここでオレたちが負けたら、『白き月』はどうなる！",
-      "translation": "『백색 달』엔…… 샤토얀 님과 노아가 기다리고 있어! 다들, 여기서 우리가 지면 『백색 달』은 어떻게 되겠어!",
+      "translation": "『하얀 달』엔…… 샤토얀 님과 노아가 기다리고 있어! 다들, 여기서 우리가 지면 『하얀 달』은 어떻게 되겠어!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3263,7 +3263,7 @@
         "voice": "GC140712.ogg"
       },
       "original": "『白き月』は私たちの家ですわ。絶対に、帰ります！",
-      "translation": "『백색 달』은 우리 집이에요. 꼭 돌아갈 거예요!",
+      "translation": "『하얀 달』은 우리 집이에요. 꼭 돌아갈 거예요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3917,7 +3917,7 @@
         "voice": "GC140818.ogg"
       },
       "original": "ま、間に合いません！　直撃します！",
-      "translation": "모, 못 피합니다! 직격합니다!\n",
+      "translation": "느, 늦었습니다！ 직격합니다！\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -4847,7 +4847,7 @@
         "voice": "GC240914.ogg"
       },
       "original": "いや、それでもありがとう。『白き月』が、もしこの場に来てなかったらと思うと、ゾッとするよ。",
-      "translation": "아니, 그래도 고마워. 『백색 달』이 안 왔다면 생각만 해도 소름 끼쳐.\n",
+      "translation": "아니, 그래도 고마워. 『하얀 달』이 안 왔다면 생각만 해도 소름 끼쳐.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8039,7 +8039,7 @@
         "voice": "GC141235.ogg"
       },
       "original": "本当かい！？　治療法がわかっているのか？",
-      "translation": "정말인가!? 치료법을 알고 있는 건가?\n",
+      "translation": "정말이야!? 치료법을 알고 있는 거야?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8261,7 +8261,7 @@
         "voice": "GC141242.ogg"
       },
       "original": "はい……今は『白き月』にありません。",
-      "translation": "네…… 지금은 『백색 달』에 없어요.",
+      "translation": "네…… 지금은 『하얀 달』에 없어요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

@@ -2496,6 +2496,19 @@
     "source_png": "dat/slg/2dparts/gzdef0711.png"
   },
   {
+    "name": "gzdef1111.tex",
+    "png": "block_0041d800.png",
+    "translated_png": "block_0041d800.png",
+    "width": 184,
+    "height": 48,
+    "original": "エルシオールの破壊\nタイムオーバー",
+    "translation": "에르시올의 파괴\n타임 오버",
+    "classification": "eternal-audit-find",
+    "resource_path": "dat/slg/2dparts/gzdef1111.tex",
+    "resource_offset": 4315136,
+    "source_png": "dat/slg/2dparts/gzdef1111.png"
+  },
+  {
     "name": "gzdef1321.tex",
     "png": "block_0041e000.png",
     "translated_png": "block_0041e000.png",
@@ -2613,6 +2626,19 @@
     "source_png": "dat/slg/2dparts/gzvict0221.png"
   },
   {
+    "name": "gzvict0311.tex",
+    "png": "block_005d4800.png",
+    "translated_png": "block_005d4800.png",
+    "width": 128,
+    "height": 24,
+    "original": "敵旗艦の破壊",
+    "translation": "적 기함의 파괴",
+    "classification": "eternal-audit-find",
+    "resource_path": "dat/slg/2dparts/gzvict0311.tex",
+    "resource_offset": 6113280,
+    "source_png": "dat/slg/2dparts/gzvict0311.png"
+  },
+  {
     "name": "gzvict0411.tex",
     "png": "block_005d5000.png",
     "translated_png": "block_005d5000.png",
@@ -2663,6 +2689,19 @@
     "resource_path": "dat/slg/2dparts/gzvict0711.tex",
     "resource_offset": 6123520,
     "source_png": "dat/slg/2dparts/gzvict0711.png"
+  },
+  {
+    "name": "gzvict0721.tex",
+    "png": "block_005d7800.png",
+    "translated_png": "block_005d7800.png",
+    "width": 128,
+    "height": 24,
+    "original": "敵旗艦の破壊",
+    "translation": "적 기함의 파괴",
+    "classification": "eternal-audit-find",
+    "resource_path": "dat/slg/2dparts/gzvict0721.tex",
+    "resource_offset": 6125568,
+    "source_png": "dat/slg/2dparts/gzvict0721.png"
   },
   {
     "name": "gzvict1111.tex",

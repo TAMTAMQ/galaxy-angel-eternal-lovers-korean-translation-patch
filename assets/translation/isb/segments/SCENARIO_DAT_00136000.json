@@ -2522,7 +2522,7 @@
         "voice": "GC360324.ogg"
       },
       "original": "タ、タクトさん、なぜここに……！？",
-      "translation": "타, 택트 씨, 어째서 여기에……!?",
+      "translation": "태, 택트 씨, 어째서 여기에……!?",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3836,7 +3836,7 @@
         "voice": "GC160401.ogg"
       },
       "original": "今日はちゃんとブリッジに来たんですね。",
-      "translation": "오늘은 제대로 함교에 오셨네요.",
+      "translation": "오늘은 제대로 브릿지에 오셨네요.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -4004,7 +4004,7 @@
         "voice": "GC360403.ogg"
       },
       "original": "このＥＤＥＮに来るまで、ずっとブリッジで仕事をしていたマイヤーズ司令以上に変わったことなんて、そうそうないですよ。",
-      "translation": "이 EDEN에 오기 전까지 계속 함교에서 일하던 마이어스 사령관보다 더 변한 건 딱히 없어요.\n",
+      "translation": "이 EDEN에 오기 전까지 계속 브릿지에서 일하던 마이어스 사령관보다 더 변한 건 딱히 없어요.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -4196,7 +4196,7 @@
         "voice": "GC160408.ogg"
       },
       "original": "先程ルフト将軍より連絡がありまして、シヴァ陛下、及びシャトヤーン様、そして『白き月』は、まもなく到着になるとのことです。",
-      "translation": "방금 루프트 장군으로부터 연락이 왔는데, 시바 폐하 및 샤토얀 님, 그리고 『백색 달』은 곧 도착할 예정이라고 합니다.\n",
+      "translation": "방금 루프트 장군으로부터 연락이 왔는데, 시바 폐하 및 샤토얀 님, 그리고 『하얀 달』은 곧 도착할 예정이라고 합니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4268,7 +4268,7 @@
         "voice": "GC160506.ogg"
       },
       "original": "は～、やっぱり『白き月』は落ち着くわね。",
-      "translation": "하아～ 역시 『백색 달』은 마음이 편하네.",
+      "translation": "하아～ 역시 『하얀 달』은 마음이 편하네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4286,7 +4286,7 @@
         "voice": "GC160507.ogg"
       },
       "original": "本当ですわね。ＥＤＥＮも住みよい感じはするのですが、私たちにはやはり『白き月』の方がなじみがありますもの。",
-      "translation": "정말 그렇네요. EDEN도 살기 좋은 느낌은 듭니다만, 저희에게는 역시 『백색 달』 쪽이 친숙하니까요.\n",
+      "translation": "정말 그렇네요. EDEN도 살기 좋은 느낌은 듭니다만, 저희에게는 역시 『하얀 달』 쪽이 친숙하니까요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5174,7 +5174,7 @@
         "voice": "GC360528.ogg"
       },
       "original": "タ、タクトさん……もう、シャトヤーン様の前で……。",
-      "translation": "타, 택트 씨…… 이제 샤토얀 님 앞에서…….\n",
+      "translation": "태, 택트 씨…… 이제 샤토얀 님 앞에서…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11156,7 +11156,7 @@
         "voice": "GC360827.ogg"
       },
       "original": "タ、タクトさん……。",
-      "translation": "타, 택트 씨…….\n",
+      "translation": "태, 택트 씨…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11378,7 +11378,7 @@
         "voice": "GC360834.ogg"
       },
       "original": "タ、タクトさ～ん。",
-      "translation": "타, 택트 씨～.\n",
+      "translation": "태, 택트 씨～.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17204,7 +17204,7 @@
         "voice": "GC161207.ogg"
       },
       "original": "ヴァイン……君は、ルシャーティを守ってここまで来たんじゃないのか？",
-      "translation": "바인…… 너는 루샤티를 지키기 위해 여기까지 온 게 아니었나？\n",
+      "translation": "바인…… 너는 루샤티를 지키기 위해 여기까지 온 게 아니었어？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [

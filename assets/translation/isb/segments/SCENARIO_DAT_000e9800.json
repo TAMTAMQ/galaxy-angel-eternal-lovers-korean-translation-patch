@@ -2466,7 +2466,7 @@
         "voice": "GC310106.ogg"
       },
       "original": "タ、タクトさん！？",
-      "translation": "타, 택트 씨!?",
+      "translation": "태, 택트 씨!?",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3330,7 +3330,7 @@
         "voice": "GC110213.ogg"
       },
       "original": "いつまでそこにいるつもりだ、タクト。もうとっくに休憩時間は終わりだ。さっさとブリッジに戻れ。",
-      "translation": "언제까지 거기 있을 셈이냐, 택트. 벌써 한참 전에 휴식 시간은 끝났다. 얼른 함교로 돌아가라.",
+      "translation": "언제까지 거기 있을 셈이냐, 택트. 벌써 한참 전에 휴식 시간은 끝났다. 얼른 브릿지로 돌아가라.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [

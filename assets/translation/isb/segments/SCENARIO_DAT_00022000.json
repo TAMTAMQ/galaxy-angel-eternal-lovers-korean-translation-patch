@@ -1003,7 +1003,7 @@
         "voice": "GC125034.ogg"
       },
       "original": "え？　見るのかい？",
-      "translation": "어？ 보는 건가？\n",
+      "translation": "어？ 보는 거야？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1321,7 +1321,7 @@
         "voice": "GC125044.ogg"
       },
       "original": "この粉っぽいのは粉砂糖かい？",
-      "translation": "이 가루는 슈가 파우더인가？",
+      "translation": "이 가루는 슈가 파우더야？",
       "state": "shortened",
       "use_translation": true,
       "storage": [

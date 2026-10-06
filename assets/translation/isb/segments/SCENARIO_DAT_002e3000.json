@@ -257,7 +257,7 @@
         "voice": "GEL0010.ogg"
       },
       "original": "「Ｈ」のゲージは耐久力（ＨＰ）。「Ｅ」がエネルギー（ＥＮ）。「Ｓ」が気力（ＳＰ）を表している。",
-      "translation": "「H」 게이지는 내구력(HP), 「E」는 에너지(EN), 「S」는 기력(SP)을 나타낸다.\n",
+      "translation": "「H」 게이지는 내구력（HP）, 「E」는 에너지（EN）, 「S」는 기력（SP）을 나타낸다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -341,7 +341,7 @@
         "voice": "GEL0013.ogg"
       },
       "original": "また、紋章機だけは、気力（ＳＰ）ゲージが１００パーセントになるとアイコンが緑色に点滅する。",
-      "translation": "또한, 문장기만은 기력(SP) 게이지가 100퍼센트가 되면 아이콘이 녹색으로 점멸한다.\n",
+      "translation": "또한, 문장기만은 기력（SP） 게이지가 100퍼센트가 되면 아이콘이 녹색으로 점멸한다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

@@ -182,7 +182,7 @@
         "voice": "GC650003.ogg"
       },
       "original": "ちとせさんが副司令を……こ、こ、恋人って思ってしまったことです！",
-      "translation": "치토세 씨가 부사령관을…… 거, 거, 연인이라 생각한 거예요！",
+      "translation": "치토세 씨가 부사령관을…… 여, 여, 연인이라 생각한 거예요！",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4994,7 +4994,7 @@
         "voice": "GC150341.ogg"
       },
       "original": "タクト、送り出しておいて悪いが、ちょっとブリッジまで来てくれ。",
-      "translation": "택트, 보내놓고 미안하지만 함교까지 좀 와줘.",
+      "translation": "택트, 보내놓고 미안하지만 브릿지까지 좀 와줘.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5018,7 +5018,7 @@
         "voice": "GC150341.ogg"
       },
       "original": "ブリッジに？　わかった、すぐに行くよ。",
-      "translation": "함교에？ 알았어, 금방 갈게.",
+      "translation": "브릿지에？ 알았어, 금방 갈게.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5582,7 +5582,7 @@
         "voice": "GC150427.ogg"
       },
       "original": "彼はエルシオールに、盗聴装置を仕掛けていったんだ。この意味、わかるだろ？",
-      "translation": "그는 에르시올에 도청 장치를 설치해 뒀지. 이 의미, 알겠나？\n",
+      "translation": "그는 에르시올에 도청 장치를 설치해 뒀지. 이 의미, 알겠지？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8102,7 +8102,7 @@
         "voice": "GC650422.ogg"
       },
       "original": "つ、つまり……あれをちとせに見せようと。",
-      "translation": "즉…… 저걸 치토세에게 보여주려고.\n",
+      "translation": "즈, 즉…… 저걸 치토세에게 보여주려고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8738,7 +8738,7 @@
         "voice": "GC650448.ogg"
       },
       "original": "タ、タクトさんですか！　も、もちろん嫌いじゃありません。好きですよ。",
-      "translation": "타, 택트 씨 말씀인가요！ 모, 물론 싫어하지 않아요. 좋아해요.\n",
+      "translation": "태, 택트 씨 말씀인가요！ 무, 물론 싫어하지 않아요. 좋아해요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9260,7 +9260,7 @@
         "voice": "GC650501.ogg"
       },
       "original": "そろそろブリッジに来い。出撃の時間だ。",
-      "translation": "슬슬 함교로 와라. 출격 시간이다.\n",
+      "translation": "슬슬 브릿지로 와라. 출격 시간이다.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -9362,7 +9362,7 @@
         "voice": "GC650502.ogg"
       },
       "original": "しっかりしなければ！　顔を洗ってシャキッとして……ブリッジに行かなきゃ！",
-      "translation": "정신 차려야 해！ 세수하고 상쾌하게…… 함교에 가야지！\n",
+      "translation": "정신 차려야 해！ 세수하고 상쾌하게…… 브릿지에 가야지！\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -10256,7 +10256,7 @@
         "voice": "GC650608.ogg"
       },
       "original": "ちとせのことで、なにかあったのか？",
-      "translation": "치토세 일로 무슨 일이라도 있었나？\n",
+      "translation": "치토세 일로 무슨 일이라도 있었어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11540,7 +11540,7 @@
         "voice": "GC650644.ogg"
       },
       "original": "（え……？）",
-      "translation": "(어……?)",
+      "translation": "（어……?）",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -17024,7 +17024,7 @@
         "voice": "GC650934.ogg"
       },
       "original": "よし！　じゃあ、オレはブリッジに戻るから出撃準備を整えてくれ！",
-      "translation": "좋아！ 그럼 난 함교로 돌아갈 테니 출격 준비를 마쳐줘！\n",
+      "translation": "좋아！ 그럼 난 브릿지로 돌아갈 테니 출격 준비를 마쳐줘！\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [

@@ -787,7 +787,7 @@
         "voice": "GC950020.ogg"
       },
       "original": "そのうえ、あの者らは『白き月』すらも狙っていたと聞く。幸いなことにシャトヤーン様とノアによって救われたが……。",
-      "translation": "게다가 그자들은 『백색 달』마저 노리고 있었다고 들었다. 다행히 샤토얀 님과 노아에 의해 구출되었지만…….\n",
+      "translation": "게다가 그자들은 『하얀 달』마저 노리고 있었다고 들었다. 다행히 샤토얀 님과 노아에 의해 구출되었지만…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -817,7 +817,7 @@
         "voice": "GC950021.ogg"
       },
       "original": "もし、『白き月』まで奪われていたら、これから先、我らは為す術もなかったろう。",
-      "translation": "만약 『백색 달』까지 빼앗겼다면, 앞으로 우리는 손쓸 도리가 없었을 것이다.\n",
+      "translation": "만약 『하얀 달』까지 빼앗겼다면, 앞으로 우리는 손쓸 도리가 없었을 것이다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2341,7 +2341,7 @@
         "voice": "GC950068.ogg"
       },
       "original": "心苦しいが、やはり、『白き月』にもＥＤＥＮへの帯同を願わねばならないからな……。",
-      "translation": "마음이 무겁지만, 역시 『백색 달』에게도 EDEN 동행을 부탁해야 하니까…….",
+      "translation": "마음이 무겁지만, 역시 『하얀 달』에게도 EDEN 동행을 부탁해야 하니까…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3115,7 +3115,7 @@
         "voice": "GC150024.ogg"
       },
       "original": "そうか。じゃあ、そいつを『白き月』と各艦の指揮官へ送ってくれ。異論がなければ、このとおりに進めたいと思う。",
-      "translation": "그런가. 그럼 그걸 『백색 달』과 각 함의 지휘관에게 보내줘. 이견이 없다면 이대로 진행하고 싶군.\n",
+      "translation": "그런가. 그럼 그걸 『하얀 달』과 각 함의 지휘관에게 보내줘. 이견이 없다면 이대로 진행하고 싶군.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3823,7 +3823,7 @@
         "voice": "GC150405.ogg"
       },
       "original": "ブリッジに仕掛けられていた。これまで気づかないとは、まったくうかつだった……。",
-      "translation": "함교에 설치되어 있었어. 지금까지 눈치채지 못하다니, 정말 방심했군...",
+      "translation": "브릿지에 설치되어 있었어. 지금까지 눈치채지 못하다니, 정말 방심했군...",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -3991,7 +3991,7 @@
         "voice": "GC150408.ogg"
       },
       "original": "それよりも、仕掛けられたのはブリッジだけかい？",
-      "translation": "그것보다, 설치된 건 함교만이야？\n",
+      "translation": "그것보다, 설치된 건 브릿지만이야？\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -4015,7 +4015,7 @@
         "voice": "GC150409.ogg"
       },
       "original": "ブリッジの他、数カ所でも確認しましたが全て取り除きました。",
-      "translation": "함교 외에도 몇 군데서 확인했지만 모두 제거했습니다.",
+      "translation": "브릿지 외에도 몇 군데서 확인했지만 모두 제거했습니다.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -4039,7 +4039,7 @@
         "voice": "GC650201.ogg"
       },
       "original": "アルモ、一応、『白き月』にもこの装置のデータを送っておいてくれ。",
-      "translation": "아르모, 일단 『백색 달』에도 이 장치의 데이터를 보내둬.\n",
+      "translation": "아르모, 일단 『하얀 달』에도 이 장치의 데이터를 보내둬.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4117,7 +4117,7 @@
         "voice": "GC150410.ogg"
       },
       "original": "一応、『白き月』にもこの装置のデータを送っておきました。",
-      "translation": "일단 『백색 달』에도 이 장치의 데이터를 보내 두었습니다.",
+      "translation": "일단 『하얀 달』에도 이 장치의 데이터를 보내 두었습니다.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5191,7 +5191,7 @@
         "voice": "GC150803.ogg"
       },
       "original": "半分でも御の字と思ってたから、十分すぎるくらいだよ。残りには、『白き月』の護衛をしながらＥＤＥＮに来てもらおう。",
-      "translation": "절반이라도 다행이라 생각했으니 충분해. 나머지는 『백색 달』을 호위하며 EDEN으로 오게 하자.",
+      "translation": "절반이라도 다행이라 생각했으니 충분해. 나머지는 『하얀 달』을 호위하며 EDEN으로 오게 하자.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5497,7 +5497,7 @@
         "voice": "GC150811.ogg"
       },
       "original": "あと、『白き月』……それと、トランスバール本星からも通信が入ってます。シャトヤーン様……ノアさん……シヴァ女皇陛下も！",
-      "translation": "그리고 『백색 달』……트랜스벌 본성에서도 통신이 왔습니다. 샤토얀 님…… 노아 씨…… 시바 여황 폐하께서도！",
+      "translation": "그리고 『하얀 달』……트랜스벌 본성에서도 통신이 왔습니다. 샤토얀 님…… 노아 씨…… 시바 여황 폐하께서도！",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5833,7 +5833,7 @@
         "voice": "GC150819.ogg"
       },
       "original": "も、もちろんさ。ミルフィーの記憶を取り戻すために必要な７番機、そして、最強の破壊力を持つ、クロノ・ブレイク・キャノン。",
-      "translation": "모, 물론이지. 밀피의 기억을 되찾기 위해 필요한 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
+      "translation": "무, 물론이지. 밀피의 기억을 되찾기 위해 필요한 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5887,7 +5887,7 @@
         "voice": "GC150819.ogg"
       },
       "original": "も、もちろんさ。ランファの治療に必要な７番機、そして、最強の破壊力を持つクロノ・ブレイク・キャノン。",
-      "translation": "모, 물론이지. 란파의 치료에 필요한 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
+      "translation": "무, 물론이지. 란파의 치료에 필요한 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5941,7 +5941,7 @@
         "voice": "GC150819.ogg"
       },
       "original": "も、もちろんさ。ミントを治すために必要な７番機、そして、最強の破壊力を持つ、クロノ・ブレイク・キャノン。",
-      "translation": "모, 물론이지. 민트를 고치기 위해 필요한 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
+      "translation": "무, 물론이지. 민트를 고치기 위해 필요한 7번기, 그리고 최강의 파괴력을 가진 크로노・브레이크・캐논.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6217,7 +6217,7 @@
         "voice": "GC150821.ogg"
       },
       "original": "シャトヤーン様……今一度、『白き月』より先行させていただきます。",
-      "translation": "샤토얀 님…… 다시 한번, 『백색 달』보다 앞서 나가겠습니다.",
+      "translation": "샤토얀 님…… 다시 한번, 『하얀 달』보다 앞서 나가겠습니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10141,7 +10141,7 @@
         "voice": "GC151635.ogg"
       },
       "original": "アルモ。皇国と『白き月』に向けて、報告しておいてよ。そうだな、簡単でいいよ。",
-      "translation": "아르모. 황국과 『백색 달』에 보고해 둬. 뭐, 간단하게 하면 돼.\n",
+      "translation": "아르모. 황국과 『하얀 달』에 보고해 둬. 뭐, 간단하게 하면 돼.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

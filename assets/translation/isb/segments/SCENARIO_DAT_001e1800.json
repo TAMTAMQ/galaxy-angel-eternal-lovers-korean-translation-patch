@@ -553,7 +553,7 @@
         "voice": "GC560107.ogg"
       },
       "original": "来るべき日って……それってやっぱり、あの、その、例のあれかい？",
-      "translation": "다가올 날이라니…… 그거 역시, 저기, 그, 예의 그것인가？\n",
+      "translation": "다가올 날이라니…… 그거 역시, 저기, 그, 예의 그거야？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2317,7 +2317,7 @@
         "voice": "GC560217.ogg"
       },
       "original": "いつまでもひとりでいるとなんか怖いから、ブリッジに戻ろうっと。",
-      "translation": "언제까지나 혼자 있으면 왠지 무서우니까, 함교로 돌아가야겠다.\n",
+      "translation": "언제까지나 혼자 있으면 왠지 무서우니까, 브릿지로 돌아가야겠다.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -2377,7 +2377,7 @@
         "voice": "GC160401.ogg"
       },
       "original": "今日はちゃんとブリッジに来たんですね。",
-      "translation": "오늘은 제대로 함교에 오셨네요.",
+      "translation": "오늘은 제대로 브릿지에 오셨네요.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -2437,7 +2437,7 @@
         "voice": "GC160403.ogg"
       },
       "original": "強いて言えば、このＥＤＥＮに来るまで、ずっとブリッジで仕事をしていたマイヤーズ司令が一番変わったことだったかと。",
-      "translation": "굳이 말하자면, 이 EDEN에 오기 전까지 계속 함교에서 일만 하던 마이어스 사령관이 가장 바뀐 점일까요.",
+      "translation": "굳이 말하자면, 이 EDEN에 오기 전까지 계속 브릿지에서 일만 하던 마이어스 사령관이 가장 바뀐 점일까요.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -2629,7 +2629,7 @@
         "voice": "GC160408.ogg"
       },
       "original": "先程ルフト将軍より連絡がありまして、シヴァ陛下、及びシャトヤーン様、そして『白き月』は、まもなく到着になるとのことです。",
-      "translation": "방금 루프트 장군으로부터 연락이 왔는데, 시바 폐하 및 샤토얀 님, 그리고 『백색 달』은 곧 도착할 예정이라고 합니다.\n",
+      "translation": "방금 루프트 장군으로부터 연락이 왔는데, 시바 폐하 및 샤토얀 님, 그리고 『하얀 달』은 곧 도착할 예정이라고 합니다.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -3223,7 +3223,7 @@
         "voice": "GC560237.ogg"
       },
       "original": "最近、エルシオールで不審な影を見かけなかったかい？",
-      "translation": "최근 에르시올에서 수상한 그림자를 본 적 없나？\n",
+      "translation": "최근 에르시올에서 수상한 그림자를 본 적 없어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3325,7 +3325,7 @@
         "voice": "GC560240.ogg"
       },
       "original": "何か、心当たりあるのかい？",
-      "translation": "뭐, 짐작 가는 거라도있나？",
+      "translation": "뭐, 짐작 가는 거 있어？",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3571,7 +3571,7 @@
         "voice": "GC560246.ogg"
       },
       "original": "早かったね。何かわかったかい？",
-      "translation": "빨랐네. 뭐 좀 알아냈나？\n",
+      "translation": "빨랐네. 뭐 좀 알아냈어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3817,7 +3817,7 @@
         "voice": "GC160506.ogg"
       },
       "original": "は～、やっぱり『白き月』は落ち着くわね。",
-      "translation": "하아～ 역시『백색달』은마음이편안해지네.",
+      "translation": "하아～ 역시『하얀달』은마음이편안해지네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3835,7 +3835,7 @@
         "voice": "GC160507.ogg"
       },
       "original": "本当ですわね。ＥＤＥＮも住みよい感じはするのですが、私たちにはやはり『白き月』の方がなじみがありますもの。",
-      "translation": "정말 그렇네요. EDEN도 살기 좋은 느낌은 듭니다만, 저희에게는 역시 『백색 달』 쪽이 친숙하니까요.\n",
+      "translation": "정말 그렇네요. EDEN도 살기 좋은 느낌은 듭니다만, 저희에게는 역시 『하얀 달』 쪽이 친숙하니까요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -4069,7 +4069,7 @@
         "voice": "GC160532.ogg"
       },
       "original": "具合はどうですか？　『白き月』を発ってからというもの、心配していましたよ。",
-      "translation": "몸 상태는 어떠신가요？ 『백색 달』을 떠난 뒤로 걱정하고 있었답니다.\n",
+      "translation": "몸 상태는 어떠신가요？ 『하얀 달』을 떠난 뒤로 걱정하고 있었답니다.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -5167,7 +5167,7 @@
         "voice": "GC160719.ogg"
       },
       "original": "ヴァニラはどこにいるんだい？",
-      "translation": "바닐라는 어디에 있나？\n",
+      "translation": "바닐라는 어디에 있어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6577,7 +6577,7 @@
         "voice": "GC560459.ogg"
       },
       "original": "はい。ふたりで『白き月』の巫女としてシャトヤーン様にお仕えして、それから一緒にエルシオールに乗り込んだんです。",
-      "translation": "네. 둘이서 『백색 달』의 무녀로서 샤토얀 님을 모셨고, 그 후 함께 에르시올에 올라탔거든요.\n",
+      "translation": "네. 둘이서 『하얀 달』의 무녀로서 샤토얀 님을 모셨고, 그 후 함께 에르시올에 올라탔거든요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8797,7 +8797,7 @@
         "voice": "GC560548.ogg"
       },
       "original": "タ、タクトさん。あそこ、テーブルの上を見てください。",
-      "translation": "타, 택트 씨. 저기, 테이블 위를 봐주세요.\n",
+      "translation": "태, 택트 씨. 저기, 테이블 위를 봐주세요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11119,7 +11119,7 @@
         "voice": "GC560651.ogg"
       },
       "original": "な、なんか、聞いてるこっちが緊張するわね。",
-      "translation": "무, 뭔가 듣는 내가 다 긴장되네.\n",
+      "translation": "뭐, 뭔가 듣는 내가 다 긴장되네.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12499,7 +12499,7 @@
         "voice": "GC560803.ogg"
       },
       "original": "な、ななな……。",
-      "translation": "나, 나나나…….",
+      "translation": "뭐, 뭐뭐뭐…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12559,7 +12559,7 @@
         "voice": "GC560803.ogg"
       },
       "original": "じゃあ、ヴァニラはオレを守ろうとして、無意識のうちにナノマシンを暴走させてるってわけなのか？",
-      "translation": "그럼, 바닐라는 나를 지키려다 무의식중에 나노머신을 폭주시키고 있다는 건가？",
+      "translation": "그럼, 바닐라는 나를 지키려다 무의식중에 나노머신을 폭주시키고 있다는 거야？",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15973,7 +15973,7 @@
         "voice": "GC161207.ogg"
       },
       "original": "ヴァイン……君は、ルシャーティを守ってここまで来たんじゃないのか？",
-      "translation": "바인…… 너는 루샤티를 지키기 위해 여기까지 온 게 아니었나？\n",
+      "translation": "바인…… 너는 루샤티를 지키기 위해 여기까지 온 게 아니었어？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [

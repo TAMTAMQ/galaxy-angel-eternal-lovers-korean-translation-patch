@@ -401,7 +401,7 @@
         "voice": "GC970010.ogg"
       },
       "original": "でもまあ、その甲斐はあったわ。残りの理論の組み立ては、『白き月』で十分やれそうなところまできたし……。",
-      "translation": "그래도 뭐, 그럴 만한 가치는 있었어. 남은 이론 정립은 『백색 달』에서 충분히 해낼 수 있을 것 같아…….\n",
+      "translation": "그래도 뭐, 그럴 만한 가치는 있었어. 남은 이론 정립은 『하얀 달』에서 충분히 해낼 수 있을 것 같아…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -473,7 +473,7 @@
         "voice": "GC970013.ogg"
       },
       "original": "フラフラしてるけど大丈夫かい？　『白き月』まで送ってもいいんだよ。",
-      "translation": "비틀거리는데 괜찮아? 『백색 달』까지 데려다줄 수도 있어.\n",
+      "translation": "비틀거리는데 괜찮아? 『하얀 달』까지 데려다줄 수도 있어.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -995,7 +995,7 @@
         "voice": "GC970033.ogg"
       },
       "original": "マイヤーズ司令、全艦隊及び『白き月』の出撃準備、間もなく完了します。エルシオールまでお戻りください。",
-      "translation": "마이어스 사령관, 전 함대 및 『백색 달』의 출격 준비, 곧 완료됩니다. 에르시올로 돌아와 주십시오.\n",
+      "translation": "마이어스 사령관, 전 함대 및 『하얀 달』의 출격 준비, 곧 완료됩니다. 에르시올로 돌아와 주십시오.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1973,7 +1973,7 @@
         "voice": "GC970117.ogg"
       },
       "original": "マイヤーズ司令、『白き月』のシヴァ陛下より、全艦隊に向けてお言葉があるようです。",
-      "translation": "마이어스 사령관, 『백색 달』의 시바 폐하께서 전 함대에 말씀을 전하십니다.",
+      "translation": "마이어스 사령관, 『하얀 달』의 시바 폐하께서 전 함대에 말씀을 전하십니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6599,7 +6599,7 @@
         "voice": "GC970393.ogg"
       },
       "original": "……アナザースペースに取り残された紋章機を、救助する方法はないのかい？",
-      "translation": "……어나더 스페이스에 남겨진 문장기를 구조할 방법은 없는 건가?\n",
+      "translation": "……어나더 스페이스에 남겨진 문장기를 구조할 방법은 없는 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8015,7 +8015,7 @@
         "voice": "GC970442.ogg"
       },
       "original": "取りあえずブリッジに戻るよ。この会議のこと、レスターにも伝えておかないといけないからね。",
-      "translation": "일단 함교로 돌아갈게. 이 회의 내용, 레스터에게도 전해둬야 하니까.\n",
+      "translation": "일단 브릿지로 돌아갈게. 이 회의 내용, 레스터에게도 전해둬야 하니까.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -8477,7 +8477,7 @@
         "voice": "GC970454.ogg"
       },
       "original": "頼りにしてるよ。さて、それじゃそろそろオレもブリッジに戻るかな。",
-      "translation": "믿고 있을게. 그럼, 이제 슬슬 나도 함교로 돌아가 볼까.\n",
+      "translation": "믿고 있을게. 그럼, 이제 슬슬 나도 브릿지로 돌아가 볼까.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -8537,7 +8537,7 @@
         "voice": "GC970456.ogg"
       },
       "original": "本来あたしは、ずっと『黒き月』の中で眠っていて、目覚める予定なんかなかったんだけど……。",
-      "translation": "본래 나는 계속 『흑색 달』 안에서 잠든 채, 깨어날 예정 따윈 없었는데…….\n",
+      "translation": "본래 나는 계속 『검은 달』 안에서 잠든 채, 깨어날 예정 따윈 없었는데…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9191,7 +9191,7 @@
         "voice": "GC970508.ogg"
       },
       "original": "わかった。ブリッジの暇な今のうちに、せいぜいリフレッシュしてこい。",
-      "translation": "알았다. 함교가 한가한 지금 동안, 실컷 리프레시하고 와라.\n",
+      "translation": "알았다. 브릿지가 한가한 지금 동안, 실컷 리프레시하고 와라.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -12515,7 +12515,7 @@
         "voice": "GC170215.ogg"
       },
       "original": "そうだね……君たちはオレと出会うよりずっと前から、この紋章機と一緒に『白き月』を守ってきたんだから。",
-      "translation": "그렇네... 너희는 나와 만나기 훨씬 전부터 이 문장기와 함께 『백색 달』을 지켜왔으니까.\n",
+      "translation": "그렇네... 너희는 나와 만나기 훨씬 전부터 이 문장기와 함께 『하얀 달』을 지켜왔으니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13445,7 +13445,7 @@
         "voice": "GC170244.ogg"
       },
       "original": "一度ブリッジに戻るつもりだから、そのあとなら。ドライヴ・アウトまでもう少しかかるし、全然問題ないよ。",
-      "translation": "한번 함교에 돌아갈 생각이라, 그 후라면. 드라이브・아웃까지 얼마 안 남았으니 전혀 문제없어.\n",
+      "translation": "한번 브릿지에 돌아갈 생각이라, 그 후라면. 드라이브・아웃까지 얼마 안 남았으니 전혀 문제없어.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -13553,7 +13553,7 @@
         "voice": "GC170246.ogg"
       },
       "original": "わかった、銀河展望公園だね。オレもブリッジに顔を出したあと、公園で待ってるよ。",
-      "translation": "알았어, 은하 전망 공원이네. 나도 함교에 들렀다가 공원에서 기다릴게.\n",
+      "translation": "알았어, 은하 전망 공원이네. 나도 브릿지에 들렀다가 공원에서 기다릴게.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -14243,7 +14243,7 @@
         "voice": "GC570109.ogg"
       },
       "original": "一度ブリッジに戻るつもりだから、そのあとなら。ドライヴ・アウトまでもう少しかかるし、全然問題ないよ。",
-      "translation": "한번 함교에 돌아갈 생각이라, 그 후라면. 드라이브・아웃까지 얼마 안 남았으니 전혀 문제없어.\n",
+      "translation": "한번 브릿지에 돌아갈 생각이라, 그 후라면. 드라이브・아웃까지 얼마 안 남았으니 전혀 문제없어.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -14357,7 +14357,7 @@
         "voice": "GC570112.ogg"
       },
       "original": "わかった、銀河展望公園だね。オレもブリッジに顔を出したあと、公園で待ってるよ。",
-      "translation": "알았어, 은하 전망 공원이네. 나도 함교에 들렀다가 공원에서 기다릴게.\n",
+      "translation": "알았어, 은하 전망 공원이네. 나도 브릿지에 들렀다가 공원에서 기다릴게.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -14501,7 +14501,7 @@
         "voice": "GC970701.ogg"
       },
       "original": "後続艦隊、それに『白き月』も次々とドライヴ・アウトしてきています。",
-      "translation": "후속 함대와 『백색 달』도 차례차례 드라이브・아웃 중입니다.",
+      "translation": "후속 함대와 『하얀 달』도 차례차례 드라이브・아웃 중입니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14651,7 +14651,7 @@
         "voice": "GC970706.ogg"
       },
       "original": "あっ、『白き月』から通信です。",
-      "translation": "앗, 『백색 달』에서통신입니다.",
+      "translation": "앗, 『하얀 달』에서통신입니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16091,7 +16091,7 @@
         "voice": "GC970755.ogg"
       },
       "original": "了解しました。先生は『白き月』の守りをよろしくお願いします。",
-      "translation": "알겠습니다. 선생님은 『백색 달』의 방어를 부탁드립니다.",
+      "translation": "알겠습니다. 선생님은 『하얀 달』의 방어를 부탁드립니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [

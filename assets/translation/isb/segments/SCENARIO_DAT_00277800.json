@@ -541,7 +541,7 @@
         "voice": "GC925008.ogg"
       },
       "original": "もう大丈夫だ、ミルフィー。でもいったい何があったんだ。スパイでも侵入したのか？",
-      "translation": "이제 괜찮아, 밀피. 그런데 대체 무슨 일이야？ 스파이라도 침입한 건가？\n",
+      "translation": "이제 괜찮아, 밀피. 그런데 대체 무슨 일이야？ 스파이라도 침입한 거야？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13159,7 +13159,7 @@
         "voice": "GC926901.ogg"
       },
       "original": "はい……？　タ、タクトさん、いきなりキレイといわれましても私……。",
-      "translation": "네……? 타, 택트 씨, 갑자기 예쁘다고 하셔도 저는…….\n",
+      "translation": "네……? 태, 택트 씨, 갑자기 예쁘다고 하셔도 저는…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14647,7 +14647,7 @@
         "voice": "GC927016.ogg"
       },
       "original": "ブリッジ・ＥＤＥＮ姉弟について話す",
-      "translation": "함교・EDEN 남매에 대해말하다",
+      "translation": "브릿지・EDEN 남매에 대해말하다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14665,7 +14665,7 @@
         "voice": "GC927016.ogg"
       },
       "original": "やあレスター、異常はないかい？",
-      "translation": "여어 레스터, 이상은 없나？\n",
+      "translation": "여어 레스터, 이상은 없어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14803,7 +14803,7 @@
         "voice": "GC927102.ogg"
       },
       "original": "ん？　レスターでもお客さんのことは気になるのかい？",
-      "translation": "응？ 레스터도 손님이 신경 쓰이나？\n",
+      "translation": "응？ 레스터도 손님이 신경 쓰여？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14857,7 +14857,7 @@
         "voice": "GC927103.ogg"
       },
       "original": "いま艦内を見学してもらっているから、そのうちブリッジにも来るんじゃないかな？",
-      "translation": "지금 함내를 견학하고 있으니까, 조만간 함교에도 오지 않을까？\n",
+      "translation": "지금 함내를 견학하고 있으니까, 조만간 브릿지에도 오지 않을까？\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -14905,7 +14905,7 @@
         "voice": "GC927104.ogg"
       },
       "original": "おやあ、レスター君。ルシャーティのことが気になるのかい？",
-      "translation": "오호라, 레스터 군. 루샤티가 신경 쓰이나？\n",
+      "translation": "오호라, 레스터 군. 루샤티가 신경 쓰여？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -15565,7 +15565,7 @@
         "voice": "GC927200.ogg"
       },
       "original": "やあ、繁盛しているかい？",
-      "translation": "여어, 번창하고 있나？\n",
+      "translation": "여어, 번창하고 있어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

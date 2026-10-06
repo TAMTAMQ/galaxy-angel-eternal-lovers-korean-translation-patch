@@ -2198,7 +2198,7 @@
         "voice": "GC550218.ogg"
       },
       "original": "ヴァニラさんは、今『白き月』にいらっしゃいますわ。",
-      "translation": "바닐라 씨는 지금 『백색 달』에 계세요.\n",
+      "translation": "바닐라 씨는 지금 『하얀 달』에 계세요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3062,7 +3062,7 @@
         "voice": "GC550248.ogg"
       },
       "original": "『白き月』に、ね。",
-      "translation": "『백색 달』로.",
+      "translation": "『하얀 달』로.",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [
@@ -5360,7 +5360,7 @@
         "voice": "GC550326.ogg"
       },
       "original": "ヴァニラ、今頃『白き月』でなにやってるんだろう。むこうは寒くなければいいけど。",
-      "translation": "바닐라, 지금쯤 『백색 달』에서 뭘 하고 있을까. 그쪽은 춥지 않아야 할 텐데.\n",
+      "translation": "바닐라, 지금쯤 『하얀 달』에서 뭘 하고 있을까. 그쪽은 춥지 않아야 할 텐데.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7106,7 +7106,7 @@
         "voice": "GC550434.ogg"
       },
       "original": "まもなく、ヴァニラ先輩が『白き月』から戻ってこられるそうです。",
-      "translation": "곧 바닐라 선배가 『백색 달』에서 돌아오신다고 합니다.\n",
+      "translation": "곧 바닐라 선배가 『하얀 달』에서 돌아오신다고 합니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7934,7 +7934,7 @@
         "voice": "GC550505.ogg"
       },
       "original": "大丈夫です。それに、すぐに『白き月』に帰りますから。",
-      "translation": "괜찮습니다. 게다가 곧 『백색 달』로 돌아갈 거니까요.\n",
+      "translation": "괜찮습니다. 게다가 곧 『하얀 달』로 돌아갈 거니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9782,7 +9782,7 @@
         "voice": "GC550559.ogg"
       },
       "original": "はい。タクトさんに渡そうと思って、『白き月』で編んでいたのです。",
-      "translation": "네. 택트 씨에게 드리려고 『백색 달』에서 뜨고 있었어요.\n",
+      "translation": "네. 택트 씨에게 드리려고 『하얀 달』에서 뜨고 있었어요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11660,7 +11660,7 @@
         "voice": "GC550742.ogg"
       },
       "original": "タクト、すまないがちょっとブリッジまで来てくれ。",
-      "translation": "택트, 미안하지만 함교까지 좀 와줘.\n",
+      "translation": "택트, 미안하지만 브릿지까지 좀 와줘.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -11684,7 +11684,7 @@
         "voice": "GC550742.ogg"
       },
       "original": "ブリッジに？　わかった、すぐに行くよ。",
-      "translation": "함교에? 알았어, 금방 갈게.",
+      "translation": "브릿지에? 알았어, 금방 갈게.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -11720,7 +11720,7 @@
         "voice": "GC150342.ogg"
       },
       "original": "わからない。とにかく、オレはブリッジに戻るよ。",
-      "translation": "모르겠어. 어쨌든 난 함교로 돌아갈게.\n",
+      "translation": "모르겠어. 어쨌든 난 브릿지로 돌아갈게.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -11792,7 +11792,7 @@
         "voice": "GC150411.ogg"
       },
       "original": "待てよ。それじゃあ、ヴァニラが『白き月』に戻っていたことも知られたかな。",
-      "translation": "잠깐만. 그럼 바닐라가 『백색 달』로 돌아갔다는 것도 들키겠는걸.\n",
+      "translation": "잠깐만. 그럼 바닐라가 『하얀 달』로 돌아갔다는 것도 들키겠는걸.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11894,7 +11894,7 @@
         "voice": "GC550813.ogg"
       },
       "original": "そう考えると、ヴァニラがブリッジじゃなくてフォルテに連絡してきたことはラッキーだったな。",
-      "translation": "생각해 보면, 바닐라가 함교가 아니라 포르테에게 연락한 게 행운이었어.\n",
+      "translation": "생각해 보면, 바닐라가 브릿지가 아니라 포르테에게 연락한 게 행운이었어.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -12332,7 +12332,7 @@
         "voice": "GC150427.ogg"
       },
       "original": "彼はエルシオールに、盗聴装置を仕掛けていったんだ。この意味、わかるだろ？",
-      "translation": "그는 에르시올에 도청 장치를 설치해 뒀지. 이 의미, 알겠나？\n",
+      "translation": "그는 에르시올에 도청 장치를 설치해 뒀지. 이 의미, 알겠지？\n",
       "state": "reused",
       "use_translation": true,
       "storage": [

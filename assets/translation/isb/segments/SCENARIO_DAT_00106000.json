@@ -161,7 +161,7 @@
         "voice": "GC330002.ogg"
       },
       "original": "どうした？　ひとりでブリッジに来るなんて珍しい。",
-      "translation": "무슨 일이지？ 혼자 함교에 오다니 드문 일이군.\n",
+      "translation": "무슨 일이지？ 혼자 브릿지에 오다니 드문 일이군.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -491,7 +491,7 @@
         "voice": "GC130013.ogg"
       },
       "original": "ふう……やれやれ、ブリッジは逢い引きの場所じゃないんだがな。",
-      "translation": "후우…… 이런, 함교는 데이트 장소가 아닌데 말이야.",
+      "translation": "후우…… 이런, 브릿지는 데이트 장소가 아닌데 말이야.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -1733,7 +1733,7 @@
         "voice": "GC330200.ogg"
       },
       "original": "ちょうどいいや。ミントをどこかで見なかったかい？",
-      "translation": "마침 잘 됐군. 민트를 어디서 보지 못했나？\n",
+      "translation": "마침 잘 됐군. 민트를 어디서 보지 못했어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3353,7 +3353,7 @@
         "voice": "GC130515.ogg"
       },
       "original": "おおよその航路プランがまとまった。おまえにも確認してもらうから、ブリッジへ来てくれ。",
-      "translation": "대략적인 항로 플랜이 정리됐다. 너도 확인해야 하니까 함교로 와라.",
+      "translation": "대략적인 항로 플랜이 정리됐다. 너도 확인해야 하니까 브릿지로 와라.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -3425,7 +3425,7 @@
         "voice": "GC330317.ogg"
       },
       "original": "ブリッジに戻られるのですか？",
-      "translation": "함교로 돌아가시나요？\n",
+      "translation": "브릿지로 돌아가시나요？\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -5615,7 +5615,7 @@
         "voice": "GC330446.ogg"
       },
       "original": "い、いいじゃないか、ヴァイン。せっかくルシャーティが楽しんでいるんだから。",
-      "translation": "이, 괜찮잖아, 바인. 모처럼 루샤티가 즐거워하고 있으니까.\n",
+      "translation": "괘, 괜찮잖아, 바인. 모처럼 루샤티가 즐거워하고 있으니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7265,7 +7265,7 @@
         "voice": "GC330498.ogg"
       },
       "original": "な、なんだいそれは……。",
-      "translation": "머, 뭐야 그건……\n",
+      "translation": "뭐, 뭐야 그건……\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7445,7 +7445,7 @@
         "voice": "GC330502.ogg"
       },
       "original": "……！　だ、だから、どうしてそんな恥ずかしいことを素で言えますの。",
-      "translation": "…！ 다, 그러니까 왜 그런 부끄러운 말을 아무렇지 않게하시는거죠?",
+      "translation": "…！ 그, 그러니까 왜 그런 부끄러운 말을 아무렇지 않게하시는거죠?",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7949,7 +7949,7 @@
         "voice": "GC330607.ogg"
       },
       "original": "やっと会えたと思ったのに……オレ、なんかまずいこと言った？",
-      "translation": "겨우 만났나 싶었는데…… 내가 뭔가 실수했나？\n",
+      "translation": "겨우 만났나 싶었는데…… 내가 뭔가 실수했어？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8015,7 +8015,7 @@
         "voice": "GCA3A008.ogg"
       },
       "original": "め、面目ない！　ほんの一瞬、注意がそれただけなんだよ……。",
-      "translation": "미, 면목 없다！ 아주 잠깐 주의가 딴 데로 갔을 뿐이야……\n",
+      "translation": "며, 면목 없다！ 아주 잠깐 주의가 딴 데로 갔을 뿐이야……\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9479,7 +9479,7 @@
         "voice": "GC131037.ogg"
       },
       "original": "マイヤーズ司令、『白き月』より緊急連絡です。大至急ブリッジまでお戻りください。",
-      "translation": "마이어스 사령관, 『백색 달』에서 긴급 연락입니다. 즉시 함교로 복귀하십시오.",
+      "translation": "마이어스 사령관, 『하얀 달』에서 긴급 연락입니다. 즉시 브릿지로 복귀하십시오.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9635,7 +9635,7 @@
         "voice": "GC330909.ogg"
       },
       "original": "それでは、私は格納庫に向かいます。タクトさんも、早くブリッジに戻られた方がよろしいのではないでしょうか？",
-      "translation": "그럼, 저는 격납고로 향하겠습니다. 택트 씨도 빨리 함교로 돌아가는 게 좋지 않을까요？\n",
+      "translation": "그럼, 저는 격납고로 향하겠습니다. 택트 씨도 빨리 브릿지로 돌아가는 게 좋지 않을까요？\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -10241,7 +10241,7 @@
         "voice": "GC131117.ogg"
       },
       "original": "ああ、すみませんタクトさん。僕もすぐにブリッジに……。",
-      "translation": "아아, 죄송해요 택트 씨. 저도 곧 함교로…….",
+      "translation": "아아, 죄송해요 택트 씨. 저도 곧 브릿지로…….",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -11237,7 +11237,7 @@
         "voice": "GC331119.ogg"
       },
       "original": "……タクトさんは、早くブリッジにお戻りになってください。",
-      "translation": "……택트 씨는 어서 함교로 돌아가세요.\n",
+      "translation": "……택트 씨는 어서 브릿지로 돌아가세요.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -11843,7 +11843,7 @@
         "voice": "GC131304.ogg"
       },
       "original": "私たちには、『白き月』を守るという責任もあります……。",
-      "translation": "우리에게는 『백색 달』을 지킬 책임도 있습니다…….",
+      "translation": "우리에게는 『하얀 달』을 지킬 책임도 있습니다…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11933,7 +11933,7 @@
         "voice": "GC131305.ogg"
       },
       "original": "それに、『白き月』も守らないといけないんだ。絶対、油断はできないぞ！",
-      "translation": "게다가 『백색 달』도 지켜야 해. 절대로 방심할 순 없어！",
+      "translation": "게다가 『하얀 달』도 지켜야 해. 절대로 방심할 순 없어！",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -13433,7 +13433,7 @@
         "voice": "GC131416.ogg"
       },
       "original": "急いで機体を回収しろ。救護班は格納庫へ。回収が終わったら『白き月』へ帰還する。",
-      "translation": "서둘러 기체를 회수해라. 구호반은 격납고로. 회수 후 『백색 달』로 귀환!",
+      "translation": "서둘러 기체를 회수해라. 구호반은 격납고로. 회수 후 『하얀 달』로 귀환!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13859,7 +13859,7 @@
         "voice": "GC131509.ogg"
       },
       "original": "意識が戻ったら精密検査をしてみるわ。それと念のため、『白き月』の医療施設に移した方がいいかもしれない。",
-      "translation": "의식이 돌아오면 정밀 검사를 해볼게. 만약을 위해 『백색 달』 의료 시설로 옮기는 게 좋을지도 몰라.",
+      "translation": "의식이 돌아오면 정밀 검사를 해볼게. 만약을 위해 『하얀 달』 의료 시설로 옮기는 게 좋을지도 몰라.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14645,7 +14645,7 @@
         "voice": "GC331411.ogg"
       },
       "original": "……悪いけど、出ていってくれないか？",
-      "translation": "……미안하지만, 나가 주지 않겠나？",
+      "translation": "……미안하지만, 나가 줄래？",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15095,7 +15095,7 @@
         "voice": "GC131537.ogg"
       },
       "original": "……マイヤーズ司令、そろそろ『白き月』に入港します。申し訳ありませんが、ブリッジまでお願いできますか？",
-      "translation": "……마이어스 사령관, 곧 『백색 달』에 입항합니다. 죄송하지만 함교까지 부탁드려도 될까요?",
+      "translation": "……마이어스 사령관, 곧 『하얀 달』에 입항합니다. 죄송하지만 브릿지까지 부탁드려도 될까요?",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -15287,7 +15287,7 @@
         "voice": "GC131541.ogg"
       },
       "original": "ブリッジに戻るんだろ、タクト？　あたしらが代わるよ。",
-      "translation": "함교로 돌아가야 하잖아, 택트？ 우리가 대신할게.",
+      "translation": "브릿지로 돌아가야 하잖아, 택트？ 우리가 대신할게.",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -15353,7 +15353,7 @@
         "voice": "GC331414.ogg"
       },
       "original": "『白き月』へ移す人手なら、ここに十分揃ってるんだからさ。",
-      "translation": "『백색 달』로 옮길 인력은 여기 충분히 있으니까 말이야.",
+      "translation": "『하얀 달』로 옮길 인력은 여기 충분히 있으니까 말이야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15527,7 +15527,7 @@
         "voice": "GC131549.ogg"
       },
       "original": "それじゃ、オレはブリッジに戻るか……。",
-      "translation": "그럼, 난 함교로 돌아가 볼까…….",
+      "translation": "그럼, 난 브릿지로 돌아가 볼까…….",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -15677,7 +15677,7 @@
         "voice": "GC131552.ogg"
       },
       "original": "なにかあったのかい？",
-      "translation": "무슨 일 있었나?",
+      "translation": "무슨 일 있었어?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

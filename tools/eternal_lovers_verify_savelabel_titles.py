@@ -20,6 +20,7 @@ from pathlib import Path
 import galaxy_angel_build as builder
 import moonlit_lovers_resources as resources
 from eternal_lovers_isb_static import decode_isb_payload
+from eternal_lovers_patch_isb import title_wrap_leading_half_space_offsets
 from eternal_lovers_patch_remaining import merged_resources
 from eternal_lovers_regroup_isb import TITLE_TOKEN, statement_offsets
 from eternal_lovers_verify_remaining import container
@@ -76,6 +77,9 @@ def check_resource(raw: bytes, unit: dict) -> dict:
     return {
         "ascii_space_bytes": plain.count(ASCII_SPACE),
         "half_space_bytes": plain.count(HALF_SPACE),
+        "wrap_leading_half_spaces": len(
+            title_wrap_leading_half_space_offsets(plain.split(b"\0")[0])
+        ),
         "plain_hex": plain.hex(),
     }
 
@@ -94,7 +98,7 @@ def verify_built_dir(rows: list[dict], built_dir: Path) -> dict:
         result = check_resource(raw, unit)
         checked += 1
         half_spaces += result["half_space_bytes"]
-        if result["ascii_space_bytes"]:
+        if result["ascii_space_bytes"] or result["wrap_leading_half_spaces"]:
             violations.append(
                 {
                     "id": unit["id"],
@@ -145,7 +149,7 @@ def verify_iso(rows: list[dict], original_iso: Path, patched_iso: Path) -> dict:
                 result = check_resource(raw, unit)
                 checked += 1
                 half_spaces += result["half_space_bytes"]
-                if result["ascii_space_bytes"]:
+                if result["ascii_space_bytes"] or result["wrap_leading_half_spaces"]:
                     violations.append(
                         {
                             "id": unit["id"],

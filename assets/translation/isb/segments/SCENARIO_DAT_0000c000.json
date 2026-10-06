@@ -1242,7 +1242,7 @@
         "voice": "GC110024.ogg"
       },
       "original": "そ、そうだ、映像で思い出しました。ちょっと待っててくださいね、タクトさん。",
-      "translation": "그, 맞다, 영상으로 생각났어요. 잠시만 기다려 주세요, 택트 씨.\n",
+      "translation": "마, 맞다, 영상으로 생각났어요. 잠시만 기다려 주세요, 택트 씨.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1302,7 +1302,7 @@
         "voice": "GC110025.ogg"
       },
       "original": "これは……アルバムかい？",
-      "translation": "이건…… 앨범인가？\n",
+      "translation": "이건…… 앨범이야？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2988,7 +2988,7 @@
         "voice": "GC110207.ogg"
       },
       "original": "えっ？　な、なんですかそれ？",
-      "translation": "엣？ 무, 뭔데요 그게？\n",
+      "translation": "엣？ 뭐, 뭔데요 그게？\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3276,7 +3276,7 @@
         "voice": "GC110213.ogg"
       },
       "original": "いつまでそこにいるつもりだ、タクト。もうとっくに休憩時間は終わりだ。さっさとブリッジに戻れ。",
-      "translation": "언제까지 거기 있을 셈이냐, 택트. 벌써 한참 전에 휴식 시간은 끝났다. 얼른 함교로 돌아가라.\n",
+      "translation": "언제까지 거기 있을 셈이냐, 택트. 벌써 한참 전에 휴식 시간은 끝났다. 얼른 브릿지로 돌아가라.\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
