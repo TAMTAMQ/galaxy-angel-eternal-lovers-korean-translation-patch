@@ -11927,7 +11927,7 @@
         "voice": "GC220583.ogg"
       },
       "original": "そうねぇ、ティーラウンジか食堂……あと、ホールっていうのも考えられるわね。クジラルームもありかな……？",
-      "translation": "글쎄, 티 라운지나 식당…… 그리고 홀도 있을 법하네. 쿠지라 룸도 있으려나……?\n",
+      "translation": "글쎄, 티 라운지나 식당…… 그리고 홀도 있을 법하네. 고래 룸도 있으려나……?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -23465,7 +23465,7 @@
         "voice": "GC121121.ogg"
       },
       "original": "敵から？　……よし、モニターに出してくれ。",
-      "translation": "적에게서? ……좋아, 모니터에 띄워줘.\n",
+      "translation": "적에게서? ……좋아, 모니터에 띄워 줘.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [

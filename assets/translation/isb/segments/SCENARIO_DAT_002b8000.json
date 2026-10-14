@@ -919,7 +919,7 @@
         "voice": "GC960021.ogg"
       },
       "original": "たはははは……。",
-      "translation": "다하하하하…….\n",
+      "translation": "하하하하하…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -1093,7 +1093,7 @@
         "voice": "GC960027.ogg"
       },
       "original": "でもさ、どっちかっていうと、主役はオレよりも、みんなの方だろ？",
-      "translation": "그보다 말이야, 굳이 따지자면 주인공은 나보다 다들 쪽 아냐？\n",
+      "translation": "그보다 말이야, 굳이 따지자면 주인공은 나보다는 다들 아니야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5839,7 +5839,7 @@
         "voice": "GC160528.ogg"
       },
       "original": "よくぞ私の期待に応えてくれた。そなたであればやってくれると信じていたぞ。",
-      "translation": "잘 나의 기대에 부응해 주었다. 너라면 해낼 줄 믿고 있었다.\n",
+      "translation": "용케 내 기대에 부응해 주었다. 너라면 해낼 줄 믿고 있었다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10165,7 +10165,7 @@
         "voice": "GC161506.ogg"
       },
       "original": "アルモ、モニターに出してくれ。",
-      "translation": "아르모, 모니터에 띄워줘.\n",
+      "translation": "아르모, 모니터에 띄워 줘.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10183,7 +10183,7 @@
         "voice": "GC161507.ogg"
       },
       "original": "了解。",
-      "translation": "알았다",
+      "translation": "네.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -10303,7 +10303,7 @@
         "voice": "GC161509.ogg"
       },
       "original": "よし、作戦図をモニターに出してくれ……。",
-      "translation": "좋아, 작전 지도를 모니터에 띄워줘……\n",
+      "translation": "좋아, 작전 지도를 모니터에 띄워 줘……\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

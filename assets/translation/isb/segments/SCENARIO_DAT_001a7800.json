@@ -451,7 +451,7 @@
         "voice": "GC510010.ogg"
       },
       "original": "もしも悪いところがあれば、ナノマシンで治療します。",
-      "translation": "만약아픈 곳이 있다면 나노머신으로 치료하겠습니다.",
+      "translation": "만약 아픈 곳이 있다면 나노머신으로 치료하겠습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -673,7 +673,7 @@
         "voice": "GC510015.ogg"
       },
       "original": "ただちに正式な抗議文書を作成し、副司令に提出します。",
-      "translation": "즉시정식 항의문을 작성해 부사령관께 제출하겠습니다.",
+      "translation": "즉시 정식 항의문을 작성해 부사령관께 제출하겠습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1639,7 +1639,7 @@
         "voice": "GC510036.ogg"
       },
       "original": "それと……腹巻きも……。",
-      "translation": "그리고…… 뱃도리도…….\n",
+      "translation": "그리고…… 복대도…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

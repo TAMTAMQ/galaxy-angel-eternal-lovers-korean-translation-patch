@@ -2633,7 +2633,7 @@
         "voice": "GC140501.ogg"
       },
       "original": "了解。７番機を確保します。",
-      "translation": "알았다. 7번기를 확보한다.",
+      "translation": "네. 7번기를 확보하겠습니다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3605,7 +3605,7 @@
         "voice": "GC140807.ogg"
       },
       "original": "一応生きてるよ。けど、さすがにやばいね。もう、機体がガタガタさ。",
-      "translation": "일단 살아 있어. 하지만 역시 위험하네. 벌써 기체가 너덜너덜해.\n",
+      "translation": "일단 살아 있어. 하지만 역시 위험하네. 이미 기체가 너덜너덜해.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [

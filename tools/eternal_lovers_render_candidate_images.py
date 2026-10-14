@@ -193,7 +193,7 @@ def limit(mask: np.ndarray, entry: dict) -> np.ndarray:
 
 def draw_lines(canvas: Image.Image, bands: list, lines: list[str], fill, stroke: int, stroke_fill,
                shrink: int = 0, centre_on_band: bool = False, confine: bool = False,
-               align_left: bool = False) -> None:
+               align_left: bool = False, font_size: int | None = None) -> None:
     draw = ImageDraw.Draw(canvas)
     # Korean is wider than the Japanese it replaces, but it must not run into a button's rim or
     # into an icon the source keeps beside the text, so the widest row of the source plus a
@@ -207,12 +207,30 @@ def draw_lines(canvas: Image.Image, bands: list, lines: list[str], fill, stroke:
         if not text:
             continue
         height = max(8, bottom - top - shrink)
-        font = fit_font(text, max(8, budget - 2 * shrink), height, stroke)
+        width = max(8, budget - 2 * shrink)
+        if font_size is None:
+            font = fit_font(text, width, height, stroke)
+        else:
+            # Related UI labels must keep a common apparent weight.  Previously every
+            # caption was fitted independently, so a short label such as "이동" was
+            # rendered much larger/thicker than "행동 설정" or "전체 명령".  Start
+            # from the group's common size and only shrink when that exact caption
+            # genuinely cannot fit its allotted rectangle.
+            font = ImageFont.truetype(str(FONT_BOLD), size=font_size)
+            fixed_box = draw.textbbox((0, 0), text, font=font, stroke_width=stroke)
+            if fixed_box[2] - fixed_box[0] > width or fixed_box[3] - fixed_box[1] > height:
+                font = fit_font(text, width, height, stroke)
         # A two-pixel outline is right on a large name plate and turns a small one into a
         # single smear, so the outline is trimmed to whatever the chosen size can carry.
         while stroke and font.size < 11 + 4 * stroke:
             stroke -= 1
-            font = fit_font(text, budget, height, stroke)
+            if font_size is None:
+                font = fit_font(text, budget, height, stroke)
+            else:
+                font = ImageFont.truetype(str(FONT_BOLD), size=font_size)
+                fixed_box = draw.textbbox((0, 0), text, font=font, stroke_width=stroke)
+                if fixed_box[2] - fixed_box[0] > budget or fixed_box[3] - fixed_box[1] > height:
+                    font = fit_font(text, budget, height, stroke)
         box = draw.textbbox((0, 0), text, font=font, stroke_width=stroke)
         centre_x = (left + right) / 2 if (centre_on_band or len(bands) > 1) else canvas.width / 2
         x = round(centre_x - (box[2] - box[0]) / 2 - box[0])
@@ -294,6 +312,15 @@ def render(source: Path, entry: dict, project: Path | None = None) -> Image.Imag
     rgb, alpha = arr[:, :, :3], arr[:, :, 3]
     lines = entry["ko"]
 
+    # Keep related menu labels at one maximum size instead of sizing each Korean
+    # caption from the width of its Japanese source text.  This fixes the visible
+    # weight mismatch reported for battle commands and save/continue buttons.
+    fixed_font_size = entry.get("font_size")
+    if fixed_font_size is None and source.stem.startswith("ggmenu_btn"):
+        fixed_font_size = 14
+    if fixed_font_size is None and source.stem in {"gebtn03", "gebtn03f", "gebtn04", "gebtn04f"}:
+        fixed_font_size = 20
+
     # A glyph-only texture is not merely mostly transparent — a button with a portrait on it is
     # that too.  What makes it glyph-only is that the visible pixels are just ink: one or two
     # colours plus their anti-aliasing.  Judging by transparency alone repaints artwork away.
@@ -347,7 +374,8 @@ def render(source: Path, entry: dict, project: Path | None = None) -> Image.Imag
                    int(entry.get("shrink", 0)),
                    centre_on_band=bool(entry.get("centre_on_band")),
                    confine=bool(entry.get("region") or entry.get("regions")),
-                   align_left=entry.get("align") == "left")
+                   align_left=entry.get("align") == "left",
+                   font_size=fixed_font_size)
 
         # These plates are stored as one or two flat colours over a 1-bit alpha, which is why
         # the originals compress into their small resource slots.  Anti-aliased output carries
@@ -408,11 +436,16 @@ def render(source: Path, entry: dict, project: Path | None = None) -> Image.Imag
         plate = erase_label(rgb, mask, visible)
         canvas = Image.fromarray(np.dstack([plate, alpha]), "RGBA")
         outline = tuple(max(0, c - 80) for c in colour[:3]) + (225,)
-        for text, band in zip(lines, bands):
+        for line_index, (text, band) in enumerate(zip(lines, bands)):
             # Each label keeps to its own region: an affection caption must not drift over the
-            # gauge drawn beside it.
+            # gauge drawn beside it.  Battle-result craft rows are lists in the original UI,
+            # so keep their common left edge instead of centring names of different lengths.
+            result_screen = source.stem in {"gpwin0", "gpwin1"}
+            result_name = result_screen and 7 <= line_index <= 14
+            result_size = (20 if line_index == 0 else 15) if result_screen else fixed_font_size
             draw_lines(canvas, [band], [text], colour, 1, outline, int(entry.get("shrink", 0)),
-                       centre_on_band=True, confine=True)
+                       centre_on_band=not result_name, confine=True,
+                       align_left=result_name, font_size=result_size)
         return canvas
 
     rows = ink_rows(mask)
@@ -442,7 +475,8 @@ def render(source: Path, entry: dict, project: Path | None = None) -> Image.Imag
     draw_lines(canvas, bands, lines, colour, 1, outline, int(entry.get("shrink", 0)),
                centre_on_band=bool(entry.get("centre_on_band")),
                confine=bool(entry.get("region") or entry.get("regions")),
-               align_left=entry.get("align") == "left")
+               align_left=entry.get("align") == "left",
+               font_size=fixed_font_size)
     return canvas
 
 

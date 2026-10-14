@@ -204,7 +204,7 @@
     "width": 208,
     "height": 28,
     "original": "クジラルーム・ビーチ",
-    "translation": "쿠지라 룸・비치"
+    "translation": "고래 룸・비치"
   },
   {
     "name": "gaplc_024i.tex",
@@ -213,7 +213,7 @@
     "width": 208,
     "height": 28,
     "original": "クジラルーム・管理室",
-    "translation": "쿠지라 룸・관리실"
+    "translation": "고래 룸・관리실"
   },
   {
     "name": "gaplc_025i.tex",
@@ -976,7 +976,7 @@
     "width": 205,
     "height": 25,
     "original": "クジラルーム・ビーチ",
-    "translation": "쿠지라 룸・비치",
+    "translation": "고래 룸・비치",
     "classification": "eternal-outlined-place-plate",
     "resource_path": "dat/gadat030/haplc_023i.tex",
     "resource_offset": 120999936,
@@ -989,7 +989,7 @@
     "width": 205,
     "height": 25,
     "original": "クジラルーム・管理室",
-    "translation": "쿠지라 룸・관리실",
+    "translation": "고래 룸・관리실",
     "classification": "eternal-outlined-place-plate",
     "resource_path": "dat/gadat030/haplc_024i.tex",
     "resource_offset": 121001984,

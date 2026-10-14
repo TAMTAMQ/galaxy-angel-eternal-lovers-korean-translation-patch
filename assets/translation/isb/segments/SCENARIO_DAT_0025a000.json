@@ -493,7 +493,7 @@
         "voice": "GC910004.ogg"
       },
       "original": "寝ぼけ……あ、あれ！？　いつの間にブリッジに……。だってオレ、さっきまで……。",
-      "translation": "잠꼬대라니…… 어, 어라！？ 어느 사이에 브릿지에……. 방금 전까지 난...\n",
+      "translation": "잠꼬대라니…… 어, 어라!? 어느 틈에 브릿지에……. 방금 전까지 난……\n",
       "state": "reviewed",
       "use_translation": true,
       "storage": [
@@ -919,7 +919,7 @@
         "voice": "GC910017.ogg"
       },
       "original": "あ、いや、なんでもない。ココ、敵をモニターに出してくれ。",
-      "translation": "아, 아니, 아무것도 아냐. 코코, 적을 모니터에 띄워줘.\n",
+      "translation": "아, 아니, 아무것도 아냐. 코코, 적을 모니터에 띄워 줘.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1507,7 +1507,7 @@
         "voice": "GC910108.ogg"
       },
       "original": "それじゃ、始めようか。アルモ、作戦図をモニターに出してくれ。",
-      "translation": "그럼, 시작해볼까. 아르모, 작전 지도를 모니터에 띄워줘.\n",
+      "translation": "그럼, 시작해 볼까. 아르모, 작전 지도를 모니터에 띄워 줘.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1693,7 +1693,7 @@
         "voice": "GC910402.ogg"
       },
       "original": "あんまりこいつをのせるな、アルモ。",
-      "translation": "너무 이 녀석을치켜세우지마,아르모.",
+      "translation": "이 녀석 치켜세우지 마, 아르모.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2293,7 +2293,7 @@
         "voice": "GC910427.ogg"
       },
       "original": "ああ！　至急、総員退避！　エンジェル隊、聞こえるか！？　君たちも、この宙域から離脱するんだ！",
-      "translation": "아아！ 즉시 전원 퇴피！ 엔젤대, 들리나！？ 너희도 이 우주 구역에서 이탈해라！\n",
+      "translation": "아아! 즉시 전원 대피! 엔젤대, 들리나!? 너희도 이 우주 구역에서 이탈해라!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8209,7 +8209,7 @@
         "voice": "GC911201.ogg"
       },
       "original": "こっちからは手が出せない……か。少し歯がゆい気もするけど。",
-      "translation": "이쪽에서 손을 쓸 수 없다니…… 좀 답답한 기분도 들지만.",
+      "translation": "우리가 손쓸 수 없다니…… 좀 답답하긴 하지만.",
       "state": "draft",
       "use_translation": true,
       "storage": [

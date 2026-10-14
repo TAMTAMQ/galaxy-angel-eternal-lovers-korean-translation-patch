@@ -1835,7 +1835,7 @@
         "voice": "GC330203.ogg"
       },
       "original": "なに、最近ミントがクジラルームに出入りすることが多いって、ヴァニラから聞いてね。",
-      "translation": "아니, 요즘 민트가 쿠지라 룸에 자주 드나든다고 바닐라에게 들어서 말이야.\n",
+      "translation": "아니, 요즘 민트가 고래 룸에 자주 드나든다고 바닐라에게 들어서 말이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1859,7 +1859,7 @@
         "voice": "GC330203.ogg"
       },
       "original": "クジラルームに？　そりゃまたなんで？",
-      "translation": "쿠지라 룸에？ 그건 또 왜？\n",
+      "translation": "고래 룸에? 그건 또 왜?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2009,7 +2009,7 @@
         "voice": "GC330207.ogg"
       },
       "original": "じゃあ、オレはクジラルームに行ってみるよ。",
-      "translation": "그럼 난 쿠지라 룸에 가볼게.\n",
+      "translation": "그럼 난 고래 룸에 가볼게.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2153,7 +2153,7 @@
         "voice": "GC330210.ogg"
       },
       "original": "おっと、クジラルーム、クジラルーム。",
-      "translation": "어이쿠, 쿠지라 룸, 쿠지라 룸.\n",
+      "translation": "어이쿠, 고래 룸, 고래 룸.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -3905,7 +3905,7 @@
         "voice": "GC330321.ogg"
       },
       "original": "……そういえば、ミントは最近クジラルームによく行くって話だったっけ。",
-      "translation": "……그러고 보니, 민트는 요즘 쿠지라 룸에 자주 간다고 했었나.\n",
+      "translation": "……그러고 보니, 민트는 요즘 고래 룸에 자주 간다고 했었나.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13307,7 +13307,7 @@
         "voice": "GC131412.ogg"
       },
       "original": "全紋章機、エルシオールの射線から退避！",
-      "translation": "전 문장기, 에르시올의 사선에서 퇴피！\n",
+      "translation": "전 문장기, 에르시올의 사선에서 대피!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -15899,7 +15899,7 @@
         "voice": "GC131559.ogg"
       },
       "original": "それじゃ、あとをよろしく頼むよ。",
-      "translation": "그럼, 나머지는 부탁하네.",
+      "translation": "그럼, 뒷일을 부탁할게.",
       "state": "reused",
       "use_translation": true,
       "storage": [

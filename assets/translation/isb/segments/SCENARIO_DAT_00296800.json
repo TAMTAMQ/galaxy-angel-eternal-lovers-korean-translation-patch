@@ -4108,7 +4108,7 @@
         "voice": "GC940102.ogg"
       },
       "original": "了解。",
-      "translation": "알았다",
+      "translation": "네.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -13696,7 +13696,7 @@
         "voice": "GC140509.ogg"
       },
       "original": "……モニターに出してくれ。",
-      "translation": "……모니터에 띄워줘.",
+      "translation": "……모니터에 띄워 줘.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13900,7 +13900,7 @@
         "voice": "GC140515.ogg"
       },
       "original": "力がない？　これでも、まだそんなことが言えるかな。そうだろう、女？",
-      "translation": "힘이 없다고？ 이래도 아직 그런 말을 할 수 있을까. 그렇지, 여자？",
+      "translation": "힘이 없다고? 이래도 아직 그런 말을 할 수 있을까. 그렇지? 계집아.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -16726,7 +16726,7 @@
         "voice": "GC140618.ogg"
       },
       "original": "それにしても、やってくれるじゃない、ヴァインのやつ。",
-      "translation": "그나저나, 제법 해냈잖아, 바인 녀석.\n",
+      "translation": "그나저나 바인 녀석, 꽤 하는군.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -19102,7 +19102,7 @@
         "voice": "GC140926.ogg"
       },
       "original": "了解。",
-      "translation": "알았다",
+      "translation": "네.",
       "state": "compacted",
       "use_translation": true,
       "storage": [

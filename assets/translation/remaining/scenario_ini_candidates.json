@@ -2101,7 +2101,7 @@
     {
       "id": "scenario_ini:00022",
       "original": "クジラルームだ。\n",
-      "translation": "쿠지라 룸이다.\n",
+      "translation": "고래 룸이다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -2266,7 +2266,7 @@
     {
       "id": "scenario_ini:00023",
       "original": "クロミエに頼むとエンジェル隊の心の中を見せ\n",
-      "translation": "크로미에에게 부탁하면 엔젤대의 마음속을 보여\n",
+      "translation": "크로미에에게 부탁하면 엔젤대의 속마음을\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -2431,7 +2431,7 @@
     {
       "id": "scenario_ini:00024",
       "original": "てもらえるぞ。\n",
-      "translation": "줄 수 있다.\n",
+      "translation": "볼 수 있다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -2719,7 +2719,7 @@
     {
       "id": "scenario_ini:00026",
       "original": "病気やケガをしたらお世話になるところだな。\n",
-      "translation": "병이나 부상을 입으면 신세를 지게 되는 곳이군.\n",
+      "translation": "아프거나 다치면 오는 곳이군.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [

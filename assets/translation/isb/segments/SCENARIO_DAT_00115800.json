@@ -3605,7 +3605,7 @@
         "voice": "GC140807.ogg"
       },
       "original": "一応生きてるよ。けど、さすがにやばいね。もう、機体がガタガタさ。",
-      "translation": "일단 살아있어. 하지만 역시 위험하네. 벌써 기체가 너덜너덜해.\n",
+      "translation": "일단 살아 있어. 하지만 역시 위험하네. 이미 기체가 너덜너덜해.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6917,7 +6917,7 @@
         "voice": "GC341127.ogg"
       },
       "original": "何もかも……オレが悪かったのか……！",
-      "translation": "모든 게…… 내가 잘못한 건가……！",
+      "translation": "모든 게…… 내 잘못이었던 건가……!",
       "state": "draft",
       "use_translation": true,
       "storage": [

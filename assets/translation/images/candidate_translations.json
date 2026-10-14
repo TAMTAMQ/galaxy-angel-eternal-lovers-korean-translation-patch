@@ -658,6 +658,15 @@
       ],
       "centre_on_band": true
     },
+    "ggmenu_btn01.tex": {
+      "jp": [
+        "移動"
+      ],
+      "ko": [
+        "이동"
+      ],
+      "centre_on_band": true
+    },
     "ggmenu_btn01b.tex": {
       "jp": [
         "移動"

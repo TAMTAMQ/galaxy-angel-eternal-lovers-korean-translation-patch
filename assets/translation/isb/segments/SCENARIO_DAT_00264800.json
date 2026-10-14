@@ -222,7 +222,7 @@
         "voice": "GC920002.ogg"
       },
       "original": "申し遅れましたが、オレは……もとい、私はトランスバール皇国軍のタクト・マイヤーズといいます。",
-      "translation": "인사가 늦었습니다만, 저는…… 아니, 저는 트랜스벌 황국군의 택트・마이어스라고 합니다.\n",
+      "translation": "인사가 늦었습니다만, 나는…… 아니, 저는 트랜스벌 황국군의 택트・마이어스라고 합니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1902,7 +1902,7 @@
         "voice": "GC920117.ogg"
       },
       "original": "崩壊したはずの先文明、ＥＤＥＮが現存していたこと……そのＥＤＥＮが『ヴァル・ファスク』に侵略されていたこと……そして――",
-      "translation": "붕괴했을 터인 선문명 EDEN의 현존…… 그 EDEN이 『발・파스크』에게 침략당했다는 사실…… 그리고――",
+      "translation": "붕괴했을 터인 선조 문명 EDEN의 현존…… 그 EDEN이 『발・파스크』에게 침략당했다는 사실…… 그리고――",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2406,7 +2406,7 @@
         "voice": "GC920131.ogg"
       },
       "original": "それは助かります。ＥＤＥＮや『ヴァル・ファスク』のことについては、オレたちの手にあまりますから。",
-      "translation": "그건 도움이 되겠네요. EDEN이나 『발・파스크』에 관한 건 저희가 감당하기 벅스러우니까요.\n",
+      "translation": "그건 도움이 되겠네요. EDEN이나 『발・파스크』에 관한 건 저희가 감당하기 버거우니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2748,7 +2748,7 @@
         "voice": "GC920140.ogg"
       },
       "original": "まあ、結局のところは、こういった厄介ごとに関しては、オレたちがいちばん向いてるって思われてるんだろうさ。",
-      "translation": "뭐, 결국 이런 골치 아픈 일은 우리에게 가장 적합하다고 생각하는 거겠지.",
+      "translation": "뭐, 결국 이런 골치 아픈 일은 우리가 가장 적임이라고 생각하는 거겠지.",
       "state": "draft",
       "use_translation": true,
       "storage": [

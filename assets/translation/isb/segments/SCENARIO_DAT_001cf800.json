@@ -132,7 +132,7 @@
         "voice": "GC545002.ogg"
       },
       "original": "おや、宇宙ウサギたちじゃないか。クジラルームから連れてきたのかい？",
-      "translation": "어라, 우주 토끼들이 아닌가. 쿠지라 룸에서 데려온 거야？\n",
+      "translation": "어라, 우주 토끼들이 아닌가. 고래 룸에서 데려온 거야?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1560,7 +1560,7 @@
         "voice": "GC545123.ogg"
       },
       "original": "クジラルーム・宇宙クジラに相談",
-      "translation": "쿠지라 룸・우주 고래에게 상담\n",
+      "translation": "고래 룸・우주 고래에게 상담\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1836,7 +1836,7 @@
         "voice": "GC545206.ogg"
       },
       "original": "そうだなあ、ヴァニラはクジラルームによく通ってたからなあ。宇宙ウサギとかの世話もしていたし。",
-      "translation": "글쎄, 바닐라는 쿠지라 룸에 자주 다녔으니까 말이야. 우주 토끼 같은 걸 돌보기도 했고.\n",
+      "translation": "글쎄, 바닐라는 고래 룸에 자주 다녔으니까 말이야. 우주 토끼 같은 걸 돌보기도 했고.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
