@@ -151,7 +151,7 @@
     {
       "id": "scenario_ini:00002",
       "original": "オレが不在の間は、レスターが代わりに指揮を\n",
-      "translation": "내가 없는 동안에는, 레스터가 대신해서 지휘를\n",
+      "translation": "내가 없을 땐 레스터가 대신\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -298,7 +298,7 @@
     {
       "id": "scenario_ini:00003",
       "original": "とってくれている。\n",
-      "translation": "맡아주고 있다.\n",
+      "translation": "지휘를 맡고 있다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -772,7 +772,7 @@
     {
       "id": "scenario_ini:00007",
       "original": "植物がたくさんあって、落ち着く場所だな。\n",
-      "translation": "식물이 많이 있어서, 마음이 편안해지는 장소군.\n",
+      "translation": "식물이 많아 마음이 편안하다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -958,7 +958,7 @@
     {
       "id": "scenario_ini:00009",
       "original": "今日のメニューは、なんだろうな？\n",
-      "translation": "오늘 메뉴는, 뭘까？\n",
+      "translation": "오늘 메뉴는, 뭘까?\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -1168,7 +1168,7 @@
     {
       "id": "scenario_ini:00011",
       "original": "エンジェル隊が、よくお茶を飲んでいる。\n",
-      "translation": "엔젤대가, 자주 차를 마시고 있다.\n",
+      "translation": "엔젤대가 자주 차를 마신다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -1348,7 +1348,7 @@
     {
       "id": "scenario_ini:00013",
       "original": "買い物をしたいときには、ここが便利だな。\n",
-      "translation": "쇼핑을 하고 싶을 때는, 여기가 편리하군.\n",
+      "translation": "쇼핑할 때 이용하기 편리하다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -1891,7 +1891,7 @@
     {
       "id": "scenario_ini:00020",
       "original": "格闘技の訓練や筋力トレーニングをするところ\n",
-      "translation": "격투기 훈련이나 근력 트레이닝을 하는 곳\n",
+      "translation": "격투기와 근력 훈련을 하는\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -1996,7 +1996,7 @@
     {
       "id": "scenario_ini:00021",
       "original": "だな。\n",
-      "translation": "이군.\n",
+      "translation": "곳이다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -2266,7 +2266,7 @@
     {
       "id": "scenario_ini:00023",
       "original": "クロミエに頼むとエンジェル隊の心の中を見せ\n",
-      "translation": "크로미에에게 부탁하면 엔젤대의 속마음을\n",
+      "translation": "크로미에에게 부탁하면 엔젤대의\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -2431,7 +2431,7 @@
     {
       "id": "scenario_ini:00024",
       "original": "てもらえるぞ。\n",
-      "translation": "볼 수 있다.\n",
+      "translation": "속마음을 볼 수 있다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -3067,7 +3067,7 @@
     {
       "id": "scenario_ini:00030",
       "original": "フォルテがよく銃を撃っているぞ。\n",
-      "translation": "포르테가 총을 잘 쏘고 있군.\n",
+      "translation": "포르테가 자주 총을 쏜다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -3184,7 +3184,7 @@
     {
       "id": "scenario_ini:00033",
       "original": "仮想空間で戦闘訓練ができる装置がある。\n",
-      "translation": "가상 공간에서 전투 훈련을 할 수 있는 장치가 있다.\n",
+      "translation": "가상 공간에서 전투 훈련을 한다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -3268,7 +3268,7 @@
     {
       "id": "scenario_ini:00037",
       "original": "日用品や食料なんかが収められている。\n",
-      "translation": "일용품이나 식료품 등이 보관되어 있다.\n",
+      "translation": "일용품과 식료품을 보관한다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
@@ -3298,7 +3298,7 @@
     {
       "id": "scenario_ini:00039",
       "original": "訓練をした後は、ここでシャワーを浴びよう。\n",
-      "translation": "훈련을 마친 후에는, 여기서 샤워를 하자.\n",
+      "translation": "훈련 후 여기서 샤워한다.\n",
       "state": "draft",
       "use_translation": true,
       "occurrences": [
