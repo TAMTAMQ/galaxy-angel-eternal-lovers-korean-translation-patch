@@ -6477,7 +6477,7 @@
         "voice": "GC670443C.ogg"
       },
       "original": "でも、もし失敗したらと思ったら……急に手が……。す、すいません……。",
-      "translation": "하지만, 만약 실패하면어쩌나하니…갑자기손이……. 죄, 죄송합니다…….",
+      "translation": "하지만 실패할까 봐…… 갑자기 손이……. 죄, 죄송합니다…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
