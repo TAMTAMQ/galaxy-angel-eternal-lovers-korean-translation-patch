@@ -152,6 +152,8 @@ def main() -> int:
     replacements = sorted(
         p for p in args.pss_dir.glob("GADAT*.PSS")
         if MOVIE_NAME_RE.fullmatch(p.stem)
+        and (Path("movie/subtitles") / f"{p.stem}.ko.ass").is_file()
+        and any(line.startswith("Dialogue:") for line in (Path("movie/subtitles") / f"{p.stem}.ko.ass").read_text(encoding="utf-8-sig").splitlines())
     )
     if not replacements:
         raise ValueError(f"no authoritative GADAT###.PSS files found in {args.pss_dir}")
