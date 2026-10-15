@@ -621,7 +621,7 @@
         "voice": "GC570024.ogg"
       },
       "original": "はい。私もそう思います。",
-      "translation": "네.저도그렇게생각합니다.",
+      "translation": "네. 저도 그렇게 봅니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5463,7 +5463,7 @@
         "voice": "GC570443.ogg"
       },
       "original": "ヴァニラ、一気にクロノ・クェイク爆弾の鼻先に取りつくんだ。",
-      "translation": "바닐라,단숨에 크로노・퀘이크 폭탄의 코앞까지파고드는거야.",
+      "translation": "바닐라, 단숨에 크로노・퀘이크 폭탄 코앞까지 파고드는 거야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6801,7 +6801,7 @@
         "voice": "GC170639.ogg"
       },
       "original": "ご安心を。私ども、なーんにも見ておりませんから。ええ、何も。",
-      "translation": "안심하세요.저희는 아무것도 보지 않았으니까요. 네, 아무것도.",
+      "translation": "안심하세요. 저희는 아무것도 보지 않았으니까요. 네, 아무것도.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

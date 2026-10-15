@@ -79,7 +79,7 @@
         "voice": "GC625000.ogg"
       },
       "original": "お、ちとせ張り切ってるな。",
-      "translation": "오,치토세가의욕이넘치는데.",
+      "translation": "오, 치토세 의욕 넘치는데.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -217,7 +217,7 @@
         "voice": "GC625005.ogg"
       },
       "original": "アルモです。通信担当です。",
-      "translation": "아르모입니다통신담당이에요",
+      "translation": "아르모예요. 통신 담당.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -1027,7 +1027,7 @@
         "voice": "GC625034.ogg"
       },
       "original": "謁見の間・ちとせが謁見の間を紹介する",
-      "translation": "알현의방・치토세가알현의방을소개한다",
+      "translation": "알현실・치토세가 알현실을 소개한다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1699,7 +1699,7 @@
         "voice": "GC625118.ogg"
       },
       "original": "そうか、女皇陛下には前例があるからなあ。",
-      "translation": "그렇지,여황폐하께는전례가있으니까말이야.",
+      "translation": "그렇지, 여황 폐하께는 전례가 있으니.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1921,7 +1921,7 @@
         "voice": "GC625122.ogg"
       },
       "original": "司令官室・ちとせが司令官室を紹介する",
-      "translation": "사령관실・치토세가사령관실을소개한다",
+      "translation": "사령관실・치토세가 사령관실 소개한다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2371,7 +2371,7 @@
         "voice": "GC625210.ogg"
       },
       "original": "うん。おいしい空気とか吸えそうだ。",
-      "translation": "응. 상쾌한 공기를마실수있을것같아.",
+      "translation": "응. 상쾌한 공기를 마실 수 있겠어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

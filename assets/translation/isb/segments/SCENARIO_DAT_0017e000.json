@@ -198,7 +198,7 @@
         "voice": "GC450002.ogg"
       },
       "original": "心配だよ……。心配で仕方ない……。",
-      "translation": "걱정돼…….걱정돼서미칠것같아…….",
+      "translation": "걱정돼……. 너무 걱정돼…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -522,7 +522,7 @@
         "voice": "GC450012.ogg"
       },
       "original": "そこでオレは考えた。すれちがいが原因なら、それを解消すれば治るのではないかと！",
-      "translation": "그래서생각해 봤어. 엇갈림이 원인이라면, 그걸 해소하면 나을 수있지않을까하고！",
+      "translation": "그래서 생각해 봤어. 엇갈림이 원인이라면, 풀면 나을 수 있지 않을까 하고!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -816,7 +816,7 @@
         "voice": "GC450028.ogg"
       },
       "original": "認めるのは、はなはだ不本意だがな……。",
-      "translation": "인정하긴매우불만족스럽지만말이야……。",
+      "translation": "인정하긴 정말 내키지 않지만 말이야……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -852,7 +852,7 @@
         "voice": "GC450029.ogg"
       },
       "original": "ああ、行ってこい。出発までは、まあ、俺だけでなんとかなりそうだ。",
-      "translation": "그래,다녀와라. 출발 전까지는 뭐, 나 혼자서 어떻게든 될 것 같다.",
+      "translation": "그래, 다녀와라. 출발 전까지는 뭐, 나 혼자서 어떻게든 될 것 같다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -972,7 +972,7 @@
         "voice": "GC450031.ogg"
       },
       "original": "武器を持つことに恐怖するフォルテ",
-      "translation": "무기를갖는것에공포를느끼는포르테",
+      "translation": "무기 드는 걸 두려워하는 포르테",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2748,7 +2748,7 @@
         "voice": "GC450152.ogg"
       },
       "original": "オレの愛の力で、克服してみせる！",
-      "translation": "내 사랑의힘으로,극복해보이겠어！",
+      "translation": "내 사랑의 힘으로 극복해 내겠어!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4008,7 +4008,7 @@
         "voice": "GC450207.ogg"
       },
       "original": "武器恐怖症、治りそうですか？",
-      "translation": "무기 공포증, 나을 것같나요？",
+      "translation": "무기 공포증, 나을 것 같나요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4416,7 +4416,7 @@
         "voice": "GC450220.ogg"
       },
       "original": "あ、愛の騎士……。ははは。うーん、え、えっと……。",
-      "translation": "아, 사랑의 기사… 하하하. 음, 저기,그러니까…….",
+      "translation": "아, 사랑의 기사…… 하하하. 음, 저기, 그러니까……",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5658,7 +5658,7 @@
         "voice": "GC450257.ogg"
       },
       "original": "まったく、もう。",
-      "translation": "정말이지,못말려.",
+      "translation": "정말, 못 말려.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7464,7 +7464,7 @@
         "voice": "GC450341.ogg"
       },
       "original": "ぐ……くう……う、うーん……。",
-      "translation": "으…… 으음…… 으,으으음…….",
+      "translation": "으…… 으음…… 으, 으음……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9540,7 +9540,7 @@
         "voice": "GC450530.ogg"
       },
       "original": "タクト、きっとよ。",
-      "translation": "택트,분명그럴거야.",
+      "translation": "택트, 분명 그래.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9576,7 +9576,7 @@
         "voice": "GC450530.ogg"
       },
       "original": "君にしかできない役割",
-      "translation": "너만이 할 수있는역할",
+      "translation": "너만 할 수 있는 역할",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9972,7 +9972,7 @@
         "voice": "GC450608.ogg"
       },
       "original": "今のあたしには、紋章機に乗ることすらできないんだ！",
-      "translation": "지금의 나로서는 문장기에 타는 것조차 할 수없다고！",
+      "translation": "지금의 나로서는 문장기에 타는 것조차 할 수 없다고!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10356,7 +10356,7 @@
         "voice": "GC450615.ogg"
       },
       "original": "いや、こっちこそ怒鳴ったりしてごめん。つい……。",
-      "translation": "아니, 나야말로 소리 질러서미안해.나도모르게….",
+      "translation": "아니, 나야말로 소리쳐서 미안해. 나도 모르게…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10506,7 +10506,7 @@
         "voice": "GC450619.ogg"
       },
       "original": "あぁ……。そうだね、焦りと不安で見失っていたよ。",
-      "translation": "아아…. 그렇네,초조함과불안때문에놓치고있었어.",
+      "translation": "아아…… 그렇네. 초조함과 불안 탓에 놓쳤어.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10944,7 +10944,7 @@
         "voice": "GC450629.ogg"
       },
       "original": "ふふふ、本当にタイミングが悪いねぇ。野暮な副司令だ。",
-      "translation": "후후후,정말 타이밍이 안 좋네. 눈치없는부사령관이야.",
+      "translation": "후후후, 정말 타이밍 안 좋네. 눈치 없는 부사령관이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -11472,7 +11472,7 @@
         "voice": "GC151300.ogg"
       },
       "original": "ああ、待った。",
-      "translation": "그래,기다렸다.",
+      "translation": "그래, 기다렸다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12048,7 +12048,7 @@
         "voice": "GC151307.ogg"
       },
       "original": "周囲の状況の確認急げ！",
-      "translation": "주위상황확인을서둘러！",
+      "translation": "주변 상황 확인 서둘러!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13692,7 +13692,7 @@
         "voice": "GC450909.ogg"
       },
       "original": "さてと……。",
-      "translation": "자,그럼…….",
+      "translation": "자, 그럼……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14364,7 +14364,7 @@
         "voice": "GC450937.ogg"
       },
       "original": "戦えない戦士がいて何になる……そんなものに何の意味がある！？",
-      "translation": "싸울 수 없는 전사가 무슨 의미가 있지！？그런게무슨소용이냐！",
+      "translation": "싸울 수 없는 전사가 무슨 의미가 있지!? 그게 무슨 소용이냐!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14580,7 +14580,7 @@
         "voice": "GC151588.ogg"
       },
       "original": "ただそれだけ……それが心……心……。",
-      "translation": "그저그것뿐……그것이마음……마음……",
+      "translation": "그것뿐…… 그게 마음…… 마음……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15582,7 +15582,7 @@
         "voice": "GC451129.ogg"
       },
       "original": "わかった、わかった。ふたりっきりのワルツ、だね。",
-      "translation": "알았어, 알았다고. 둘만의 왈츠,지?\n",
+      "translation": "알았어, 알았다고. 둘만의 왈츠, 지?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

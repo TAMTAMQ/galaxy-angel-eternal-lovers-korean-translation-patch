@@ -150,7 +150,7 @@
         "voice": "GC675002.ogg"
       },
       "original": "雑念を払うために、瞑想をしていました。",
-      "translation": "잡념을떨치기위해,명상을하고있었습니다.",
+      "translation": "잡념을 떨치려 명상하고 있었습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -168,7 +168,7 @@
         "voice": "GC675002.ogg"
       },
       "original": "ふーん、それで効果はありそう？",
-      "translation": "흐음, 그래서효과는있는것같아？",
+      "translation": "흐음, 그래서 효과는 있을까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -432,7 +432,7 @@
         "voice": "GC675008.ogg"
       },
       "original": "いいよ、拭くぐらいできるから。",
-      "translation": "됐어, 닦는 정도는할수있으니까.",
+      "translation": "됐어, 닦는 건 할 수 있으니까.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -942,7 +942,7 @@
         "voice": "GC675020.ogg"
       },
       "original": "その調子で集中力を養うんだ。いつでも全力を発揮できるようにね。",
-      "translation": "그 기세로 집중력을 길러둬. 언제든 전력을 발휘할수있도록말이야.",
+      "translation": "그 기세로 집중력을 길러 둬. 언제든 전력을 다할 수 있게 말이야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1194,7 +1194,7 @@
         "voice": "GC675103.ogg"
       },
       "original": "元気が出ること、ですか？",
-      "translation": "기운이날만한것말인가요？",
+      "translation": "기운 날 만한 건가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1614,7 +1614,7 @@
         "voice": "GC675112.ogg"
       },
       "original": "髪型はこのままでいいのかい？",
-      "translation": "헤어스타일은이대로하면되니？",
+      "translation": "머리는 이대로 하면 되니?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1920,7 +1920,7 @@
         "voice": "GC675118.ogg"
       },
       "original": "巻紙とか使うのかな。忍者がくわえるようなやつ。",
-      "translation": "두루마리 같은 걸 쓰려나? 닌자가 물고 다니는 거.",
+      "translation": "두루마리 같은 걸 쓰려나? 닌자가 무는 거.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

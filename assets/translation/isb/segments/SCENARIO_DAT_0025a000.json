@@ -847,7 +847,7 @@
         "voice": "GC910016.ogg"
       },
       "original": "冗談だよ冗談。そんなに怖い顔でオレをにらむなって。",
-      "translation": "농담이야,농담. 그렇게 무서운얼굴로노려보지말라고.",
+      "translation": "농담이야, 농담. 그렇게 무서운얼굴로노려보지말라고.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1309,7 +1309,7 @@
         "voice": "GC910103.ogg"
       },
       "original": "念のため、頼むよ。",
-      "translation": "만약을위해,부탁해.",
+      "translation": "혹시 모르니 부탁해",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3907,7 +3907,7 @@
         "voice": "GC910517.ogg"
       },
       "original": "だから俺がいったい何をしたっ！？",
-      "translation": "그래서내가도대체뭘했다는거야！？",
+      "translation": "그래서 대체 뭘 했다는 거야!?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5779,7 +5779,7 @@
         "voice": "GC910708.ogg"
       },
       "original": "まったく……おまえって奴は少しは真面目に考える気がないのか……。",
-      "translation": "정말이지…… 너란 녀석은 좀 진지하게 생각할 마음이 없는 거냐…….",
+      "translation": "정말이지…… 너란 녀석은 좀 진지하게 생각할 마음이 없는 거냐……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5875,7 +5875,7 @@
         "voice": "GC910709.ogg"
       },
       "original": "普通に考えれば、ありえるはずがない。",
-      "translation": "상식적으로 생각하면있을수없는일이다.",
+      "translation": "상식적으로는 있을 수 없는 일이다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8137,7 +8137,7 @@
         "voice": "GC911200.ogg"
       },
       "original": "どうする、タクト。追撃するか？",
-      "translation": "어떻게 할 거야,택트.추격할까？",
+      "translation": "어떻게 할 거야, 택트. 추격해?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9421,7 +9421,7 @@
         "voice": "GC911236.ogg"
       },
       "original": "私たちを救助してくださったことに、心からの感謝を。",
-      "translation": "저희를구조해 주신 것에 대해,진심으로감사드립니다.",
+      "translation": "저희를구조해 주신 것에 대해, 진심으로감사드립니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

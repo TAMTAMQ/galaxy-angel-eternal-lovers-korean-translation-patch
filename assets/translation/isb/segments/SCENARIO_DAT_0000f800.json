@@ -3167,7 +3167,7 @@
         "voice": "GC120205.ogg"
       },
       "original": "やれやれ、今までこんな冷血司令官に背中を預けていたとはね。",
-      "translation": "이런이런,지금까지 이런 냉혈 사령관에게등을맡기고있었다니.",
+      "translation": "이런, 지금껏 이런 냉혈 사령관에게 등을 맡겼다니.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -16115,7 +16115,7 @@
         "voice": "GC121003.ogg"
       },
       "original": "ふふふ、冗談です。",
-      "translation": "후후후,농담이에요.",
+      "translation": "후후후, 농담이에요",
       "state": "shortened",
       "use_translation": true,
       "storage": [

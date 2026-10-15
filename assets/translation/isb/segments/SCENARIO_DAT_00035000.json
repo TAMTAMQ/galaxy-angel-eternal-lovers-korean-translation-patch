@@ -239,7 +239,7 @@
         "voice": "GC140054.ogg"
       },
       "original": "……確かに、そこ以外はなさそうだね。",
-      "translation": "……확실히, 그곳 말고는 없을 것같네.",
+      "translation": "……확실히, 그곳 말곤 없을 것 같네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -491,7 +491,7 @@
         "voice": "GC140060.ogg"
       },
       "original": "その可能性は高いです……。",
-      "translation": "그럴 가능성이높습니다…….",
+      "translation": "그럴 가능성이 큽니다……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3209,7 +3209,7 @@
         "voice": "GC140715.ogg"
       },
       "original": "不利な状況下で戦いへ",
-      "translation": "불리한상황에서전투로",
+      "translation": "불리한 상황에서 전투",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3749,7 +3749,7 @@
         "voice": "GC140816.ogg"
       },
       "original": "敵艦主砲、来ます！",
-      "translation": "적함 주포,옵니다！",
+      "translation": "적함 주포, 옵니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3947,7 +3947,7 @@
         "voice": "GC140820.ogg"
       },
       "original": "どうしたんだ……急に攻撃がやんだ……？",
-      "translation": "어떻게된거지……갑자기공격이멈췄다…？",
+      "translation": "왜 이러지…… 공격이 멈췄다……?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

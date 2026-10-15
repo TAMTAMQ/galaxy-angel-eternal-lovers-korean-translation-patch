@@ -11285,7 +11285,7 @@
         "voice": "GC120457.ogg"
       },
       "original": "救助したあの日以来、君たちは一度も笑ってくれなかったからね。",
-      "translation": "구조한그날 이후로, 너희는 한 번도 웃어주지않았으니까말이야.",
+      "translation": "구조한 그날 이후, 너희는 한 번도 웃지 않았으니까.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

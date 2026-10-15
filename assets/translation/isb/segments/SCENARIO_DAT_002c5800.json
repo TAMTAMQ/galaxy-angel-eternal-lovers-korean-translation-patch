@@ -455,7 +455,7 @@
         "voice": "GC970012.ogg"
       },
       "original": "お疲れ様です、ノアさん。",
-      "translation": "수고 많으십니다, 노아씨.",
+      "translation": "수고하십니다, 노아 씨.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -977,7 +977,7 @@
         "voice": "GC970032.ogg"
       },
       "original": "信頼には応えます……。",
-      "translation": "신뢰에부응하겠습니다…",
+      "translation": "신뢰에 보답할게요…….",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -1025,7 +1025,7 @@
         "voice": "GC970033.ogg"
       },
       "original": "了解。今戻るよ。",
-      "translation": "알았다.지금가지.",
+      "translation": "알았다. 지금 가.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1673,7 +1673,7 @@
         "voice": "GC970104.ogg"
       },
       "original": "惚れた女との幸せのため……か。",
-      "translation": "반한여자와의행복을위해서…인가",
+      "translation": "반한 여자와 행복하려는 건가.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -1997,7 +1997,7 @@
         "voice": "GC970117.ogg"
       },
       "original": "……いよいよ、だね。",
-      "translation": "……드디어,로군.\n",
+      "translation": "……드디어, 로군.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2015,7 +2015,7 @@
         "voice": "GC970118.ogg"
       },
       "original": "……いよいよ、だな。",
-      "translation": "……드디어,로군.\n",
+      "translation": "……드디어, 로군.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2345,7 +2345,7 @@
         "voice": "GC970129.ogg"
       },
       "original": "ＥＤＥＮ解放艦隊総司令官改め、決戦艦隊総司令官タクト・マイヤーズ。",
-      "translation": "EDEN 해방 함대 총사령관에서 결전 함대 총사령관으로, 택트・마이어스.",
+      "translation": "EDEN 해방 함대 총사령관에서 결전 함대 총사령관으로, 택트・마이어스",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4055,7 +4055,7 @@
         "voice": "GC970237.ogg"
       },
       "original": "それじゃ、話を元に戻すわよ。",
-      "translation": "그럼,이야기를원래대로돌릴게.",
+      "translation": "그럼, 이야기로 돌아갈게.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4217,7 +4217,7 @@
         "voice": "GC970304.ogg"
       },
       "original": "とはいえ、何が起きるのかわからないのが戦場さ。",
-      "translation": "그렇지만,무슨 일이 일어날지 모르는게전장이야.",
+      "translation": "그렇지만, 무슨 일이 일어날지 모르는게전장이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4823,7 +4823,7 @@
         "voice": "GC970327.ogg"
       },
       "original": "少なくとも、生きている間に帰りつくことはまず不可能でしょうね。",
-      "translation": "적어도 살아있는 동안 돌아가는 것은 거의 불가능하겠군요.\n",
+      "translation": "적어도 살아 있는 동안 돌아가는 것은 거의 불가능하겠군요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4871,7 +4871,7 @@
         "voice": "GC970329.ogg"
       },
       "original": "苦労したわ。でも、なんとか方法は見つけた。",
-      "translation": "고생 좀 했지.하지만어떻게든방법을찾아냈어.",
+      "translation": "고생 좀 했지. 그래도 방법은 찾아냈어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8627,7 +8627,7 @@
         "voice": "GC970458.ogg"
       },
       "original": "だって、こんな興味深い生物はいないもの。もっともっと、研究してみたいわ。",
-      "translation": "왜냐하면,이렇게 흥미로운 생물은 없으니까. 좀 더 좀 더 연구해 보고 싶어.",
+      "translation": "왜냐하면, 이렇게 흥미로운 생물은 없으니까. 좀 더 좀 더 연구해 보고 싶어.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8843,7 +8843,7 @@
         "voice": "GC970501.ogg"
       },
       "original": "大丈夫大丈夫。その話はクロノ・ドライヴ中にゆっくりするよ。",
-      "translation": "괜찮아,괜찮아. 그 이야기는크로노・드라이브중에천천히하자.",
+      "translation": "괜찮아, 괜찮아. 그 이야기는크로노・드라이브중에천천히하자.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -9695,7 +9695,7 @@
         "voice": "GC970610.ogg"
       },
       "original": "安心しろ、クロノ・クェイク爆弾はまだ完成していない。",
-      "translation": "안심해라,크로노・퀘이크 폭탄은 아직 완성되지않았다.",
+      "translation": "안심해라, 크로노・퀘이크 폭탄은 아직 완성되지않았다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10181,7 +10181,7 @@
         "voice": "GC970622.ogg"
       },
       "original": "やれやれ、人が悪いんだから。",
-      "translation": "정말이지,사람을놀리신다니까.",
+      "translation": "정말, 사람을 놀리신다니까.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10373,7 +10373,7 @@
         "voice": "GC970631.ogg"
       },
       "original": "よかったよかった。ふふふ。",
-      "translation": "다행이다, 다행이야.후후후.",
+      "translation": "다행이다. 후후후.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10427,7 +10427,7 @@
         "voice": "GC970634.ogg"
       },
       "original": "……もう、ココったら……。",
-      "translation": "……정말이지,코코도참…….",
+      "translation": "……정말, 코코도 참……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14435,7 +14435,7 @@
         "voice": "GC570113.ogg"
       },
       "original": "銀河展望公園か……よし、行って待つか。",
-      "translation": "은하 전망공원인가...좋아,가서기다릴까.",
+      "translation": "은하 전망 공원인가…… 좋아, 기다릴까.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14729,7 +14729,7 @@
         "voice": "GC970707.ogg"
       },
       "original": "そのようです、シヴァ様。",
-      "translation": "그런 것 같습니다,시바님.",
+      "translation": "그런 듯합니다, 시바님.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14765,7 +14765,7 @@
         "voice": "GC970708.ogg"
       },
       "original": "いえ、今のところは何も……。",
-      "translation": "아니요,현재로서는아무것도...",
+      "translation": "아니요, 현재는 아무것도…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15023,7 +15023,7 @@
         "voice": "GC970718.ogg"
       },
       "original": "いえ、まだよ。",
-      "translation": "아니,아직이야.",
+      "translation": "아니, 아직이야",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15215,7 +15215,7 @@
         "voice": "GC970725.ogg"
       },
       "original": "いや、待て。",
-      "translation": "아니,기다려.",
+      "translation": "아니, 잠깐.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15509,7 +15509,7 @@
         "voice": "GC970737.ogg"
       },
       "original": "こちらには交渉の用意がある。ゲルンよ、貴君の返答を乞う。",
-      "translation": "협상의준비는 되어 있다.게른이여,그대의응답을기다리겠다.",
+      "translation": "협상 준비는 됐다. 게른이여, 그대의 응답을 기다리겠다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -16319,7 +16319,7 @@
         "voice": "GC970760.ogg"
       },
       "original": "はい、もう回線はつないであります。どうぞ。",
-      "translation": "네, 이미 회선은 연결했습니다.말씀하십시오.",
+      "translation": "네, 회선은 연결했습니다. 말씀하세요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17399,7 +17399,7 @@
         "voice": "GC971701.ogg"
       },
       "original": "選択肢・ちとせにかける言葉",
-      "translation": "선택지・치토세에게건네는말",
+      "translation": "선택지・치토세에게 하는 말",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18053,7 +18053,7 @@
         "voice": "GC972016.ogg"
       },
       "original": "うむ、そうだ。汝らに、余に仕えることを許そう。",
-      "translation": "음,좋다. 너희에게 내밑으로들어오는걸허락하마.",
+      "translation": "음, 좋다. 너희에게 내밑으로들어오는걸허락하마.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -18767,7 +18767,7 @@
         "voice": "GC972041.ogg"
       },
       "original": "破壊と征服こそ、全て。",
-      "translation": "파괴와정복,그것뿐이다.",
+      "translation": "파괴와 정복이 전부다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

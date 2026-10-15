@@ -3760,7 +3760,7 @@
         "voice": "GC130426.ogg"
       },
       "original": "ああ、誓うよ。",
-      "translation": "아아,맹세할게.",
+      "translation": "아아, 맹세해.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3898,7 +3898,7 @@
         "voice": "GC130502.ogg"
       },
       "original": "けど、その……。",
-      "translation": "하지만,그게…….",
+      "translation": "하지만, 그게……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4834,7 +4834,7 @@
         "voice": "GC130601.ogg"
       },
       "original": "ああ、別にいいよ。オレになにか？",
-      "translation": "아아,상관없어.나한테무슨일이야？",
+      "translation": "아아, 상관없어. 나한테 무슨 일?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9832,7 +9832,7 @@
         "voice": "GC131138.ogg"
       },
       "original": "タクトさんこそ、全然わかってくれません！",
-      "translation": "택트 씨야말로 전혀이해못해주고있잖아요！",
+      "translation": "택트 씨야말로 전혀 이해 못 해주잖아요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10348,7 +10348,7 @@
         "voice": "GC131150.ogg"
       },
       "original": "まったく、しょうがないやつだ……。",
-      "translation": "정말이지, 어쩔 수없는녀석이군…….",
+      "translation": "정말, 못 말릴 녀석이군……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13534,7 +13534,7 @@
         "voice": "GC131525.ogg"
       },
       "original": "今は、君と話す気分じゃないんだ……。",
-      "translation": "지금은 너와이야기할기분이아니야…….",
+      "translation": "지금은 너와 얘기할 기분이 아니야……",
       "state": "shortened",
       "use_translation": true,
       "storage": [

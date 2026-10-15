@@ -2811,7 +2811,7 @@
         "voice": "GC470126.ogg"
       },
       "original": "……ああ、止めないよ。",
-      "translation": "……그래,말리지않을게.",
+      "translation": "……그래, 안 말릴게.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3783,7 +3783,7 @@
         "voice": "GC170410.ogg"
       },
       "original": "奴にはクロノ・クェイク爆弾がある……うかつに手を出しては……。",
-      "translation": "그놈에게는 크로노・퀘이크 폭탄이 있다…함부로손을댔다간…….",
+      "translation": "그놈에겐 크로노・퀘이크 폭탄이 있다…… 함부로 손대면……",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4527,7 +4527,7 @@
         "voice": "GC170512.ogg"
       },
       "original": "レスター、あとは頼む。今からおまえが総司令官だ。",
-      "translation": "레스터,나머진 부탁한다. 이제 네가 총사령관이다.",
+      "translation": "레스터, 나머진 부탁한다. 이제 네가 총사령관이다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5619,7 +5619,7 @@
         "voice": "GC470330.ogg"
       },
       "original": "フォルテ、一気にクロノ・クェイク爆弾の鼻先に取りつくんだ。",
-      "translation": "포르테,단숨에 크로노・퀘이크 폭탄 코앞까지 파고드는 거야.",
+      "translation": "포르테, 단숨에 크로노・퀘이크 폭탄 코앞까지 파고드는 거야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5661,7 +5661,7 @@
         "voice": "GC470332.ogg"
       },
       "original": "鼻先って……あ。まさか！？",
-      "translation": "코앞이라니…… 아.설마！？",
+      "translation": "코앞이라니…… 아, 설마!?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6813,7 +6813,7 @@
         "voice": "GC170639.ogg"
       },
       "original": "ご安心を。私ども、なーんにも見ておりませんから。ええ、何も。",
-      "translation": "안심하세요.저희는 아무것도 보지 않았으니까요. 네, 아무것도.",
+      "translation": "안심하세요. 저희는 아무것도 보지 않았으니까요. 네, 아무것도.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

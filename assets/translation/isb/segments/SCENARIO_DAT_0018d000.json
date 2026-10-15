@@ -1509,7 +1509,7 @@
         "voice": "GC460118.ogg"
       },
       "original": "あぁ、了解～。",
-      "translation": "아아,알았어～.",
+      "translation": "아아, 알았어～",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3711,7 +3711,7 @@
         "voice": "GC460211.ogg"
       },
       "original": "タクトさんからお渡ししたほうが、フォルテ先輩も喜ぶかと……。",
-      "translation": "택트 씨가 전해주시는 편이 포르테 선배도기뻐하실것같아서….",
+      "translation": "택트 씨가 전해 주시면 포르테 선배도 기뻐하실 것 같아서…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5913,7 +5913,7 @@
         "voice": "GC460256.ogg"
       },
       "original": "それに目の下にもクマが……。ちゃんと寝てる？",
-      "translation": "게다가 눈밑에다크서클도…….잠은잘자고있어？",
+      "translation": "눈 밑에 다크서클도 있네……. 잠은 잘 자?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11049,7 +11049,7 @@
         "voice": "GC460620.ogg"
       },
       "original": "あ、本当だ。",
-      "translation": "아,정말이다.",
+      "translation": "아, 정말이다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13515,7 +13515,7 @@
         "voice": "GC460916.ogg"
       },
       "original": "いや……あのふたり、今どうしてるのか気になってね……。",
-      "translation": "아니…그두사람,지금어떻게지내는지궁금해서말이야…….",
+      "translation": "아니…… 그 둘, 지금 어찌 지내나 궁금해서…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -14367,7 +14367,7 @@
         "voice": "GC161204.ogg"
       },
       "original": "本当に君たちはよくわからない……。敵である僕が……『ヴァル・ファスク』が生きていたことが、なぜそんなに嬉しい……。",
-      "translation": "정말 너희는 알 수가 없어……. 적인 내가…… 『발・파스크』가 살아있다는 게, 왜 그렇게 기쁜 거지…….\n",
+      "translation": "정말 너희는 이해가 안 돼……. 적이었던 내가 살아 있다니…… 『발・파스크』가 살아 있는 게 왜 그렇게 기쁘지…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -14871,7 +14871,7 @@
         "voice": "GC161223.ogg"
       },
       "original": "君は認めるのか……？　欲すると……いうのか……？",
-      "translation": "너는인정할것인가……？원한다고……하는건가……？",
+      "translation": "너는 인정하나……? 원한다고…… 말하나……?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15123,7 +15123,7 @@
         "voice": "GC161230.ogg"
       },
       "original": "そいつだってきっと……死ぬほど後悔してる……はずさ……。",
-      "translation": "그 녀석도분명…죽을만큼후회하고있을거다……아마도…….",
+      "translation": "그 녀석도 분명…… 죽도록 후회할 거다…… 아마도……",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -15381,7 +15381,7 @@
         "voice": "GC161242.ogg"
       },
       "original": "ああ、でも……。",
-      "translation": "아아,하지만…….",
+      "translation": "아아, 하지만……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16533,7 +16533,7 @@
         "voice": "GC161344.ogg"
       },
       "original": "かつて、この銀河を暗黒時代におとしいれた、未曾有の災厄――",
-      "translation": "과거에,이 은하를 암흑시대로 몰아넣었던, 미증유의 재앙――",
+      "translation": "과거에 이 은하를 암흑시대로 몰아넣었던 미증유의 재앙――",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -19173,7 +19173,7 @@
         "voice": "GC460620.ogg"
       },
       "original": "あ、本当だ。",
-      "translation": "아,정말이다.",
+      "translation": "아, 정말이다",
       "state": "shortened",
       "use_translation": true,
       "storage": [

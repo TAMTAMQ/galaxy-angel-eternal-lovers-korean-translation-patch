@@ -866,7 +866,7 @@
         "voice": "GC550111.ogg"
       },
       "original": "あの、私……。",
-      "translation": "저기,저는…….",
+      "translation": "저기, 전……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1892,7 +1892,7 @@
         "voice": "GC550205.ogg"
       },
       "original": "いや。本当だ。",
-      "translation": "아니.사실이야.",
+      "translation": "아니. 진짜야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1910,7 +1910,7 @@
         "voice": "GC550206.ogg"
       },
       "original": "そんな。とても信じられません。",
-      "translation": "말도 안 돼.도저히믿을수없어요.",
+      "translation": "말도 안 돼. 믿을 수 없어요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3434,7 +3434,7 @@
         "voice": "GC550256.ogg"
       },
       "original": "そしたらね、考えるまでもなかったわ。",
-      "translation": "그랬더니말이야,생각할필요도없더라고.",
+      "translation": "그랬더니, 생각할 필요도 없더라고.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4058,7 +4058,7 @@
         "voice": "GC550268.ogg"
       },
       "original": "ん、人の声がする。誰かいるのかな？",
-      "translation": "음,사람목소리가들려.누가있는걸까？",
+      "translation": "음, 사람 목소리야. 누가 있나?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5996,7 +5996,7 @@
         "voice": "GC550411.ogg"
       },
       "original": "根気はいるし。目は疲れるし。とても時間がかかるものなの。",
-      "translation": "인내심도필요하고 눈도피로해져서,아주시간이걸리는법이야.",
+      "translation": "인내심도필요하고 눈도피로해져서, 아주시간이걸리는법이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6758,7 +6758,7 @@
         "voice": "GC550425.ogg"
       },
       "original": "な、なんでいきなり闇鍋が出てくるんだ。",
-      "translation": "왜,왜갑자기암흑전골이야기가나오는거야.",
+      "translation": "왜, 왜 갑자기 암흑 전골 얘기야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6944,7 +6944,7 @@
         "voice": "GC550430.ogg"
       },
       "original": "重要事項、ですか。",
-      "translation": "중요사항,말인가요?",
+      "translation": "중요 사항인가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7832,7 +7832,7 @@
         "voice": "GC550502.ogg"
       },
       "original": "ヴァニラ、あのさ……。",
-      "translation": "바닐라,저기말이야…….",
+      "translation": "바닐라, 있잖아……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8474,7 +8474,7 @@
         "voice": "GC550519.ogg"
       },
       "original": "でも。でも私は……。",
-      "translation": "하지만.하지만난…….",
+      "translation": "하지만…… 난……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9386,7 +9386,7 @@
         "voice": "GC550549.ogg"
       },
       "original": "……信じます。私。",
-      "translation": "……믿을게요.저를.",
+      "translation": "……저를 믿을게요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9884,7 +9884,7 @@
         "voice": "GC550562.ogg"
       },
       "original": "でも、まだ半分しか……。",
-      "translation": "하지만,아직절반밖에…….",
+      "translation": "하지만, 아직 반밖에……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11306,7 +11306,7 @@
         "voice": "GC550728.ogg"
       },
       "original": "大丈夫。自分に自信を持てば、ちゃんと動かせるさ。",
-      "translation": "괜찮아.자신감을 가지면 제대로 움직일수있을거야.",
+      "translation": "괜찮아. 자신감을 가지면 제대로 움직일 수 있어.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -12632,7 +12632,7 @@
         "voice": "GC550919.ogg"
       },
       "original": "その隙を一気について叩く！",
-      "translation": "그틈을노려단숨에타격한다！",
+      "translation": "그 틈을 노려 단숨에 친다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12998,7 +12998,7 @@
         "voice": "GC151307.ogg"
       },
       "original": "周囲の状況の確認急げ！",
-      "translation": "주위상황확인을서둘러！",
+      "translation": "주변 상황 확인 서둘러!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14066,7 +14066,7 @@
         "voice": "GC151404.ogg"
       },
       "original": "私にできる最大限の戦いを……。",
-      "translation": "내가 할수있는최선의싸움을…….",
+      "translation": "내 최선의 싸움을……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14084,7 +14084,7 @@
         "voice": "GC151405.ogg"
       },
       "original": "正義は必ず勝つのです！",
-      "translation": "정의는반드시승리해요！",
+      "translation": "정의는 꼭 승리해요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14156,7 +14156,7 @@
         "voice": "GC551208.ogg"
       },
       "original": "お、ヴァニラ、今日はやる気だね。",
-      "translation": "오, 바닐라,오늘은의욕이넘치는데.",
+      "translation": "오, 바닐라, 오늘은 의욕 넘치네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15140,7 +15140,7 @@
         "voice": "GC551424.ogg"
       },
       "original": "それが、どうして戦える？",
-      "translation": "그런데어떻게싸울수있지？",
+      "translation": "그런데 어떻게 싸우지?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15488,7 +15488,7 @@
         "voice": "GC151588.ogg"
       },
       "original": "ただそれだけ……それが心……心……。",
-      "translation": "그저그것뿐……그것이마음……마음……",
+      "translation": "그것뿐…… 그게 마음…… 마음……",
       "state": "shortened",
       "use_translation": true,
       "storage": [

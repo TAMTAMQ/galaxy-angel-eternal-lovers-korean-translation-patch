@@ -577,7 +577,7 @@
         "voice": "GC560108.ogg"
       },
       "original": "例のあれ、とはなんでしょうか。",
-      "translation": "예의그것이라니,무엇을말인가요.",
+      "translation": "그거란 뭔가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2419,7 +2419,7 @@
         "voice": "GC160402.ogg"
       },
       "original": "いえ、別になにもありません。",
-      "translation": "아뇨, 딱히 아무것도없습니다.",
+      "translation": "아뇨, 딱히 아무것도 없어요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2815,7 +2815,7 @@
         "voice": "GC560231.ogg"
       },
       "original": "い、いえ。なんでもないんです。あはは……。",
-      "translation": "아, 아니에요. 아무것도 아니에요.아하하……",
+      "translation": "아, 아뇨. 아무것도 아니에요. 아하하……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3079,7 +3079,7 @@
         "voice": "GC560236.ogg"
       },
       "original": "艦内をうろつく怪しげな影……か。",
-      "translation": "함내를배회하는수상한그림자…인가",
+      "translation": "함내의 수상한 그림자인가……",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -3613,7 +3613,7 @@
         "voice": "GC560248.ogg"
       },
       "original": "規定の乗員、動物たちの他に生体反応はありません。偵察プローブ、盗聴器などの金属反応も同様です。",
-      "translation": "규정 승무원과 동물 외 생체 반응은 없습니다.정찰 프로브, 도청기 등의 금속반응도마찬가지입니다.",
+      "translation": "규정 승무원과 동물 외 생체 반응은 없습니다. 정찰 프로브, 도청기 등의 금속반응도마찬가지입니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -9427,7 +9427,7 @@
         "voice": "GC560569.ogg"
       },
       "original": "――ヴァニラの心には、まだ秘密があるみたいだ。",
-      "translation": "――바닐라의마음속에는,아직비밀이있는모양이다",
+      "translation": "――바닐라 마음엔 아직 비밀이 있는 모양이다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -9991,7 +9991,7 @@
         "voice": "GC560615.ogg"
       },
       "original": "そうよ、乙女心は複雑なんだから。",
-      "translation": "맞아요,소녀의마음은복잡하니까요.",
+      "translation": "맞아요, 소녀 마음은 복잡해요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13243,7 +13243,7 @@
         "voice": "GC560829.ogg"
       },
       "original": "それが純情可憐な、乙女心というものよ。",
-      "translation": "그게 순정 가련한,소녀의마음이라는거야.",
+      "translation": "그게 순정 가련한 소녀의 마음이란 거야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13459,7 +13459,7 @@
         "voice": "GC560833.ogg"
       },
       "original": "……よし。決めた。",
-      "translation": "……좋아.결정했어.",
+      "translation": "……좋아. 정했어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13939,7 +13939,7 @@
         "voice": "GC560914.ogg"
       },
       "original": "そんな自分が、好きになれる気がしますから。",
-      "translation": "그런 제 자신을, 좋아질 수있을것같으니까요.",
+      "translation": "그런 자신을 좋아할 수 있을 것 같으니까요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15787,7 +15787,7 @@
         "voice": "GC161204.ogg"
       },
       "original": "本当に君たちはよくわからない……。敵である僕が……『ヴァル・ファスク』が生きていたことが、なぜそんなに嬉しい……。",
-      "translation": "정말 너희는 알 수가 없어……. 적인 내가…… 『발・파스크』가 살아있다는 게, 왜 그렇게 기쁜 거지…….\n",
+      "translation": "정말 너희는 이해가 안 돼……. 적이었던 내가 살아 있다니…… 『발・파스크』가 살아 있는 게 왜 그렇게 기쁘지…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -16729,7 +16729,7 @@
         "voice": "GC161242.ogg"
       },
       "original": "ああ、でも……。",
-      "translation": "아아,하지만…….",
+      "translation": "아아, 하지만……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17383,7 +17383,7 @@
         "voice": "GC161323.ogg"
       },
       "original": "いつしか、あの人を追い越してしまった私を見上げる、少し寂しげな瞳……。",
-      "translation": "언제부턴가, 그 사람을 앞질러 버린 나를올려다보는,조금쓸쓸한눈동자…….",
+      "translation": "언제부턴가, 그 사람을 앞지른 나를 올려다보는 조금 쓸쓸한 눈동자…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17893,7 +17893,7 @@
         "voice": "GC161342.ogg"
       },
       "original": "はい。今再び、この銀河に大いなる災厄が訪れようとしています。",
-      "translation": "네.지금 다시, 이 은하에 거대한 재앙이 찾아오려하고있습니다.",
+      "translation": "네. 지금 다시, 이 은하에 거대한 재앙이 찾아오려하고있습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -17941,7 +17941,7 @@
         "voice": "GC161344.ogg"
       },
       "original": "かつて、この銀河を暗黒時代におとしいれた、未曾有の災厄――",
-      "translation": "과거에,이 은하를 암흑시대로 몰아넣었던, 미증유의 재앙――",
+      "translation": "과거에 이 은하를 암흑시대로 몰아넣었던 미증유의 재앙――",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -18145,7 +18145,7 @@
         "voice": "GC161704.ogg"
       },
       "original": "構わぬ。皆をねぎらってやるがよい。",
-      "translation": "상관없다.모두를격려해주도록하거라.",
+      "translation": "상관없다. 모두를 격려해 주거라.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18451,7 +18451,7 @@
         "voice": "GC161806.ogg"
       },
       "original": "あはははは、その正直さに免じて許してあげるよ。",
-      "translation": "아하하하하,그 솔직함에 면목을 세워용서해줄게.",
+      "translation": "아하하하하, 그 솔직함에 면목을 세워용서해줄게.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -18523,7 +18523,7 @@
         "voice": "GC561811.ogg"
       },
       "original": "ちとせさん。お気遣いは無用です……。",
-      "translation": "치토세씨.신경쓰지않으셔도됩니다…….",
+      "translation": "치토세 씨. 신경 쓰지 마세요…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [

@@ -700,7 +700,7 @@
         "voice": "GC120110.ogg"
       },
       "original": "それなら話は早い。で、どうなんですか、あのふたりは？",
-      "translation": "그렇다면 얘기가 빠르군요.그래서,그두사람은어떤가요？",
+      "translation": "그럼 얘기가 빠르군요. 그래서 두 사람은 어떤가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -922,7 +922,7 @@
         "voice": "GC520113.ogg"
       },
       "original": "ああ。ケーラ先生のお墨つきだよ。",
-      "translation": "아아.케라선생님이보증하신거니까.",
+      "translation": "아아. 케라 선생님 보증이니까.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1048,7 +1048,7 @@
         "voice": "GC520115.ogg"
       },
       "original": "うーん、入りづらい……。",
-      "translation": "으음,들어가기힘드네…….",
+      "translation": "으음, 들어가기 힘드네",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1882,7 +1882,7 @@
         "voice": "GC520143.ogg"
       },
       "original": "もちろん、非礼はお詫びします。そして、同時に――",
-      "translation": "물론 무례했던 점은 사과드립니다.그리고동시에――",
+      "translation": "물론 무례한 점은 사과드립니다. 그리고 동시에――",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2818,7 +2818,7 @@
         "voice": "GC120205.ogg"
       },
       "original": "やれやれ、今までこんな冷血司令官に背中を預けていたとはね。",
-      "translation": "이런이런,지금까지 이런 냉혈 사령관에게등을맡기고있었다니.",
+      "translation": "이런, 지금껏 이런 냉혈 사령관에게 등을 맡겼다니.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4384,7 +4384,7 @@
         "voice": "GC120339.ogg"
       },
       "original": "はい、全て完了です。",
-      "translation": "네,모두완료했습니다.",
+      "translation": "네, 모두 끝났습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4750,7 +4750,7 @@
         "voice": "GC120359.ogg"
       },
       "original": "つい最近まで、自分もあんな感じでアタシたちを見てたのにね～。",
-      "translation": "얼마 전까지 본인도 저런 느낌으로우리를보고있었으면서말이야～",
+      "translation": "얼마 전까진 본인도 저런 느낌으로 우릴 봤으면서 말이야～",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5092,7 +5092,7 @@
         "voice": "GC520345.ogg"
       },
       "original": "改めまして。ヴァニラ・Ｈです。",
-      "translation": "다시인사하죠.바닐라・H입니다.",
+      "translation": "인사드리죠. 바닐라・H예요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5524,7 +5524,7 @@
         "voice": "GC120382.ogg"
       },
       "original": "……雨？　屋内で？",
-      "translation": "……비？실내에서？",
+      "translation": "……비? 실내에서?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5650,7 +5650,7 @@
         "voice": "GC120387.ogg"
       },
       "original": "よし、カフカフの木の下で雨宿りだ。みんな、走れ～。",
-      "translation": "좋아, 카프카프 나무 아래서비를피하자.모두,뛰어～！",
+      "translation": "좋아, 카프카프 나무 밑에서 피하자. 모두, 뛰어～!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5806,7 +5806,7 @@
         "voice": "GC120392.ogg"
       },
       "original": "いえ……私こそボンヤリとしていて……。",
-      "translation": "아니에요…… 저야말로멍하니있어서…….",
+      "translation": "아뇨…… 저야말로 멍하니 있어서……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6016,7 +6016,7 @@
         "voice": "GC520378.ogg"
       },
       "original": "お、言い切ったね。",
-      "translation": "오,단호하게말하네.",
+      "translation": "오, 단호하네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6466,7 +6466,7 @@
         "voice": "GC520394.ogg"
       },
       "original": "ヴァインに『白き月』との合流を伝える",
-      "translation": "바인에게『하얀달』과의합류를전달한다",
+      "translation": "바인에게 『하얀 달』 합류를 전한다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6694,7 +6694,7 @@
         "voice": "GC120600.ogg"
       },
       "original": "はっはっは、何を今さら。",
-      "translation": "핫하하이제와서새삼스럽게",
+      "translation": "하하, 이제 와서 뭘 새삼.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -6754,7 +6754,7 @@
         "voice": "GC120602.ogg"
       },
       "original": "まあ、無理に理由をつけてもやることは同じだし。",
-      "translation": "뭐,억지로 이유를 붙여봤자 할 일은 똑같으니까.",
+      "translation": "뭐, 억지로 이유를 붙여도 할 일은 똑같으니까.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7408,7 +7408,7 @@
         "voice": "GC520600.ogg"
       },
       "original": "おはよう。ヴァニラ。",
-      "translation": "좋은아침이야,바닐라.",
+      "translation": "좋은 아침, 바닐라.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8596,7 +8596,7 @@
         "voice": "GC120768.ogg"
       },
       "original": "あはは、おだてても何も出ないよ？",
-      "translation": "아하하,아부떨어도아무것도안나와.",
+      "translation": "아하하, 아부해도 뭐 안 나와.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8728,7 +8728,7 @@
         "voice": "GC520636.ogg"
       },
       "original": "ヴァニラと公園でデート",
-      "translation": "바닐라와공원에서데이트",
+      "translation": "바닐라와 공원 데이트",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9628,7 +9628,7 @@
         "voice": "GC520818.ogg"
       },
       "original": "いえ、それには及びません。きっと僕と同じように艦内を探索しているのでしょう。",
-      "translation": "아니요,그럴 것까지는 없습니다. 분명 저와 마찬가지로 함내를 탐색하고 있겠죠.",
+      "translation": "아니요, 그럴 것까지는 없습니다. 분명 저와 마찬가지로 함내를 탐색하고 있겠죠.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10048,7 +10048,7 @@
         "voice": "GC520908.ogg"
       },
       "original": "心なしか、ヴァニラの視線が鋭いような……。",
-      "translation": "기분 탓인지,바닐라의시선이날카로운데……。",
+      "translation": "기분 탓인지, 바닐라 시선이 날카로운데……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10198,7 +10198,7 @@
         "voice": "GC521002.ogg"
       },
       "original": "おいで、ブギブギ。",
-      "translation": "이리오렴,부기부기.",
+      "translation": "이리 와, 부기부기.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10666,7 +10666,7 @@
         "voice": "GC521017.ogg"
       },
       "original": "はい。ナノマシンの治療も、必要なのは普通の治療と同じです。",
-      "translation": "네.나노머신 치료도, 필요한 것은 일반적인 치료와 같습니다.",
+      "translation": "네. 나노머신 치료도, 필요한 것은 일반적인 치료와 같습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -11326,7 +11326,7 @@
         "voice": "GC121104.ogg"
       },
       "original": "どうする、タクト？",
-      "translation": "어떡할 거야,택트？",
+      "translation": "어떡할 거야, 택트?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12124,7 +12124,7 @@
         "voice": "GC121213.ogg"
       },
       "original": "どうする、タクト？",
-      "translation": "어떡할 거야,택트？",
+      "translation": "어떡할 거야, 택트?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

@@ -798,7 +798,7 @@
         "voice": "GC525020.ogg"
       },
       "original": "もっとも、マイヤーズ司令にはあんまり関係ないかもしれないわね。",
-      "translation": "뭐,마이어스 사령관에게는 별로 상관없을지도 모르겠지만 말이야.",
+      "translation": "뭐, 마이어스 사령관에게는 별로 상관없을지도 모르겠지만 말이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1146,7 +1146,7 @@
         "voice": "GC525101.ogg"
       },
       "original": "いいえ、こちらこそ。",
-      "translation": "아니에요,저희야말로.",
+      "translation": "아뇨, 저희야말로.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2040,7 +2040,7 @@
         "voice": "GC525125.ogg"
       },
       "original": "……いえ、こちらこそ。",
-      "translation": "……아니에요,저야말로.",
+      "translation": "……아뇨, 저야말로.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

@@ -1409,7 +1409,7 @@
         "voice": "GC320124.ogg"
       },
       "original": "ああ。ケーラ先生のお墨つきだよ。",
-      "translation": "아아.케라선생님이보증하신거니까.",
+      "translation": "아아. 케라 선생님 보증이니까.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10277,7 +10277,7 @@
         "voice": "GC120602.ogg"
       },
       "original": "まあ、無理に理由をつけてもやることは同じだし。",
-      "translation": "뭐,억지로 이유를 붙여봤자 할 일은 똑같으니까.",
+      "translation": "뭐, 억지로 이유를 붙여도 할 일은 똑같으니까.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -19709,7 +19709,7 @@
         "voice": "GC121104.ogg"
       },
       "original": "どうする、タクト？",
-      "translation": "어떡할 거야,택트？",
+      "translation": "어떡할 거야, 택트?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -20447,7 +20447,7 @@
         "voice": "GC121125.ogg"
       },
       "original": "貴君らに告ぐ。我、我が名にかけて、立ちはだかる全てを打ち砕き、トランスバールへの道とする。",
-      "translation": "그대들에게 고한다. 나, 나의 이름을 걸고 가로막는모든 것을 부수고트랜스벌로가는길을열겠다.",
+      "translation": "그대들에게 고한다. 나의 이름을 걸고, 앞을 막는 모든 것을 부숴 트랜스벌로 가는 길을 열겠다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -20981,7 +20981,7 @@
         "voice": "GC121213.ogg"
       },
       "original": "どうする、タクト？",
-      "translation": "어떡할 거야,택트？",
+      "translation": "어떡할 거야, 택트?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -21629,7 +21629,7 @@
         "voice": "GC321270.ogg"
       },
       "original": "では、フォローに回ります……。",
-      "translation": "그럼,후방지원을맡겠습니다…….",
+      "translation": "그럼, 후방 지원 맡겠습니다……",
       "state": "shortened",
       "use_translation": true,
       "storage": [

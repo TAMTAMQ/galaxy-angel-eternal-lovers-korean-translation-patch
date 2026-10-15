@@ -41,7 +41,7 @@
         "voice": null
       },
       "original": "アルモ、作戦図をモニターへ。",
-      "translation": "아르모, 작전 지도 띄워.",
+      "translation": "아르모, 작전 지도를 띄워 줘.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -479,7 +479,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "もう一度、作戦内容を確認するか？",
-      "translation": "다시 작전 내용을 확인할까？",
+      "translation": "다시 한번, 작전 내용을 확인할까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

@@ -2892,7 +2892,7 @@
         "voice": "GC310202.ogg"
       },
       "original": "あはは……ダルノーさんならやりかねないかも……。",
-      "translation": "아하하…… 달노씨라면 그러고도 남겠네……",
+      "translation": "아하하…… 달노 씨라면 그러고도 남겠네……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3096,7 +3096,7 @@
         "voice": "GC310207.ogg"
       },
       "original": "いや、ミントは怒った顔も可愛いから、つい見たくなっちゃって。",
-      "translation": "아니,민트는 화난 얼굴도 귀여워서 나도 모르게 보고 싶어져서.",
+      "translation": "아니, 민트는 화난 얼굴도 귀여워서 나도 모르게 보고 싶어져서.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

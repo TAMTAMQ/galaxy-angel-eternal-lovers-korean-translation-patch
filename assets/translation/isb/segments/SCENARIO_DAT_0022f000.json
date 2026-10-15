@@ -128,7 +128,7 @@
         "voice": "GC650000.ogg"
       },
       "original": "ほら……あれだ、その……。",
-      "translation": "저기……그게,그러니까…….",
+      "translation": "저기…… 그게, 그러니까",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2210,7 +2210,7 @@
         "voice": "GC650125.ogg"
       },
       "original": "まったく。なにをうじうじ迷ってるんだい、あんたは！",
-      "translation": "정말이지.뭘 그렇게 우물쭈물 망설이는거야,당신은！",
+      "translation": "정말이지. 뭘 그렇게 망설여, 당신은!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2678,7 +2678,7 @@
         "voice": "GC650137.ogg"
       },
       "original": "だからアンタはバカなの。わかった？",
-      "translation": "그러니까당신이바보라는거야알겠어？",
+      "translation": "그러니 네가 바보라는 거야. 알겠어?",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -5624,7 +5624,7 @@
         "voice": "GC150429.ogg"
       },
       "original": "我々の内情は全て知られている……。",
-      "translation": "우리의내정은전부알려져있다니……。",
+      "translation": "우리 사정이 다 알려져 있다니…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5936,7 +5936,7 @@
         "voice": "GC150603.ogg"
       },
       "original": "……それではこれで解散だ。各自、明日に備えてくれ。",
-      "translation": "…그럼 이걸로 해산이다.각자내일을위해준비해둬라.",
+      "translation": "…그럼 이걸로 해산이다. 각자내일을위해준비해둬라.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6596,7 +6596,7 @@
         "voice": "GC650325.ogg"
       },
       "original": "は、はあ……。どうぞ。",
-      "translation": "하, 하아…….앉으세요.",
+      "translation": "하, 하아…… 앉으세요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8246,7 +8246,7 @@
         "voice": "GC650427.ogg"
       },
       "original": "照れるとか、そういう以前の問題で……。",
-      "translation": "부끄러움의문제가아니라그이전의문제로…",
+      "translation": "부끄러움 이전의 문제야…….",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -8954,7 +8954,7 @@
         "voice": "GC650460.ogg"
       },
       "original": "で、でも……。",
-      "translation": "하,하지만…….",
+      "translation": "하, 하지만……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10952,7 +10952,7 @@
         "voice": "GC650625.ogg"
       },
       "original": "おい、ちとせ、よせ。",
-      "translation": "어이, 치토세,그만해.",
+      "translation": "어이, 치토세, 그만.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11060,7 +11060,7 @@
         "voice": "GC650629.ogg"
       },
       "original": "とにかく、自分で食えるから……。",
-      "translation": "어쨌든,스스로먹을수있으니까…….",
+      "translation": "어쨌든, 혼자 먹을 수 있으니…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11858,7 +11858,7 @@
         "voice": "GC650652.ogg"
       },
       "original": "レスターさんが喜ぶかと……。",
-      "translation": "레스터씨가기뻐할것같아서요…",
+      "translation": "레스터 씨가 좋아할까 해서",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -12524,7 +12524,7 @@
         "voice": "GC650669.ogg"
       },
       "original": "そう、おまえの好物ばかりだ。",
-      "translation": "그래,네가좋아하는것들뿐이지.",
+      "translation": "그래, 네가 좋아하는 것들뿐.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12830,7 +12830,7 @@
         "voice": "GC650676.ogg"
       },
       "original": "ああ。わかった。",
-      "translation": "알았어.알겠다고.",
+      "translation": "그래. 알았어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13484,7 +13484,7 @@
         "voice": "GC650710.ogg"
       },
       "original": "それに、いざとなったら上手く告白できるかも心配だなあ……。",
-      "translation": "게다가 막상 때가 왔을때제대로고백할수있을지도걱정되네….",
+      "translation": "막상 때가 오면 제대로 고백할 수 있을지도 걱정이네…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -14540,7 +14540,7 @@
         "voice": "GC151307.ogg"
       },
       "original": "周囲の状況の確認急げ！",
-      "translation": "주위상황확인을서둘러！",
+      "translation": "주변 상황 확인 서둘러!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15134,7 +15134,7 @@
         "voice": "GC650817.ogg"
       },
       "original": "君の心も……たぶん、君が言う嫉妬を感じていたんじゃないか。オレたちの姿に。",
-      "translation": "당신의 마음도…… 아마, 당신이 말하는 질투를느끼고있었을거야.우리의모습에.",
+      "translation": "당신도…… 아마 그 질투를 느꼈을 거야. 우리 모습을 보고.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16682,7 +16682,7 @@
         "voice": "GC650924.ogg"
       },
       "original": "今なら、ちとせも一緒に戦えるかもしれない",
-      "translation": "지금이라면치토세도함께싸울수있을지도몰라",
+      "translation": "지금이라면 치토세도 같이 싸울 수 있겠어",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17660,7 +17660,7 @@
         "voice": "GC151404.ogg"
       },
       "original": "私にできる最大限の戦いを……。",
-      "translation": "내 할수있는최대한의싸움을…….",
+      "translation": "내 최선의 싸움을……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17678,7 +17678,7 @@
         "voice": "GC151405.ogg"
       },
       "original": "正義は必ず勝つのです！",
-      "translation": "정의는반드시승리해요！",
+      "translation": "정의는 꼭 승리해요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17696,7 +17696,7 @@
         "voice": "GC151405.ogg"
       },
       "original": "この戦い……君が頼りだよ、ちとせ。",
-      "translation": "이싸움……네가믿음직스러워,치토세.",
+      "translation": "이번 싸움…… 널 믿을게, 치토세.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17936,7 +17936,7 @@
         "voice": "GC651103.ogg"
       },
       "original": "あらあら、ご謙遜を。",
-      "translation": "어머나,겸손하시기도.",
+      "translation": "어머, 겸손하시기도.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18758,7 +18758,7 @@
         "voice": "GC651121.ogg"
       },
       "original": "ヴァインには信じられる人が……心から信頼すべき人がいたはずだ。",
-      "translation": "바인에게는 믿을수있는사람이…진심으로신뢰할사람이있었을텐데.",
+      "translation": "바인에겐 믿고 의지할 사람이 있었을 텐데.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -19946,7 +19946,7 @@
         "voice": "GC651224.ogg"
       },
       "original": "烏丸ちとせ、ただいま帰艦します！",
-      "translation": "카라스마 치토세,지금귀환합니다！",
+      "translation": "카라스마 치토세, 귀환합니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

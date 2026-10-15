@@ -711,7 +711,7 @@
         "voice": "GC120110.ogg"
       },
       "original": "それなら話は早い。で、どうなんですか、あのふたりは？",
-      "translation": "그렇다면 얘기가 빠르군요.그래서,그두사람은어떤가요？",
+      "translation": "그럼 얘기가 빠르군요. 그래서 두 사람은 어떤가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -951,7 +951,7 @@
         "voice": "GC620110.ogg"
       },
       "original": "ああ。ケーラ先生のお墨つきだよ。",
-      "translation": "아아.케라선생님이보증하신거니까.",
+      "translation": "아아. 케라 선생님 보증이니까.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1107,7 +1107,7 @@
         "voice": "GC620113.ogg"
       },
       "original": "うーん、入りづらい……。",
-      "translation": "으음,들어가기어렵네…….",
+      "translation": "으음, 들어가기 힘드네",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1125,7 +1125,7 @@
         "voice": "GC620114.ogg"
       },
       "original": "では、ここは私が先に入って事情を説明して参ります。",
-      "translation": "그럼,제가 먼저 들어가서 사정을설명하고오겠습니다.",
+      "translation": "그럼, 제가 먼저 들어가서 사정을설명하고오겠습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1389,7 +1389,7 @@
         "voice": "GC620124.ogg"
       },
       "original": "いえ、そんな……。",
-      "translation": "아니,그럴리가…….",
+      "translation": "아니요, 설마…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1449,7 +1449,7 @@
         "voice": "GC120125.ogg"
       },
       "original": "あっ、いや、疑いというのも、厳密には少し違うような気も……。",
-      "translation": "앗, 아니, 의심이라 해도 엄밀히 말하면 조금 다른것같기도…….",
+      "translation": "앗, 아니, 의심이라 해도 엄밀히 말하면 다른 것 같기도…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1563,7 +1563,7 @@
         "voice": "GC120126.ogg"
       },
       "original": "もちろん、非礼はお詫びします。そして、同時に――",
-      "translation": "물론 무례했던 점은 사과드립니다.그리고동시에――",
+      "translation": "물론 무례했던 점은 사과드립니다. 동시에――",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1587,7 +1587,7 @@
         "voice": "GC120126.ogg"
       },
       "original": "本艦は、あなた方おふたりをＥＤＥＮの使者として歓迎します。ようこそ、エルシオールへ。",
-      "translation": "본 함선은 당신들 두 사람을 EDEN의 사절로서환영합니다. 어서 오십시오,에르시올에.",
+      "translation": "본 함선은 당신들 두 사람을 EDEN의 사절로서 환영합니다. 어서 오십시오, 에르시올에.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2223,7 +2223,7 @@
         "voice": "GC620138.ogg"
       },
       "original": "そうですね。では私は、ひと足先にお茶会の支度をして参ります。",
-      "translation": "그렇군요.그럼 저는 한발 앞서 다과회 준비를 하고 오겠습니다.",
+      "translation": "그렇군요. 그럼 저는 한발 앞서 다과회 준비를 하고 오겠습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3285,7 +3285,7 @@
         "voice": "GC120221.ogg"
       },
       "original": "いえ、そんな……。",
-      "translation": "아니,그럴리가…….",
+      "translation": "아니요, 설마…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3849,7 +3849,7 @@
         "voice": "GC620310.ogg"
       },
       "original": "あ～ら、ちとせ、顔が真っ赤よ～！",
-      "translation": "어머,치토세,얼굴이새빨개졌어～！",
+      "translation": "어머, 치토세, 얼굴 새빨개졌어～!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5661,7 +5661,7 @@
         "voice": "GC620371.ogg"
       },
       "original": "改めまして、烏丸ちとせです。新米ですが、よろしくお願いいたします。",
-      "translation": "다시 인사드릴게요, 카라스마 치토세입니다.신입이지만잘부탁드립니다.",
+      "translation": "다시 인사드릴게요, 카라스마 치토세입니다. 신입이니 잘 부탁드려요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6267,7 +6267,7 @@
         "voice": "GC620390.ogg"
       },
       "original": "うふふふ、ちとせ、かわいい～。また真っ赤！",
-      "translation": "우후후,치토세귀여워～.또얼굴이새빨개졌어！",
+      "translation": "우후후, 치토세 귀여워～. 또 새빨개졌어!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6525,7 +6525,7 @@
         "voice": "GC120387.ogg"
       },
       "original": "よし、カフカフの木の下で雨宿りだ。みんな、走れ～。",
-      "translation": "좋아, 카프카프 나무 아래서 비를피하자.모두,뛰어～!",
+      "translation": "좋아, 카프카프 나무 밑에서 피하자. 모두, 뛰어～!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7563,7 +7563,7 @@
         "voice": "GC320451.ogg"
       },
       "original": "虹、ですね。見事なアーチを描いています。",
-      "translation": "무지개,군요. 멋진 아치를 그리고 있어요.\n",
+      "translation": "무지개, 군요. 멋진 아치를 그리고 있어요.\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8349,7 +8349,7 @@
         "voice": "GC620427.ogg"
       },
       "original": "す、すみません。なんでもありません。失礼します……！",
-      "translation": "죄, 죄송합니다. 아무것도 아닙니다.실례하겠습니다…！",
+      "translation": "죄, 죄송합니다. 아무것도 아닙니다. 실례할게요……!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8373,7 +8373,7 @@
         "voice": "GC620427.ogg"
       },
       "original": "今、ちとせ、涙目だったような……。",
-      "translation": "방금치토세,눈물이맺혔던것같은데...",
+      "translation": "방금 치토세, 눈물 맺혔던데…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8439,7 +8439,7 @@
         "voice": "GC620427.ogg"
       },
       "original": "ヴァインに『白き月』との合流を伝える",
-      "translation": "바인에게『하얀달』과의합류를전달한다",
+      "translation": "바인에게 『하얀 달』 합류를 전한다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8727,7 +8727,7 @@
         "voice": "GC120600.ogg"
       },
       "original": "はっはっは、何を今さら。",
-      "translation": "핫하하이제와서새삼스럽게",
+      "translation": "하하, 이제 와서 뭘 새삼.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -8787,7 +8787,7 @@
         "voice": "GC120602.ogg"
       },
       "original": "まあ、無理に理由をつけてもやることは同じだし。",
-      "translation": "뭐,억지로 이유를 붙여봤자 할 일은 똑같으니까.",
+      "translation": "뭐, 억지로 이유를 붙여도 할 일은 똑같으니까.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8991,7 +8991,7 @@
         "voice": "GC620606.ogg"
       },
       "original": "あ、すみません、少し考え事を……。",
-      "translation": "아, 죄송해요.잠시생각할게있어서….",
+      "translation": "아, 죄송해요. 잠깐 생각 좀……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10521,7 +10521,7 @@
         "voice": "GC620648.ogg"
       },
       "original": "あの……タクトさん汗だくですが、大丈夫でしょうか……？",
-      "translation": "저기…… 택트씨,땀을너무많이흘리시는데괜찮으세요……？",
+      "translation": "저기…… 택트 씨, 땀을 많이 흘리시는데 괜찮으세요……?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10743,7 +10743,7 @@
         "voice": "GC620657.ogg"
       },
       "original": "（呆れてものも言えませんわ……）",
-      "translation": "（어이가없어말도안나오네요……）",
+      "translation": "（어이없어 말도 안 나와요……）",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14925,7 +14925,7 @@
         "voice": "GC520818.ogg"
       },
       "original": "いえ、それには及びません。きっと僕と同じように艦内を探索しているのでしょう。",
-      "translation": "아니요,그럴 것까지는 없습니다. 분명 저와 마찬가지로 함내를 탐색하고 있겠죠.",
+      "translation": "아니요, 그럴 것까지는 없습니다. 분명 저와 마찬가지로 함내를 탐색하고 있겠죠.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -15489,7 +15489,7 @@
         "voice": "GC121017.ogg"
       },
       "original": "ああ～もう、こんな時に……！",
-      "translation": "아아～ 정말이지,이럴때……！",
+      "translation": "아아～ 정말, 이럴 때……!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15687,7 +15687,7 @@
         "voice": "GC121104.ogg"
       },
       "original": "どうする、タクト？",
-      "translation": "어떡할 거야,택트？",
+      "translation": "어떡할 거야, 택트?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15915,7 +15915,7 @@
         "voice": "GC621001.ogg"
       },
       "original": "そんな、どういうことだ！？",
-      "translation": "그럴 수가,어떻게된거지！？",
+      "translation": "그럴 수가, 어떻게 된 거지?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17145,7 +17145,7 @@
         "voice": "GC121270.ogg"
       },
       "original": "全紋章機の出力、急上昇！　これなら、全機戦えます！",
-      "translation": "전문장기출력급상승！이정도면전기체전투가능합니다！",
+      "translation": "전 문장기 출력 급상승! 이제 모두 싸울 수 있어요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

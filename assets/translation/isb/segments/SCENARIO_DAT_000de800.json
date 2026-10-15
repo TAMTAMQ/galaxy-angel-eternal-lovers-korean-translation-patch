@@ -2169,7 +2169,7 @@
         "voice": "GC270202.ogg"
       },
       "original": "デートに誘った張本人が、何を言ってるんだい？　それに、オレの隣はランファの指定席だろ。",
-      "translation": "데이트에 데려온 본인이 무슨 소리를 하는 거야?게다가 내 옆자리는 란파의 지정석이잖아.",
+      "translation": "데이트에 데려온 본인이 무슨 소리를 하는 거야? 게다가 내 옆자리는 란파의 지정석이잖아.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2199,7 +2199,7 @@
         "voice": "GC270203.ogg"
       },
       "original": "そうね。アタシ以外の誰にも、渡す気はないもの。",
-      "translation": "그렇네.나 말고 다른 누구에게도줄생각없으니까.",
+      "translation": "그렇네. 나 말고 누구에게도 줄 생각 없으니까.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2451,7 +2451,7 @@
         "voice": "GC270208.ogg"
       },
       "original": "遠く遠くの銀河か……アタシたちも、そこに行けるかな？",
-      "translation": "멀리 떨어진 은하인가… 우리도 그곳에 갈 수있을까?",
+      "translation": "멀리 떨어진 은하인가…… 우리도 그곳에 갈 수 있을까?",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3675,7 +3675,7 @@
         "voice": "GC270237.ogg"
       },
       "original": "でも、銀河……か。",
-      "translation": "하지만,은하라니….",
+      "translation": "근데 은하라니……",
       "state": "shortened",
       "use_translation": true,
       "storage": [

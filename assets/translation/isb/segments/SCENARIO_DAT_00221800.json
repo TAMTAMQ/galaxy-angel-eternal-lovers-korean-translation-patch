@@ -245,7 +245,7 @@
         "voice": "GC140054.ogg"
       },
       "original": "……確かに、そこ以外はなさそうだね。",
-      "translation": "……확실히, 그곳 말고는 없을 것같네.",
+      "translation": "……확실히, 그곳 말곤 없을 것 같네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1409,7 +1409,7 @@
         "voice": "GC140109.ogg"
       },
       "original": "考えてることは皆同じ、さ。",
-      "translation": "생각하는 건 다똑같아,그치?",
+      "translation": "생각은 다 똑같아, 그치?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3197,7 +3197,7 @@
         "voice": "GC140712.ogg"
       },
       "original": "『白き月』は私たちの家ですわ。絶対に、帰ります！",
-      "translation": "『하얀 달』은우리의집이에요.반드시돌아갈거예요！",
+      "translation": "『하얀 달』은 우리 집이에요. 꼭 돌아갈 거예요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3281,7 +3281,7 @@
         "voice": "GC640607.ogg"
       },
       "original": "不利な状況下で戦いへ",
-      "translation": "불리한상황에서전투로",
+      "translation": "불리한 상황에서 전투",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3821,7 +3821,7 @@
         "voice": "GC140816.ogg"
       },
       "original": "敵艦主砲、来ます！",
-      "translation": "적함 주포,옵니다！",
+      "translation": "적함 주포, 옵니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4019,7 +4019,7 @@
         "voice": "GC140820.ogg"
       },
       "original": "どうしたんだ……急に攻撃がやんだ……？",
-      "translation": "어떻게된거지……갑자기공격이멈췄다…？",
+      "translation": "왜 이러지…… 공격이 멈췄다……?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5039,7 +5039,7 @@
         "voice": "GC641006.ogg"
       },
       "original": "はい……。ひと安心です……。",
-      "translation": "네…….한시름놓았습니다…….",
+      "translation": "네……. 이제 안심입니다……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5783,7 +5783,7 @@
         "voice": "GC641026.ogg"
       },
       "original": "ああ。近くを通ったからな……。",
-      "translation": "아아.근처를지나가서말이야…….",
+      "translation": "아아. 근처를 지나가서…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6593,7 +6593,7 @@
         "voice": "GC641059.ogg"
       },
       "original": "寝ぼけてるんじゃないの？",
-      "translation": "자다가헛것을보는거아냐？",
+      "translation": "자다가 헛것 본 거 아냐?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6611,7 +6611,7 @@
         "voice": "GC641060.ogg"
       },
       "original": "で、でも、目がマジだよ。",
-      "translation": "하,하지만눈빛이진심이야.",
+      "translation": "하, 하지만 눈이 진짜야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6875,7 +6875,7 @@
         "voice": "GC641069.ogg"
       },
       "original": "……仕方ない。ここは……。",
-      "translation": "……어쩔수없군.여기는…….",
+      "translation": "……어쩔 수 없군. 그럼……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7391,7 +7391,7 @@
         "voice": "GC641086.ogg"
       },
       "original": "ノアから症状の治療法を聞く",
-      "translation": "노아에게증상치료법을듣는다",
+      "translation": "노아에게 치료법을 듣는다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8537,7 +8537,7 @@
         "voice": "GC141232.ogg"
       },
       "original": "今のちとせを戦場に出すなんて、オレが絶対に認めない！",
-      "translation": "지금의 치토세를 전장에 내보내는건,내가절대허락못해！",
+      "translation": "지금 치토세를 전장에 내보내는 건 절대 허락 못 해!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

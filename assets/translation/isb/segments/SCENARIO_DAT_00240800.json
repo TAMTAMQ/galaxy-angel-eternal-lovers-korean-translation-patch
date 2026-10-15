@@ -525,7 +525,7 @@
         "voice": "GC660006.ogg"
       },
       "original": "ああ、頼むぞ。",
-      "translation": "아아,부탁한다.",
+      "translation": "아아, 부탁해.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -825,7 +825,7 @@
         "voice": "GC660106.ogg"
       },
       "original": "ちとせが、それで元気になるなら……。笑顔になるなら、それでいいんだ。",
-      "translation": "치토세가 그걸로 기운을 차린다면…. 미소 지을 수 있다면,그걸로됐어.",
+      "translation": "치토세가 그걸로 기운을 차린다면…. 미소 지을 수 있다면, 그걸로됐어.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -849,7 +849,7 @@
         "voice": "GC660107.ogg"
       },
       "original": "最近のちとせは、たしかに調子がいい。手紙を渡し始めてからだ。",
-      "translation": "최근의치토세는 확실히 상태가 좋아.편지를주기시작한뒤부터야.",
+      "translation": "최근의치토세는 확실히 상태가 좋아. 편지를주기시작한뒤부터야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1833,7 +1833,7 @@
         "voice": "GC660138.ogg"
       },
       "original": "ふたつの記憶に悩むちとせ",
-      "translation": "두기억에괴로워하는치토세",
+      "translation": "두 기억에 괴로운 치토세",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1995,7 +1995,7 @@
         "voice": "GC660202.ogg"
       },
       "original": "ああ、そうか。タクト……どう思う？",
-      "translation": "아아,그렇군.택트……어떻게생각해？",
+      "translation": "아아, 그렇군. 택트…… 어때?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4035,7 +4035,7 @@
         "voice": "GC660307.ogg"
       },
       "original": "ちとせが……。そうか……。",
-      "translation": "치토세가…….그렇구나…….",
+      "translation": "치토세가……. 그렇구나……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5169,7 +5169,7 @@
         "voice": "GC660337.ogg"
       },
       "original": "ちとせに真実を告げる",
-      "translation": "치토세에게진실을전함",
+      "translation": "치토세에게 진실 전달",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5697,7 +5697,7 @@
         "voice": "GC660409.ogg"
       },
       "original": "実は、ちとせ……。",
-      "translation": "사실은,치토세…….",
+      "translation": "사실, 치토세……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6003,7 +6003,7 @@
         "voice": "GC660425.ogg"
       },
       "original": "たしかに、心にひっかかるものを自分自身でも感じていました。",
-      "translation": "확실히,마음 한구석이 걸리는 건저스스로도느끼고있었습니다.",
+      "translation": "확실히, 마음 한구석이 걸리는 건저스스로도느끼고있었습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7953,7 +7953,7 @@
         "voice": "GC660606.ogg"
       },
       "original": "今日こそ、ちとせに告白するんだ！！",
-      "translation": "오늘이야말로치토세에게고백한다！！",
+      "translation": "오늘이야말로 치토세에게 고백한다!!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8157,7 +8157,7 @@
         "voice": "GC660609.ogg"
       },
       "original": "さて、ちとせは来てるかな……。",
-      "translation": "그나저나,치토세는왔으려나…….",
+      "translation": "치토세는 왔으려나…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11715,7 +11715,7 @@
         "voice": "GC660856.ogg"
       },
       "original": "うふふふ！　アルモったら単純！",
-      "translation": "우후후！아르모는단순하다니까！",
+      "translation": "우후후! 아르모는 단순하다니까!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13713,7 +13713,7 @@
         "voice": "GC161204.ogg"
       },
       "original": "本当に君たちはよくわからない……。敵である僕が……『ヴァル・ファスク』が生きていたことが、なぜそんなに嬉しい……。",
-      "translation": "정말 너희는 알 수가 없어……. 적인 내가…… 『발・파스크』가 살아있다는 게, 왜 그렇게 기쁜 거지…….\n",
+      "translation": "정말 너희는 이해가 안 돼……. 적이었던 내가 살아 있다니…… 『발・파스크』가 살아 있는 게 왜 그렇게 기쁘지…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -14313,7 +14313,7 @@
         "voice": "GC661209.ogg"
       },
       "original": "この心はかけがえのないものだと思います。",
-      "translation": "이 마음은무엇과도바꿀수없다고생각합니다.",
+      "translation": "이 마음은 무엇과도 바꿀 수 없습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14739,7 +14739,7 @@
         "voice": "GC161242.ogg"
       },
       "original": "ああ、でも……。",
-      "translation": "아아,하지만…….",
+      "translation": "아아, 하지만……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15357,7 +15357,7 @@
         "voice": "GC161323.ogg"
       },
       "original": "いつしか、あの人を追い越してしまった私を見上げる、少し寂しげな瞳……。",
-      "translation": "언제부턴가, 그 사람을 앞질러 버린 나를올려다보는,조금쓸쓸한눈동자…….",
+      "translation": "언제부턴가, 그 사람을 앞지른 나를 올려다보는 조금 쓸쓸한 눈동자…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15897,7 +15897,7 @@
         "voice": "GC161344.ogg"
       },
       "original": "かつて、この銀河を暗黒時代におとしいれた、未曾有の災厄――",
-      "translation": "과거에,이 은하를 암흑시대로 몰아넣었던, 미증유의 재앙――",
+      "translation": "과거에 이 은하를 암흑시대로 몰아넣었던 미증유의 재앙――",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

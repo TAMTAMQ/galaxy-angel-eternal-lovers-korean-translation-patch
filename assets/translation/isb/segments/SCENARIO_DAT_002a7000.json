@@ -1260,7 +1260,7 @@
         "voice": "GC945201.ogg"
       },
       "original": "うわ、ご機嫌斜めだねランファ。",
-      "translation": "우와, 기분이안좋아보이네,란파.",
+      "translation": "우와, 기분 안 좋네, 란파.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5106,7 +5106,7 @@
         "voice": "GC945811.ogg"
       },
       "original": "物静かな方たちでした。けれど暖かい所もあったと思います……。",
-      "translation": "조용한분들이었습니다.하지만따뜻한면도있었다고생각합니다….",
+      "translation": "조용한 분들이었지만 따뜻한 면도 있었다고 봅니다…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5670,7 +5670,7 @@
         "voice": "GC945908.ogg"
       },
       "original": "諦めてしまうのですか……？",
-      "translation": "포기해버린다는건가요……？",
+      "translation": "포기하는 건가요……?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6972,7 +6972,7 @@
         "voice": "GC946107.ogg"
       },
       "original": "そうですね。タクトさん。集中してがんばります。",
-      "translation": "그렇네요.택트 씨. 집중해서 열심히 하겠습니다.",
+      "translation": "그렇네요. 택트 씨. 집중해서 열심히 하겠습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

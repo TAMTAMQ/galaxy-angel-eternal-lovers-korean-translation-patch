@@ -2046,7 +2046,7 @@
         "voice": "GC920121.ogg"
       },
       "original": "本星に戻る必要はない……と。",
-      "translation": "본성으로돌아갈필요는없다고…",
+      "translation": "본성엔 안 돌아가도 돼……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2676,7 +2676,7 @@
         "voice": "GC920140.ogg"
       },
       "original": "ルフト将軍はともかく、他のお偉方はな。",
-      "translation": "루프트장군은둘째치고,다른높으신분들은.",
+      "translation": "루프트 장군은 몰라도, 다른 윗분들은.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3726,7 +3726,7 @@
         "voice": "GC920200.ogg"
       },
       "original": "それなら話は早い。……で、宇宙クジラはなんて？",
-      "translation": "그렇다면 얘기가 빠르지.……그래서,우주고래는？",
+      "translation": "그럼 얘기가 빠르지.……그래서 우주고래는?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4944,7 +4944,7 @@
         "voice": "GC920309.ogg"
       },
       "original": "どうした、急に？",
-      "translation": "왜 그래,갑자기？",
+      "translation": "왜 그래, 갑자기?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5448,7 +5448,7 @@
         "voice": "GC920320.ogg"
       },
       "original": "いや、なんでもない。人生の無常さをつくづく感じてただけさ。じゃあ、行ってくる。",
-      "translation": "아니,아무것도 아냐. 인생의 무상함을 새삼 느끼고 있었을 뿐이야. 그럼 다녀올게.",
+      "translation": "아니, 아무것도 아냐. 인생의 무상함을 새삼 느끼고 있었을 뿐이야. 그럼 다녀올게.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6090,7 +6090,7 @@
         "voice": "GC120517.ogg"
       },
       "original": "……ご期待に添えるかわかりませんが。",
-      "translation": "...기대에부응할수있을지모르겠지만요.",
+      "translation": "……기대에 부응할지 모르겠지만요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6630,7 +6630,7 @@
         "voice": "GC920407.ogg"
       },
       "original": "あ、『白き月』から通信です。",
-      "translation": "아,『하얀달』에서통신입니다.",
+      "translation": "아, 『하얀 달』 통신입니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7722,7 +7722,7 @@
         "voice": "GC920506.ogg"
       },
       "original": "『白き月』を預かるシャトヤーンです。ようこそ。",
-      "translation": "『하얀달』을 관리하는샤토얀입니다.환영합니다.",
+      "translation": "『하얀달』을 관리하는샤토얀입니다. 환영합니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8286,7 +8286,7 @@
         "voice": "GC920533.ogg"
       },
       "original": "これは……『白き月』の最古の記憶……？",
-      "translation": "이것은……『하얀달』의태고의기억……？",
+      "translation": "이건…… 『하얀 달』의 첫 기억……?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9690,7 +9690,7 @@
         "voice": "GC920588.ogg"
       },
       "original": "ノア……あなたはどう思いますか？",
-      "translation": "노아……당신은어떻게생각하나요？",
+      "translation": "노아…… 당신은 어떻게 보나요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10026,7 +10026,7 @@
         "voice": "GC920601.ogg"
       },
       "original": "端的に言えば、そういうことです。",
-      "translation": "단도직입적으로말하면,그렇습니다.",
+      "translation": "단적으로 말하면, 그렇습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10194,7 +10194,7 @@
         "voice": "GC920608.ogg"
       },
       "original": "……そう、やっぱりまだ生きてたわけね。",
-      "translation": "……그래, 역시 아직 살아있었나 보네.",
+      "translation": "……그래, 역시 아직 살아 있었나 보네.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12138,7 +12138,7 @@
         "voice": "GC920707.ogg"
       },
       "original": "……オレ個人としては、ＥＤＥＮに行きたい。けど、軍人としては……今はまだ動けない。悔しいけどね。",
-      "translation": "…개인적으로는 EDEN에 가고 싶어. 하지만 군인으로서는…… 아직 움직일수없어.분하지만말이야.",
+      "translation": "……개인적으로는 EDEN에 가고 싶어. 하지만 군인으로서는…… 아직 움직일 수 없어. 분하지만 말이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -13722,7 +13722,7 @@
         "voice": "GC920901.ogg"
       },
       "original": "ふたりとも、どうしたの？",
-      "translation": "두 사람모두,무슨일이야？",
+      "translation": "두 사람, 무슨 일이야?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14916,7 +14916,7 @@
         "voice": "GC921020.ogg"
       },
       "original": "こりゃダメだ、出直そう！",
-      "translation": "이건 안되겠군,다시오자！",
+      "translation": "이건 안 돼. 다시 오자!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16068,7 +16068,7 @@
         "voice": "GC120808.ogg"
       },
       "original": "私はその時初めて、草や木や、花を見ました。",
-      "translation": "저는 그때 처음으로풀과나무,꽃을보았습니다.",
+      "translation": "저는 그때 처음 풀과 나무, 꽃을 봤습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16134,7 +16134,7 @@
         "voice": "GC120810.ogg"
       },
       "original": "……許せない、ね。",
-      "translation": "……용서할 수없군.",
+      "translation": "……용서 못 하겠군",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16674,7 +16674,7 @@
         "voice": "GC520722.ogg"
       },
       "original": "あ、私、そろそろ戻らないと。",
-      "translation": "아, 저,슬슬돌아가봐야겠어요.",
+      "translation": "아, 저 이제 돌아가야겠어요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17058,7 +17058,7 @@
         "voice": "GC121224.ogg"
       },
       "original": "そのあたりをうまくつけば、有利に事を運べると思うのですが。",
-      "translation": "그점을 잘 이용하면 유리하게 상황을이끌수있을것같습니다만.",
+      "translation": "그 점을 잘 이용하면 유리하게 이끌 수 있을 듯합니다만.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -17880,7 +17880,7 @@
         "voice": "GC121246.ogg"
       },
       "original": "だが、的を射ている。どうするつもりだ、タクト？",
-      "translation": "하지만 정곡을 찔렀어. 어떻게 할생각이지,택트？",
+      "translation": "하지만 정곡이야. 어떻게 할 거지, 택트?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18198,7 +18198,7 @@
         "voice": "GC121303.ogg"
       },
       "original": "ああ。尻尾を巻いてＥＤＥＮまで逃げ帰ったとも思えんしな。",
-      "translation": "그래.꼬리를 내리고 EDEN까지 도망쳤을리도없고말이야.",
+      "translation": "그래. 꼬리를 내리고 EDEN까지 도망쳤을리도없고말이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

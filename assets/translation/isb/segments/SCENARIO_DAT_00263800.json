@@ -30,7 +30,7 @@
         "voice": null
       },
       "original": "アルモ、作戦図をモニターへ。",
-      "translation": "아르모, 작전 지도 띄워.",
+      "translation": "아르모, 작전 지도를 띄워 줘.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -234,7 +234,7 @@
         "voice": "GC918105.ogg"
       },
       "original": "アルモ、所属不明の小型船へ通信を頼む。",
-      "translation": "아르모,소속불명소형선에통신을부탁한다.",
+      "translation": "아르모, 소속 불명 소형선에 통신해 줘.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -492,7 +492,7 @@
         "voice": "GC938005.ogg"
       },
       "original": "もう一度、作戦内容を確認するか？",
-      "translation": "다시 한번, 작전 내용을확인할까？",
+      "translation": "다시 한번, 작전 내용을 확인할까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

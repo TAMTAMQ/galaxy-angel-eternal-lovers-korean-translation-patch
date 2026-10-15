@@ -30,7 +30,7 @@
         "voice": null
       },
       "original": "射撃訓練場・お見舞いに愛の手紙を",
-      "translation": "사격훈련장・병문안에사랑의편지를",
+      "translation": "사격 훈련장・병문안에 연애편지를",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1290,7 +1290,7 @@
         "voice": "GC145029.ogg"
       },
       "original": "書く内容はこうです。",
-      "translation": "쓸 내용은이렇습니다.",
+      "translation": "쓸 내용은 이겁니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2274,7 +2274,7 @@
         "voice": "GC145206.ogg"
       },
       "original": "知恵を貸して欲しいと言われました……。",
-      "translation": "지혜를 빌려달라는부탁을받았습니다…….",
+      "translation": "지혜를 빌려 달라는 부탁을 받았어요……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2766,7 +2766,7 @@
         "voice": "GC145223.ogg"
       },
       "original": "私も資料を見ただけです……。",
-      "translation": "저도 자료를봤을뿐이에요…….",
+      "translation": "저도 자료만 봤어요……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2784,7 +2784,7 @@
         "voice": "GC145224.ogg"
       },
       "original": "それでちょっと試してみたくてね、誰かが実験台になってくれれば、すごく助かるんだけど……。",
-      "translation": "그래서 좀 시험해보고 싶어서 말이야, 누군가 실험대가 되어준다면 정말큰도움이되겠는데….",
+      "translation": "그래서 좀 시험해 보고 싶어서, 누가 실험대가 되어 주면 정말 큰 도움이 되겠는데……",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3018,7 +3018,7 @@
         "voice": "GC145301.ogg"
       },
       "original": "うわあ、痛い、痛いよ！",
-      "translation": "으아아,아파,아프다고！",
+      "translation": "으아아, 아파, 아파!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3576,7 +3576,7 @@
         "voice": "GC145315.ogg"
       },
       "original": "やたらに痛いね。それで今のやつの効能は？",
-      "translation": "지나치게 아프네.그래서방금건효능이뭐야？",
+      "translation": "엄청 아프네. 방금 건 무슨 효능이야?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3642,7 +3642,7 @@
         "voice": "GC145317.ogg"
       },
       "original": "それでタクト、どんな感じ？",
-      "translation": "그래서 택트,어떤느낌이야？",
+      "translation": "그래서 택트, 느낌이 어때?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3708,7 +3708,7 @@
         "voice": "GC145319.ogg"
       },
       "original": "どんどん健康にしちゃいましょうね。",
-      "translation": "계속해서 건강하게만들어버리자고요.",
+      "translation": "계속 건강하게 만들어 버리자고요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3726,7 +3726,7 @@
         "voice": "GC145320.ogg"
       },
       "original": "ほかにも、まだ試していないツボはたくさんあります……。",
-      "translation": "그 외에도 아직 시험해보지않은혈자리는많이있습니다….",
+      "translation": "그 외에도 아직 안 해 본 혈자리는 많이 있습니다……",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

@@ -657,7 +657,7 @@
         "voice": "GC670019.ogg"
       },
       "original": "ルシャーティさんの？",
-      "translation": "루샤티씨의말인가요？",
+      "translation": "루샤티 씨 말인가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -951,7 +951,7 @@
         "voice": "GC670023.ogg"
       },
       "original": "私もタクトさんと同意見です。",
-      "translation": "저도 택트씨와같은의견입니다.",
+      "translation": "저도 택트 씨와 동감입니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2589,7 +2589,7 @@
         "voice": "GC670220.ogg"
       },
       "original": "言わばそれは、銀河を殺しかねない大いなる災厄……。",
-      "translation": "말하자면그것은,은하를죽일지도모르는거대한재앙….",
+      "translation": "말하자면 은하를 죽일 수도 있는 큰 재앙…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2811,7 +2811,7 @@
         "voice": "GC670225.ogg"
       },
       "original": "はい。私もそう思います。",
-      "translation": "네.저도그렇게생각합니다.",
+      "translation": "네. 저도 그렇게 봅니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4347,7 +4347,7 @@
         "voice": "GC670315.ogg"
       },
       "original": "マイヤーズ司令……ちとせ……そして、皆さん……。",
-      "translation": "마이어스 사령관… 치토세……그리고,여러분…….",
+      "translation": "마이어스 사령관… 치토세……그리고, 여러분…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4803,7 +4803,7 @@
         "voice": "GC170512.ogg"
       },
       "original": "レスター、あとは頼む。今からおまえが総司令官だ。",
-      "translation": "레스터,나머진 부탁한다. 이제 네가 총사령관이다.",
+      "translation": "레스터, 나머진 부탁한다. 이제 네가 총사령관이다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5733,7 +5733,7 @@
         "voice": "GC170537.ogg"
       },
       "original": "癒しの光よ……リペアウェーブ！",
-      "translation": "치유의빛이여……리페어웨이브！",
+      "translation": "치유의 빛…… 리페어 웨이브!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5937,7 +5937,7 @@
         "voice": "GC670426.ogg"
       },
       "original": "ちとせ、一気にクロノ・クェイク爆弾の鼻先に取りつくんだ。",
-      "translation": "치토세,단숨에 크로노・퀘이크 폭탄 코앞까지파고드는거야.",
+      "translation": "치토세, 단숨에 크로노・퀘이크 폭탄 코앞까지파고드는거야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6255,7 +6255,7 @@
         "voice": "GC670437.ogg"
       },
       "original": "勝手な行動、お許しください……。",
-      "translation": "멋대로행동한것,용서해주세요…….",
+      "translation": "멋대로 행동해 죄송합니다…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6477,7 +6477,7 @@
         "voice": "GC670443C.ogg"
       },
       "original": "でも、もし失敗したらと思ったら……急に手が……。す、すいません……。",
-      "translation": "하지만, 만약 실패하면어쩌나하니…갑자기손이…….죄,죄송합니다…….",
+      "translation": "하지만, 만약 실패하면어쩌나하니…갑자기손이……. 죄, 죄송합니다…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6783,7 +6783,7 @@
         "voice": "GC670503.ogg"
       },
       "original": "こんなことになって、ごめん……。",
-      "translation": "이런 상황을 만들어서,미안해…….",
+      "translation": "이렇게 돼서, 미안해……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6975,7 +6975,7 @@
         "voice": "GC670509.ogg"
       },
       "original": "本当です、タクトさん。だって、私、今なら銀河中の方々に胸をはって自分を誇れる気分です。",
-      "translation": "정말이에요,택트 씨. 전 지금이라면 은하계 모두에게 당당히 저를 자랑할 수 있을것같아요.",
+      "translation": "정말이에요, 택트 씨. 전 지금이라면 은하 모두에게 당당히 저를 자랑할 수 있을 것 같아요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7161,7 +7161,7 @@
         "voice": "GC670514.ogg"
       },
       "original": "ちとせ。世界一……いや、銀河一愛してるよ。",
-      "translation": "치토세세상에서제일…아니은하에서가장사랑해",
+      "translation": "치토세. 세상…… 아니, 은하 제일 사랑해.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -7239,7 +7239,7 @@
         "voice": "GC670517.ogg"
       },
       "original": "それこそ、何でもできるような……。",
-      "translation": "그거야말로무엇이든할수있을것같은…",
+      "translation": "뭐든 할 수 있을 것 같은…….",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -7329,7 +7329,7 @@
         "voice": "GC670520.ogg"
       },
       "original": "私もタクトさんと一緒なら、どんな奇跡も起こる気がします。",
-      "translation": "저도 택트 씨와 함께라면, 어떤 기적이라도 일어날것같아요.",
+      "translation": "저도 택트 씨와 함께라면 어떤 기적도 일어날 것 같아요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7635,7 +7635,7 @@
         "voice": "GC170639.ogg"
       },
       "original": "ご安心を。私ども、なーんにも見ておりませんから。ええ、何も。",
-      "translation": "안심하세요.저희는 아무것도 보지 않았으니까요. 네, 아무것도.",
+      "translation": "안심하세요. 저희는 아무것도 보지 않았으니까요. 네, 아무것도.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

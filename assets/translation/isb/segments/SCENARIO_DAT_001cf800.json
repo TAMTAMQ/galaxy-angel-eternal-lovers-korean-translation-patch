@@ -186,7 +186,7 @@
         "voice": "GC545004.ogg"
       },
       "original": "でもこいつら妙に勘が働くらしくってねえ。",
-      "translation": "하지만이녀석들,묘하게눈치가빨라서말이지.",
+      "translation": "근데 이 녀석들, 묘하게 눈치가 빠르더군.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1146,7 +1146,7 @@
         "voice": "GC545112.ogg"
       },
       "original": "あ、食べてる食べてる。",
-      "translation": "아, 먹고있어,먹고있어.",
+      "translation": "아, 먹는다, 먹는다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1224,7 +1224,7 @@
         "voice": "GC545115.ogg"
       },
       "original": "そっとしておくことかな？",
-      "translation": "그냥내버려두는게답일까？",
+      "translation": "그냥 놔두는 게 답일까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1404,7 +1404,7 @@
         "voice": "GC545120.ogg"
       },
       "original": "でもほら、相手の身になって考えるって、基本だろ？",
-      "translation": "하지만 봐봐,상대방입장에서생각하는건기본이잖아？",
+      "translation": "하지만 봐, 상대 입장에서 생각하는 게 기본이잖아?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2124,7 +2124,7 @@
         "voice": "GC545217.ogg"
       },
       "original": "宇宙クジラが言うには、海のものがいいそうです。",
-      "translation": "우주고래가 말하기로는,바다의것이좋다고합니다.",
+      "translation": "우주고래가 말하기로는, 바다의것이좋다고합니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3024,7 +3024,7 @@
         "voice": "GC545307.ogg"
       },
       "original": "まあ、仕方ないよ。次をがんばろう！",
-      "translation": "뭐, 어쩔 수없지.다음을위해힘내자！",
+      "translation": "뭐, 어쩔 수 없지. 다음엔 힘내자!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

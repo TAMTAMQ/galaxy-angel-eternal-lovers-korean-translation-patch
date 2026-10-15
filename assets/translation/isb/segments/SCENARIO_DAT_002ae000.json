@@ -3091,7 +3091,7 @@
         "voice": "GC150024.ogg"
       },
       "original": "これなら１週間……いや、５日もあれば万全な状態でＥＤＥＮに発てるぞ。",
-      "translation": "이 정도면 1주일…아니,5일이면만전의상태로EDEN에출격할수있어.",
+      "translation": "이 정도면 1주일…… 아니, 5일이면 만전 상태로 EDEN에 출격할 수 있어.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3517,7 +3517,7 @@
         "voice": "GC350301.ogg"
       },
       "original": "いいよ、気にしなくて。で、なに？　遠征計画のことかい？",
-      "translation": "됐어,신경 쓰지 마. 그래서 뭐야？ 원정 계획 이야기야？",
+      "translation": "됐어, 신경 쓰지 마. 그래서 뭐야？ 원정 계획 이야기야？",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4279,7 +4279,7 @@
         "voice": "GC150439.ogg"
       },
       "original": "選択肢・慎重にいくか速攻か？",
-      "translation": "선택지・신중하게？속전속결？",
+      "translation": "선택지・신중하게? 속전속결?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6529,7 +6529,7 @@
         "voice": "GC650503.ogg"
       },
       "original": "ＥＤＥＮ解放艦隊、これより発進します！",
-      "translation": "EDEN 해방함대,지금부터발진합니다！",
+      "translation": "EDEN 해방함대, 지금부터발진합니다！",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6583,7 +6583,7 @@
         "voice": "GC150827.ogg"
       },
       "original": "まっ、しっかりね。",
-      "translation": "자,정신똑바로차려.",
+      "translation": "자, 정신 차려.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9817,7 +9817,7 @@
         "voice": "GC151624.ogg"
       },
       "original": "まったく……本当に理解できないよ。",
-      "translation": "정말이지…… 도무지 이해할 수없군.",
+      "translation": "정말…… 도무지 이해 못 하겠군.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

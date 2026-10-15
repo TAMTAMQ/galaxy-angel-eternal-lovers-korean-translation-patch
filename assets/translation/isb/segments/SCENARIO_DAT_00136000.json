@@ -704,7 +704,7 @@
         "voice": "GC360217.ogg"
       },
       "original": "そ、そんな～。",
-      "translation": "그,그럴수가～.",
+      "translation": "그, 그런～.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1688,7 +1688,7 @@
         "voice": "GC160302.ogg"
       },
       "original": "せっかくデートに誘っても、おまけつきじゃあ、全然恋人っぽくないしなあ……。",
-      "translation": "기껏 데이트에 초대해도 덤이 붙어있으니, 전혀 연인 같지 않단 말이지…….\n",
+      "translation": "기껏 데이트에 초대해도 덤이 붙어 있으니, 전혀 연인 같지 않단 말이지…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -2882,7 +2882,7 @@
         "voice": "GC360330.ogg"
       },
       "original": "あら、ご謙遜を。うふふふふ。",
-      "translation": "어머, 겸손하시기도.우후후후.",
+      "translation": "어머, 겸손하시기도. 우후후후",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10274,7 +10274,7 @@
         "voice": "GC360800.ogg"
       },
       "original": "でも、今の声……『苦しい』って……。",
-      "translation": "하지만방금그목소리…『괴로워』라고…",
+      "translation": "하지만 방금 『괴로워』라고……",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -10838,7 +10838,7 @@
         "voice": "GC360815.ogg"
       },
       "original": "誰にも……誰にも聞こえてないんだ……。",
-      "translation": "아무에게도…아무에게도들리지않는거야…",
+      "translation": "아무도…… 아무도 못 듣는 거야……",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -13712,7 +13712,7 @@
         "voice": "GC360906.ogg"
       },
       "original": "私こそ、本当によかった……。",
-      "translation": "저야말로,정말다행이에요…….",
+      "translation": "저도 정말 다행이에요…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17084,7 +17084,7 @@
         "voice": "GC161204.ogg"
       },
       "original": "本当に君たちはよくわからない……。敵である僕が……『ヴァル・ファスク』が生きていたことが、なぜそんなに嬉しい……。",
-      "translation": "정말 너희는 알 수가 없어……. 적인 내가…… 『발・파스크』가 살아있다는 게, 왜 그렇게 기쁜 거지…….\n",
+      "translation": "정말 너희는 이해가 안 돼……. 적이었던 내가 살아 있다니…… 『발・파스크』가 살아 있는 게 왜 그렇게 기쁘지…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

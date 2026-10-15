@@ -257,7 +257,7 @@
         "voice": "GC140054.ogg"
       },
       "original": "……確かに、そこ以外はなさそうだね。",
-      "translation": "……확실히, 그곳 말고는 없을 것같네.",
+      "translation": "……확실히, 그곳 말곤 없을 것 같네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -509,7 +509,7 @@
         "voice": "GC340010.ogg"
       },
       "original": "そうなる可能性は高いです……。",
-      "translation": "그렇게 될가능성이높습니다…….",
+      "translation": "그럴 가능성이 높습니다……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2063,7 +2063,7 @@
         "voice": "GC340123.ogg"
       },
       "original": "ふふふ、ちとせも上手～。",
-      "translation": "후후,치토세도능숙하네～.",
+      "translation": "후후, 치토세도 잘하네～",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3347,7 +3347,7 @@
         "voice": "GC140715.ogg"
       },
       "original": "不利な状況下で戦いへ",
-      "translation": "불리한상황에서전투로",
+      "translation": "불리한 상황에서 전투",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3881,7 +3881,7 @@
         "voice": "GC140816.ogg"
       },
       "original": "敵艦主砲、来ます！",
-      "translation": "적함 주포,옵니다！",
+      "translation": "적함 주포, 옵니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4079,7 +4079,7 @@
         "voice": "GC140820.ogg"
       },
       "original": "どうしたんだ……急に攻撃がやんだ……？",
-      "translation": "어떻게된거지……갑자기공격이멈췄다…？",
+      "translation": "왜 이러지…… 공격이 멈췄다……?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5147,7 +5147,7 @@
         "voice": "GC341029.ogg"
       },
       "original": "（よかった……タクトさんも皆さんも、ご無事なようで……）",
-      "translation": "（다행이다…… 택트 씨도 여러분도 무사하신것같아서……）",
+      "translation": "（다행이다…… 택트 씨도 모두도 무사하신 것 같아서……）",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5741,7 +5741,7 @@
         "voice": "GC341047.ogg"
       },
       "original": "ノアから症状の治療法を聞く",
-      "translation": "노아에게증상치료법을듣는다",
+      "translation": "노아에게 치료법을 듣는다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6167,7 +6167,7 @@
         "voice": "GC341112.ogg"
       },
       "original": "いえ、シャトヤーン様に責任なんて……。",
-      "translation": "아니요, 샤토얀 님께책임을물을수는…….",
+      "translation": "아뇨, 샤토얀 님께 책임을 물을 순……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6815,7 +6815,7 @@
         "voice": "GC341124.ogg"
       },
       "original": "彼女を理解したかったんだよ！",
-      "translation": "그녀를이해하고싶었을뿐이야！",
+      "translation": "그녀를 이해하고 싶었을 뿐!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7049,7 +7049,7 @@
         "voice": "GC341129.ogg"
       },
       "original": "けど、そのテンションを高めることなど、今のミントには到底期待できないわ。",
-      "translation": "하지만 그 텐션을 높이는 것 따위, 지금의 민트에게는 도저히 기대할 수없어.",
+      "translation": "하지만 지금 민트에겐 그 텐션을 높이길 기대할 수 없어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

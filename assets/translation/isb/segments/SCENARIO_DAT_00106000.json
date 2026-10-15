@@ -431,7 +431,7 @@
         "voice": "GC330013.ogg"
       },
       "original": "も、もう……。",
-      "translation": "정말,정말…….",
+      "translation": "정말……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1925,7 +1925,7 @@
         "voice": "GC330206.ogg"
       },
       "original": "どうも、宇宙クジラと会ってるらしいよ。",
-      "translation": "아무래도 우주고래와만나고있는모양이야.",
+      "translation": "아무래도 우주고래와 만나는 모양이야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3173,7 +3173,7 @@
         "voice": "GC330314.ogg"
       },
       "original": "タクトさんならできます……。",
-      "translation": "택트 씨라면 할 수있어요…….",
+      "translation": "택트 씨라면 할 수 있어요……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3317,7 +3317,7 @@
         "voice": "GC130514.ogg"
       },
       "original": "タクト、ちょっといいか？",
-      "translation": "택트, 잠깐시간좀내줄래？",
+      "translation": "택트, 잠깐 시간 내줄래?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3671,7 +3671,7 @@
         "voice": "GC330321.ogg"
       },
       "original": "素直になれなくて",
-      "translation": "솔직해지지못해서",
+      "translation": "솔직하지 못해서",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3761,7 +3761,7 @@
         "voice": "GC330321.ogg"
       },
       "original": "ダメだ、全然頭に入らない……。",
-      "translation": "안 돼, 전혀머리에안들어와…….",
+      "translation": "안 돼, 전혀 안 들어와……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4475,7 +4475,7 @@
         "voice": "GC330410.ogg"
       },
       "original": "いいえ、なにも。",
-      "translation": "아니요,아무것도.",
+      "translation": "아니요, 아무것도",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5063,7 +5063,7 @@
         "voice": "GC330426.ogg"
       },
       "original": "そ、そうそう、その通り！",
-      "translation": "그,그래그래,바로그거야！",
+      "translation": "그, 그래그래, 그거야!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7007,7 +7007,7 @@
         "voice": "GC330493.ogg"
       },
       "original": "今さらではありますが、ホントに呆れるほどのプラス思考ですわね。",
-      "translation": "이제와서말하긴좀그렇지만,정말어이없을정도의긍정적인사고시네요",
+      "translation": "이제 와서 말하긴 그렇지만, 정말 어이없을 만큼 긍정적이시네요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7301,7 +7301,7 @@
         "voice": "GC330499.ogg"
       },
       "original": "選択肢・素直な女の子は好き？",
-      "translation": "선택지・솔직한여자는좋아해？",
+      "translation": "선택지・솔직한 여자 좋아해?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7337,7 +7337,7 @@
         "voice": "GC330499.ogg"
       },
       "original": "まあ、確かに素直な女の子は好きだけどさ。",
-      "translation": "뭐, 확실히 솔직한여자는좋아하지만말이야.",
+      "translation": "뭐, 솔직한 여자는 좋아하지만 말이야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7685,7 +7685,7 @@
         "voice": "GC330602.ogg"
       },
       "original": "あら、そうですの？　私は全然気になりませんが。",
-      "translation": "어머,그런가요？ 저는 전혀 신경 안 쓰입니다만.",
+      "translation": "어머, 그런가요? 저는 전혀 신경 안 쓰이는데요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7847,7 +7847,7 @@
         "voice": "GC330605.ogg"
       },
       "original": "……いえ、結構です。",
-      "translation": "……아니요,됐습니다.",
+      "translation": "……아니요, 됐습니다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8255,7 +8255,7 @@
         "voice": "GC330705.ogg"
       },
       "original": "私はケーラ先生のお手伝いに。",
-      "translation": "저는 케라선생님을돕겠습니다.",
+      "translation": "전 케라 선생님을 돕겠습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8645,7 +8645,7 @@
         "voice": "GC330717.ogg"
       },
       "original": "これは、今、ミントを不快にさせたことへの謝罪だから問題ない。",
-      "translation": "이건,지금 민트를 불쾌하게 만든 것에 대한 사과니까 문제없다.",
+      "translation": "이건 지금 민트를 불쾌하게 만든 데 대한 사과니까 문제없다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10487,7 +10487,7 @@
         "voice": "GC131124.ogg"
       },
       "original": "では、僕は姉のところに戻ります。",
-      "translation": "그럼, 전 누나에게돌아가겠습니다.",
+      "translation": "그럼, 전 누나에게 돌아갈게요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10829,7 +10829,7 @@
         "voice": "GC331107.ogg"
       },
       "original": "もう少し、素直であってほしいと……。もう少し、心の内を話してほしいと……。",
-      "translation": "조금 더 솔직해졌으면 좋겠다고… 조금 더속마음을말해주었으면좋겠다고…….",
+      "translation": "좀 더 솔직했으면 좋겠다고…… 좀 더 속마음을 말해 줬으면 좋겠다고……",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10937,7 +10937,7 @@
         "voice": "GC331110.ogg"
       },
       "original": "テレパシーで人の心の内を知り、そのうえブラマンシュの一人娘……。",
-      "translation": "텔레파시로 타인의 속마음을알고,게다가브라만슈의외동딸이라니….",
+      "translation": "텔레파시로 남의 속마음을 알고, 또 브라만슈의 외동딸이라니…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -11003,7 +11003,7 @@
         "voice": "GC331113.ogg"
       },
       "original": "タクトさんと会えなかった時……。会えても、そこに私以外の誰かがいた時……。",
-      "translation": "택트 씨와 만날 수 없을 때… 만나더라도 그곳에 저이외의누군가가있을때……",
+      "translation": "택트 씨를 못 만날 때…… 만나도 그곳에 저 말고 누군가 있을 때……",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -11141,7 +11141,7 @@
         "voice": "GC331117.ogg"
       },
       "original": "な、何を言ってるんだ、ミント？",
-      "translation": "무, 무슨 소릴 하는 거야,민트？",
+      "translation": "무, 무슨 소릴 하는 거야, 민트?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11975,7 +11975,7 @@
         "voice": "GC131307.ogg"
       },
       "original": "『窮鼠猫を噛む』ってやつね。あいにくと、ネズミは大っ嫌いなのよ！",
-      "translation": "『궁지에 몰린 쥐가 고양이를문다』라.안타깝게도난쥐가정말싫거든！",
+      "translation": "『궁지에 몰린 쥐도 고양이를 문다』라. 난 쥐가 질색이거든!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15233,7 +15233,7 @@
         "voice": "GC131539.ogg"
       },
       "original": "さてと……。",
-      "translation": "자,그럼…….",
+      "translation": "자, 그럼……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15773,7 +15773,7 @@
         "voice": "GC131555.ogg"
       },
       "original": "なんと説明してよいものか……。",
-      "translation": "뭐라 설명해야할지모르겠군…….",
+      "translation": "뭐라 설명할지 모르겠군……",
       "state": "shortened",
       "use_translation": true,
       "storage": [

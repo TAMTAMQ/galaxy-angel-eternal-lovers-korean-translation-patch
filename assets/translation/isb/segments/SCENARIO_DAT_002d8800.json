@@ -2483,7 +2483,7 @@
         "voice": "GC975406.ogg"
       },
       "original": "同じ物でも色が違うだけで、えらい種類があるな。",
-      "translation": "같은물건이라도 색만다를뿐,종류가엄청나게많네.",
+      "translation": "같은물건이라도 색만다를뿐, 종류가엄청나게많네.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3305,7 +3305,7 @@
         "voice": "GC975505.ogg"
       },
       "original": "えーと、心当たりがいち、にー、さん……。",
-      "translation": "어디 보자, 짐작 가는 게 하나, 둘,셋…….",
+      "translation": "어디 보자, 짐작 가는 게 하나, 둘, 셋……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3407,7 +3407,7 @@
         "voice": "GC975601.ogg"
       },
       "original": "けど、そのルートだとここを通るから……。",
-      "translation": "하지만그루트라면여기를지나게되니까……。",
+      "translation": "하지만 그 루트면 여길 지나게 되니까…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4319,7 +4319,7 @@
         "voice": "GC975701.ogg"
       },
       "original": "タクト、それでいいのか。危険は間違いなく増すぞ。",
-      "translation": "택트,그걸로 괜찮은 건가.위험은확실히늘어날텐데.",
+      "translation": "택트, 괜찮겠나? 위험은 확실히 늘어날 텐데.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4427,7 +4427,7 @@
         "voice": "GC975704.ogg"
       },
       "original": "ま、妥当な所だな。",
-      "translation": "뭐,타당한결론이군.",
+      "translation": "뭐, 그 정도군.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5003,7 +5003,7 @@
         "voice": "GC975804.ogg"
       },
       "original": "はい。この吸着紙を使えば、ナノ単位のほこりもキレイに拭き取れます……。",
-      "translation": "네. 이 흡착지를 쓰면 나노 단위의 먼지도 깨끗하게 닦아낼수있습니다…….",
+      "translation": "네. 이 흡착지를 쓰면 나노 단위 먼지도 깨끗하게 닦아낼 수 있습니다…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5171,7 +5171,7 @@
         "voice": "GC975808.ogg"
       },
       "original": "いえ、違います……。",
-      "translation": "아니요,아닙니다…….",
+      "translation": "아뇨, 아닙니다……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5741,7 +5741,7 @@
         "voice": "GC975907.ogg"
       },
       "original": "大丈夫です。ひとりでもできます……。",
-      "translation": "괜찮습니다.혼자서도할수있습니다…….",
+      "translation": "괜찮습니다. 혼자서도 가능합니다…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5993,7 +5993,7 @@
         "voice": "GC976001.ogg"
       },
       "original": "あ、お構いなく。私、大丈夫ですから。",
-      "translation": "아, 신경 쓰지 마세요.저괜찮으니까요.",
+      "translation": "아, 신경 쓰지 마세요. 전 괜찮아요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7043,7 +7043,7 @@
         "voice": "GC976104.ogg"
       },
       "original": "最近、ほかの方にもそう言われて……。",
-      "translation": "최근,다른분들께도그런말을들어서…….",
+      "translation": "요즘 다른 분들도 그렇게 말해서…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7109,7 +7109,7 @@
         "voice": "GC976105.ogg"
       },
       "original": "これぐらいお互い様だよ、ちとせ。",
-      "translation": "이정도는서로돕고사는거지,치토세.",
+      "translation": "이 정도야 서로 돕지, 치토세.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8123,7 +8123,7 @@
         "voice": "GC976228.ogg"
       },
       "original": "はい、味方の艦影以外なにも映っていませんね。",
-      "translation": "네,아군 함선 외에는 아무것도 찍히지 않네요.",
+      "translation": "네, 아군 함선 외에는 아무것도 찍히지 않네요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8231,7 +8231,7 @@
         "voice": "GC976232.ogg"
       },
       "original": "タクト、頼む……なんとかしろ。",
-      "translation": "택트,부탁이야……어떻게든해줘.",
+      "translation": "택트, 부탁해…… 어떻게든 해.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

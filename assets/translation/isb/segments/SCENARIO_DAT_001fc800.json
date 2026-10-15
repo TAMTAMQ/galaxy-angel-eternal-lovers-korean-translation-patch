@@ -1632,7 +1632,7 @@
         "voice": "GC610035.ogg"
       },
       "original": "い、いえ……あの……。",
-      "translation": "아,아니요……저기…….",
+      "translation": "아, 아뇨…… 저기……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1878,7 +1878,7 @@
         "voice": "GC610043.ogg"
       },
       "original": "逆に、あの……光栄というか……。",
-      "translation": "오히려,저……영광이라고할까…….",
+      "translation": "오히려, 저…… 영광이랄까…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3594,7 +3594,7 @@
         "voice": "GC610203.ogg"
       },
       "original": "う、うそうそ！　冗談だよ、冗談！",
-      "translation": "거, 거짓말이야！ 농담이야,농담！",
+      "translation": "거, 거짓말이야! 농담이야, 농담!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4008,7 +4008,7 @@
         "voice": "GC610214.ogg"
       },
       "original": "仕方ありません、タクトさんはこの艦の司令官ですから。",
-      "translation": "어쩔수 없습니다, 택트 씨는 이 함선의사령관이니까요.",
+      "translation": "어쩔 수 없죠. 택트 씨는 이 함선 사령관이니까요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

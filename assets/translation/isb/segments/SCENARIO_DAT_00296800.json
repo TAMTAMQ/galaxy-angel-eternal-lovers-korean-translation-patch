@@ -934,7 +934,7 @@
         "voice": "GC940019.ogg"
       },
       "original": "……でも、今はちとせのそばに……。",
-      "translation": "……하지만,지금은치토세의곁에…….",
+      "translation": "……하지만, 지금은 치토세 곁에……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1102,7 +1102,7 @@
         "voice": "GC140000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
+      "translation": "……아무래도 7번기를 누군가 탈취한 모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1234,7 +1234,7 @@
         "voice": "GC140000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
+      "translation": "……아무래도 7번기를 누군가 탈취한 모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1366,7 +1366,7 @@
         "voice": "GC140000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
+      "translation": "……아무래도 7번기를 누군가 탈취한 모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1408,7 +1408,7 @@
         "voice": "GC340001.ogg"
       },
       "original": "ちょっと！　あれって確か、まだ、クロノ・ブレイク・キャノンもくっついてたんじゃなかったっけ！？",
-      "translation": "잠깐！ 저거 분명, 아직 크로노・브레이크・캐논도 붙어있지 않았나！？\n",
+      "translation": "잠깐! 저거 분명, 아직 크로노・브레이크・캐논도 붙어 있지 않았나!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -1498,7 +1498,7 @@
         "voice": "GC440000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
+      "translation": "……아무래도 7번기를 누군가 탈취한 모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1630,7 +1630,7 @@
         "voice": "GC140000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
+      "translation": "……아무래도 7번기를 누군가 탈취한 모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1762,7 +1762,7 @@
         "voice": "GC140000.ogg"
       },
       "original": "……どうやら、７番機が何者かに奪われたらしい。",
-      "translation": "…아무래도,7번기가누군가에게탈취된모양이야.",
+      "translation": "……아무래도 7번기를 누군가 탈취한 모양이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4060,7 +4060,7 @@
         "voice": "GC940100.ogg"
       },
       "original": "計算では、これで７番機に追いつけるはずなんだよね？",
-      "translation": "계산상으로는 이걸로 7번기를 따라잡을 수있는거지？",
+      "translation": "계산상으로는 이걸로 7번기를 따라잡을 수 있는 거지?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5242,7 +5242,7 @@
         "voice": "GC140200.ogg"
       },
       "original": "アルモ、７番機に通信頼む。",
-      "translation": "아르모,7번기에통신부탁해.",
+      "translation": "아르모, 7번기에 통신해.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5896,7 +5896,7 @@
         "voice": "GC140212.ogg"
       },
       "original": "ううう……なによ、この憎々しい態度は。ねえ、撃ってもいい？",
-      "translation": "으으으… 뭐야, 이 증오스러운 태도는. 있잖아,쏴버려도돼？",
+      "translation": "으으으… 뭐야, 이 증오스러운 태도는. 있잖아, 쏴버려도돼？",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7330,7 +7330,7 @@
         "voice": "GC140251.ogg"
       },
       "original": "アッサリと認めやがるか、こいつは……！",
-      "translation": "너무 쉽게인정해버리는군,이녀석은……！",
+      "translation": "너무 쉽게 인정하는군, 이 녀석……!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7570,7 +7570,7 @@
         "voice": "GC140259.ogg"
       },
       "original": "本当に、心とはなかなか興味深い力ですね。",
-      "translation": "정말이지,마음이란참으로흥미로운힘이군요.",
+      "translation": "정말, 마음이란 참 흥미로운 힘이군요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8482,7 +8482,7 @@
         "voice": "GC340212.ogg"
       },
       "original": "認めたくはありませんが……。",
-      "translation": "인정하고싶진않습니다만……。",
+      "translation": "인정하고 싶진 않습니다만……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10030,7 +10030,7 @@
         "voice": "GC140276.ogg"
       },
       "original": "声が、震えていますよ？",
-      "translation": "목소리가떨리고있어요？",
+      "translation": "목소리가 떨려요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10048,7 +10048,7 @@
         "voice": "GC140277.ogg"
       },
       "original": "……っ！　こ、この……！",
-      "translation": "……윽！ 이,이녀석이…！",
+      "translation": "……윽! 이, 이 녀석……!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10066,7 +10066,7 @@
         "voice": "GC140277.ogg"
       },
       "original": "挑発にのるな、ランファ！",
-      "translation": "도발에 넘어가지마,란파！",
+      "translation": "도발에 넘어가지 마, 란파",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10102,7 +10102,7 @@
         "voice": "GC140276.ogg"
       },
       "original": "声が、震えていますよ？",
-      "translation": "목소리가떨리고있어요？",
+      "translation": "목소리가 떨려요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10120,7 +10120,7 @@
         "voice": "GC240211.ogg"
       },
       "original": "……っ！　こ、この……！",
-      "translation": "……윽！ 이,이녀석이…！",
+      "translation": "……윽! 이, 이 녀석……!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10138,7 +10138,7 @@
         "voice": "GC240211.ogg"
       },
       "original": "挑発にのるな、ちとせ！",
-      "translation": "도발에 속지마,치토세！",
+      "translation": "도발에 속지 마, 치토세",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11320,7 +11320,7 @@
         "voice": "GC240300.ogg"
       },
       "original": "ちょいと待ちなよ……なんであいつが、光の翼を出せるのさ……。",
-      "translation": "잠깐 기다려 봐… 왜 저 녀석이빛의날개를낼수있는거냐고…….",
+      "translation": "잠깐…… 왜 저 녀석이 빛의 날개를 낼 수 있지…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -12526,7 +12526,7 @@
         "voice": "GC140428.ogg"
       },
       "original": "どうもこうもない。気持ちはわかるが、奴はもう敵なんだ。やらなければやられる、それだけだ！",
-      "translation": "이러지도 저러지도 못할 상황이다. 마음은 알겠지만 놈은이제적이다.싸우지않으면죽을뿐이다！",
+      "translation": "이러지도 저러지도 못한다. 마음은 알지만 놈은 이제 적이야. 싸우지 않으면 죽을 뿐이다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12646,7 +12646,7 @@
         "voice": "GC140432.ogg"
       },
       "original": "……消せばいい？　……操ればいい？",
-      "translation": "……지워버리면돼？……조종하면돼？",
+      "translation": "……지우면 돼? ……조종하면 돼?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13996,7 +13996,7 @@
         "voice": "GC240404.ogg"
       },
       "original": "あれは……そんな、光の翼がなぜ！？",
-      "translation": "저건…… 말도안돼,빛의날개가왜！？",
+      "translation": "저건…… 말도 안 돼, 빛의 날개가!?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16162,7 +16162,7 @@
         "voice": "GC140601.ogg"
       },
       "original": "今はそんなこと言ってる場合じゃない。目前の敵に集中するんだ。アルモ、作戦図をモニターに……。",
-      "translation": "지금 그런 말을 하고 있을 때가 아니야. 눈앞의 적에게 집중해. 아르모, 작전 지도를 모니터에…….",
+      "translation": "지금 그런 말을 하고 있을 때가 아니야. 눈앞의 적에게 집중해. 아르모, 작전 지도를 모니터에……",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -17188,7 +17188,7 @@
         "voice": "GC140905.ogg"
       },
       "original": "第１１艦隊、『ヴァル・ファスク』艦隊と交戦開始！　押してます！",
-      "translation": "제11함대, 『발・파스크』 함대와 교전 개시! 밀어붙이고 있습니다!",
+      "translation": "제11함대, 『발・파스크』 함대와 교전 개시! 우세합니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19876,7 +19876,7 @@
         "voice": "GC140926.ogg"
       },
       "original": "おはよう、レスター。",
-      "translation": "좋은아침이야,레스터.",
+      "translation": "좋은 아침, 레스터.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -20374,7 +20374,7 @@
         "voice": "GC940210.ogg"
       },
       "original": "まあ、しょぼくれた顔を彼女に見せたくはないからね。",
-      "translation": "뭐,풀 죽은 얼굴을 그녀에게 보여주고 싶진않으니까.",
+      "translation": "뭐, 풀 죽은 얼굴을 그녀에게 보여주고 싶진않으니까.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -20542,7 +20542,7 @@
         "voice": "GC141001.ogg"
       },
       "original": "ん、まあね。",
-      "translation": "응,뭐그렇지.",
+      "translation": "응, 그렇지.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

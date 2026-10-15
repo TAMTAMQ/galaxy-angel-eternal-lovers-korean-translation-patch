@@ -1909,7 +1909,7 @@
         "voice": "GC510043.ogg"
       },
       "original": "では、始めます。",
-      "translation": "그럼,시작합니다.",
+      "translation": "그럼, 시작할게요",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1945,7 +1945,7 @@
         "voice": "GC510044.ogg"
       },
       "original": "うーん。もう少し強めがいいかな。",
-      "translation": "으음. 조금 더 강한 게좋을것같아.",
+      "translation": "으음. 조금 더 강한 게 좋겠어.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2419,7 +2419,7 @@
         "voice": "GC510059.ogg"
       },
       "original": "悪夢からの目覚め",
-      "translation": "악몽에서의깨어남",
+      "translation": "악몽에서 깨어남",
       "state": "shortened",
       "use_translation": true,
       "storage": [

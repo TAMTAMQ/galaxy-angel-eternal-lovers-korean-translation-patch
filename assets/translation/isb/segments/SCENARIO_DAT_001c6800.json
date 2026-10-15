@@ -257,7 +257,7 @@
         "voice": "GC140054.ogg"
       },
       "original": "……確かに、そこ以外はなさそうだね。",
-      "translation": "……확실히, 그곳 말고는 없을 것같네.",
+      "translation": "……확실히, 그곳 말곤 없을 것 같네.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2645,7 +2645,7 @@
         "voice": "GC140504.ogg"
       },
       "original": "ああ、あとはあれを回収して『白き月』に戻るだけだ。",
-      "translation": "아아,저걸 회수해서『하얀달』로돌아가기만하면된다.",
+      "translation": "아아, 저걸 회수해서『하얀달』로돌아가기만하면된다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2969,7 +2969,7 @@
         "voice": "GC540704.ogg"
       },
       "original": "オレたちを特別ボーナスが待ってるぞ！",
-      "translation": "우리에게특별보너스가기다리고있다고！",
+      "translation": "우릴 특별 보너스가 기다리고 있다고!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3209,7 +3209,7 @@
         "voice": "GC140712.ogg"
       },
       "original": "『白き月』は私たちの家ですわ。絶対に、帰ります！",
-      "translation": "『하얀 달』은우리의집이에요.반드시돌아갈거예요！",
+      "translation": "『하얀 달』은 우리 집이에요. 꼭 돌아갈 거예요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3275,7 +3275,7 @@
         "voice": "GC140715.ogg"
       },
       "original": "不利な状況下で戦いへ",
-      "translation": "불리한상황에서전투로",
+      "translation": "불리한 상황에서 전투",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3821,7 +3821,7 @@
         "voice": "GC140816.ogg"
       },
       "original": "敵艦主砲、来ます！",
-      "translation": "적함 주포,옵니다！",
+      "translation": "적함 주포, 옵니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6467,7 +6467,7 @@
         "voice": "GC541163.ogg"
       },
       "original": "ノアから症状の治療法を聞く",
-      "translation": "노아에게증상치료법을듣는다",
+      "translation": "노아에게 치료법을 듣는다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7421,7 +7421,7 @@
         "voice": "GC141232.ogg"
       },
       "original": "今のヴァニラを戦場に出すなんて、オレが認めない！",
-      "translation": "지금의 바닐라를 전장에 내보내는건,내가허락못해！",
+      "translation": "지금 바닐라를 전장에 내보내는 건 허락 못 해!",
       "state": "shortened",
       "use_translation": true,
       "storage": [

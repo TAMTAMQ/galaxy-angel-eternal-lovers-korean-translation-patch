@@ -1348,7 +1348,7 @@
         "voice": "GC120125.ogg"
       },
       "original": "あっ、いや、疑いというのも、厳密には少し違うような気も……。",
-      "translation": "앗, 아니, 의심이라 해도 엄밀히 말하면 조금 다른것같기도…….",
+      "translation": "앗, 아니, 의심이라 해도 엄밀히 말하면 다른 것 같기도…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -1486,7 +1486,7 @@
         "voice": "GC420125.ogg"
       },
       "original": "本艦は、あなた方おふたりをＥＤＥＮの使者として歓迎します。ようこそ、エルシオールへ。",
-      "translation": "본 함선은 당신들 두 사람을 EDEN의 사절로서환영합니다. 어서 오십시오,에르시올에.",
+      "translation": "본 함선은 당신들 두 사람을 EDEN의 사절로서 환영합니다. 어서 오십시오, 에르시올에.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5044,7 +5044,7 @@
         "voice": "GC120382.ogg"
       },
       "original": "……雨？　屋内で？",
-      "translation": "……비？실내에서？",
+      "translation": "……비? 실내에서?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5080,7 +5080,7 @@
         "voice": "GC120384.ogg"
       },
       "original": "今日こそはと思ったんだけどね。",
-      "translation": "오늘이야말로 성공할줄알았는데.",
+      "translation": "오늘은 성공할 줄 알았는데",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5170,7 +5170,7 @@
         "voice": "GC120387.ogg"
       },
       "original": "よし、カフカフの木の下で雨宿りだ。みんな、走れ～。",
-      "translation": "좋아, 카프카프 나무 아래서비를피하자.모두,뛰어～！",
+      "translation": "좋아, 카프카프 나무 밑에서 피하자. 모두, 뛰어～!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5656,7 +5656,7 @@
         "voice": "GC420382.ogg"
       },
       "original": "いえ、でも……。",
-      "translation": "아니,그래도…….",
+      "translation": "아뇨, 그래도……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6364,7 +6364,7 @@
         "voice": "GC120600.ogg"
       },
       "original": "はっはっは、何を今さら。",
-      "translation": "핫하하이제와서새삼스럽게",
+      "translation": "하하, 이제 와서 뭘 새삼.",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -6742,7 +6742,7 @@
         "voice": "GC120670.ogg"
       },
       "original": "わかった、そうさせてもらうよ。ＥＤＥＮについて、もっと詳しい話も聞けそうだしね。",
-      "translation": "알았어, 그렇게 할게. EDEN에 대해 더 자세한 이야기도 들을 수있을것같고말이야.",
+      "translation": "알았어, 그렇게 할게. EDEN에 대해 더 자세한 이야기도 들을 수 있을 것 같고 말이야.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7210,7 +7210,7 @@
         "voice": "GC120754.ogg"
       },
       "original": "確かに……。ＥＤＥＮからここまで逃げてくるだけでも、相当大変だろうし。",
-      "translation": "확실히……. EDEN에서 여기까지 도망쳐 온것만으로도상당히힘들테니까.",
+      "translation": "확실히……. EDEN에서 여기까지 도망쳐 온 것만으로도 상당히 힘들 테니까.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8368,7 +8368,7 @@
         "voice": "GC120768.ogg"
       },
       "original": "あはは、おだてても何も出ないよ？",
-      "translation": "아하하,아부떨어도아무것도안나와.",
+      "translation": "아하하, 아부해도 뭐 안 나와.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11416,7 +11416,7 @@
         "voice": "GC121103.ogg"
       },
       "original": "どの艦も、データにありません！",
-      "translation": "어떤 함선도 데이터에없습니다！",
+      "translation": "어떤 함선도 데이터에 없습니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12268,7 +12268,7 @@
         "voice": "GC121213.ogg"
       },
       "original": "どうする、タクト？",
-      "translation": "어떡할 거야,택트？",
+      "translation": "어떡할 거야, 택트?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

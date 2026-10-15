@@ -2157,7 +2157,7 @@
         "voice": "GC930136.ogg"
       },
       "original": "だったら話は早いな。そう、俺たちの新しい任務についてだ。",
-      "translation": "그렇다면이야기는빠르군.그래,우리의새로운임무에대해서다.",
+      "translation": "그럼 이야기가 빠르군. 그래, 우리의 새 임무 얘기다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3921,7 +3921,7 @@
         "voice": "GC930209.ogg"
       },
       "original": "部屋に戻る道がわからないとか？",
-      "translation": "방으로돌아가는길을모른다거나？",
+      "translation": "방으로 가는 길을 모른다거나?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5061,7 +5061,7 @@
         "voice": "GC930307.ogg"
       },
       "original": "しかし……もしシャトヤーン様に何かあったら、シヴァ様は……。",
-      "translation": "하지만…… 만약 샤토얀 님께 무슨 일이 생긴다면,시바님은…….",
+      "translation": "하지만…… 샤토얀 님께 무슨 일이라도 생기면, 시바님은…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5217,7 +5217,7 @@
         "voice": "GC930311.ogg"
       },
       "original": "ＥＤＥＮの外敵と戦うのは、ふたつの月の使命。今さら覚悟を問うなんて愚問よ。",
-      "translation": "EDEN의외적과 싸우는건두달의사명.이제와서각오를묻는건어리석은질문이야.",
+      "translation": "EDEN의외적과 싸우는건두달의사명. 이제와서각오를묻는건어리석은질문이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7455,7 +7455,7 @@
         "voice": "GC930432.ogg"
       },
       "original": "……仕方ないか。",
-      "translation": "……어쩔 수없나.",
+      "translation": "……어쩔 수 없나",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7983,7 +7983,7 @@
         "voice": "GC930502.ogg"
       },
       "original": "艦内各部、異常なし。",
-      "translation": "함내각부위,이상없음.",
+      "translation": "함내 각부 이상 없음.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9369,7 +9369,7 @@
         "voice": "GC930537.ogg"
       },
       "original": "……あの、タクトさん、僕の顔に何か？",
-      "translation": "……저기,택트씨,제얼굴에뭐묻었나요？",
+      "translation": "……저기, 택트 씨. 제 얼굴에 뭐라도?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10119,7 +10119,7 @@
         "voice": "GC930615.ogg"
       },
       "original": "……武者震いかな。とにかく、全力は尽くすよ。レスター！",
-      "translation": "…전투 전의 떨림인가. 어쨌든 전력을다하겠어.레스터！",
+      "translation": "…전투 전의 떨림인가. 어쨌든 전력을다하겠어. 레스터！",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10419,7 +10419,7 @@
         "voice": "GC930708.ogg"
       },
       "original": "確かに勝ったよ。でもね……。",
-      "translation": "분명이겼어.하지만말이야…….",
+      "translation": "분명 이겼어. 하지만…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10653,7 +10653,7 @@
         "voice": "GC930717.ogg"
       },
       "original": "……了解。これより帰艦する。",
-      "translation": "……알겠다.지금부터귀함한다.",
+      "translation": "……알겠다. 이제 귀함한다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10905,7 +10905,7 @@
         "voice": "GC930725.ogg"
       },
       "original": "そう……だね。確かに、それは自然だ……自然なんだけど……なんか、こう……。",
-      "translation": "그렇…네. 확실히 그건 자연스럽다…… 자연스럽긴 한데……뭔가,이렇게…….",
+      "translation": "그렇…네. 확실히 그건 자연스럽다…… 자연스럽긴 한데……뭔가, 이렇게…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -15549,7 +15549,7 @@
         "voice": "GC931621.ogg"
       },
       "original": "何言ってるんですか。リッキー君は別腹ですよ、別腹。",
-      "translation": "무슨 말씀을 하시는 거예요. 리키 군은별개예요,별개.",
+      "translation": "무슨 말씀이세요. 리키 군은 별개예요, 별개.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17493,7 +17493,7 @@
         "voice": "GC931710.ogg"
       },
       "original": "格納庫……そうだ、今ならまだ間に合うか？",
-      "translation": "격납고…… 맞아,지금이면아직늦지않았나？",
+      "translation": "격납고…… 맞아, 지금이면 늦지 않았나?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17673,7 +17673,7 @@
         "voice": "GC931801.ogg"
       },
       "original": "ハッチ開放。医療班の誘導を始めます。",
-      "translation": "해치개방.의료반유도를시작하겠습니다.",
+      "translation": "해치 개방. 의료반 유도를 시작합니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [

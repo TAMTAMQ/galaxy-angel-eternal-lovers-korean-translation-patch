@@ -144,7 +144,7 @@
         "voice": "GC575002.ogg"
       },
       "original": "……はい。どうぞ。",
-      "translation": "……네.들어오세요.",
+      "translation": "……네. 어서요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -762,7 +762,7 @@
         "voice": "GC575015.ogg"
       },
       "original": "百万の味方を得た気分だよ、ヴァニラ。",
-      "translation": "백만 명의 아군을얻은기분이야,바닐라.",
+      "translation": "백만 아군을 얻은 기분이야, 바닐라.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -936,7 +936,7 @@
         "voice": "GC575101.ogg"
       },
       "original": "ただ見ているだけです……あ、いま潮を吹きました。",
-      "translation": "그저 보고 있을뿐입니다…아,지금물을뿜었습니다.",
+      "translation": "그저 보고 있을뿐입니다…아, 지금물을뿜었습니다.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -1656,7 +1656,7 @@
         "voice": "GC575118.ogg"
       },
       "original": "そうですね。たくさん月見ができるといいです……。",
-      "translation": "그러게요. 실컷 달맞이를 할 수있으면좋겠어요….",
+      "translation": "그러게요. 실컷 달맞이할 수 있으면 좋겠어요…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

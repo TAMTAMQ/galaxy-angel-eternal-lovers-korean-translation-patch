@@ -333,7 +333,7 @@
         "voice": "GC530011.ogg"
       },
       "original": "あの……私、帰ります。",
-      "translation": "저기……저,돌아갈게요.",
+      "translation": "저기…… 저, 갈게요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -543,7 +543,7 @@
         "voice": "GC130024.ogg"
       },
       "original": "いえ、なにも。",
-      "translation": "아니,아무것도.",
+      "translation": "아니, 아무것도",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2925,7 +2925,7 @@
         "voice": "GC530246.ogg"
       },
       "original": "あ、いや、それがその……。",
-      "translation": "아, 아니,그게그러니까…….",
+      "translation": "아, 아니, 그러니까……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3003,7 +3003,7 @@
         "voice": "GC530250.ogg"
       },
       "original": "それは……私もです。でも、我慢しますから。",
-      "translation": "그건…… 저도 마찬가지예요.하지만참을게요.",
+      "translation": "그건…… 저도 같아요. 하지만 참을게요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -3453,7 +3453,7 @@
         "voice": "GC530301.ogg"
       },
       "original": "ヴァニラに会いに来たんだけど、留守みたいなんだ。",
-      "translation": "바닐라를만나러 왔는데, 부재중인 것같아서말이야.",
+      "translation": "바닐라 만나러 왔는데, 부재중인 것 같아서 말이야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4017,7 +4017,7 @@
         "voice": "GC530311.ogg"
       },
       "original": "会えなくなると、とてもさみしく感じる。",
-      "translation": "만날 수 없게되면,무척쓸쓸하게느껴진다.",
+      "translation": "못 만나게 되면 너무 쓸쓸해.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -5037,7 +5037,7 @@
         "voice": "GC530337.ogg"
       },
       "original": "わかっています。食事は次の機会、ですね。",
-      "translation": "알고 있습니다. 식사는 다음 기회에,군요.\n",
+      "translation": "알고 있습니다. 식사는 다음 기회에, 군요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6231,7 +6231,7 @@
         "voice": "GC530521.ogg"
       },
       "original": "いえ……。では、失礼します。",
-      "translation": "아니요……. 그럼,실례할게요.",
+      "translation": "아니요……. 그럼, 실례할게요",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7443,7 +7443,7 @@
         "voice": "GC530618.ogg"
       },
       "original": "これでハーベスターは、普段以上に戦えるでしょう。",
-      "translation": "이걸로하베스터는 평소보다 더 잘 싸울수있겠군요.",
+      "translation": "이걸로 하베스터는 평소보다 잘 싸울 수 있겠군요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -7917,7 +7917,7 @@
         "voice": "GC530632.ogg"
       },
       "original": "では、私はハーベスターに戻ります。",
-      "translation": "그럼,저는하베스터로돌아가겠습니다.",
+      "translation": "그럼 전 하베스터로 돌아가겠습니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8013,7 +8013,7 @@
         "voice": "GC131150.ogg"
       },
       "original": "まったく、しょうがないやつだ……。",
-      "translation": "정말이지, 어쩔수없는녀석이군……。",
+      "translation": "정말, 못 말릴 녀석이군……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9153,7 +9153,7 @@
         "voice": "GC131403.ogg"
       },
       "original": "そんなこと……させるか～～～～～っ！",
-      "translation": "그런짓……하게두지않겠어～～～～～！",
+      "translation": "그런 짓…… 하게 둘까～～～～～!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9603,7 +9603,7 @@
         "voice": "GC131417.ogg"
       },
       "original": "りょ、了解……。",
-      "translation": "아,알겠습니다….",
+      "translation": "아, 알겠어요……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11187,7 +11187,7 @@
         "voice": "GC131539.ogg"
       },
       "original": "さてと……。",
-      "translation": "자,그럼…….",
+      "translation": "자, 그럼……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11205,7 +11205,7 @@
         "voice": "GC531036.ogg"
       },
       "original": "ねえタクト、ヴァニラ起きた？",
-      "translation": "있잖아 택트,바닐라일어났어？",
+      "translation": "택트, 바닐라 일어났어?",
       "state": "shortened",
       "use_translation": true,
       "storage": [

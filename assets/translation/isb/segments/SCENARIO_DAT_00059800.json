@@ -2876,7 +2876,7 @@
         "voice": "GC160236.ogg"
       },
       "original": "ああ、大丈夫大丈夫。左手をつかえばなんとかなるよ。",
-      "translation": "아아,괜찮아 괜찮아. 왼손을 쓰면 어떻게든 될 거야.",
+      "translation": "아아, 괜찮아 괜찮아. 왼손을 쓰면 어떻게든 될 거야.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -6548,7 +6548,7 @@
         "voice": "GC160339.ogg"
       },
       "original": "記憶喪失を治す方法か……。",
-      "translation": "기억상실을고치는방법인가…",
+      "translation": "기억상실 치료법인가…….",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -9494,7 +9494,7 @@
         "voice": "GC160428.ogg"
       },
       "original": "な、なによ、その意外そうな目は！？",
-      "translation": "뭐, 뭐야, 그의외라는듯한눈빛은！？",
+      "translation": "뭐, 뭐야, 그 의외란 눈빛은!?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -21044,7 +21044,7 @@
         "voice": "GC161204.ogg"
       },
       "original": "本当に君たちはよくわからない……。敵である僕が……『ヴァル・ファスク』が生きていたことが、なぜそんなに嬉しい……。",
-      "translation": "정말 너희는 알 수가 없어……. 적인 내가…… 『발・파스크』가 살아있다는 게, 왜 그렇게 기쁜 거지…….",
+      "translation": "정말 너희는 이해가 안 돼……. 적이었던 내가 살아 있다니…… 『발・파스크』가 살아 있는 게 왜 그렇게 기쁘지…….",
       "state": "reused",
       "use_translation": true,
       "storage": [

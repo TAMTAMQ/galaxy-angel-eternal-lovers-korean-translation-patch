@@ -1589,7 +1589,7 @@
         "voice": "GC150109.ogg"
       },
       "original": "でも、もう平気です。もう絶対に忘れませんから。",
-      "translation": "하지만 이제 괜찮아요. 다신 절대 잊지 않을 테니까.",
+      "translation": "하지만 이젠 괜찮아요. 절대 잊지 않을 테니까.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2303,7 +2303,7 @@
         "voice": "GC150130.ogg"
       },
       "original": "で、結局タクトはどうするつもりなの？",
-      "translation": "그래서, 결국택트는어떻게할생각이야？",
+      "translation": "그래서 택트는 결국 어떻게 할 거야?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2597,7 +2597,7 @@
         "voice": "GC150139.ogg"
       },
       "original": "取り戻しても、破壊されていては意味がありません……。",
-      "translation": "되찾는다 해도, 파괴되어 있다면 의미가없으니까요….",
+      "translation": "되찾아도 파괴돼 있다면 의미가 없으니까요……",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -2993,7 +2993,7 @@
         "voice": "GC150151.ogg"
       },
       "original": "お待たせしました～。",
-      "translation": "오래기다리셨습니다～",
+      "translation": "기다리셨습니다～",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7505,7 +7505,7 @@
         "voice": "GC150428.ogg"
       },
       "original": "なるほど、丸裸とはそういうことですのね。",
-      "translation": "과연, 낱낱이 드러났다는건그런뜻이었군요.",
+      "translation": "과연, 낱낱이 드러난 게 이런 뜻이군요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -7523,7 +7523,7 @@
         "voice": "GC150429.ogg"
       },
       "original": "我々の内情は全て知られている……。",
-      "translation": "우리의 내정은전부알려져있다니…….",
+      "translation": "우리 사정은 전부 알려져 있다니……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9989,7 +9989,7 @@
         "voice": "GC150749.ogg"
       },
       "original": "仕方ないわね……こうなったら、次の作戦で完全に決めるしか……。",
-      "translation": "어쩔수없네…이렇게된이상,다음작전에서완전히끝내는수밖에…….",
+      "translation": "어쩔 수 없네…… 이젠 다음 작전에서 끝내는 수밖에…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -10427,7 +10427,7 @@
         "voice": "GC150759.ogg"
       },
       "original": "ぐ……くう……う、うーん……。",
-      "translation": "으음……으으……으,으으음…….",
+      "translation": "으음…… 으으…… 으, 으음……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -12305,7 +12305,7 @@
         "voice": "GC150922.ogg"
       },
       "original": "……本当に、覚えてないんだ……はあ……。",
-      "translation": "……정말로,기억이안나는구나……하아…….",
+      "translation": "……정말 기억이 안 나는구나…… 하아……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14975,7 +14975,7 @@
         "voice": "GC151050.ogg"
       },
       "original": "あはははは。もう、タクトさんったら真面目な顔で何言ってるんですか？",
-      "translation": "아하하하하.정말이지, 택트 씨는 진지한 얼굴로 무슨말을하는거예요？",
+      "translation": "아하하하하. 정말, 택트 씨는 진지한 얼굴로 무슨 말을 하는 거예요?",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -14999,7 +14999,7 @@
         "voice": "GC151050.ogg"
       },
       "original": "な、何って……オレは、これ以上ないぐらい真剣に……。",
-      "translation": "무, 무슨 말이냐니… 난 이보다 더 진지할수없어…….",
+      "translation": "무, 무슨 말이냐니…… 난 이보다 진지할 수 없어…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -15989,7 +15989,7 @@
         "voice": "GC151072.ogg"
       },
       "original": "だから、ついてこないでほしい……。",
-      "translation": "그러니까,따라오지말아줬으면해…….",
+      "translation": "그러니 따라오지 말아 줬으면 해……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -16673,7 +16673,7 @@
         "voice": "GC151106.ogg"
       },
       "original": "正直、あたしの何が、タクトさんを怒らせたかはわかりません……。",
-      "translation": "솔직히 제가 무엇 때문에 택트 씨를 화나게 했는지모르겠어요…….",
+      "translation": "솔직히 왜 택트 씨를 화나게 했는지 모르겠어요……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -17831,7 +17831,7 @@
         "voice": "GC151134.ogg"
       },
       "original": "……俺が言いたいのはそれだけだ。まったく、柄にもないぜ……。",
-      "translation": "……내가 하고 싶은 말은 그게 전부다.정말이지,나답지않군…….",
+      "translation": "……내가 하고 싶은 말은 그게 전부다. 정말, 나답지 않군…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18059,7 +18059,7 @@
         "voice": "GC151136.ogg"
       },
       "original": "……そうだ、前に進もう。",
-      "translation": "……그래,앞으로나아가자.",
+      "translation": "……그래, 앞으로 가자.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18161,7 +18161,7 @@
         "voice": "GC151137.ogg"
       },
       "original": "ええと……心配かけてごめん。",
-      "translation": "어, 음…… 걱정끼쳐서미안해.",
+      "translation": "음…… 걱정 끼쳐서 미안해",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18335,7 +18335,7 @@
         "voice": "GC151142.ogg"
       },
       "original": "見てもらいたいって……何をですか？",
-      "translation": "보여주고싶다니……무엇을말인가요？",
+      "translation": "보여 주고 싶다니…… 뭘요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -18449,7 +18449,7 @@
         "voice": "GC151200.ogg"
       },
       "original": "もう、タクトさんってば女の子の部屋に強引ですよ。",
-      "translation": "정말이지,택트 씨는 여자애 방에너무무리라니까요.",
+      "translation": "정말, 택트 씨는 여자애 방에 막 들어온다니까요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -18929,7 +18929,7 @@
         "voice": "GC151213.ogg"
       },
       "original": "そう、異常なんてまるでなかった。ただ一点を除けばね。",
-      "translation": "그래,이상 따윈 전혀없었어.딱한가지를제외하면말이지.",
+      "translation": "그래, 이상 따윈 전혀 없었어. 딱 하나만 빼면 말이지.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -19595,7 +19595,7 @@
         "voice": "GC151231.ogg"
       },
       "original": "……忘れるって、何をですか？",
-      "translation": "……잊는다는 건,무엇인가요？",
+      "translation": "……잊는다는 건, 무엇인가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19823,7 +19823,7 @@
         "voice": "GC151233.ogg"
       },
       "original": "だから、改めて申し込む。",
-      "translation": "그러니,다시한번신청할게.",
+      "translation": "그러니, 다시 신청할게.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19883,7 +19883,7 @@
         "voice": "GC151235.ogg"
       },
       "original": "そんな……急にそんなこと言われても……。",
-      "translation": "말도 안 돼…… 갑자기그렇게말씀하셔도...",
+      "translation": "말도 안 돼…… 갑자기 그러셔도……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -20399,7 +20399,7 @@
         "voice": "GC151250.ogg"
       },
       "original": "いいんだ。そんなに焦らなくても。答えは後でだって……。",
-      "translation": "괜찮아. 서두르지 않아도 돼. 답은 나중에해도되니까….",
+      "translation": "괜찮아. 서두르지 않아도 돼. 답은 나중에 해도 돼……",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -21311,7 +21311,7 @@
         "voice": "GC151307.ogg"
       },
       "original": "周囲の状況の確認急げ！",
-      "translation": "주위상황을빨리확인해！",
+      "translation": "주변 상황 빨리 확인해!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -21461,7 +21461,7 @@
         "voice": "GC151335.ogg"
       },
       "original": "そうだね。で、結局何が言いたいんだい？",
-      "translation": "그렇군. 그래서 결국 하고싶은말이뭐야？",
+      "translation": "그렇군. 그래서 결국 무슨 말이야?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -21965,7 +21965,7 @@
         "voice": "GC151367.ogg"
       },
       "original": "で、でも……。",
-      "translation": "하,하지만…….",
+      "translation": "하, 하지만……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -22535,7 +22535,7 @@
         "voice": "GC151404.ogg"
       },
       "original": "私にできる最大限の戦いを……。",
-      "translation": "내가 할수있는최선의싸움을…….",
+      "translation": "내 최선의 싸움을……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -22553,7 +22553,7 @@
         "voice": "GC151405.ogg"
       },
       "original": "正義は必ず勝つのです！",
-      "translation": "정의는반드시승리해요！",
+      "translation": "정의는 꼭 승리해요!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -23981,7 +23981,7 @@
         "voice": "GC151545.ogg"
       },
       "original": "なーんだ、告白か～。もう、いったい何事かと思っ……。",
-      "translation": "뭐야, 고백이었나～. 정말이지,대체무슨일인가했더니…",
+      "translation": "뭐야, 고백이었나～. 대체 무슨 일인가 했더니…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

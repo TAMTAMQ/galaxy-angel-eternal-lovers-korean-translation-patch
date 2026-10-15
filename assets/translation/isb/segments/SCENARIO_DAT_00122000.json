@@ -799,7 +799,7 @@
         "voice": "GC350006.ogg"
       },
       "original": "真摯な愛を感じます……。",
-      "translation": "진지한사랑이느껴지네요…",
+      "translation": "깊은 사랑이 느껴져요……",
       "state": "compacted",
       "use_translation": true,
       "storage": [
@@ -1285,7 +1285,7 @@
         "voice": "GC350105.ogg"
       },
       "original": "こういう時はね、そんな甘い言葉より、心にひびく熱い叫びの方が効果的なのよ。",
-      "translation": "이럴때는 말이야, 달콤한 말보다 마음에 울리는 뜨거운 외침이더효과적이라구.",
+      "translation": "이럴 때는 달콤한 말보다 마음에 울리는 뜨거운 외침이 더 효과적이라구.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3055,7 +3055,7 @@
         "voice": "GC350161.ogg"
       },
       "original": "（もう、何で気がつかれないのでしょう？本当に、愛がありませんわ）",
-      "translation": "（정말이지,왜 눈치채지 못하시는 걸까요？ 정말사랑이없으시네요）",
+      "translation": "（정말, 왜 눈치채지 못하시는 걸까요? 정말 사랑이 없으시네요）",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3265,7 +3265,7 @@
         "voice": "GC350167.ogg"
       },
       "original": "部屋同様、着ぐるみにも精神波を遮断する材質を用いてますの。",
-      "translation": "방과마찬가지로, 인형에도 정신파 차단재질을사용하고있어요.",
+      "translation": "방처럼 인형에도 정신파 차단 재질을 쓰고 있어요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3673,7 +3673,7 @@
         "voice": "GC350177.ogg"
       },
       "original": "今の私が、まさにそれですわ。",
-      "translation": "지금의제가,바로그것이랍니다.",
+      "translation": "지금의 제가 바로 그렇답니다.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4033,7 +4033,7 @@
         "voice": "GC350188.ogg"
       },
       "original": "普段は心の奥に閉じこめて、そうそう口に出したりはしないこと……。",
-      "translation": "평소엔 마음 깊은 곳에 가두어 두고, 좀처럼입밖으로내지않는것….",
+      "translation": "평소엔 마음 깊이 감춰 두고, 좀처럼 입 밖에 내지 않는 것……",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4129,7 +4129,7 @@
         "voice": "GC350191.ogg"
       },
       "original": "わー！　わー！　わー！　何も聞こえませんわ！　タクトさんには何も聞こえません！今のは絶対なしですのよー！",
-      "translation": "와아！와아！ 와아！ 아무것도 안 들려요！ 택트 씨에겐 아무것도 안 들린다구요！방금건절대없었던일이에요！",
+      "translation": "와아! 와아! 와아! 아무것도 안 들려요! 택트 씨에겐 아무것도 안 들린다고요! 방금 건 절대 없었던 일이에요!",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4519,7 +4519,7 @@
         "voice": "GC350201.ogg"
       },
       "original": "それでも私はこの部屋から出たくない……私の心の全てを知られたくないんです。",
-      "translation": "그래도 저는 이 방에서 나가기 싫어요…… 제 마음의전부를들키고싶지않답니다.",
+      "translation": "그래도 전 이 방에서 나가기 싫어요…… 제 마음을 전부 들키긴 싫어요.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4585,7 +4585,7 @@
         "voice": "GC350201.ogg"
       },
       "original": "だからミントも、ここを出て、元気な姿をみんなに……。",
-      "translation": "그러니까민트도,여기서나가서건강한모습을모두에게….",
+      "translation": "민트도 여기서 나가 건강한 모습을 모두에게…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -5899,7 +5899,7 @@
         "voice": "GC350307.ogg"
       },
       "original": "むう……まあ、今回は仕方あるまい。",
-      "translation": "으음…… 뭐, 이번엔 어쩔 수없겠군.",
+      "translation": "으음…… 이번엔 어쩔 수 없겠군.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6811,7 +6811,7 @@
         "voice": "GC250511.ogg"
       },
       "original": "ぐ……くう……う、うーん……。",
-      "translation": "으음……으으……으,으으음…….",
+      "translation": "으음…… 으으…… 으, 으음……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8083,7 +8083,7 @@
         "voice": "GC350615.ogg"
       },
       "original": "今、また、ミントの声が聞こえた！",
-      "translation": "지금 다시,민트의목소리가들렸어！",
+      "translation": "지금 또, 민트의 목소리가 들렸어!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9031,7 +9031,7 @@
         "voice": "GC350643.ogg"
       },
       "original": "全乗組員に自室待機を通達。一歩も艦内に出歩かせないように。それと念のためだけど、格納庫にロックも頼む。",
-      "translation": "전 승무원에게 개인실 대기를 통보해. 함내에한 발짝도나오지못하게.그리고만약을위해격납고잠금도부탁한다.",
+      "translation": "전 승무원에게 개인실 대기를 통보해. 함내에 나오지 못하게. 혹시 모르니 격납고도 잠가 줘.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -9085,7 +9085,7 @@
         "voice": "GC350644.ogg"
       },
       "original": "了解。任せた。",
-      "translation": "알았다.맡기지.",
+      "translation": "알았다. 맡기지",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -9487,7 +9487,7 @@
         "voice": "GC350656.ogg"
       },
       "original": "（この貨物の隙間をくぐりぬければ……）",
-      "translation": "（이 화물 사이를빠져나갈수있다면……）",
+      "translation": "（화물 사이를 빠져나갈 수 있다면……）",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10963,7 +10963,7 @@
         "voice": "GC350694.ogg"
       },
       "original": "（疲れが一気に押し寄せて……何やら……眠く……）",
-      "translation": "（피로가한꺼번에몰려와서……왠지……졸려요……）",
+      "translation": "（피로가 몰려와서…… 왠지…… 졸려요……）",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11281,7 +11281,7 @@
         "voice": "GC350696.ogg"
       },
       "original": "ミントが一番安心できる場所……。",
-      "translation": "민트가 가장 안심할 수있는곳…….",
+      "translation": "민트가 안심할 수 있는 곳…….",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13309,7 +13309,7 @@
         "voice": "GC350851.ogg"
       },
       "original": "いや、まだだ。",
-      "translation": "아니,아직이다.",
+      "translation": "아니, 아직이다",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13369,7 +13369,7 @@
         "voice": "GC350853.ogg"
       },
       "original": "あっ、はい、了解！",
-      "translation": "앗,네,알겠습니다！",
+      "translation": "앗, 알겠습니다!",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -19837,7 +19837,7 @@
         "voice": "GC351224.ogg"
       },
       "original": "ど、どうした、タクト？",
-      "translation": "무, 무슨 일이야,택트？",
+      "translation": "무, 무슨 일이야, 택트?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -20455,7 +20455,7 @@
         "voice": "GC151517.ogg"
       },
       "original": "そんな……そんなバカな話があってたまるものか……。",
-      "translation": "말도 안 돼… 그런 말도 안되는일이있을리없어…….",
+      "translation": "말도 안 돼…… 그런 일이 있을 리 없어……",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [

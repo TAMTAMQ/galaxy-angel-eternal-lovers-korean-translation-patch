@@ -2822,7 +2822,7 @@
         "voice": "GC250135.ogg"
       },
       "original": "確かに、それだけでタクトさんの負担はかなり減ると思いますが。",
-      "translation": "확실히그것만으로도 택트 씨의 부담은 상당히 줄 것같습니다만.",
+      "translation": "확실히 그것만으로도 택트 씨 부담은 상당히 줄 것 같습니다만.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3680,7 +3680,7 @@
         "voice": "GC250156.ogg"
       },
       "original": "きっと歩けるさ……オレたちが、あきらめない限りは。",
-      "translation": "분명 걸을 수 있을 거야… 우리가포기하지않는한은.",
+      "translation": "분명 걸을 수 있어…… 우리가 포기하지 않는 한.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3818,7 +3818,7 @@
         "voice": "GC250159.ogg"
       },
       "original": "ええ、もちろん。タクトだけに辛い思いはさせないわ。",
-      "translation": "네,물론이죠.택트에게만괴로운일은겪게하지않을게요.",
+      "translation": "네, 물론이죠. 택트만 힘들게 하진 않을게요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -3902,7 +3902,7 @@
         "voice": "GC250162.ogg"
       },
       "original": "それ以上は近づかない方が……。",
-      "translation": "그 이상은가까이오지않는게…….",
+      "translation": "그 이상은 가까이 오지 마……",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -4232,7 +4232,7 @@
         "voice": "GC250172.ogg"
       },
       "original": "ど、どうしましょう、タクトさんが！",
-      "translation": "어, 어쩌죠, 택트씨가!\n",
+      "translation": "어, 어쩌죠, 택트 씨가!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4286,7 +4286,7 @@
         "voice": "GC250175.ogg"
       },
       "original": "自分に酔ってる方々に、ヴァニラさんのナノマシンを使うのはもったいないですわ。",
-      "translation": "자기애에 빠진 분들에게 바닐라씨의 나노머신을 쓰는 건 아까워요.\n",
+      "translation": "자기애에 빠진 분들에게 바닐라 씨의 나노머신을 쓰는 건 아까워요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4454,7 +4454,7 @@
         "voice": "GC250183.ogg"
       },
       "original": "頑張って、みんなでタクトさんを鍛えましょう～。",
-      "translation": "힘내서 다 같이 택트씨를 단련해요～\n",
+      "translation": "힘내서 다 같이 택트 씨를 단련해요～\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -4592,7 +4592,7 @@
         "voice": "GC250204.ogg"
       },
       "original": "タクトさ～ん、ランファ先輩～。別に競争ではないのですから、そんなに気合いをいれて走らなくても～。",
-      "translation": "택트씨～ 란파 선배～. 딱히 경주가 아니니까 그렇게 기합 넣고 달리지 않아도～\n",
+      "translation": "택트 씨～ 란파 선배～. 딱히 경주가 아니니까 그렇게 기합 넣고 달리지 않아도～\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5594,7 +5594,7 @@
         "voice": "GC250228.ogg"
       },
       "original": "タ、タクトさんが空から降ってきました～！",
-      "translation": "태, 택트씨가 하늘에서 떨어졌어요～!\n",
+      "translation": "태, 택트 씨가 하늘에서 떨어졌어요～!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5648,7 +5648,7 @@
         "voice": "GC250230.ogg"
       },
       "original": "いけませんわよ、タクトさん。ランニングなのですから、ちゃんと走らないと。",
-      "translation": "안 돼요, 택트씨. 러닝 중이니까 제대로 달려야죠.\n",
+      "translation": "안 돼요, 택트 씨. 러닝 중이니까 제대로 달려야죠.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -5804,7 +5804,7 @@
         "voice": "GC250236.ogg"
       },
       "original": "大丈夫ですか、タクトさん？",
-      "translation": "괜찮으세요, 택트씨?\n",
+      "translation": "괜찮으세요, 택트 씨?\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -6920,7 +6920,7 @@
         "voice": "GC250260.ogg"
       },
       "original": "タクトさんが……プールから飛んできました。",
-      "translation": "택트씨가…… 풀에서 날아왔습니다.\n",
+      "translation": "택트 씨가…… 풀에서 날아왔습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -6938,7 +6938,7 @@
         "voice": "GC250261.ogg"
       },
       "original": "タ、タクトさん！　大丈夫ですか！？",
-      "translation": "태, 택트씨! 괜찮으세요!?\n",
+      "translation": "태, 택트 씨! 괜찮으세요!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -7892,7 +7892,7 @@
         "voice": "GC250308.ogg"
       },
       "original": "ヴァインさん……じゃない、ヴァインが？いったいどういうことですの？",
-      "translation": "바인씨…… 아니, 바인이? 도대체 어떻게 된 일이죠?\n",
+      "translation": "바인 씨…… 아니, 바인이? 도대체 어떻게 된 일이죠?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8408,7 +8408,7 @@
         "voice": "GC250407.ogg"
       },
       "original": "それはまあ、タクトさん次第というところでしょうか。",
-      "translation": "그건 뭐, 택트씨 하기 나름이겠죠.",
+      "translation": "그건 뭐, 택트 씨 하기 나름이겠죠.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -8528,7 +8528,7 @@
         "voice": "GC250411.ogg"
       },
       "original": "行きましょう、タクトさん。",
-      "translation": "가시죠, 택트씨.",
+      "translation": "가시죠, 택트 씨.",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -8876,7 +8876,7 @@
         "voice": "GC250423.ogg"
       },
       "original": "お願いします、フォルテさん。アタシ、足手まといになるのだけは絶対イヤですから。",
-      "translation": "부탁해요, 포르테씨. 나, 짐이 되는 것만은 절대 싫으니까요.\n",
+      "translation": "부탁해요, 포르테 씨. 나, 짐이 되는 것만은 절대 싫으니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9014,7 +9014,7 @@
         "voice": "GC250427.ogg"
       },
       "original": "お疲れ様です、ちとせさん。",
-      "translation": "수고하셨어요, 치토세씨.",
+      "translation": "수고하셨어요, 치토세 씨.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9032,7 +9032,7 @@
         "voice": "GC250428.ogg"
       },
       "original": "いえ、タクトさんとランファ先輩のためなら、これしきのこと。では、この書類を。",
-      "translation": "아니요, 택트씨와 란파 선배를 위해서라면 이 정도 일은. 그럼, 이 서류를.",
+      "translation": "아니요, 택트 씨와 란파 선배를 위해서라면 이 정도 일은. 그럼, 이 서류를.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9626,7 +9626,7 @@
         "voice": "GC250448.ogg"
       },
       "original": "トレーニングルームにあるような機器も有用ですが、こういった作業の方が生きた筋肉を作るという説もあります。",
-      "translation": "트레이닝 룸에 있는 기기도 유용하지만, 이런 작업이 살아있는 근육을 만든다는 설도 있습니다.",
+      "translation": "트레이닝 룸에 있는 기기도 유용하지만, 이런 작업이 살아 있는 근육을 만든다는 설도 있습니다.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9746,7 +9746,7 @@
         "voice": "GC250451.ogg"
       },
       "original": "さすがタクトさん、そうこなくては。",
-      "translation": "역시 택트씨, 그래야죠.",
+      "translation": "역시 택트 씨, 그래야죠.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -9800,7 +9800,7 @@
         "voice": "GC250453.ogg"
       },
       "original": "ファイトです、タクトさん！",
-      "translation": "파이팅이에요, 택트씨!",
+      "translation": "파이팅이에요, 택트 씨!",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10232,7 +10232,7 @@
         "voice": "GC250463.ogg"
       },
       "original": "そ、そうですわね……具体的に言えば、タクトさんの腰のあたりから……。",
-      "translation": "그, 그렇네요…… 구체적으로 말하자면, 택트씨의 허리 근처에서…….",
+      "translation": "그, 그렇네요…… 구체적으로 말하자면, 택트 씨의 허리 근처에서…….",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10418,7 +10418,7 @@
         "voice": "GC250470.ogg"
       },
       "original": "タクトさんの肉体改造にランファさんがつきあうと、ランファさんまでたくましくなってしまうじゃありませんか。",
-      "translation": "택트씨의 육체 개조에 란파씨가 어울리면, 란파씨까지 튼튼해져 버리잖아요.",
+      "translation": "택트 씨의 육체 개조에 란파 씨가 어울리면, 란파 씨까지 튼튼해져 버리잖아요.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10466,7 +10466,7 @@
         "voice": "GC250472.ogg"
       },
       "original": "いくらタクトさんが強くなっても、その分、ランファがもっと強くなったら全然意味がないよ～。",
-      "translation": "아무리 택트씨가 강해져도, 그만큼 란파가 더 강해지면 아무 의미 없다고요～.",
+      "translation": "아무리 택트 씨가 강해져도, 그만큼 란파가 더 강해지면 아무 의미 없다고요～.",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -10874,7 +10874,7 @@
         "voice": "GC250482.ogg"
       },
       "original": "タクトさんが落ちちゃう！？",
-      "translation": "택트씨가 떨어져요!?\n",
+      "translation": "택트 씨가 떨어져요!?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11246,7 +11246,7 @@
         "voice": "GC250494.ogg"
       },
       "original": "タクトさんが、飛ばされちゃいました～。",
-      "translation": "택트씨가, 날아가 버렸어요～.\n",
+      "translation": "택트 씨가, 날아가 버렸어요～.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11426,7 +11426,7 @@
         "voice": "GC250501.ogg"
       },
       "original": "タクトさん……！",
-      "translation": "택트씨……!\n",
+      "translation": "택트 씨……!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -11600,7 +11600,7 @@
         "voice": "GC250507.ogg"
       },
       "original": "ミルフィーさんほどじゃありませんが、なかなかの強運の持ち主ですわね。",
-      "translation": "밀피씨만큼은 아니지만, 꽤 강운의 소유자시네요.\n",
+      "translation": "밀피 씨만큼은 아니지만, 꽤 강운의 소유자시네요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -11774,7 +11774,7 @@
         "voice": "GC250514.ogg"
       },
       "original": "……もうお忘れですの、ランファさん？",
-      "translation": "……벌써 잊으신 건가요, 란파씨?\n",
+      "translation": "……벌써 잊으신 건가요, 란파 씨?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12176,7 +12176,7 @@
         "voice": "GC250528.ogg"
       },
       "original": "ランファさん……！",
-      "translation": "란파씨……!\n",
+      "translation": "란파 씨……!\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12272,7 +12272,7 @@
         "voice": "GC250531.ogg"
       },
       "original": "大丈夫ですわ、ランファさんでしたら……。",
-      "translation": "괜찮아요, 란파씨라면…….\n",
+      "translation": "괜찮아요, 란파 씨라면…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12344,7 +12344,7 @@
         "voice": "GC250600.ogg"
       },
       "original": "タクトさん……。",
-      "translation": "택트씨…….\n",
+      "translation": "택트 씨…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12380,7 +12380,7 @@
         "voice": "GC250601.ogg"
       },
       "original": "タクトさん！",
-      "translation": "택트씨!",
+      "translation": "택트 씨!",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12416,7 +12416,7 @@
         "voice": "GC250602.ogg"
       },
       "original": "タクトさんってば！！",
-      "translation": "택트씨 정말!!\n",
+      "translation": "택트 씨 정말!!\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12680,7 +12680,7 @@
         "voice": "GC250608.ogg"
       },
       "original": "そんなことはありません。タクトさんのそのお気持ち、ランファ先輩はきっと嬉しかったと思います。",
-      "translation": "그렇지 않아요. 택트씨의 그 마음은, 란파 선배도 분명 기뻐했을 거예요.\n",
+      "translation": "그렇지 않아요. 택트 씨의 그 마음은, 란파 선배도 분명 기뻐했을 거예요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12902,7 +12902,7 @@
         "voice": "GC250616.ogg"
       },
       "original": "タクトさん……。",
-      "translation": "택트씨…….\n",
+      "translation": "택트 씨…….\n",
       "state": "reused",
       "use_translation": true,
       "storage": [
@@ -12950,7 +12950,7 @@
         "voice": "GC250617.ogg"
       },
       "original": "それならばなぜ、タクトさんはご自身を鍛えようとしているのですか？",
-      "translation": "그렇다면 왜 택트씨는 스스로를 단련하려는 것인가요?\n",
+      "translation": "그렇다면 왜 택트 씨는 스스로를 단련하려는 것인가요?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13088,7 +13088,7 @@
         "voice": "GC250619.ogg"
       },
       "original": "ランファさんの体の異状を解消するためではなく、心の負担を軽くするための、肉体改造だったのですね……。",
-      "translation": "란파씨의 몸의 이상을 해소하기 위해서가 아니라, 마음의 부담을 가볍게 하기 위한, 육체 개조였군요…….\n",
+      "translation": "란파 씨의 몸의 이상을 해소하기 위해서가 아니라, 마음의 부담을 가볍게 하기 위한, 육체 개조였군요…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13148,7 +13148,7 @@
         "voice": "GC250620.ogg"
       },
       "original": "しかし、それではタクトさんの体が……。",
-      "translation": "하지만, 그러면 택트씨의 몸이…….\n",
+      "translation": "하지만, 그러면 택트 씨의 몸이…….\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13268,7 +13268,7 @@
         "voice": "GC250624.ogg"
       },
       "original": "タクトさんの決意がそれほど固いのであれば、もう我々が口出しするようなことはありません。",
-      "translation": "택트씨의 결의가 그토록 확고하다면, 더 이상 저희가 참견할 일은 없습니다.\n",
+      "translation": "택트 씨의 결의가 그토록 확고하다면, 더 이상 저희가 참견할 일은 없습니다.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -13340,7 +13340,7 @@
         "voice": "GC250626.ogg"
       },
       "original": "気にしないでください。タクトさんもランファも、あたしたちの大事な仲間なんですから。",
-      "translation": "신경 쓰지 마세요. 택트씨도 란파도, 우리에게 소중한 동료니까요.\n",
+      "translation": "신경 쓰지 마세요. 택트 씨도 란파도, 우리에게 소중한 동료니까요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14228,7 +14228,7 @@
         "voice": "GC150834.ogg"
       },
       "original": "そうだな……確かに、こっちの方が分が悪いか。",
-      "translation": "그렇네… 확실히 이쪽이 불리할지도모르겠어.",
+      "translation": "그렇네…… 확실히 이쪽이 불리할지도 몰라.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -14666,7 +14666,7 @@
         "voice": "GC250803.ogg"
       },
       "original": "タクトさん、頑張ってくださーい。",
-      "translation": "택트씨, 힘내세요ー.\n",
+      "translation": "택트 씨, 힘내세요ー.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -14684,7 +14684,7 @@
         "voice": "GC250804.ogg"
       },
       "original": "ランファさんはお手柔らかに。",
-      "translation": "란파씨는 살살 부탁해요.\n",
+      "translation": "란파 씨는 살살 부탁해요.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [

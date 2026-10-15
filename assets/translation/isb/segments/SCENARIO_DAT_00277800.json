@@ -481,7 +481,7 @@
         "voice": "GC925007.ogg"
       },
       "original": "うわ、真っ暗でなんにも……。電気、電気はどこだ？",
-      "translation": "우와, 캄캄해서 아무것도……전기,전기는어디있지？",
+      "translation": "우와, 캄캄해서 안 보여…… 전기, 전기는 어디지?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -2857,7 +2857,7 @@
         "voice": "GC925403.ogg"
       },
       "original": "そうかあ、やる気がないのに教えてもダメってことかあ。",
-      "translation": "그렇구나,의욕이 없으면 가르쳐줘 봤자소용없다는건가.",
+      "translation": "그렇구나, 의욕이 없으면 가르쳐줘 봤자소용없다는건가.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -4489,7 +4489,7 @@
         "voice": "GC925700.ogg"
       },
       "original": "ああ旦那様旦那様、どうしてあなたは旦那様なの？",
-      "translation": "아아 서방님, 서방님,어째서당신은서방님인가요？",
+      "translation": "아아 서방님, 왜 당신은 서방님인가요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6163,7 +6163,7 @@
         "voice": "GC925812.ogg"
       },
       "original": "面目ない。それにしても女の子は女優だなあ。",
-      "translation": "면목없군.그나저나여자애들은다여배우라니까.",
+      "translation": "면목 없군. 그나저나 여자애들은 배우라니까.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -6265,7 +6265,7 @@
         "voice": "GC925900.ogg"
       },
       "original": "ふう、退くべきか進むべきか、それが問題ですわ……。",
-      "translation": "후우, 물러설것인가나아갈것인가,그것이문제군요….",
+      "translation": "후우, 물러설것인가나아갈것인가, 그것이문제군요….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -8005,7 +8005,7 @@
         "voice": "GC926111.ogg"
       },
       "original": "あたしもそう思うけどね。いや、別の意味で問題があるかな？",
-      "translation": "나도 그렇게 생각하지만 말이야. 아니,다른의미로문제일까？",
+      "translation": "나도 그렇게 생각해. 아니, 다른 의미로 문제일까?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -8749,7 +8749,7 @@
         "voice": "GC926302.ogg"
       },
       "original": "あー、銃が見事にバラバラだね。故障？",
-      "translation": "아ー,총이아주산산조각났네.고장이야？",
+      "translation": "아ー, 총이 완전 박살 났네. 고장이야?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -11143,7 +11143,7 @@
         "voice": "GC926603.ogg"
       },
       "original": "そういえば、ちとせもそんなこと言ってたっけ……。",
-      "translation": "그러고 보니 치토세도 그런 말을 했던것같은데….",
+      "translation": "그러고 보니 치토세도 그런 말 했던 것 같은데…….",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -13087,7 +13087,7 @@
         "voice": "GC926807.ogg"
       },
       "original": "銀河展望公園・白い椿を頭に乗せたちとせ",
-      "translation": "은하전망공원・흰동백을머리에얹은치토세",
+      "translation": "은하 전망 공원・흰 동백을 얹은 치토세",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13333,7 +13333,7 @@
         "voice": "GC926906.ogg"
       },
       "original": "あ、本当ですね。いつの間に……椿だなんて。",
-      "translation": "아, 정말이네요.언제사이에……동백꽃이라니.",
+      "translation": "아, 정말이네요. 어느 틈에…… 동백이라니.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -13741,7 +13741,7 @@
         "voice": "GC926915.ogg"
       },
       "original": "でも……笑われたりしませんか？",
-      "translation": "하지만……비웃음사지않을까요？",
+      "translation": "……비웃음 사지 않을까요?",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -14521,7 +14521,7 @@
         "voice": "GC927014.ogg"
       },
       "original": "まあ、他にもいろいろ。女の子同士の会話というものがあるんです。",
-      "translation": "뭐,그 외에도 여러 가지가 있어요.여자들만의대화라는게있거든요.",
+      "translation": "뭐, 그 밖에도 많아요. 여자들끼리 할 얘기가 있거든요.",
       "state": "slot-aligned",
       "use_translation": true,
       "storage": [
@@ -15523,7 +15523,7 @@
         "voice": "GC927121.ogg"
       },
       "original": "コンビニ・店員と景品の話をする",
-      "translation": "편의점・점원과경품이야기를한다",
+      "translation": "편의점・점원과 경품 얘기",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -15805,7 +15805,7 @@
         "voice": "GC927206.ogg"
       },
       "original": "どうぞ～、こちらです～。",
-      "translation": "어서오세요～이쪽입니다～",
+      "translation": "어서 오세요～ 이쪽으로～",
       "state": "shortened",
       "use_translation": true,
       "storage": [
