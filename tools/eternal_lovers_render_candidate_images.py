@@ -26,9 +26,10 @@ from pathlib import Path
 
 import cv2
 import numpy as np
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 FONT_BOLD = Path("C:/Windows/Fonts/malgunbd.ttf")
+FONT_RESULT = Path("C:/Windows/Fonts/gulim.ttc")
 GLYPH_FALLBACKS = {"・": "·", "･": "·"}
 CONTAINERS = ("GADAT030", "GADAT031", "GADAT032", "SLG", "ADV")
 
@@ -244,6 +245,48 @@ def draw_lines(canvas: Image.Image, bands: list, lines: list[str], fill, stroke:
         draw.text((x, y), text, font=font, fill=fill, stroke_width=stroke, stroke_fill=stroke_fill)
 
 
+def draw_battle_result_lines(canvas: Image.Image, bands: list, lines: list[str]) -> None:
+    """Draw gpwin0/gpwin1 captions in the source game's luminous HUD style.
+
+    These two screens use heavier, cyan-glowing labels than the generic image renderer.  Keep
+    the original plate/table pixels untouched and reproduce only that typography treatment.
+    """
+    base = ImageDraw.Draw(canvas)
+    for line_index, (text, (left, top, right, bottom)) in enumerate(zip(lines, bands)):
+        text = displayable(text)
+        if not text:
+            continue
+        target_size = 22 if line_index == 0 else (16 if line_index <= 6 else 18)
+        max_width = max(8, right - left + (4 if line_index >= 7 else 0))
+        max_height = max(8, bottom - top + 2)
+        font = ImageFont.truetype(str(FONT_RESULT), size=target_size, index=0)
+        box = base.textbbox((0, 0), text, font=font, stroke_width=1)
+        while target_size > 10 and (box[2] - box[0] > max_width or box[3] - box[1] > max_height):
+            target_size -= 1
+            font = ImageFont.truetype(str(FONT_RESULT), size=target_size, index=0)
+            box = base.textbbox((0, 0), text, font=font, stroke_width=1)
+
+        if 7 <= line_index <= 14:
+            x = left - box[0]
+        else:
+            x = round((left + right) / 2 - (box[2] - box[0]) / 2 - box[0])
+        y = round((top + bottom) / 2 - (box[3] - box[1]) / 2 - box[1])
+
+        glow = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
+        glow_draw = ImageDraw.Draw(glow)
+        glow_draw.text(
+            (x, y), text, font=font,
+            fill=(105, 220, 255, 230), stroke_width=2, stroke_fill=(22, 148, 235, 220),
+        )
+        glow = glow.filter(ImageFilter.GaussianBlur(radius=1.15))
+        canvas.alpha_composite(glow)
+        base = ImageDraw.Draw(canvas)
+        base.text(
+            (x, y), text, font=font,
+            fill=(245, 252, 255, 255), stroke_width=1, stroke_fill=(74, 178, 238, 255),
+        )
+
+
 def fill_region_plate(rgb: np.ndarray, alpha: np.ndarray, region) -> tuple[np.ndarray, tuple]:
     """Repaint a whole rectangle from the panel around it.
 
@@ -436,16 +479,15 @@ def render(source: Path, entry: dict, project: Path | None = None) -> Image.Imag
         plate = erase_label(rgb, mask, visible)
         canvas = Image.fromarray(np.dstack([plate, alpha]), "RGBA")
         outline = tuple(max(0, c - 80) for c in colour[:3]) + (225,)
-        for line_index, (text, band) in enumerate(zip(lines, bands)):
-            # Each label keeps to its own region: an affection caption must not drift over the
-            # gauge drawn beside it.  Battle-result craft rows are lists in the original UI,
-            # so keep their common left edge instead of centring names of different lengths.
-            result_screen = source.stem in {"gpwin0", "gpwin1"}
-            result_name = result_screen and 7 <= line_index <= 14
-            result_size = (20 if line_index == 0 else 15) if result_screen else fixed_font_size
-            draw_lines(canvas, [band], [text], colour, 1, outline, int(entry.get("shrink", 0)),
-                       centre_on_band=not result_name, confine=True,
-                       align_left=result_name, font_size=result_size)
+        result_screen = source.stem in {"gpwin0", "gpwin1"}
+        if result_screen:
+            draw_battle_result_lines(canvas, bands, lines)
+        else:
+            for line_index, (text, band) in enumerate(zip(lines, bands)):
+                # Each label keeps to its own region: an affection caption must not drift over the
+                # gauge drawn beside it.
+                draw_lines(canvas, [band], [text], colour, 1, outline, int(entry.get("shrink", 0)),
+                           centre_on_band=True, confine=True, font_size=fixed_font_size)
         return canvas
 
     rows = ink_rows(mask)
