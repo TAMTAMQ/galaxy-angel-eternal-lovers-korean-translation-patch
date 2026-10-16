@@ -35,22 +35,22 @@ PlayStation 2용 『ギャラクシーエンジェル エターナルラヴァ�
 | 항목 | 값 |
 | --- | --- |
 | ISO 크기 | `5,182,930,944 bytes` |
-| SHA-256 | `b706b7d318f8c834fd3b88dadbd1fba3e7ed97dc525f9c7f8bd863914588997a` |
+| SHA-256 | `c618a1907c2503e6f49b01f133f1426d68e4e94dea96a12bf9154736a0fc0965` |
 
 ## 2. 패치 적용
 
-1. [Releases](../../releases)에서 `galaxy_angel_eternal_lovers_ps2_kr_v0.4.9.xdelta`를 받습니다.
+1. [Releases](../../releases)에서 `galaxy_angel_eternal_lovers_ps2_kr_v0.4.10.xdelta`를 받습니다.
 2. xdelta3 또는 xdelta 패치를 지원하는 프로그램(예: Delta Patcher)에서 **원본 ISO를 Source로** 지정해 적용합니다.
 
    ```bash
    xdelta3 -d -s "Galaxy Angel - Eternal Lovers (Japan).iso" \
-       galaxy_angel_eternal_lovers_ps2_kr_v0.4.9.xdelta \
-       "Galaxy_Angel_Eternal_Lovers_KO_v0.4.9.iso"
+       galaxy_angel_eternal_lovers_ps2_kr_v0.4.10.xdelta \
+       "Galaxy_Angel_Eternal_Lovers_KO_v0.4.10.iso"
    ```
 
 3. 결과 ISO의 SHA-256이 위 값과 같은지 확인하세요.
 
-패치 파일 자체의 SHA-256은 `2a7afac0518c33fb8cd5ff201cf303efb15fe010ae00f97b3e31fce75f6b566b` 입니다.
+패치 파일 자체의 SHA-256은 `098e7495c354f954a5a772fce5e06ada4c07ae341d1845b1f01d29207bf54a34` 입니다.
 
 원본 게임 파일(ISO, BIOS 등)은 이 저장소에 포함되어 있지 않습니다. 정당하게 소유한 정품 이미지에만 적용하세요.
 
