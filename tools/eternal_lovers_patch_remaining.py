@@ -141,6 +141,32 @@ def battle_message_replacements(
             "line_end": line_end,
         }
 
+    # A one-row Japanese message keeps an empty "#xx2=" line, which has no unit.
+    # Use that empty value as row 2 so long translations still get reflowed
+    # instead of running past the window on a single row.
+    for (section, prefix), rows in groups.items():
+        if set(rows) != {1}:
+            continue
+        first = rows[1]
+        line_end = first["line_end"]
+        newline = 2 if raw[line_end:line_end + 2] == b"\r\n" else 1
+        next_start = line_end + newline
+        next_end = raw.find(b"\n", next_start)
+        if next_end < 0:
+            next_end = len(raw)
+        if raw[next_end - 1:next_end] == b"\r":
+            next_end -= 1
+        match = BATTLE_MESSAGE_LINE_RE.match(raw[next_start:next_end])
+        if match is None or match.group(2) != prefix + b"2" or match.group(4).strip():
+            continue
+        position = next_start + match.start(4)
+        rows[2] = {
+            "unit": {"id": first["unit"]["id"] + ":row2", "translation": ""},
+            "span": (position, position),
+            "match": match,
+            "line_end": next_end,
+        }
+
     replacements: list[tuple[int, int, bytes, str]] = []
     handled: set[tuple[int, int]] = set()
     for rows in groups.values():
@@ -150,11 +176,15 @@ def battle_message_replacements(
             " ".join(rows[row]["unit"]["translation"].rstrip("\r\n").splitlines())
             for row in (1, 2)
         ]
+        source_lines = [line for line in source_lines if line] or [""]
         if all(translation.display_columns(line) <= BATTLE_TEXT_COLUMNS for line in source_lines):
             rendered = "\n".join(source_lines)
         else:
+            joined = source_lines[0]
+            for line in source_lines[1:]:
+                joined = join_battle_rows(joined, line)
             rendered = translation._rebalance_dialogue_lines(
-                join_battle_rows(*source_lines), BATTLE_TEXT_COLUMNS, BATTLE_MAX_LINES
+                joined, BATTLE_TEXT_COLUMNS, BATTLE_MAX_LINES
             )
             if rendered is None:
                 rendered = "\n".join(source_lines)

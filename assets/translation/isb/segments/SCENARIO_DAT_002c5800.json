@@ -10055,7 +10055,7 @@
         "voice": "GC970619.ogg"
       },
       "original": "「これよりドライヴ・アウトまでの間、最低限の人員を残して、あとは自由行動を許可する」ってね。",
-      "translation": "「지금부터 드라이브・아웃 전까지, 최소 인원만 남기고 나머지는 자유 행동을 허가한다」라네.",
+      "translation": "「지금부터 드라이브・아웃 전까지, 최소 인원만 남기고 나머지는 자유 행동을 허가한다」라고.",
       "state": "shortened",
       "use_translation": true,
       "storage": [
@@ -10325,7 +10325,7 @@
         "voice": "GC970629.ogg"
       },
       "original": "ふっ、べつに怒ってるわけじゃない。それでおまえの緊張がほぐれるようなら、全然構わんさ。元気な方がアルモらしいからな。",
-      "translation": "훗, 딱히 화난 건 아니다. 그걸로 네 긴장이 풀린다면 상관없어. 활기찬 게 아르모답으니까.\n",
+      "translation": "훗, 딱히 화난 건 아니다. 그걸로 네 긴장이 풀린다면 상관없어. 활기찬 게 아르모다우니까.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12047,7 +12047,7 @@
         "voice": "GC170200.ogg"
       },
       "original": "紋章機の調子はどうだい？",
-      "translation": "문장기의 상태는 어떠니?\n",
+      "translation": "문장기 상태는 어때?\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -12905,7 +12905,7 @@
         "voice": "GC170225.ogg"
       },
       "original": "みんなだけじゃない、乗組員のみんなもさ。",
-      "translation": "너희뿐만 아니라, 승무원 여러분도 말이야.\n",
+      "translation": "너희뿐만 아니라, 승무원 모두도 말이야.\n",
       "state": "draft",
       "use_translation": true,
       "storage": [
@@ -18683,7 +18683,7 @@
         "voice": "GC972038.ogg"
       },
       "original": "問いを許す。",
-      "translation": "질문 허한다.",
+      "translation": "물어도 좋다.",
       "state": "shortened-reviewed",
       "use_translation": true,
       "storage": [

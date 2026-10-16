@@ -112,8 +112,6 @@ def main() -> None:
         default=PROJECT / "build/Galaxy_Angel_Eternal_Lovers_KO_wip.iso",
     )
     parser.add_argument("--allow-unverified-original", action="store_true")
-    parser.add_argument("--regenerate-images", action="store_true",
-                        help="Explicitly redraw translated PNGs; default preserves approved images")
     parser.add_argument(
         "--stop-before-remaining",
         action="store_true",
@@ -126,7 +124,7 @@ def main() -> None:
         raise SystemExit(
             f"original ISO SHA-256 mismatch: {original_digest} != {ORIGINAL_SHA256}"
         )
-    image_authority_baseline = None if args.regenerate_images else translated_png_state()
+    image_authority_baseline = translated_png_state()
 
     output = args.output_iso.resolve()
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -136,42 +134,12 @@ def main() -> None:
     build = PROJECT / "build"
     patched_elf = build / "SLPM_658.78.font_wip"
 
-    # Approved translated PNGs are the default build inputs. Redrawing is opt-in only.
-    gadat032_images = PROJECT / "assets/image_extraction/japanese_images/GADAT032"
-    gadat032_resources = PROJECT / "assets/full_extraction/GADAT032/manifest.json"
-    if args.regenerate_images:
-        run([sys.executable, "-u", str(ROOT / "tools/eternal_lovers_render_content_gadat032.py")])
-        for renderer in (
-            "tools/eternal_lovers_render_flat_plates.py",
-            "tools/eternal_lovers_render_room_popups.py",
-        ):
-            run([
-                sys.executable, "-u", str(ROOT / renderer),
-                "--images-root", str(gadat032_images),
-                "--resource-manifest", str(gadat032_resources),
-            ])
-        run([
-            sys.executable, "-u",
-            str(PROJECT / "assets/analysis/render_gaplc.py"),
-        ])
-        for renderer in (
-            "eternal_lovers_render_haplc.py",
-            "eternal_lovers_render_album_letter_tiles.py",
-            "eternal_lovers_render_candidate_images.py",
-        ):
-            run([sys.executable, "-u", str(ROOT / "tools" / renderer),
-                 "--project", str(PROJECT)])
-        # This renderer writes translated_png, so it is regeneration-only too.
-        run([
-            sys.executable, "-u", str(ROOT / "tools/eternal_lovers_redraw_delete_labels.py"),
-            "--project", str(PROJECT),
-            "--report", str(build / "delete_label_report.json"),
-        ])
-    elif image_authority_baseline is not None:
-        print(
-            f"preserving {len(image_authority_baseline)} translated_png authority files",
-            flush=True,
-        )
+    # translated_png is the only image authority. The build never redraws it; the
+    # renderers stay as manual tools and are not part of the pipeline.
+    print(
+        f"preserving {len(image_authority_baseline)} translated_png authority files",
+        flush=True,
+    )
     run([
         sys.executable, "-u", str(ROOT / "tools/eternal_lovers_mirror_battle_images.py"),
         "--project", str(PROJECT),
@@ -408,8 +376,7 @@ def main() -> None:
         "--iso", str(output),
         "--original-iso", str(args.original_iso.resolve()),
     ])
-    if image_authority_baseline is not None:
-        assert_translated_png_unchanged(image_authority_baseline, "final")
+    assert_translated_png_unchanged(image_authority_baseline, "final")
     print(f"built {output} sha256={sha256(output)}")
 
 
