@@ -149,6 +149,7 @@ def main() -> int:
 
     # The canonical PSS files currently on disk are the authority.  ASS files,
     # old reports, and earlier ISO contents must not decide the replacement set.
+    # User policy excludes movies whose ASS is missing or contains no dialogue.
     replacements = sorted(
         p for p in args.pss_dir.glob("GADAT*.PSS")
         if MOVIE_NAME_RE.fullmatch(p.stem)
