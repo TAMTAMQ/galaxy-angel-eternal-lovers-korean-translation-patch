@@ -1,7 +1,11 @@
-# Issue #1 후속 검수 (2026-10-18)
+# Issue #1 후속 검수 (2026-10-18~19)
 
 이 문서는 v0.4.10 이후의 소스 수정과 로컬 테스트 ISO 검증 기록이다.
 정식 릴리즈 완료를 의미하지 않는다. 기존 댓글의 항목별 변경 내역에 대한 보충이다.
+
+반영 커밋: [이터널 6dc72b7](https://github.com/TAMTAMQ/galaxy-angel-eternal-lovers-korean-translation-patch/commit/6dc72b7),
+[문릿 5fd3b60](https://github.com/TAMTAMQ/galaxy-angel-moonlit-lovers-korean-translation-patch/commit/5fd3b60),
+[본편 7b9749f](https://github.com/TAMTAMQ/galaxy-angel-korean-translation-patch/commit/7b9749f).
 
 ## 추가 수정
 
@@ -36,6 +40,8 @@
 - SLGSTAGE 물리 stage-entry 126개: indexed/physical 일치.
 - FSTS 은행 크기: 리소스 끝이 은행 크기/다음 은행 경계를 넘지 않음.
 - 현재 translated_png 729장은 재렌더하지 않고 그대로 사용했다.
+- 영상 삽입 후 최종 ISO의 전투 이미지 복제본 SLGRES 304개, SLGSTAGE 1,078개도
+  현재 권위 이미지 기준으로 전부 readback 일치.
 - 자막 24개는 현재 PSS와, 제외 15개는 일본판 원본과 SHA-256 일치.
 - 최종 ISO SHA-256: `60bacb78d2993e4bf9abf9ce7355f1d7df5dbd262575ed09391e7d4fed466ba6`.
 
@@ -48,6 +54,9 @@
 - 카드 2의 02번: 이번 로컬 테스트 ISO에서 불러오기, 시스템 메뉴 열기,
   빈 03번 슬롯 일반 저장 및 재불러오기 성공.
 - 해당 선택지 진행 후 함내 이동 화면까지 정상 진입.
+- 함내 이동 화면에서 빈 04번 슬롯 일반 저장 성공.
+- 이어지는 브릿지 이벤트 다음 장면에서 빈 05번 슬롯 일반 저장 성공.
+  이 저장에서는 새 한국어 저장 제목으로 갱신된 것도 확인했다.
 
 이 결과는 검사한 위치에 한정한다. 제보된 모든 이벤트 이후 저장, 다른 선택지,
 전투 작전정보 화면까지 검증한 결과로 확대 해석하지 않는다.
