@@ -31,7 +31,7 @@ def main():
     pattern = re.compile(
         r"만약아픈|즉시정식|뱃도리|선문명|퇴피|쿠지라 룸|언니님|"
         r"(?:앙카|앵카)\s*클로|전혀머리에안들어와|황왕|절호조|흑색 달|백색 달|"
-        r"군규|브리지|전축하|거편|기무슨|짐슨"
+        r"군규|브리지|전축하|거편|기무슨|짐슨|쿵후\s*파이터"
     )
     for path in sorted(segments.glob("*.json")):
         for unit in load(path).get("units", []):
@@ -42,6 +42,11 @@ def main():
             if pattern.search(text):
                 violations.append({"path": str(path.relative_to(project)), "id": unit["id"], "kind": "shared_wording", "translation": text})
     result = {"project": project.name, "scenario_units": units_checked}
+    ui_words = project / "assets/image_extraction/japanese_images/ui_translations.json"
+    if ui_words.is_file():
+        for entry in load(ui_words).get("images", []):
+            if re.search(r"쿵후\s*파이터", str(entry.get("translation", ""))):
+                violations.append({"path": str(ui_words.relative_to(project)), "id": entry["filename"], "kind": "image_terminology"})
     if (assets / "battle/battle_unique.json").is_file():
         battle = importlib.import_module("galaxy_angel_build_battle")
         authority = load(assets / "battle/battle_unique.json")["units"]
