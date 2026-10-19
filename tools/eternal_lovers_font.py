@@ -213,10 +213,38 @@ def collect_custom_chars(translations: list[Path]) -> list[str]:
     return sorted(chars)
 
 
+def load_compatibility_chars(path: Path | None) -> list[str]:
+    if path is None:
+        return []
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    if payload.get("schema") != "eternal-lovers-font-compat/v1":
+        raise SystemExit(f"unsupported font compatibility map: {path}")
+    chars = list(payload["characters"])
+    if len(chars) != payload["character_count"] or len(set(chars)) != len(chars):
+        raise SystemExit(f"invalid font compatibility character list: {path}")
+    for char in chars:
+        try:
+            char.encode("cp932")
+        except UnicodeEncodeError:
+            continue
+        raise SystemExit(f"native cp932 character in font compatibility map: {char!r}")
+    return chars
+
+
+def ordered_custom_chars(translations: list[Path], compatibility_map: Path | None) -> list[str]:
+    current = collect_custom_chars(translations)
+    compatibility = load_compatibility_chars(compatibility_map)
+    reserved = set(compatibility)
+    added = [char for char in current if char not in reserved]
+    if compatibility_map is not None and added:
+        raise SystemExit(f"append new glyphs to the compatibility map before building: {''.join(added)}")
+    return compatibility + added
+
+
 def build_font(translations: list[Path], input_elf: Path, output_elf: Path,
                map_output: Path, font_path: Path, font_size: int,
-               font_index: int) -> None:
-    chars = collect_custom_chars(translations)
+               font_index: int, compatibility_map: Path | None = None) -> None:
+    chars = ordered_custom_chars(translations, compatibility_map)
     available_indices = [
         index
         for index in range(ORIGINAL_GLYPHS - 1, FIRST_REPLACEMENT_INDEX - 1, -1)
@@ -268,6 +296,8 @@ def build_font(translations: list[Path], input_elf: Path, output_elf: Path,
         "glyph_bytes": GLYPH_BYTES,
         "pair_bytes": PAIR_BYTES,
         "replacement_index_floor": FIRST_REPLACEMENT_INDEX,
+        "compatibility_map": str(compatibility_map) if compatibility_map is not None else None,
+        "compatibility_baseline_characters": len(load_compatibility_chars(compatibility_map)),
         "characters": mapping,
     }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(
@@ -298,6 +328,7 @@ def main() -> None:
     )
     build.add_argument("--font-size", type=int, default=20)
     build.add_argument("--font-index", type=int, default=0)
+    build.add_argument("--compatibility-map", type=Path, required=True)
     args = parser.parse_args()
     if args.command == "inspect":
         data = args.elf.read_bytes()
@@ -319,7 +350,7 @@ def main() -> None:
         return
     build_font(
         args.translations, args.input_elf, args.output_elf, args.map_output,
-        args.font, args.font_size, args.font_index,
+        args.font, args.font_size, args.font_index, args.compatibility_map,
     )
 
 

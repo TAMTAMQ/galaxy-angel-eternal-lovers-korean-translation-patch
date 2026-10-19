@@ -165,6 +165,7 @@ def main() -> None:
         "--input-elf", str(PROJECT / "source/SLPM_658.78"),
         "--output-elf", str(patched_elf),
         "--map-output", str(build / "font_map.json"),
+        "--compatibility-map", str(PROJECT / "assets/translation/font_compat_20260916.json"),
         "--font", str(
             SHARED_ROOT / "vendor/pretendard/packages/pretendard/dist/public/static/alternative/Pretendard-Bold.ttf"
         ),
@@ -178,6 +179,11 @@ def main() -> None:
         "--report", str(build / "saveload_elf_strings_report.json"),
     ])
 
+    run([
+        sys.executable, "-u", str(ROOT / "tools/series_save_title_boundary.py"),
+        "--game", "eternal", "--elf", str(patched_elf),
+        "--report", str(build / "save_title_boundary_report.json"),
+    ])
     run([
         sys.executable, "-u", str(ROOT / "tools/eternal_lovers_patch_isb.py"),
         "--source-dir", str(PROJECT / "source/scenario"),
