@@ -14,6 +14,38 @@ def load(path):
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+SHIP_NAME_VARIANT = re.compile(r"쿵푸\s*파이터")
+
+
+def ship_name_violations(project):
+    def texts(value):
+        if isinstance(value, str):
+            yield value
+        elif isinstance(value, list):
+            for item in value:
+                yield from texts(item)
+        elif isinstance(value, dict):
+            for item in value.values():
+                yield from texts(item)
+
+    paths = list((project / "assets/image_extraction").rglob("manifest.json"))
+    paths += [project / relative for relative in (
+        "assets/image_extraction/japanese_images/ui_translations.json",
+        "assets/translation/images/candidate_translations.json",
+        "assets/translation/glossary.tsv",
+    )]
+    paths += list((project / "movie/subtitles").glob("*.ass"))
+    violations = []
+    for path in paths:
+        if not path.is_file():
+            continue
+        source = path.read_text(encoding="utf-8-sig")
+        values = texts(json.loads(source)) if path.suffix == ".json" else [source]
+        if any(SHIP_NAME_VARIANT.search(value) for value in values):
+            violations.append({"path": str(path.relative_to(project)), "kind": "ship_terminology"})
+    return violations
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--project", type=Path, required=True)
@@ -31,7 +63,7 @@ def main():
     pattern = re.compile(
         r"만약아픈|즉시정식|뱃도리|선문명|퇴피|쿠지라 룸|언니님|"
         r"(?:앙카|앵카)\s*클로|전혀머리에안들어와|황왕|절호조|흑색 달|백색 달|"
-        r"군규|브리지|전축하|거편|기무슨|짐슨|쿵후\s*파이터"
+        r"군규|브리지|전축하|거편|기무슨|짐슨|쿵푸\s*파이터"
     )
     for path in sorted(segments.glob("*.json")):
         for unit in load(path).get("units", []):
@@ -42,11 +74,7 @@ def main():
             if pattern.search(text):
                 violations.append({"path": str(path.relative_to(project)), "id": unit["id"], "kind": "shared_wording", "translation": text})
     result = {"project": project.name, "scenario_units": units_checked}
-    ui_words = project / "assets/image_extraction/japanese_images/ui_translations.json"
-    if ui_words.is_file():
-        for entry in load(ui_words).get("images", []):
-            if re.search(r"쿵후\s*파이터", str(entry.get("translation", ""))):
-                violations.append({"path": str(ui_words.relative_to(project)), "id": entry["filename"], "kind": "image_terminology"})
+    violations.extend(ship_name_violations(project))
     if (assets / "battle/battle_unique.json").is_file():
         battle = importlib.import_module("galaxy_angel_build_battle")
         authority = load(assets / "battle/battle_unique.json")["units"]
@@ -77,7 +105,11 @@ def main():
                 assert all(len(row) <= patcher.BATTLE_TEXT_COLUMNS for row in rows), "message row too wide"
                 assert b"#021=other" in rebuilt, "next message changed"
                 synthetic += 1
-        targets = patcher.collect_targets(load(args.remaining))
+        remaining = load(args.remaining)
+        for unit in remaining.get("candidates", []):
+            if unit.get("use_translation") and SHIP_NAME_VARIANT.search(unit.get("translation", "")):
+                violations.append({"id": unit["id"], "kind": "remaining_ship_terminology"})
+        targets = patcher.collect_targets(remaining)
         messages = resources_checked = third_rows = 0
         with args.original_iso.open("rb") as stream, mmap.mmap(stream.fileno(), 0, access=mmap.ACCESS_READ) as image:
             files = builder.iso_files(image)
