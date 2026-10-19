@@ -6,9 +6,9 @@
 
 PlayStation 2용 『ギャラクシーエンジェル エターナルラヴァーズ』 일본판의 비공식 팬 한국어 번역 패치입니다.
 
-- 본편 시나리오 스크립트(ISB 바이트코드) **36,367개 번역 단위**를 134개 리소스에 삽입합니다.
+- 본편 시나리오 스크립트(ISB 바이트코드) **36,381개 번역 단위**를 134개 리소스에 삽입합니다.
 - 그 밖의 텍스트(전투 메시지, 스테이지 테이블, 화자 이름표, 장 타이틀 등) **약 59만 개 문자열 위치**를 처리합니다.
-- 완성형 한글 1,251자를 게임 실행 파일에 내장된 폰트 테이블에 새로 그려 넣는 방식으로 한글을 표시합니다.
+- 한글·추가 문자 1,245개의 코드 배치를 고정하고 게임 실행 파일의 폰트 테이블에 그려 넣는 방식으로 표시합니다.
 
 > 💬 오역, 미번역 문구, 버그를 발견하시면 [Issues 탭](../../issues)에 제보해 주세요.
 
@@ -35,22 +35,24 @@ PlayStation 2용 『ギャラクシーエンジェル エターナルラヴァ�
 | 항목 | 값 |
 | --- | --- |
 | ISO 크기 | `5,182,930,944 bytes` |
-| SHA-256 | `c618a1907c2503e6f49b01f133f1426d68e4e94dea96a12bf9154736a0fc0965` |
+| SHA-256 | `2dd5cfe59cdb0b3ccb547e7520b9799f7cbc70aa1b379d5763402f15cb339f3f` |
 
 ## 2. 패치 적용
 
-1. [Releases](../../releases)에서 `galaxy_angel_eternal_lovers_ps2_kr_v0.4.10.xdelta`를 받습니다.
+1. [Releases](../../releases)에서 `galaxy_angel_eternal_lovers_ps2_kr_v0.4.11.xdelta`를 받습니다.
 2. xdelta3 또는 xdelta 패치를 지원하는 프로그램(예: Delta Patcher)에서 **원본 ISO를 Source로** 지정해 적용합니다.
 
    ```bash
    xdelta3 -d -s "Galaxy Angel - Eternal Lovers (Japan).iso" \
-       galaxy_angel_eternal_lovers_ps2_kr_v0.4.10.xdelta \
-       "Galaxy_Angel_Eternal_Lovers_KO_v0.4.10.iso"
+       galaxy_angel_eternal_lovers_ps2_kr_v0.4.11.xdelta \
+       "Galaxy_Angel_Eternal_Lovers_KO_v0.4.11.iso"
    ```
 
 3. 결과 ISO의 SHA-256이 위 값과 같은지 확인하세요.
 
-패치 파일 자체의 SHA-256은 `098e7495c354f954a5a772fce5e06ada4c07ae341d1845b1f01d29207bf54a34` 입니다.
+패치 파일 자체의 SHA-256은 `349d6408659b972bc707685c5cfb66cc4559d66e91b9ba94b112e4a2f1f56d0e` 입니다.
+
+이번 수정과 기존 저장 제목/프리징의 확인 범위는 [v0.4.11 변경 내역](release/RELEASE_NOTES_v0.4.11.md)을 참고해 주세요.
 
 원본 게임 파일(ISO, BIOS 등)은 이 저장소에 포함되어 있지 않습니다. 정당하게 소유한 정품 이미지에만 적용하세요.
 
