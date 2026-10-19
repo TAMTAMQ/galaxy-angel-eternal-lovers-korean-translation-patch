@@ -6956,6 +6956,42 @@
           "original": "おかえりなさい。"
         }
       ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0329",
+      "context": {
+        "voice": null
+      },
+      "original": "…………………………。",
+      "translation": "………………………….",
+      "state": "reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 33012,
+          "length": 22,
+          "key": 3726035605,
+          "original": "…………………………。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0019e000:isb:0330",
+      "context": {
+        "voice": null
+      },
+      "original": "フォルテ……。",
+      "translation": "포르테…….",
+      "state": "reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 33180,
+          "length": 14,
+          "key": 3726035605,
+          "original": "フォルテ……。"
+        }
+      ]
     }
   ]
 }

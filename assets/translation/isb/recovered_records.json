@@ -1,0 +1,117 @@
+{
+  "schema": "eternal-lovers-recovered-records/v1",
+  "records": [
+    {
+      "file": "SCENARIO_DAT_0006f000.txt",
+      "offset": 36840,
+      "length": 22,
+      "key": 3726035605,
+      "original": "…………………………。",
+      "translation": "…………………………."
+    },
+    {
+      "file": "SCENARIO_DAT_0006f000.txt",
+      "offset": 37008,
+      "length": 16,
+      "key": 3726035605,
+      "original": "ミルフィー……。",
+      "translation": "밀피……."
+    },
+    {
+      "file": "SCENARIO_DAT_000de800.txt",
+      "offset": 38828,
+      "length": 22,
+      "key": 3726035605,
+      "original": "…………………………。",
+      "translation": "…………………………."
+    },
+    {
+      "file": "SCENARIO_DAT_000de800.txt",
+      "offset": 38996,
+      "length": 14,
+      "key": 3726035605,
+      "original": "ランファ……。",
+      "translation": "란파……."
+    },
+    {
+      "file": "SCENARIO_DAT_00148800.txt",
+      "offset": 40308,
+      "length": 22,
+      "key": 3726035605,
+      "original": "…………………………。",
+      "translation": "…………………………."
+    },
+    {
+      "file": "SCENARIO_DAT_00148800.txt",
+      "offset": 40476,
+      "length": 12,
+      "key": 3726035605,
+      "original": "ミント……。",
+      "translation": "민트……."
+    },
+    {
+      "file": "SCENARIO_DAT_0019e000.txt",
+      "offset": 33012,
+      "length": 22,
+      "key": 3726035605,
+      "original": "…………………………。",
+      "translation": "…………………………."
+    },
+    {
+      "file": "SCENARIO_DAT_0019e000.txt",
+      "offset": 33180,
+      "length": 14,
+      "key": 3726035605,
+      "original": "フォルテ……。",
+      "translation": "포르테……."
+    },
+    {
+      "file": "SCENARIO_DAT_001f3000.txt",
+      "offset": 32664,
+      "length": 22,
+      "key": 3726035605,
+      "original": "…………………………。",
+      "translation": "…………………………."
+    },
+    {
+      "file": "SCENARIO_DAT_001f3000.txt",
+      "offset": 32832,
+      "length": 14,
+      "key": 3726035605,
+      "original": "ヴァニラ……。",
+      "translation": "바닐라……."
+    },
+    {
+      "file": "SCENARIO_DAT_00250000.txt",
+      "offset": 36440,
+      "length": 22,
+      "key": 3726035605,
+      "original": "…………………………。",
+      "translation": "…………………………."
+    },
+    {
+      "file": "SCENARIO_DAT_00250000.txt",
+      "offset": 36608,
+      "length": 12,
+      "key": 3726035605,
+      "original": "ちとせ……。",
+      "translation": "치토세……."
+    },
+    {
+      "file": "SCENARIO_DAT_002c5800.txt",
+      "offset": 144724,
+      "length": 12,
+      "key": 2416000214,
+      "original": "最終決戦開始",
+      "translation": "최종전 시작"
+    },
+    {
+      "file": "SCENARIO_DAT_002c5800.txt",
+      "offset": 144808,
+      "length": 18,
+      "key": 2416000214,
+      "original": "よしっ、やるぞっ！",
+      "translation": "좋아, 가자!"
+    }
+  ]
+}

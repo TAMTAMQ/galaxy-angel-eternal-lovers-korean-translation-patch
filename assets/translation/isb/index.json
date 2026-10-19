@@ -7,7 +7,7 @@
     "key_spans": 700,
     "tagged_records": 82910,
     "decoded_records": 82352,
-    "translation_units": 36266
+    "translation_units": 36408
   },
   "decode_failures": [
     {
@@ -243,7 +243,7 @@
     {
       "path": "segments/SCENARIO_DAT_0006f000.json",
       "source": "SCENARIO_DAT_0006f000.txt",
-      "units": 380
+      "units": 381
     },
     {
       "path": "segments/SCENARIO_DAT_00076000.json",
@@ -333,7 +333,7 @@
     {
       "path": "segments/SCENARIO_DAT_000de800.json",
       "source": "SCENARIO_DAT_000de800.txt",
-      "units": 401
+      "units": 403
     },
     {
       "path": "segments/SCENARIO_DAT_000e6000.json",
@@ -423,7 +423,7 @@
     {
       "path": "segments/SCENARIO_DAT_00148800.json",
       "source": "SCENARIO_DAT_00148800.txt",
-      "units": 401
+      "units": 403
     },
     {
       "path": "segments/SCENARIO_DAT_00150000.json",
@@ -518,7 +518,7 @@
     {
       "path": "segments/SCENARIO_DAT_0019e000.json",
       "source": "SCENARIO_DAT_0019e000.txt",
-      "units": 328
+      "units": 330
     },
     {
       "path": "segments/SCENARIO_DAT_001a4000.json",
@@ -608,7 +608,7 @@
     {
       "path": "segments/SCENARIO_DAT_001f3000.json",
       "source": "SCENARIO_DAT_001f3000.txt",
-      "units": 327
+      "units": 329
     },
     {
       "path": "segments/SCENARIO_DAT_001f9800.json",
@@ -793,7 +793,7 @@
     {
       "path": "segments/SCENARIO_DAT_002c5800.json",
       "source": "SCENARIO_DAT_002c5800.txt",
-      "units": 890
+      "units": 892
     },
     {
       "path": "segments/SCENARIO_DAT_002d7000.json",

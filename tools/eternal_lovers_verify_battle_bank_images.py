@@ -63,23 +63,13 @@ def expected_raw_and_stream(
     if bank_patcher.pixel_hash(decode_tex(original_raw)) == bank_patcher.pixel_hash(replacement):
         return original_raw, bank_patcher.encode_resource(original_raw, codec), False
 
-    try:
-        rebuilt, compressed, _colours = bank_patcher.compress_to_fit(
-            original_raw, replacement, capacity, codec
-        )
-        return rebuilt, compressed, False
-    except ValueError:
-        # Keep the original fixed slot.  If palette re-quantization is still not enough,
-        # reproduce the same per-copy refit fallback used by the patcher.
-        rebuilt, compressed = bank_patcher.refit(
-            project, entry, original_raw, capacity, codec
-        )
-        if rebuilt is None or compressed is None:
-            raise SystemExit(
-                f"cannot reproduce bank image within source slot: "
-                f"{entry['container']}:{entry['png']} capacity={capacity}"
-            )
-        return rebuilt, compressed, True
+    # Placement must not change the expected picture.  The patcher may compact
+    # its FSTS bank, so derive native TEX bytes independently of the old slot.
+    rebuilt, compressed, _colours = bank_patcher.compress_to_fit(
+        original_raw, replacement, max(capacity, len(original_raw) * 2 + 1024), codec,
+        allow_palette_reduction=False,
+    )
+    return rebuilt, compressed, False
 
 
 def main() -> None:

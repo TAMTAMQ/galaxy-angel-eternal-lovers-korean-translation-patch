@@ -4514,16 +4514,16 @@
       "context": {
         "voice": null
       },
-      "original": "x\u00017毋\u000b7Vz$5wz\u001c5V",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "ミルフィー……。",
+      "translation": "밀피…….",
+      "state": "reviewed",
+      "use_translation": true,
       "storage": [
         {
           "offset": 37008,
           "length": 16,
-          "key": 3399660910,
-          "original": "x\u00017毋\u000b7Vz$5wz\u001c5V"
+          "key": 3726035605,
+          "original": "ミルフィー……。"
         }
       ]
     },
@@ -8166,6 +8166,24 @@
           "length": 16,
           "key": 543541248,
           "original": "おかえりなさい。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_0006f000:isb:0381",
+      "context": {
+        "voice": null
+      },
+      "original": "…………………………。",
+      "translation": "………………………….",
+      "state": "reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 36840,
+          "length": 22,
+          "key": 3726035605,
+          "original": "…………………………。"
         }
       ]
     }

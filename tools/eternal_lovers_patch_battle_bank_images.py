@@ -10,10 +10,9 @@ existing mechanisms do not reach all of them:
 * the patcher's primary-container path only understands PIDX containers, while these banks are
   indexed by FSTS.
 
-So this tool addresses each copy through its own FSTS record: it re-encodes the texture from
-the bank's own original raw bytes, compresses it, writes it into that resource's slot and
-updates the record's raw/compressed sizes.  A copy whose slot is too small is reported rather
-than truncated.
+Each copy uses its original native TEX layout and the current PNG.  A tight slot triggers
+bank compaction with fixed control-stream addresses, never a smaller redraw or an extra
+palette reduction.  All record sizes and offsets are updated after placement.
 """
 
 from __future__ import annotations
@@ -31,7 +30,7 @@ import eternal_lovers_render_candidate_images as renderer
 import galaxy_angel_build as builder
 import ikusa_lz
 import moonlit_lovers_resources as resources
-from eternal_lovers_patch_remaining import encode_resource, merged_resources
+from eternal_lovers_patch_remaining import encode_resource, merged_resources, repack_container
 from galaxy_angel_gadat032 import decode_tex, encode_tex, tex_info
 
 
@@ -79,6 +78,7 @@ def compress_to_fit(
     capacity: int,
     codec: str,
     require_exact_pixels: bool = False,
+    allow_palette_reduction: bool = True,
 ):
     """Encode and compress, trying palette reductions only if the slot demands it.
 
@@ -89,7 +89,7 @@ def compress_to_fit(
     info = tex_info(original)
     replacement_hash = pixel_hash(replacement) if require_exact_pixels else None
     attempts: list[int | None] = [None]
-    if info.palette_colours:
+    if info.palette_colours and allow_palette_reduction:
         # Keep the current translated_png as the image source and search every palette
         # size before falling back to any re-render. A stream that misses its fixed slot
         # by only a few bytes often fits at 255/254/... colours; jumping straight from
@@ -233,6 +233,8 @@ def main() -> None:
 
             boundaries = sorted(resource_map)
             written, skipped, unchanged, refitted = 0, [], 0, 0
+            planned = {}
+            needs_repack = False
             for entry in manifest:
                 manifest_offset = int(entry["resource_offset"])
                 stable_record = original_records.get(stem, {}).get(manifest_offset)
@@ -309,44 +311,62 @@ def main() -> None:
                     rebuilt, compressed, _colours = compress_to_fit(
                         original_raw,
                         replacement,
-                        capacity,
+                        current_capacity,
                         resource.codec,
                         require_exact_pixels=args.preserve_pixels,
+                        allow_palette_reduction=False,
                     )
-                except ValueError as error:
-                    if args.no_refit or args.preserve_pixels:
-                        raise ValueError(
-                            f"{stem}/{entry['png']}: current translated image cannot be "
-                            f"stored losslessly in its bank slot: {error}"
-                        ) from error
-                    rebuilt, compressed = refit(
-                        args.project, entry, original_raw, capacity, resource.codec
+                except ValueError:
+                    # Keep the normal native TEX render and compact the bank around
+                    # fixed control streams instead of changing the picture to fit.
+                    rebuilt, compressed, _colours = compress_to_fit(
+                        original_raw, replacement, len(container), resource.codec,
+                        require_exact_pixels=args.preserve_pixels,
+                        allow_palette_reduction=False,
                     )
-                    if rebuilt is None:
-                        skipped.append({"png": entry["png"], "reason": str(error)})
-                        continue
-                    refitted += 1
-
-                if len(compressed) > current_capacity:
-                    raise ValueError(
-                        f"{stem}/{entry['png']}: source-slot result exceeds current slot: "
-                        f"{len(compressed)}>{current_capacity}"
-                    )
-                cleared = max(len(compressed), resource.compressed_size)
-                container[offset : offset + cleared] = bytes(cleared)
-                container[offset : offset + len(compressed)] = compressed
-                for record in resource.record_positions:
-                    struct.pack_into("<II", container, record + 8, len(rebuilt), len(compressed))
-                resource.raw_size = len(rebuilt)
-                resource.compressed_size = len(compressed)
+                    needs_repack = True
+                planned[offset] = (compressed, len(rebuilt))
                 written += 1
 
+            if skipped:
+                raise ValueError(f"{stem}: authority images were skipped: {skipped}")
+            relocated = 0
+            if needs_repack:
+                before = bytes(container)
+                fixed = {offset: offset for offset in resource_map if offset not in planned}
+                container, _records, relocated = repack_container(
+                    before, resource_map, planned, fixed_offsets=fixed
+                )
+                if len(container) != item.size:
+                    raise ValueError(f"{stem}: image repack changed the fixed container size")
+                after_map = merged_resources(bytes(container), stem)
+                after_records = {record: resource for resource in after_map.values() for record in resource.record_positions}
+                for offset in fixed:
+                    previous = resource_map[offset]
+                    for record in previous.record_positions:
+                        current = after_records[record]
+                        if (current.offset, current.raw_size, current.compressed_size) != (offset, previous.raw_size, previous.compressed_size):
+                            raise ValueError(f"{stem}: image repack changed an unrelated resource: {offset:#x}")
+                    end = offset + previous.compressed_size
+                    if container[offset:end] != before[offset:end]:
+                        raise ValueError(f"{stem}: image repack changed unrelated payload: {offset:#x}")
+            else:
+                for offset, (compressed, raw_size) in planned.items():
+                    resource = resource_map[offset]
+                    cleared = max(len(compressed), resource.compressed_size)
+                    container[offset:offset + cleared] = bytes(cleared)
+                    container[offset:offset + len(compressed)] = compressed
+                    for record in resource.record_positions:
+                        struct.pack_into("<II", container, record + 8, raw_size, len(compressed))
             image[begin : begin + item.size] = bytes(container)
             report["containers"][stem] = {
                 "targets": len(manifest),
                 "written": written,
                 "already_translated": unchanged,
                 "redrawn_smaller_to_fit": refitted,
+                "capacity_palette_reductions": 0,
+                "repacked": needs_repack,
+                "relocated_resources": relocated,
                 "skipped": skipped,
             }
         image.flush()

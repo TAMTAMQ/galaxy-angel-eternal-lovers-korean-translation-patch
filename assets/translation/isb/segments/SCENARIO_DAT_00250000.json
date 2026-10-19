@@ -4424,16 +4424,16 @@
       "context": {
         "voice": null
       },
-      "original": "ｼ嗤鮠嗤鮠嗤鮠嗤鮠嗤鮠ｻ",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "…………………………。",
+      "translation": "………………………….",
+      "state": "reviewed",
+      "use_translation": true,
       "storage": [
         {
           "offset": 36440,
           "length": 22,
-          "key": 1425552296,
-          "original": "ｼ嗤鮠嗤鮠嗤鮠嗤鮠嗤鮠ｻ"
+          "key": 3726035605,
+          "original": "…………………………。"
         }
       ]
     },
@@ -4442,16 +4442,16 @@
       "context": {
         "voice": null
       },
-      "original": "ｿFlLｿ@o鮠嗤ﾈ",
-      "translation": "",
-      "state": "untranslated",
-      "use_translation": false,
+      "original": "ちとせ……。",
+      "translation": "치토세…….",
+      "state": "reviewed",
+      "use_translation": true,
       "storage": [
         {
           "offset": 36608,
           "length": 12,
-          "key": 1425552296,
-          "original": "ｿFlLｿ@o鮠嗤ﾈ"
+          "key": 3726035605,
+          "original": "ちとせ……。"
         }
       ]
     },

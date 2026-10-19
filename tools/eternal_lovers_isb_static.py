@@ -9,6 +9,7 @@ manifest for further cryptanalysis.
 from __future__ import annotations
 
 import argparse
+import bisect
 import hashlib
 import json
 import math
@@ -21,6 +22,8 @@ from pathlib import Path
 
 STRING_TAG = b"\x02\x00\x08\x00"
 INTEGER_TAG = b"\x01\x04\x00\x00"
+TITLE_RECORD_TOKEN = bytes.fromhex("af0e22af")
+KEY_SETTER_PREFIX = bytes.fromhex("000404007978c70501040000")
 VOICE_RE = re.compile(rb"[a-z]{3}[0-9]{3}_[0-9]{2}_[0-9]{2}\Z")
 
 # Proven from the sequential gaf001_01_00 .. gaf001_01_52 constants in
@@ -321,7 +324,43 @@ def find_key_spans_adaptive(data: bytes, records: list[StringRecord], window: in
 
     for index, span in enumerate(spans):
         span["end"] = spans[index + 1]["start"] if index + 1 < len(spans) else len(data)
-    return spans
+    return recover_short_key_blocks(data, records, spans, literal_keys)
+
+
+def recover_short_key_blocks(data, records, spans, literal_keys):
+    """Bound tiny blocks by serialized key setters instead of text lookahead."""
+    anchors = [
+        (position, key) for position, key in literal_keys
+        if data[max(0, position - 12):position] == KEY_SETTER_PREFIX
+        or data[max(0, position - 8):position] == INTEGER_TAG * 2
+    ]
+    starts = [span["start"] for span in spans]
+    record_starts = [record.offset for record in records]
+    recovered = []
+    for index, (position, key) in enumerate(anchors):
+        end = anchors[index + 1][0] if index + 1 < len(anchors) else len(data)
+        first = bisect.bisect_left(record_starts, position + 4)
+        last = bisect.bisect_left(record_starts, end)
+        nearby = records[first:last]
+        if not 1 <= len(nearby) <= 3:
+            continue
+        new_good = 0
+        for record in nearby:
+            new_good += int(_window_key_score(data, [record], key)[1] != 0)
+        if new_good != len(nearby):
+            continue
+        recovered.append({"start": nearby[0].offset, "end": nearby[-1].offset + 8 + nearby[-1].length,
+                          "key": key, "key_offset": position, "source": "short_key_block"})
+    if not recovered:
+        return spans
+    # Override only those records; restore the previous mapping immediately after.
+    boundaries = sorted(set(starts + [len(data)] + [r[k] for r in recovered for k in ("start", "end")]))
+    result = []
+    for start, end in zip(boundaries, boundaries[1:]):
+        original = spans[bisect.bisect_right(starts, start) - 1]
+        chosen = next((r for r in recovered if r["start"] <= start < r["end"]), original)
+        result.append({**chosen, "start": start, "end": end})
+    return result
 
 
 def iter_records(path: Path, context: int = 16):

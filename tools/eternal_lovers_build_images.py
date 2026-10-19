@@ -125,6 +125,10 @@ def main() -> None:
             f"original ISO SHA-256 mismatch: {original_digest} != {ORIGINAL_SHA256}"
         )
     image_authority_baseline = translated_png_state()
+    run([
+        sys.executable, "-u", str(ROOT / "tools/eternal_lovers_recover_short_isb.py"),
+        "--project", str(PROJECT),
+    ])
 
     output = args.output_iso.resolve()
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -377,6 +381,12 @@ def main() -> None:
         "--original-iso", str(args.original_iso.resolve()),
     ])
     assert_translated_png_unchanged(image_authority_baseline, "final")
+    run([
+        sys.executable, "-u", str(ROOT / "tools/verify_battle_authority_pixels.py"),
+        "--project", str(PROJECT), "--layout", "eternal",
+        "--original-iso", str(args.original_iso.resolve()), "--iso", str(output),
+        "--report", str(build / "battle_authority_pixels_report.json"),
+    ])
     print(f"built {output} sha256={sha256(output)}")
 
 

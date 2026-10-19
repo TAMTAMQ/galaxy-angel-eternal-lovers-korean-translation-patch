@@ -8672,6 +8672,42 @@
           "original": "おかえりなさい。"
         }
       ]
+    },
+    {
+      "id": "SCENARIO_DAT_00148800:isb:0402",
+      "context": {
+        "voice": null
+      },
+      "original": "…………………………。",
+      "translation": "………………………….",
+      "state": "reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 40308,
+          "length": 22,
+          "key": 3726035605,
+          "original": "…………………………。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_00148800:isb:0403",
+      "context": {
+        "voice": null
+      },
+      "original": "ミント……。",
+      "translation": "민트…….",
+      "state": "reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 40476,
+          "length": 12,
+          "key": 3726035605,
+          "original": "ミント……。"
+        }
+      ]
     }
   ]
 }

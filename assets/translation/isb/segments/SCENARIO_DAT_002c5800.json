@@ -19876,6 +19876,42 @@
           "original": "みんな……頼むぞ。"
         }
       ]
+    },
+    {
+      "id": "SCENARIO_DAT_002c5800:isb:0891",
+      "context": {
+        "voice": null
+      },
+      "original": "最終決戦開始",
+      "translation": "최종전 시작",
+      "state": "reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 144724,
+          "length": 12,
+          "key": 2416000214,
+          "original": "最終決戦開始"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_002c5800:isb:0892",
+      "context": {
+        "voice": null
+      },
+      "original": "よしっ、やるぞっ！",
+      "translation": "좋아, 가자!",
+      "state": "reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 144808,
+          "length": 18,
+          "key": 2416000214,
+          "original": "よしっ、やるぞっ！"
+        }
+      ]
     }
   ]
 }

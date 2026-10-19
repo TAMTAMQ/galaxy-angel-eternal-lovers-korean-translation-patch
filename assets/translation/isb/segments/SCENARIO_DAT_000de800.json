@@ -8630,6 +8630,42 @@
           "original": "おかえりなさい。"
         }
       ]
+    },
+    {
+      "id": "SCENARIO_DAT_000de800:isb:0402",
+      "context": {
+        "voice": null
+      },
+      "original": "…………………………。",
+      "translation": "………………………….",
+      "state": "reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 38828,
+          "length": 22,
+          "key": 3726035605,
+          "original": "…………………………。"
+        }
+      ]
+    },
+    {
+      "id": "SCENARIO_DAT_000de800:isb:0403",
+      "context": {
+        "voice": null
+      },
+      "original": "ランファ……。",
+      "translation": "란파…….",
+      "state": "reviewed",
+      "use_translation": true,
+      "storage": [
+        {
+          "offset": 38996,
+          "length": 14,
+          "key": 3726035605,
+          "original": "ランファ……。"
+        }
+      ]
     }
   ]
 }
